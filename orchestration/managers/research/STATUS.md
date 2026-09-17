@@ -17,5 +17,6 @@ Plan reviews: 1/2. Deliverable reviews: 1/2.
 - research-1789656281930-05-manager-plan: manager_plan; completed; Advance to researcher. Plan revised to target descriptive metrics on a single benchmark (BigBench) under fixed token budgets, acknowledging the impossibility of finding controlled A/B tests for dynamic vs. static memory.
 - research-1789656281930-06-researcher: researcher; completed; Inspected 4 retrieved sources. Only 1 (arXiv:2609.19128v1) provides benchmark metrics (ScienceWorld) under fixed token budgets; others are practitioner guides or architectural descriptions lacking controlled baselines. No direct dynamic vs. static memory comparison found.
 - research-1789656281930-07-deliverable-review: deliverable_review; completed; Researcher failed to find 4 sources with controlled baselines, correctly identifying only 1 relevant paper. However, the decision to 'Advance' is premature as the current evidence is insufficient to support the objective of finding 'best practical agent-memory management' without a single comparable baseline.
+- research-1789656281930-08-manager-final: manager_final; running; manager final is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
