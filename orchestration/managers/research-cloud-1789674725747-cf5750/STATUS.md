@@ -7,3 +7,4 @@ Stage: plan_review. Plan reviews 0/2; evidence reviews 0/2.
 - research-cloud-1789674725747-cf5750-1-orchestrator: orchestrator — completed
 - research-cloud-1789674725747-cf5750-2-manager-setup: manager_setup — completed
 - research-cloud-1789674725747-cf5750-3-planner: planner — completed
+- research-cloud-1789674725747-cf5750-4-plan-review-rejected-1: plan_review — rejected
