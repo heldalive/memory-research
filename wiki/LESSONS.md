@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when direct performance data is unavailable.
 - deliverable review: When assessing agent memory effectiveness, prioritize sources that report explicit, reproducible metrics on a shared benchmark under controlled conditions; without such data, refine the objective to focus on evaluation gaps and methodological transparency
 - manager final: When assessing agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when direct performance data is unavailable.
 - orchestrator: Prioritize transparent, repeatable experiments with explicit baseline documentation when evaluating agent memory to establish scientific validity and avoid reliance on uncontrolled or indirect evidence.
@@ -40,5 +39,6 @@
 - manager setup: Agent memory evaluation must rely on primary-source, controlled experiments with explicit token budgets, baseline comparisons, and observable state evolution to ensure scientific validity and avoid performance claims based on unverified or indirect evidence.
 - planner: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting, baseline comparisons, and observable state evolution to ensure scientific validity and avoid performance claims based on unverified assumptions
 - plan review: Agent memory evaluation must be grounded in independently verifiable, primary-source experiments with transparent token constraints, baseline comparisons, and observable state evolution to ensure scientific rigor and reproducibility
+- manager plan: Agent memory evaluation must be grounded in independently verifiable, primary-source experiments with transparent token constraints, baseline comparisons, and observable state evolution to ensure scientific rigor and reproducibility.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
