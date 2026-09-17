@@ -24,5 +24,6 @@
 - manager final: When assessing agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when direct performance data is unavailable.
 - orchestrator: Prioritize transparent, repeatable experiments with explicit baseline documentation when evaluating agent memory to establish scientific validity and avoid reliance on uncontrolled or indirect evidence.
 - manager setup: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions or indirect inferences.
+- planner: When evaluating agent memory systems, prioritize controlled, observable experiments with explicit baseline documentation to ensure scientific validity and avoid uncontrolled or indirect inferences.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
