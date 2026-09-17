@@ -19,6 +19,12 @@
       "role": "manager_setup",
       "status": "completed",
       "summary": "Advance to a planner for one bounded, research-only memory-systems audit."
+    },
+    {
+      "id": "research-1789613048990-03-planner",
+      "role": "planner",
+      "status": "running",
+      "summary": "planner is working"
     }
   ],
   "status": "active",
