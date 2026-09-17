@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-906",
+  "at": 1789657572858,
+  "station": "research",
+  "title": "plan review · Plan fails feasibility: 4 sources with controlled baselines under fixe",
+  "summary": "Plan fails feasibility: 4 sources with controlled baselines under fixed token budgets likely unfindable. Pivot to descriptive metrics on specific benchmarks, explicitly noting lack of causal evidence.",
+  "body": "The current plan requires finding 4 sources comparing dynamic vs. static memory under identical fixed token budgets. Historical data (research-1789651535062) confirms this is impossible; no literature provides such controlled A/B tests. The plan's fallback to 'descriptive performance' contradicts the strict 'fixed token budget' constraint, as descriptive studies rarely isolate token limits precisely. This creates a high risk of returning <4 sources or hallucinating comparisons. The plan must be revised to target a single, reproducible benchmark (e.g., BigBench) and accept descriptive metrics (success rate, token usage) without demanding impossible experimental controls.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 42497,
+  "inputTokens": 4751,
+  "outputTokens": 370,
+  "helperCalls": 0,
+  "citations": []
+}
