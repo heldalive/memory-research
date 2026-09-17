@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-549",
+  "at": 1789636154152,
+  "station": "research",
+  "title": "deliverable review · Researcher failed to find 4 sources comparing dynamic vs. static memor",
+  "summary": "Researcher failed to find 4 sources comparing dynamic vs. static memory under fixed token budgets. Evidence is insufficient to support the hypothesis; task must be revised to match available data.",
+  "body": "The researcher inspected four sources but found none meeting the strict criteria: empirical comparison of dynamic consolidation vs. static baselines under identical token budgets. \n\n1. **Cognitive Extensions for Dual-Process Language Agents** (https://arxiv.org/abs/2609.19128v1): Abstract screening confirms a comparison exists (baseline vs. dynamic modules), but it does not control for strict token budgets. The metric 'successful-step efficiency' is not equivalent to task success under fixed constraints. This source cannot validate the hypothesis.\n\n2. **affaan-m/ECC** (https://raw.githubusercontent.com/affaan-m/ECC/main/README.md): This is practitioner documentation describing a 'skills-first' architecture. It offers no empirical benchmark data comparing memory policies against baselines.\n\n3. **managed-agents** (https://www.anthropic.com/engineering/managed-agents): Official provider guidance describes system architecture (decoupling brain from hands) and observed behaviors ('context anxiety'). It is not an empirical study comparing memory policies.\n\n4. **Context_summarization_with_realtime_api.ipynb** (https://raw.githubusercontent.com/openai/openai-cookbook/main/examples/Context_summarization_with_realtime_api.ipynb): A practitioner notebook demonstrating a dynamic strategy (summarization). It describes the method but presents no experimental results comparing it against a static append-only baseline under fixed token limits.\n\n**Defects**:\n1. **Unsupported Comparison**: The researcher claims dynamic memory is superior based on sources that do not compare against a static baseline under fixed token budgets. This is an unsupported inference.\n2. **Scope Violation**: The task required 4 sources with specific empirical constraints. The researcher found 0 valid sources, failing the stopping rule.\n3. **Evidence Level**: All sources are either abstracts, practitioner notes, or architectural descriptions. None provide the controlled experimental data (task success, hallucination rates) required to answer the research question.\n\n**Decision**: Revise the research task to target a specific, reproducible benchmark (e.g., LongMemEval) that explicitly enforces fixed token budgets and compares dynamic vs. static strategies. Do not proceed with the current hypothesis.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 110400,
+  "inputTokens": 12013,
+  "outputTokens": 961,
+  "helperCalls": 0,
+  "citations": []
+}
