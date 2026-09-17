@@ -67,6 +67,12 @@
       "role": "deliverable_review",
       "status": "completed",
       "summary": "Researcher correctly identified insufficient evidence for dynamic vs. static memory comparisons. Decision to 'Advance' is invalid; must halt or expand search significantly."
+    },
+    {
+      "id": "research-1789656281930-11-manager-final",
+      "role": "manager_final",
+      "status": "running",
+      "summary": "manager final is working"
     }
   ],
   "status": "active",
