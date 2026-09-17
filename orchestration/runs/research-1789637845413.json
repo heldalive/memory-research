@@ -37,6 +37,12 @@
       "role": "manager_plan",
       "status": "completed",
       "summary": "Advance to researcher. Hypothesis revised to match available descriptive evidence; strict token-budget comparisons are unfeasible. Task: Inspect 4 sources on general memory performance trends."
+    },
+    {
+      "id": "research-1789637845413-06-researcher",
+      "role": "researcher",
+      "status": "running",
+      "summary": "researcher is working"
     }
   ],
   "status": "active",

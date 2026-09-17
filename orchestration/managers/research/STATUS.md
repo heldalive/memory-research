@@ -15,5 +15,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789637845413-03-planner: planner; completed; Pivot to benchmarking dynamic vs. static memory using LongMemEval. Identify 4 sources with empirical data under fixed token constraints.
 - research-1789637845413-04-plan-review: plan_review; completed; Plan fails feasibility: No sources provide empirical data comparing dynamic vs. static memory under fixed token budgets. Hypothesis must be revised to match available descriptive evidence.
 - research-1789637845413-05-manager-plan: manager_plan; completed; Advance to researcher. Hypothesis revised to match available descriptive evidence; strict token-budget comparisons are unfeasible. Task: Inspect 4 sources on general memory performance trends.
+- research-1789637845413-06-researcher: researcher; running; researcher is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
