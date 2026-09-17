@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capability
 - researcher: When evaluating agent memory systems, require explicit, primary-source evidence of controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capabilities and to prevent assumptions based on indirect or privacy-related findings alone.
 - deliverable review: When evaluating agent memory systems, require explicit, primary-source evidence of controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capabilities
 - manager final: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capability and ensure research integrity in benchmark selection and validation process.
@@ -40,5 +39,6 @@
 - deliverable review: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled, dynamic conditions to establish scientific validity and reproducibility
 - manager final: Agent memory evaluation requires explicit, controlled experimental designs with defined dynamic inputs and measurable state evolution to establish scientific validity and reproducibility
 - orchestrator: Memory evaluation must incorporate dynamic, variable stimuli to reflect real-world operational conditions beyond static benchmarks and token constraints.
+- manager setup: Agent memory evaluation must be grounded in primary-source, experimentally validated studies with explicit dynamic inputs and observable state evolution to ensure scientific rigor and real-world relevance.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
