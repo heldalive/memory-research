@@ -114,3 +114,12 @@ Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
 Do not infer superiority of dynamic memory strategies without empirical evidence comparing them against simple baselines (e.g., append-only Markdown) at equal token budgets. If a paper does not control for token cost or test against a specific baseline, label findings as 'unverified' or 'inconclusive'.
 
 Proposed by researcher; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-10-deliverable-review
+
+### Research Integrity: Baseline Comparisons
+
+A claim that 'dynamic strategy X is better' is invalid unless the study explicitly compares it against a defined static baseline (e.g., append-only storage) under identical resource constraints (e.g., token budget). Abstract screening or practitioner anecdotes do not constitute empirical evidence for superiority.
+
+Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.

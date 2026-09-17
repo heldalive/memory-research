@@ -4,7 +4,7 @@
   "title": "managed-agents",
   "note": "Official guidance. Describes append-only session logs but does not evaluate dynamic consolidation strategies or cost/performance trade-offs.",
   "discoveredBy": "Qwen3.5-9B-4bit research workflow",
-  "checkedAt": 1789623053657,
+  "checkedAt": 1789625103964,
   "linkStatus": "retrieved",
   "claimStatus": "agent-authored; not independently reproduced",
   "readingLevel": "bounded text excerpt inspected; not a full-source or reproduction claim",

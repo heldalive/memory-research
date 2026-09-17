@@ -2,11 +2,11 @@
   "id": "research-1789619937785",
   "branch": "manager/research-1789619937785",
   "baseCommit": "1ff3c667e84241942c7c0c321f9b1422083580ab",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "createdAt": 1789619937873,
   "goal": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
   "planReviews": 1,
-  "deliverableReviews": 0,
+  "deliverableReviews": 1,
   "instances": [
     {
       "id": "research-1789619937785-01-orchestrator",
@@ -65,8 +65,8 @@
     {
       "id": "research-1789619937785-10-deliverable-review",
       "role": "deliverable_review",
-      "status": "running",
-      "summary": "deliverable review is working"
+      "status": "completed",
+      "summary": "Research failed to compare dynamic vs. static memory under equal token budgets. Sources are abstract-screened or practitioner docs lacking empirical cost/performance data. Advance with strict new query targeting reproducible benchmarks."
     }
   ],
   "status": "active",

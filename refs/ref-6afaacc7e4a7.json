@@ -4,7 +4,7 @@
   "title": "examples/Context_summarization_with_realtime_api.ipynb",
   "note": "Cookbook example. Describes heuristic truncation but lacks comparison against static baselines at equal token budgets.",
   "discoveredBy": "Qwen3.5-9B-4bit research workflow",
-  "checkedAt": 1789623053805,
+  "checkedAt": 1789625104143,
   "linkStatus": "retrieved",
   "claimStatus": "agent-authored; not independently reproduced",
   "readingLevel": "bounded text excerpt inspected; not a full-source or reproduction claim",
