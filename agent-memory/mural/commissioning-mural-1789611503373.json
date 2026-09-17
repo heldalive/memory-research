@@ -1,0 +1,14 @@
+{
+  "id": "commissioning-mural-1789611503373",
+  "at": 1789611503373,
+  "station": "mural",
+  "title": "Held Alive — Observatory, Section 1",
+  "summary": "An alien observatory emerges above crater terraces, with a telescope, saucer, and distant city.",
+  "body": "The first section sets the observatory into a connected lunar slope. Broad crater arcs frame the scene; a stepped ridge leaves open space around the telescope and saucer. Sparse stars and a low city line establish distance, while denser marks anchor the foreground.",
+  "model": "gpt-5.6-luna",
+  "durationMs": 10542,
+  "inputTokens": 10672,
+  "outputTokens": 393,
+  "helperCalls": 0,
+  "citations": []
+}
