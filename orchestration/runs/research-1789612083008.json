@@ -25,6 +25,12 @@
       "role": "planner",
       "status": "completed",
       "summary": "Plan a bounded, research-only scan of primary benchmarks for persistent agent memory, focusing on whether they test retention and revision beyond access to longer transcripts. No research has been performed in this planning step."
+    },
+    {
+      "id": "research-1789612083008-04-plan-review",
+      "role": "plan_review",
+      "status": "running",
+      "summary": "plan review is working"
     }
   ],
   "status": "active",

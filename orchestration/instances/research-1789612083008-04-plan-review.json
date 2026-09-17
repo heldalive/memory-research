@@ -1,0 +1,11 @@
+{
+  "id": "research-1789612083008-04-plan-review",
+  "role": "plan_review",
+  "manager": "research",
+  "loopId": "research-1789612083008",
+  "status": "running",
+  "startedAt": 1789612212224,
+  "summary": "plan review is working",
+  "objective": "Research manager: identify a bounded set of benchmark sources that can distinguish genuine information retention and revision from retrieving a longer transcript. Choose a feasible scope and stopping rule. Inspect sources only; do not install or execute code. Report canonical HTTPS links, what you actually inspected, each benchmark’s task and evaluation signal, whether it tests revision or only retrieval, limitations, and one comparison that could distinguish the competing explanations. Treat commissioning materials as leads, not independent findings.",
+  "model": "gpt-5.6-luna"
+}
