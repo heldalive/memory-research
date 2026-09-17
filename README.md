@@ -30,6 +30,7 @@ The initial concurrency limit is **one research manager, with serial child tasks
 
 | Where | What belongs there |
 | --- | --- |
+| [Current loop](orchestration/CURRENT.md) | Latest manager branch, role, model, review counters and status |
 | [Orchestrator handoff](orchestration/HANDOFF.md) | Current objective, manager links, next dispatch, unresolved decisions |
 | [Research manager](orchestration/managers/research/HANDOFF.md) | Assigned question, phase, review counters, next action |
 | [Workflow instructions](orchestration/README.md) | Role boundaries and the plan–review–research–review cycle |
