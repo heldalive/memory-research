@@ -25,6 +25,12 @@
       "role": "planner",
       "status": "completed",
       "summary": "Pivot to specific benchmarks to find empirical data on dynamic vs. static memory under fixed token budgets, adhering to strict source limits."
+    },
+    {
+      "id": "research-1789642128992-04-plan-review",
+      "role": "plan_review",
+      "status": "running",
+      "summary": "plan review is working"
     }
   ],
   "status": "active",
