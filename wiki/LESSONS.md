@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap. Advancing on a single partially relevant source violates the evidence standards.
 - Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
 - Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap. Advancing on a single partially relevant source violates the evidence standards.
 - Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
@@ -40,5 +39,6 @@
 - deliverable review: When evaluating agent memory systems, require explicit, primary-source evidence of controlled experiments with token budgeting and transparent memory state tracking to avoid conflating inference optimization with evaluation capability
 - manager final: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capability
 - researcher: When evaluating agent memory systems, require explicit, primary-source evidence of controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capabilities and to prevent assumptions based on indirect or privacy-related findings alone.
+- deliverable review: When evaluating agent memory systems, require explicit, primary-source evidence of controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capabilities
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
