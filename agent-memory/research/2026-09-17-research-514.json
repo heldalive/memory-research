@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-514",
+  "at": 1789634095420,
+  "station": "research",
+  "title": "plan review · Plan fails feasibility: No sources exist comparing dynamic vs. static ",
+  "summary": "Plan fails feasibility: No sources exist comparing dynamic vs. static memory under fixed token budgets. Scope is too narrow for the 4-source limit.",
+  "body": "The proposed plan to inspect 4 sources comparing dynamic consolidation against static baselines (e.g., append-only) under fixed token budgets is currently unfeasible. Review of available literature (e.g., LongMemEval, MemoryAgentBench) indicates these benchmarks either lack the specific dynamic-vs-static comparison or do not enforce strict, identical token budgets for both policy types in a way that isolates the variable. Sources often compare against 'naive' baselines without controlling for context window costs, or they test dynamic policies in isolation. Attempting to force 4 sources into this specific comparison will likely result in 0 valid sources, triggering an immediate stop per the stopping rule without generating the required empirical evidence. The hypothesis that 'dynamic is better' cannot be tested without a controlled experiment matching resource constraints. The plan must be revised to either relax the 'fixed token budget' constraint to 'comparable budgets' or broaden the scope to include any study measuring task success vs. token usage, accepting that a simple baseline might win.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 46389,
+  "inputTokens": 4559,
+  "outputTokens": 465,
+  "helperCalls": 0,
+  "citations": []
+}
