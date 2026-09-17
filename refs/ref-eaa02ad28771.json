@@ -1,0 +1,14 @@
+{
+  "id": "ref-eaa02ad28771",
+  "url": "https://arxiv.org/html/2507.05257",
+  "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions (MemoryAgentBench)",
+  "note": "Primary benchmark paper covering retrieval, test-time learning, long-range understanding, and selective forgetting.",
+  "discoveredBy": "Luna research worker",
+  "checkedAt": 1789616799550,
+  "linkStatus": "retrieved",
+  "claimStatus": "agent-authored; not independently reproduced",
+  "readingLevel": "see worker report",
+  "httpStatus": 200,
+  "resolvedUrl": "https://arxiv.org/html/2507.05257",
+  "contentSha256": "10099fc592cad0b7c7c71cd28e91f7d7c4f7a929ca4a111e476a5a64de541dcd"
+}

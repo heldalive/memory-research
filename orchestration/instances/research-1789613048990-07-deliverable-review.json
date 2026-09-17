@@ -1,0 +1,56 @@
+{
+  "id": "research-1789613048990-07-deliverable-review",
+  "role": "deliverable_review",
+  "manager": "research",
+  "loopId": "research-1789613048990",
+  "status": "completed",
+  "startedAt": 1789617614940,
+  "summary": "Revise: the research is useful, but the audit record has protocol and completeness gaps.",
+  "objective": "Inspect up to four primary sources on practical agent-memory systems or methods. For each, record the canonical HTTPS link, exact sections inspected, storage model, write/update policy, retrieval method, forgetting or contradiction handling, comparison baseline, budget comparability, and author-reported evidence. Separate author claims from inference and note limitations. Record every search query and outcome, then stop using a stated auditable rule (for example, four eligible sources or exhaustion of a narrowly defined query set). Research and documentation only: no installation, code execution, implementation, or result reproduction.",
+  "model": "gpt-5.6-luna",
+  "endedAt": 1789617663590,
+  "content": "1. The stopping rule was not followed literally. Query 5 produced the fourth eligible source, so the approved rule required stopping immediately; query 6 was nevertheless run. The note should explain this deviation or revise the stopping statement.\n\n2. Required source metadata is missing from every source record: authors/organization, publication date, source type, and access date. These were explicit planner requirements, even though the substantive inspection fields are mostly present.\n\n3. The synthesis correctly labels its broad conclusion as inference, but its comparison basis remains narrower than the objective: no inspected source actually compares against append-only Markdown or transcript retrieval, and most budget parity is unclear. The final conclusion should explicitly state that it is a non-establishment result based on missing/comparability-limited evidence, rather than implying those simple baselines were empirically tested.\n\nThe ServiceNow citation itself is valid: its official page reports the token-matched vanilla baseline and the aggregate result ([ServiceNow AI Research](https://www.servicenow.com/research/publication/sina-hajimiri-are-emnlp2026.html)). The Memora citation is also a valid primary source ([arXiv](https://arxiv.org/html/2604.20006)).",
+  "nextTask": "Amend the research note only: document the query-6 stopping-rule deviation, add the missing source metadata, and narrow the synthesis to the evidence actually compared. Preserve the research-only constraint and do not run experiments or implement the proposed comparison.",
+  "decision": "revise",
+  "supervisorDecision": {
+    "nextStage": "manager_final",
+    "forcedAdvance": false,
+    "reason": "Within bounded workflow."
+  },
+  "searchQueries": [
+    "site:servicenow.com/research/publication \"Are Online Skill and Memory Modules Always Worth Their Tokens?\"",
+    "arxiv 2604.20006 Memora From Recall to Forgetting"
+  ],
+  "sources": [
+    {
+      "id": "ref-965a3f2b90b4",
+      "url": "https://www.servicenow.com/research/publication/sina-hajimiri-are-emnlp2026.html",
+      "title": "Are Online Skill and Memory Modules Always Worth Their Tokens?",
+      "note": "Official ServiceNow page verifies the token-matched baseline and reported aggregate comparison.",
+      "discoveredBy": "Luna research worker",
+      "checkedAt": 1789617663508,
+      "linkStatus": "outside fetch allowlist; needs review",
+      "claimStatus": "agent-authored; not independently reproduced",
+      "readingLevel": "see worker report"
+    },
+    {
+      "id": "ref-073b41ff640a",
+      "url": "https://arxiv.org/html/2604.20006",
+      "title": "From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents",
+      "note": "Primary Memora paper; inspected page confirms the cited benchmark and forgetting claims.",
+      "discoveredBy": "Luna research worker",
+      "checkedAt": 1789617663509,
+      "linkStatus": "retrieved",
+      "claimStatus": "agent-authored; not independently reproduced",
+      "readingLevel": "see worker report",
+      "httpStatus": 200,
+      "resolvedUrl": "https://arxiv.org/html/2604.20006",
+      "contentSha256": "d57dc305f2bd0c90eba926f674cd7813be38a1a2ab9ca6a3e450d6561ba0fa65"
+    }
+  ],
+  "wiki": [],
+  "durationMs": 47176,
+  "inputTokens": 66744,
+  "outputTokens": 2125,
+  "webSearches": 2
+}

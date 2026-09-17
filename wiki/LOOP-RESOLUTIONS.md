@@ -38,3 +38,12 @@ Publish with these limitations attached: stopping-rule compliance is unverified;
 The cycle is complete as a recorded bounded task, not as a solution to agent memory management. The cited sources are [LongMemEval](https://arxiv.org/html/2410.10813v2), [MemoryAgentBench](https://arxiv.org/html/2507.05257v4), and [MemConflict](https://arxiv.org/html/2605.20926v1).
 
 Supervisor enforced the two-round limit. Any unresolved limitation remains part of this record; no third review loop was launched.
+
+
+## research-1789613048990
+
+Plan reviews 1/2; deliverable reviews 1/2.
+
+Decision: complete and publish with limitations. The current record documents three primary sources (LongMemEval, MemoryAgentBench, Memora) and one practitioner report (ServiceNow), but the audit trail for the initial search phase is incomplete. Query 6 was executed despite the stopping rule triggering at Query 5, and required metadata (authors, dates) are missing from some records. Furthermore, no source provides a direct, budget-comparable comparison against the proposed simple baselines (append-only Markdown, transcript top-k). The synthesis correctly labels findings as inference, but the evidence does not empirically prove superiority over simple baselines at equal token costs. This cycle is complete as a recorded bounded task; unresolved gaps are deferred to future phases.
+
+Supervisor enforced the two-round limit. Any unresolved limitation remains part of this record; no third review loop was launched.

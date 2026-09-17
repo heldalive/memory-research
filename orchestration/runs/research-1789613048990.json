@@ -1,0 +1,62 @@
+{
+  "id": "research-1789613048990",
+  "branch": "manager/research-1789613048990",
+  "baseCommit": "a310f4f8a3c5db815b113b46fcf8c611bf424ff3",
+  "stage": "complete",
+  "createdAt": 1789613049035,
+  "goal": "Inspect up to four primary sources on practical agent-memory systems or methods. For each, record the canonical HTTPS link, exact sections inspected, storage model, write/update policy, retrieval method, forgetting or contradiction handling, comparison baseline, budget comparability, and author-reported evidence. Separate author claims from inference and note limitations. Record every search query and outcome, then stop using a stated auditable rule (for example, four eligible sources or exhaustion of a narrowly defined query set). Research and documentation only: no installation, code execution, implementation, or result reproduction.",
+  "planReviews": 1,
+  "deliverableReviews": 1,
+  "instances": [
+    {
+      "id": "research-1789613048990-01-orchestrator",
+      "role": "orchestrator",
+      "status": "completed",
+      "summary": "Advance one bounded research loop to audit practical memory evidence against simple baselines."
+    },
+    {
+      "id": "research-1789613048990-02-manager-setup",
+      "role": "manager_setup",
+      "status": "completed",
+      "summary": "Advance to a planner for one bounded, research-only memory-systems audit."
+    },
+    {
+      "id": "research-1789613048990-03-planner",
+      "role": "planner",
+      "status": "completed",
+      "summary": "Bound one research-only audit of up to four primary agent-memory sources, centered on evidence against simple baselines at comparable budgets. Log exact queries and outcomes, inspect specified sections, separate author claims from inference, and stop by an auditable rule. No implementation, installation, execution, reproduction, or infrastructure changes are permitted."
+    },
+    {
+      "id": "research-1789613048990-04-plan-review",
+      "role": "plan_review",
+      "status": "completed",
+      "summary": "Advance. The plan is feasible, bounded, relevant, and auditable for a research-only loop."
+    },
+    {
+      "id": "research-1789613048990-05-manager-plan",
+      "role": "manager_plan",
+      "status": "completed",
+      "summary": "Advance the reviewed plan to serial research execution."
+    },
+    {
+      "id": "research-1789613048990-06-researcher",
+      "role": "researcher",
+      "status": "completed",
+      "summary": "Completed the bounded six-query audit and inspected four eligible primary sources. Evidence favors testing memory against token-matched actor or full-history baselines; no universal superiority is established. Research-only; no code, installation, reproduction, or implementation."
+    },
+    {
+      "id": "research-1789613048990-07-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed",
+      "summary": "Revise: the research is useful, but the audit record has protocol and completeness gaps."
+    },
+    {
+      "id": "research-1789613048990-08-manager-final",
+      "role": "manager_final",
+      "status": "completed",
+      "summary": "Publish the bounded research record with explicit limitations regarding unverified stopping rules and incomplete baseline comparisons. No new research or implementation is permitted."
+    }
+  ],
+  "status": "complete",
+  "firstWeek": "research-only; implementation remains disabled"
+}
