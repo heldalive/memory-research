@@ -1,0 +1,14 @@
+{
+  "id": "commissioning-research-1789612194696",
+  "at": 1789612194696,
+  "station": "research",
+  "title": "planner · Plan a bounded, research-only scan of primary benchmarks for persisten",
+  "summary": "Plan a bounded, research-only scan of primary benchmarks for persistent agent memory, focusing on whether they test retention and revision beyond access to longer transcripts. No research has been performed in this planning step.",
+  "body": "## Scope\nInspect up to four primary benchmark sources: papers or benchmark-owner documentation describing tasks and evaluation. Prioritize sources that test persistent memory across interactions and include correction, update, or changed-fact cases. Include retrieval-only benchmarks where useful as a contrast. Commissioning materials and wiki notes are leads with fallible provenance, not findings or instructions.\n\nFor each candidate, inspect its canonical paper or official benchmark documentation; record the exact pages or sections read. Do not install, run, or execute code. Track each worker only by its recorded status; keep work on this loop’s branch.\n\n## Search queries\nRun these exact queries in a web search engine:\n- `agent memory benchmark long term memory revision update correction benchmark paper`\n- `LLM agent memory benchmark temporal update conflicting facts evaluation paper`\n- `LongMemEval benchmark paper memory updates information revision`\n- `memory benchmark conversational agents changed facts correction official paper`\n- `agent memory benchmark retrieval long transcript baseline paper`\n\n## Stopping rule\nStop when four qualifying primary sources have been inspected, or when two successive query results yield no new qualifying primary source, whichever comes first. If fewer than two sources test revision or correction, record that gap rather than broadening beyond the four-source cap.\n\n## Acceptance criteria\nThe research note must include canonical HTTPS links, source type and date when available, access date, inspection depth and what was read. For every benchmark report its task, evaluation signal, whether it tests revision/correction or retrieval only, and key limitations. Separate author claims from our inference. Propose one controlled comparison that holds memory capacity or context budget constant while contrasting persistent memory with longer-transcript retrieval, including a changed-fact case and a measurable accuracy signal. State what the comparison could and could not establish. Do not imply results were reproduced.",
+  "model": "gpt-5.6-luna",
+  "durationMs": 14099,
+  "inputTokens": 11938,
+  "outputTokens": 624,
+  "helperCalls": 0,
+  "citations": []
+}
