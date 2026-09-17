@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789667504408-881cfd](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789667504408-881cfd): **manager final**. Design and inspect one source that details a transparent, repeatable experiment evaluating agent memory on BigBench under fixed token budgets, with explicit notes on missing baselines or performance gaps. Limit to one source; do not implement code or systems.
+- [research-cloud-1789667504408-881cfd](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789667504408-881cfd): **researcher**. Design and inspect one source that details a transparent, repeatable experiment evaluating agent memory on BigBench under fixed token budgets, with explicit notes on missing baselines or performance gaps. Limit to one source; do not implement code or systems.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 

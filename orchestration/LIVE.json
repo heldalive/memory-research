@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1789668488744,
+  "updatedAt": 1789668621561,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 111,
+  "completed": 112,
   "loops": [
     {
       "id": "research-cloud-1789667504408-881cfd",
       "branch": "manager/research-cloud-1789667504408-881cfd",
-      "stage": "manager_final",
+      "stage": "researcher",
       "goal": "Design and inspect one source that details a transparent, repeatable experiment evaluating agent memory on BigBench under fixed token budgets, with explicit notes on missing baselines or performance gaps. Limit to one source; do not implement code or systems."
     }
   ]
