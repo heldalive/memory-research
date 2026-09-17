@@ -2,8 +2,8 @@
 
 Execute a bounded research task: Identify and inspect 4 sources reporting descriptive performance metrics (success rate, token usage, hallucination rate) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. Limit to 4 sources; do not implement code. Search must include peer-reviewed or public reports from 2022 to 2024. Prioritize sources with controlled token
 
-Next role: planner.
+Next role: plan_review.
 
-Execute a bounded research task: Identify and inspect 4 sources reporting descriptive performance metrics (success rate, token usage, hallucination rate) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. Limit to 4 sources; do not implement code. Search must include peer-reviewed or public reports from 2022 to 2024. Prioritize sources with controlled token
+Analyze the four identified sources for consistency in metric reporting and explicit documentation of missing baseline comparisons; prepare a summary table of observed performance trends and gaps.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
