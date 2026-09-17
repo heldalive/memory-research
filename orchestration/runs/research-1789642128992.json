@@ -19,6 +19,12 @@
       "role": "manager_setup",
       "status": "completed",
       "summary": "Pivot to inspecting specific benchmarks for descriptive evidence comparing dynamic vs. static memory under fixed token budgets."
+    },
+    {
+      "id": "research-1789642128992-03-planner",
+      "role": "planner",
+      "status": "running",
+      "summary": "planner is working"
     }
   ],
   "status": "active",
