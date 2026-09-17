@@ -49,6 +49,12 @@
       "role": "deliverable_review",
       "status": "completed",
       "summary": "Researcher failed to find 4 sources with controlled empirical comparisons. Evidence is descriptive; no direct baseline matching exists."
+    },
+    {
+      "id": "research-1789647102218-08-manager-final",
+      "role": "manager_final",
+      "status": "running",
+      "summary": "manager final is working"
     }
   ],
   "status": "active",
