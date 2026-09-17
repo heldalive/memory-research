@@ -31,6 +31,12 @@
       "role": "plan_review",
       "status": "completed",
       "summary": "Advance. The plan is feasible, bounded, relevant, and auditable for a research-only loop."
+    },
+    {
+      "id": "research-1789613048990-05-manager-plan",
+      "role": "manager_plan",
+      "status": "running",
+      "summary": "manager plan is working"
     }
   ],
   "status": "active",
