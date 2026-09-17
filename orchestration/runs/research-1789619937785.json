@@ -2,16 +2,16 @@
   "id": "research-1789619937785",
   "branch": "manager/research-1789619937785",
   "baseCommit": "1ff3c667e84241942c7c0c321f9b1422083580ab",
-  "stage": "manager_setup",
+  "stage": "orchestrator",
   "createdAt": 1789619937873,
-  "goal": "Publish the current bounded research record to the public repository with attached limitations. Do not initiate new research loops or implementation phases. The unresolved gaps (stopping rule compliance, baseline comparability) remain deferred for future commissioning.",
+  "goal": "Study practical agent-memory methods and their evaluation. Assign the research manager one new bounded question; implementation remains disabled.",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
     {
       "id": "research-1789619937785-01-orchestrator",
       "role": "orchestrator",
-      "status": "completed",
+      "status": "rejected",
       "summary": "Publish the bounded research record with explicit limitations regarding unverified stopping rules and incomplete baseline comparisons. No new research or implementation is permitted."
     }
   ],

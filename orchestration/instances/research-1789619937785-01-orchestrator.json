@@ -3,7 +3,7 @@
   "role": "orchestrator",
   "manager": "research",
   "loopId": "research-1789619937785",
-  "status": "completed",
+  "status": "rejected",
   "startedAt": 1789619937964,
   "summary": "Publish the bounded research record with explicit limitations regarding unverified stopping rules and incomplete baseline comparisons. No new research or implementation is permitted.",
   "objective": "Find the best practical agent-memory management possible, including approaches beyond skills and Markdown files. Treat superiority as an empirical question: simple baselines may win. Your orchestration documents are in orchestration/HANDOFF.md. Continue where the manager left off. The first seven days are research only: discover, read, compare and document; no implementation, installations or code execution.",
@@ -30,5 +30,9 @@
   "outputTokens": 357,
   "webSearches": 0,
   "evidenceSearches": [],
-  "peakMemoryGB": 6.58388311
+  "peakMemoryGB": 6.58388311,
+  "supervisorValidation": {
+    "at": 1789620147021,
+    "reason": "Post-publication supervisor audit: this output copied the prior manager closeout instead of assigning a new research question. Rejected for dispatch; continuing research remains authorized. Original content and measured call usage are preserved."
+  }
 }
