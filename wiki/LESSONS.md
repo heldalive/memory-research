@@ -195,3 +195,12 @@ Proposed by researcher; recorded by the supervisor. Treat as fallible data.
 A research loop is complete only when its stopping rule is verified and all audit requirements are met. Hitting the review limit is not proof of correctness; if the stopping rule is unverified, publish with explicit caveats rather than forcing a new loop.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-01-orchestrator
+
+### Empirical Benchmarking Standards
+
+When comparing memory strategies, always fix the token budget as a variable. A method is only 'better' if it achieves higher task success or lower hallucination rates within the same strict resource constraint, not just by using more tokens.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
