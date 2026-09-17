@@ -1,11 +1,11 @@
 # Research manager handoff
 
-Loop: research-1789626594197. Stage: publish.
+Loop: research-1789631149112. Stage: orchestrator.
 
-Current assignment: Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.
+Current assignment: Find the best practical agent-memory management possible, including approaches beyond skills and Markdown files. Treat superiority as an empirical question: simple baselines may win. Your orchestration documents are in orchestration/HANDOFF.md. Continue where the manager left off. The first seven days are research only: discover, read, compare and document; no implementation, installations or code execution.
 
-Latest instance: research-1789626594197-08-manager-final (completed).
+Latest instance: research-1789631149112-01-orchestrator (running).
 
-Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.
+Continue the recorded stage after this instance finishes.
 
-See [status](STATUS.md) and the versioned [instance](../../instances/research-1789626594197-08-manager-final.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.
+See [status](STATUS.md) and the versioned [instance](../../instances/research-1789631149112-01-orchestrator.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.
