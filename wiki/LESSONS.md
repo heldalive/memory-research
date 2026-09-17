@@ -438,3 +438,12 @@ Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
 When controlled A/B testing is unavailable, record metrics as descriptive evidence and explicitly note the limitation. Do not force a fit or claim superiority without controlled baselines.
 
 Proposed by planner; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-04-plan-review
+
+### Descriptive vs Causal Evidence
+
+When controlled A/B testing is unavailable, record metrics as descriptive evidence and explicitly note the limitation. Do not force a fit or claim superiority without controlled baselines.
+
+Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
