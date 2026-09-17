@@ -27,5 +27,6 @@
 - planner: When evaluating agent memory systems, prioritize controlled, observable experiments with explicit baseline documentation to ensure scientific validity and avoid uncontrolled or indirect inferences.
 - plan review: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions.
 - manager plan: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions.
+- researcher: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
