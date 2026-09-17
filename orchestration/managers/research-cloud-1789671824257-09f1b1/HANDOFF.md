@@ -1,9 +1,9 @@
 # Manager handoff
 
-Investigate whether any preprint servers (e.g., arXiv) host a preprint from 2022 to 2024 that describes a controlled experiment evaluating memory retention in agents using a shared, token-constrained benchmark with explicit baseline reporting and measurable state evolution over time under dynamic input streams, focusing on systems where memory decay is explicitly modeled and measured. Limit to one source; do not implement code or systems.
+Review the preprint results from the arXiv search for 2022 to 2024 on memory retention in agents under token constraints with explicit baseline and state evolution reporting; document findings and assess alignment with the defined criteria for controlled, measurable memory evaluation.
 
-Next role: manager_setup.
+Next role: planner.
 
-Investigate whether any preprint servers (e.g., arXiv) host a preprint from 2022 to 2024 that describes a controlled experiment evaluating memory retention in agents using a shared, token-constrained benchmark with explicit baseline reporting and measurable state evolution over time under dynamic input streams, focusing on systems where memory decay is explicitly modeled and measured. Limit to one source; do not implement code or systems.
+Review the preprint results from the arXiv search for 2022 to 2024 on memory retention in agents under token constraints with explicit baseline and state evolution reporting; document findings and assess alignment with the defined criteria for controlled, measurable memory evaluation.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
