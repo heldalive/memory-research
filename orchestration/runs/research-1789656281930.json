@@ -2,17 +2,17 @@
   "id": "research-1789656281930",
   "branch": "manager/research-1789656281930",
   "baseCommit": "3570fabd033e1726b39d6288550c6779f02304ea",
-  "stage": "orchestrator",
+  "stage": "manager_setup",
   "createdAt": 1789656282060,
-  "goal": "Find the best practical agent-memory management possible, including approaches beyond skills and Markdown files. Treat superiority as an empirical question: simple baselines may win. Your orchestration documents are in orchestration/HANDOFF.md. Continue where the manager left off. The first seven days are research only: discover, read, compare and document; no implementation, installations or code execution.",
+  "goal": "Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. If fewer than 4 sources match the criteria, expand search terms to include 'descriptive performance' or 'resource usage' without requiring direct baseline comparisons, but strictly note the absence of controlled A/B testing. Limit to 4 sources; do not implement code.",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
     {
       "id": "research-1789656281930-01-orchestrator",
       "role": "orchestrator",
-      "status": "running",
-      "summary": "orchestrator is working"
+      "status": "completed",
+      "summary": "Pivot to descriptive benchmark metrics; assign task to inspect 4 sources for success/hallucination rates under fixed token budgets."
     }
   ],
   "status": "active",
