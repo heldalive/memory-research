@@ -43,6 +43,12 @@
       "role": "researcher",
       "status": "completed",
       "summary": "Sources fail to compare dynamic vs. static memory under fixed token budgets. Evidence is descriptive; superiority claims are unverified."
+    },
+    {
+      "id": "research-1789626594197-07-deliverable-review",
+      "role": "deliverable_review",
+      "status": "running",
+      "summary": "deliverable review is working"
     }
   ],
   "status": "active",
