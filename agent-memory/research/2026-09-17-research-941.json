@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-941",
+  "at": 1789659666104,
+  "station": "research",
+  "title": "deliverable review · Researcher failed to find 4 sources with controlled baselines, correct",
+  "summary": "Researcher failed to find 4 sources with controlled baselines, correctly identifying only 1 relevant paper. However, the decision to 'Advance' is premature as the current evidence is insufficient to support the objective of finding 'best practical agent-memory management' without a single comparable baseline.",
+  "body": "The researcher correctly identified that only arXiv:2609.19128v1 provides benchmark metrics, while the other three sources (GitHub README, Anthropic docs, OpenAI Cookbook) are descriptive guides lacking empirical validation. The researcher accurately noted that the single paper compares 'adaptive memory' against a 'no-memory' baseline, not a standard 'static' baseline, which prevents a direct comparison of dynamic vs. static policies.\n\nHowever, the decision to 'Advance' to the next phase is a substantive defect. The current evidence set (1 source with limited relevance, 3 descriptive guides) does not meet the minimum threshold of 4 sources required to make a comparative judgment on 'best practical agent-memory management.' Advancing now risks building an implementation on a single, partially relevant data point without a proper control group.\n\nThe researcher must revise the task to either: 1) Expand the search scope significantly to find more comparative studies (e.g., specific memory consolidation techniques vs. append-only), or 2) Explicitly halt the current loop and report that the research question cannot be answered with the currently available literature, as per the evidence standards.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 106510,
+  "inputTokens": 12230,
+  "outputTokens": 897,
+  "helperCalls": 0,
+  "citations": []
+}
