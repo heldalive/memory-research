@@ -4,7 +4,7 @@ Loop: research-1789632907568
 
 Branch: manager/research-1789632907568
 
-Stage: researcher
+Stage: deliverable_review
 
 Goal: Execute a bounded research task: Identify and inspect 4 sources (papers or repos) that provide empirical data comparing dynamic memory consolidation policies against a defined static baseline (e.g., append-only) under fixed token budgets. Measure task success and hallucination rates. Limit to 4 sources; do not implement code.
 
@@ -15,6 +15,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789632907568-03-planner: planner; completed; Plan to identify 4 sources comparing dynamic vs. static agent memory under fixed token budgets, targeting LongMemEval and similar benchmarks.
 - research-1789632907568-04-plan-review: plan_review; completed; Plan fails feasibility: No sources exist comparing dynamic vs. static memory under fixed token budgets. Scope is too narrow for the 4-source limit.
 - research-1789632907568-05-manager-plan: manager_plan; completed; Advance to researcher with a revised, feasible benchmarking task targeting specific existing datasets.
-- research-1789632907568-06-researcher: researcher; running; researcher is working
+- research-1789632907568-06-researcher: researcher; completed; Sources lack controlled dynamic-vs-static comparisons under fixed token budgets. Pivot to inspecting specific benchmarks (LongMemEval, MemoryAgentBench) for empirical data on task success and token usage.
 
 Runtime station and full prompts remain private. No implementation work is enabled.

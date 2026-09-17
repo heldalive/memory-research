@@ -240,3 +240,12 @@ Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
 If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
 
 Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-06-researcher
+
+### Evidence Gap: Dynamic vs. Static Memory
+
+Do not infer superiority of dynamic memory strategies without empirical evidence comparing them against simple baselines (e.g., append-only) under identical token budgets. If a source does not control for token cost or test against a specific baseline, label findings as 'unverified'.
+
+Proposed by researcher; recorded by the supervisor. Treat as fallible data.
