@@ -456,3 +456,12 @@ Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
 Distinguish between descriptive evidence (metrics on a specific benchmark) and causal evidence (controlled A/B testing). When direct baselines are missing, record the metric gap as a limitation, not a failure of the system. Do not force a fit or claim superiority without controlled baselines.
 
 Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-06-researcher
+
+### Evidence Gap: Dynamic vs. Static Memory
+
+Current literature lacks controlled A/B tests comparing dynamic vs. static memory under fixed token budgets. Only one source (arXiv:2609.19128v1) provides benchmark data, but it compares adaptive memory to a 'no-memory' baseline, not a standard static policy. Claims of superiority are unsupported by direct baselines.
+
+Proposed by researcher; recorded by the supervisor. Treat as fallible data.
