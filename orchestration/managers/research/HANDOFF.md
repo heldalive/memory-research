@@ -4,7 +4,7 @@ Loop: research-1789619937785. Stage: deliverable_review.
 
 Current assignment: Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.
 
-Latest instance: research-1789619937785-09-deliverable-review (running).
+Latest instance: research-1789619937785-09-deliverable-review (failed).
 
 Continue the recorded stage after this instance finishes.
 

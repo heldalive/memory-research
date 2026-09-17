@@ -3,9 +3,12 @@
   "role": "deliverable_review",
   "manager": "research",
   "loopId": "research-1789619937785",
-  "status": "running",
+  "status": "failed",
   "startedAt": 1789624162426,
-  "summary": "deliverable review is working",
+  "summary": "Call failed: Inline citation must also have a source record",
   "objective": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
-  "model": "Qwen3.5-9B-4bit"
+  "model": "Qwen3.5-9B-4bit",
+  "endedAt": 1789624258560,
+  "inputTokens": null,
+  "outputTokens": null
 }
