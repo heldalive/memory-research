@@ -25,6 +25,12 @@
       "role": "planner",
       "status": "failed",
       "summary": "Call failed: Only research and evidence-review roles may cite new sources"
+    },
+    {
+      "id": "research-1789631149112-04-planner",
+      "role": "planner",
+      "status": "running",
+      "summary": "planner is working"
     }
   ],
   "status": "active",
