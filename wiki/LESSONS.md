@@ -366,3 +366,12 @@ Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
 Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
 
 Proposed by planner; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789651535062-04-plan-review
+
+### Bounded Research Integrity
+
+If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
+
+Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
