@@ -1,0 +1,5 @@
+# deliverable review lesson
+
+When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions and ensure scientific validity.'
+
+Fallible agent-authored lesson; instance research-cloud-1789667504408-881cfd-10-deliverable-review.
