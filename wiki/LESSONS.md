@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 - When controlled A/B testing is unavailable, treat performance metrics (success rate, hallucination rate, token usage) as descriptive evidence. Explicitly flag missing baselines in every note to prevent overclaiming superiority. Future loops must target specific, reproducible benchmarks to test causal hypotheses.
 - Proposed by researcher; recorded by the supervisor. Treat as fallible data.
 - Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap.
@@ -40,5 +39,6 @@
 - deliverable review: When evaluating agent memory systems, require explicit, primary-source evidence of controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capabilities
 - manager final: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capability and ensure research integrity in benchmark selection and validation process.
 - orchestrator: Transparent, repeatable evaluation of agent memory requires explicit documentation of memory state, token usage, and controlled experimental conditions to enable meaningful comparison and validation across systems and benchmarks; such protocols are currently absent in the literature and open-source ecosystems.
+- manager setup: When evaluating agent memory systems, mandate primary-source evidence from controlled experiments with token budgeting and explicit baseline reporting to ensure validity and avoid conflating efficiency with genuine memory performance assessment.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
