@@ -15,5 +15,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789647102218-03-planner: planner; completed; Pivot to inspecting specific benchmark papers for descriptive evidence comparing dynamic vs. static memory under fixed token budgets, adhering to strict source limits.
 - research-1789647102218-04-plan-review: plan_review; completed; Plan is infeasible: No existing literature provides controlled empirical comparisons of dynamic vs. static agent memory under fixed token budgets. The current task cannot be completed with 4 sources.
 - research-1789647102218-05-manager-plan: manager_plan; completed; Advance research to inspect specific benchmark papers for descriptive evidence, as the strict empirical comparison hypothesis is unfeasible.
+- research-1789647102218-06-researcher: researcher; running; researcher is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.

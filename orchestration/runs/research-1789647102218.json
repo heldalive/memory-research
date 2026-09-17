@@ -37,6 +37,12 @@
       "role": "manager_plan",
       "status": "completed",
       "summary": "Advance research to inspect specific benchmark papers for descriptive evidence, as the strict empirical comparison hypothesis is unfeasible."
+    },
+    {
+      "id": "research-1789647102218-06-researcher",
+      "role": "researcher",
+      "status": "running",
+      "summary": "researcher is working"
     }
   ],
   "status": "active",
