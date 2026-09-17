@@ -267,3 +267,12 @@ Proposed by deliverable_review; recorded by the supervisor. Treat as fallible da
 If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789637845413-01-orchestrator
+
+### Bounded Research Protocol: Benchmarking Phase
+
+When descriptive literature fails to answer causal questions, restrict the next loop to inspecting specific benchmarks that offer reproducible metrics (e.g., task success, hallucination rates) under fixed constraints. Limit source count to prevent timeout.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
