@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-13",
+  "at": 1789614915118,
+  "station": "research",
+  "title": "plan review · Advance. The plan is feasible, bounded, relevant, and auditable for a ",
+  "summary": "Advance. The plan is feasible, bounded, relevant, and auditable for a research-only loop.",
+  "body": "The plan satisfies the manager brief: it defines one empirical question, six fixed queries, primary-source eligibility, a maximum of four sources, exact per-source inspection fields, baseline and budget-comparability checks, claim/inference separation, limitations, and explicit research-only safeguards. The stopping rule is operational: stop at four eligible sources or after screening all six queries. It also preserves null findings and avoids implying reproduced results. No material issue requires revision. Minor execution risks are already handled by marking missing fields as “not reported” and budget comparability as yes/no/unclear.",
+  "model": "gpt-5.6-luna",
+  "durationMs": 11783,
+  "inputTokens": 11419,
+  "outputTokens": 475,
+  "helperCalls": 0,
+  "citations": []
+}
