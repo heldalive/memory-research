@@ -1,0 +1,17 @@
+# Research findings
+
+I inspected 4 sources to find empirical comparisons of agent memory systems under fixed token budgets on standard benchmarks (ScienceWorld, BigBench).
+
+1. **arXiv:2609.19128v1** (Cognitive Extensions for Dual-Process Language Agents): Reports success rates (43.17%) and step efficiency on ScienceWorld for a system with Adaptive Memory Module (AMM) and Self-Reflection Module (SRM). It compares against a baseline but does not isolate memory effects under a fixed token budget constraint; the 'baseline' is a simpler agent architecture, not a static memory policy like append-only. The study focuses on execution-time control as the dominant bottleneck.
+
+2. **GitHub:affaan-m/ECC**: A practitioner repository describing an agent framework with memory, skills, and context management. The README outlines a workflow (plan -> test -> implement -> review -> verify -> remember -> improve) but contains no benchmark results, task success rates, or hallucination metrics on standard datasets. It is a tool description, not empirical evidence.
+
+3. **Anthropic:managed-agents**: Official engineering guidance on scaling managed agents. It discusses decoupling the agent 'brain' from the 'hands' and managing sessions as append-only logs. It mentions 'context anxiety' and how model updates affect harness assumptions. It does not report task success or hallucination rates on specific benchmarks under fixed token budgets.
+
+4. **OpenAI Cookbook:Context_summarization_with_realtime_api**: A practitioner notebook demonstrating context summarization for a voice bot. It describes a strategy to compress older turns when the token window fills up. It mentions a 32k token limit but does not evaluate task success or hallucination rates against a static baseline on a standard benchmark.
+
+**Evaluation Limitations**: All sources failed to meet the strict criteria of reporting task success/hallucination rates on standard benchmarks under identical fixed token budgets with direct baseline comparisons. Source 1 is the only one with benchmark data, but the comparison is architectural (dual-process vs. single-process), not memory policy (dynamic vs. static). Sources 2, 3, and 4 are practitioner guides or tool documentation, not empirical studies. Direct causal claims about memory superiority under fixed budgets are currently unsupported by the retrieved evidence.
+
+**Unresolved Questions**: What are the actual performance differences between dynamic consolidation and static append-only memory on ScienceWorld or BigBench when token usage is strictly capped? How does memory size scale with task complexity in these constrained settings?
+
+This is a research worker's output. Consult the reviews and manager disposition alongside it.
