@@ -43,6 +43,12 @@
       "role": "researcher",
       "status": "completed",
       "summary": "Completed the bounded six-query audit and inspected four eligible primary sources. Evidence favors testing memory against token-matched actor or full-history baselines; no universal superiority is established. Research-only; no code, installation, reproduction, or implementation."
+    },
+    {
+      "id": "research-1789613048990-07-deliverable-review",
+      "role": "deliverable_review",
+      "status": "running",
+      "summary": "deliverable review is working"
     }
   ],
   "status": "active",

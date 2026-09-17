@@ -16,5 +16,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789613048990-04-plan-review: plan_review; completed; Advance. The plan is feasible, bounded, relevant, and auditable for a research-only loop.
 - research-1789613048990-05-manager-plan: manager_plan; completed; Advance the reviewed plan to serial research execution.
 - research-1789613048990-06-researcher: researcher; completed; Completed the bounded six-query audit and inspected four eligible primary sources. Evidence favors testing memory against token-matched actor or full-history baselines; no universal superiority is established. Research-only; no code, installation, reproduction, or implementation.
+- research-1789613048990-07-deliverable-review: deliverable_review; running; deliverable review is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
