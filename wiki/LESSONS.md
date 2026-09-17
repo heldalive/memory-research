@@ -267,3 +267,12 @@ Proposed by deliverable_review; recorded by the supervisor. Treat as fallible da
 If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789642128992-01-orchestrator
+
+### Evidence Standards for Memory Comparisons
+
+When comparing memory policies, ensure the 'static' baseline (e.g., append-only) is implemented with the exact same token budget as the 'dynamic' policy to isolate the effect of consolidation logic, not resource availability.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
