@@ -37,6 +37,12 @@
       "role": "manager_plan",
       "status": "completed",
       "summary": "Advance the reviewed plan to serial research execution."
+    },
+    {
+      "id": "research-1789613048990-06-researcher",
+      "role": "researcher",
+      "status": "running",
+      "summary": "researcher is working"
     }
   ],
   "status": "active",

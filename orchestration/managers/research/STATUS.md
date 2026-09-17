@@ -15,5 +15,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789613048990-03-planner: planner; completed; Bound one research-only audit of up to four primary agent-memory sources, centered on evidence against simple baselines at comparable budgets. Log exact queries and outcomes, inspect specified sections, separate author claims from inference, and stop by an auditable rule. No implementation, installation, execution, reproduction, or infrastructure changes are permitted.
 - research-1789613048990-04-plan-review: plan_review; completed; Advance. The plan is feasible, bounded, relevant, and auditable for a research-only loop.
 - research-1789613048990-05-manager-plan: manager_plan; completed; Advance the reviewed plan to serial research execution.
+- research-1789613048990-06-researcher: researcher; running; researcher is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
