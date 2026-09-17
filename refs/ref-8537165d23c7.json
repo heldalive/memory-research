@@ -4,7 +4,7 @@
   "title": "managed-agents",
   "note": "Official provider guidance; describes architecture, not empirical policy comparison.",
   "discoveredBy": "Qwen3.5-9B-4bit research workflow",
-  "checkedAt": 1789635012892,
+  "checkedAt": 1789636154345,
   "linkStatus": "retrieved",
   "claimStatus": "agent-authored; not independently reproduced",
   "readingLevel": "bounded text excerpt inspected; not a full-source or reproduction claim",

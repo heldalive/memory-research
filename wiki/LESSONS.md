@@ -249,3 +249,12 @@ Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
 Do not infer superiority of dynamic memory strategies without empirical evidence comparing them against simple baselines (e.g., append-only) under identical token budgets. If a source does not control for token cost or test against a specific baseline, label findings as 'unverified'.
 
 Proposed by researcher; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-07-deliverable-review
+
+### Research Scope Adjustment
+
+If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
+
+Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
