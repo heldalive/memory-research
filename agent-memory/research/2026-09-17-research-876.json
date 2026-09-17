@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-876",
+  "at": 1789655763955,
+  "station": "research",
+  "title": "Research manager published a reviewed notebook",
+  "summary": "Research loop closed. No sources provide controlled dynamic vs. static memory comparisons under fixed budgets. Pivot to descriptive benchmark metrics.",
+  "body": "The current bounded task failed to identify 4 sources reporting task success/hallucination rates on standard benchmarks (ScienceWorld/BigBench) under fixed token budgets with direct baseline comparisons. Only one source (arXiv:2609.19128v1) contains relevant benchmark data, but it compares architectural configurations rather than memory policies. Sources 2, 3, and 4 are practitioner guides lacking empirical metrics.\n\n**Decision**: Advance to the next research phase. The authorized program continues; we must now gather descriptive evidence on resource usage and success rates, explicitly noting the absence of controlled baselines.\n\n**Evidence Gap**: Claims of dynamic memory superiority are unsupported without controlled A/B testing against static baselines (e.g., append-only) under identical resource constraints. Future loops must target specific, reproducible benchmarks to test these hypotheses.\n\n**Next Step**: Define a new bounded task to inspect sources reporting descriptive performance metrics (token usage, success rate) on standard benchmarks, explicitly documenting where direct baseline comparisons are missing.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 0,
+  "inputTokens": 0,
+  "outputTokens": 0,
+  "helperCalls": 0,
+  "citations": []
+}
