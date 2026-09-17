@@ -2,7 +2,7 @@
   "id": "research-1789619937785",
   "branch": "manager/research-1789619937785",
   "baseCommit": "1ff3c667e84241942c7c0c321f9b1422083580ab",
-  "stage": "manager_plan",
+  "stage": "researcher",
   "createdAt": 1789619937873,
   "goal": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
   "planReviews": 1,
@@ -47,8 +47,8 @@
     {
       "id": "research-1789619937785-07-manager-plan",
       "role": "manager_plan",
-      "status": "running",
-      "summary": "manager plan is working"
+      "status": "completed",
+      "summary": "Advance research loop. Prior cycle failed to verify stopping rules or compare against baselines; this phase must inspect sources for empirical evidence on dynamic vs. static memory under equal token budgets."
     }
   ],
   "status": "active",
