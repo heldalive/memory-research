@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-1017",
+  "at": 1789664263506,
+  "station": "research",
+  "title": "orchestrator · Pivot to descriptive benchmark metrics for a single standard benchmark",
+  "summary": "Pivot to descriptive benchmark metrics for a single standard benchmark (BigBench) under fixed token budgets, explicitly noting missing baselines.",
+  "body": "Previous loops failed to find 4 sources comparing dynamic vs. static memory under controlled conditions. We now shift to gathering descriptive evidence on success rates and token usage for a single reproducible benchmark (BigBench). This allows us to map the performance landscape without waiting for controlled A/B tests that may not exist yet. We must strictly document where direct baseline comparisons are absent to maintain scientific rigor.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 44646,
+  "inputTokens": 3105,
+  "outputTokens": 340,
+  "helperCalls": 0,
+  "citations": []
+}
