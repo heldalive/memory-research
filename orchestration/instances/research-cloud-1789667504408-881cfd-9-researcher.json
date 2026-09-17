@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1789667504408-881cfd-9-researcher",
+  "role": "researcher",
+  "status": "completed",
+  "at": 1789668739381,
+  "answer": {
+    "summary": "No source provides a transparent, repeatable experiment evaluating agent memory on BigBench under fixed token budgets with explicit documentation of missing baselines or performance gaps.",
+    "content": "Source [S1] evaluates 12 memory systems and two baselines across five workloads using end-to-end task metrics and fine-grained ablation, but does not specify a BigBench evaluation under fixed token budgets or explicitly report missing baselines. Source [S2] addresses edge device memory via persistent KV caches for multi-agent inference and does not evaluate agent memory on BigBench or under token budget constraints. Neither source meets the required criteria for a BigBench-focused, token-budget-controlled experiment with explicit reporting of performance gaps or missing baselines.",
+    "decision": "revise",
+    "search": "https://github.com/google-research/bigbench/blob/main/docs/evaluation.md",
+    "sources": "S1,S2",
+    "nextTask": "Inspect the BigBench GitHub evaluation documentation for explicit notes on missing baselines or performance gaps under fixed token budgets and document findings in a concise report with direct evidence from the source text only.",
+    "lesson": "When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions.'"
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 268,
+  "inputTokens": 2165,
+  "durationMs": 13369,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2606.24775v1",
+      "title": "Are We Ready For An Agent-Native Memory System?",
+      "excerpt": "Abstract: Memory for large language model (LLM) agents has rapidly evolved from simple retrieval-augmented mechanisms into a data management system that supports persistent information storage, retrieval, update, consolidation, and dynamic lifecycle governance throughout agent execution. Despite this evolution, existing evaluations still benchmark agent memory mainly through end-to-end task success metrics (e.g., F1, BLEU), while treating the underlying system as a monolithic black box. As a result, critical system-level concerns, including operational costs, architectural trade-offs across memory modules, and robustness under dynamic knowledge updates, remain insufficiently explored. In this paper, we present a systematic experimental study of agent memory from a data management perspective. We propose an analytical framework that decomposes agent memory into four core modules: memory representation and storage, extraction, retrieval and routing, and maintenance. Under this framework, we evaluate 12 representative memory systems and two reference baselines across five benchmark workloads spanning 11 datasets. Our extensive end-to-end evaluation shows that no single architecture dominates across all scenarios; instead, effectiveness depends heavily on how well the memory structure aligns with the workload bottleneck. Furthermore, through fine-grained ablation studies, we quantify their individual effects on representation fidelity, retrieval precision, update correctness, and long-horizon stability. Finally, we reveal cost-performance trade-offs under realistic workloads, showing localized maintenance is more cost-efficient than global reorganization. Based on these findings, we identify promising directions towards building truly agent-native memory systems. The code is publicly available at this https URL .",
+      "checkedAt": 1789668625895,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "780a736d0afc17dacd1d1bb13489f362cf0fc8d2a606e67b9af42356fea006e0",
+      "discovery": {
+        "query": "https://github.com/google-research/bigbench/blob/main/docs/evaluation.md",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    },
+    {
+      "id": "S2",
+      "url": "https://arxiv.org/abs/2603.04428v1",
+      "title": "Agent Memory Below the Prompt: Persistent Q4 KV Cache for Multi-Agent LLM Inference on Edge Devices",
+      "excerpt": "Abstract: Multi-agent LLM systems on edge devices face a memory management problem: device RAM is too small to hold every agent's KV cache simultaneously. On Apple M4 Pro with 10.2 GB of cache budget, only 3 agents fit at 8K context in FP16. A 10-agent workflow must constantly evict and reload caches. Without persistence, every eviction forces a full re-prefill through the model -- 15.7 seconds per agent at 4K context. We address this by persisting each agent's KV cache to disk in 4-bit quantized format and reloading it directly into the attention layer, eliminating redundant O(n) prefill computation via direct cache restoration. The system comprises three components: a block pool providing per-agent isolated Q4 KV caches in safetensors format, a BatchQuantizedKVCache for concurrent inference over multiple agents' quantized caches, and cross-phase context injection that accumulates attention state across conversation phases without re-computation. Evaluated on three architectures (Gemma 3 12B, dense GQA, 48 layers; DeepSeek-Coder-V2-Lite 16B, MoE MLA, 27 layers; Llama 3.1 8B, dense GQA, 32 layers), cache restoration reduces time-to-first-token by up to 136x (Gemma: 22--136x at 4K--32K; DeepSeek: 11--76x at 4K--32K; Llama: 24--111x at 4K--16K; 3--10x at 1K). Q4 quantization fits 4x more agent contexts into fixed device memory than FP16. Perplexity measured with actual Q4 KV caches shows -0.7% for Gemma, +2.8% for Llama, and +3.0% for DeepSeek. Open-source at this https URL",
+      "checkedAt": 1789668625895,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "885af9f29484198c5cf1e4b178b0b251366d6768ab0870adf1aa61fab865cf40",
+      "discovery": {
+        "query": "https://github.com/google-research/bigbench/blob/main/docs/evaluation.md",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    }
+  ]
+}
