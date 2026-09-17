@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: When assessing agent memory effectiveness, prioritize sources that report explicit, reproducible metrics on a shared benchmark under controlled conditions; without such data, objective refinement to focus on evaluation gaps and methodological transparency is essential for scientific validity and feasibility.
 - manager final: When assessing agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when direct performance data is absent to preserve research integrity and reproducibility.
 - researcher: When evaluating agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when direct performance data is unavailable.
 - deliverable review: When assessing agent memory effectiveness, prioritize sources that report explicit, reproducible metrics on a shared benchmark under controlled conditions; without such data, refine the objective to focus on evaluation gaps and methodological transparency
@@ -40,5 +39,6 @@
 - manager final: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting, baseline comparisons, and observable state evolution to ensure scientific validity and avoid conflating operational behavior with genuine retention performance claims.
 - orchestrator: Memory evaluation in agents requires explicit, time-bound, and dynamically observable experiments with baseline reporting under controlled conditions to establish scientific validity and reproducibility claims.
 - manager setup: Agent memory evaluation must rely on primary-source, controlled experiments with explicit token budgets, baseline comparisons, and observable state evolution to ensure scientific validity and avoid performance claims based on unverified or indirect evidence.
+- planner: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting, baseline comparisons, and observable state evolution to ensure scientific validity and avoid performance claims based on unverified assumptions
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
