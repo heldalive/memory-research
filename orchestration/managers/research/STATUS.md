@@ -15,5 +15,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789612083008-03-planner: planner; completed; Plan a bounded, research-only scan of primary benchmarks for persistent agent memory, focusing on whether they test retention and revision beyond access to longer transcripts. No research has been performed in this planning step.
 - research-1789612083008-04-plan-review: plan_review; completed; The bounded research plan is relevant and feasible, with clear evidence requirements and a useful comparison proposal.
 - research-1789612083008-05-manager-plan: manager_plan; completed; Advance the existing plan to the researcher. The first review already accepted its scope and criteria; its minor stopping-rule ambiguity can be resolved during execution without another planning loop.
+- research-1789612083008-06-researcher: researcher; running; researcher is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.

@@ -37,6 +37,12 @@
       "role": "manager_plan",
       "status": "completed",
       "summary": "Advance the existing plan to the researcher. The first review already accepted its scope and criteria; its minor stopping-rule ambiguity can be resolved during execution without another planning loop."
+    },
+    {
+      "id": "research-1789612083008-06-researcher",
+      "role": "researcher",
+      "status": "running",
+      "summary": "researcher is working"
     }
   ],
   "status": "active",
