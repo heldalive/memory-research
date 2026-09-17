@@ -25,6 +25,12 @@
       "role": "planner",
       "status": "completed",
       "summary": "Plan to identify 4 sources comparing dynamic vs. static agent memory under fixed token budgets, targeting LongMemEval and similar benchmarks."
+    },
+    {
+      "id": "research-1789632907568-04-plan-review",
+      "role": "plan_review",
+      "status": "running",
+      "summary": "plan review is working"
     }
   ],
   "status": "active",
