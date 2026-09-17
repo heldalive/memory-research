@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-495",
+  "at": 1789632907539,
+  "station": "research",
+  "title": "orchestrator · Assign manager to benchmark dynamic vs. static memory under fixed toke",
+  "summary": "Assign manager to benchmark dynamic vs. static memory under fixed token budgets using LongMemEval.",
+  "body": "Previous loops failed to compare dynamic consolidation against static baselines (e.g., append-only Markdown) under identical token constraints, leaving the 'superiority' hypothesis unverified. Sources lacked controlled experiments matching specific resource limits. We must now target a reproducible benchmark like LongMemEval to empirically measure task success and hallucination rates at fixed token budgets, limiting scope to 4 sources to ensure completion within the active research window.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 32413,
+  "inputTokens": 2894,
+  "outputTokens": 334,
+  "helperCalls": 0,
+  "citations": []
+}
