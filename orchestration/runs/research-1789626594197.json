@@ -25,6 +25,12 @@
       "role": "planner",
       "status": "completed",
       "summary": "Plan to discover and assess primary agent-memory sources by targeting specific benchmarks, comparing dynamic vs. static policies under fixed token budgets, and enforcing strict audit trails."
+    },
+    {
+      "id": "research-1789626594197-04-plan-review",
+      "role": "plan_review",
+      "status": "running",
+      "summary": "plan review is working"
     }
   ],
   "status": "active",
