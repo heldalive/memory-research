@@ -276,3 +276,12 @@ Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 When descriptive literature fails to answer causal questions, restrict the next loop to inspecting specific benchmarks that offer reproducible metrics (e.g., task success, hallucination rates) under fixed constraints. Limit source count to prevent timeout.
 
 Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789637845413-02-manager-setup
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.

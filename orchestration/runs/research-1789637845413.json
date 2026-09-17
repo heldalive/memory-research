@@ -2,7 +2,7 @@
   "id": "research-1789637845413",
   "branch": "manager/research-1789637845413",
   "baseCommit": "a99ab66a1bd37b96227eda0a9d83e06b124284c8",
-  "stage": "manager_setup",
+  "stage": "planner",
   "createdAt": 1789637845516,
   "goal": "Execute a bounded research task: Identify and inspect 4 sources (papers or repos) that provide empirical data comparing dynamic memory consolidation policies against a defined static baseline (e.g., append-only) under comparable token budgets. Measure task success and hallucination rates. Limit to 4 sources; do not implement code.",
   "planReviews": 0,
@@ -17,8 +17,8 @@
     {
       "id": "research-1789637845413-02-manager-setup",
       "role": "manager_setup",
-      "status": "running",
-      "summary": "manager setup is working"
+      "status": "completed",
+      "summary": "Assign planner to define a bounded research protocol for benchmarking dynamic vs. static memory under fixed token constraints, adhering to strict stopping rules."
     }
   ],
   "status": "active",
