@@ -2,7 +2,7 @@
   "id": "research-1789612083008",
   "branch": "manager/research-1789612083008",
   "baseCommit": "a634b723b5f6871fba091c58c93e10eaff8c1db6",
-  "stage": "planner",
+  "stage": "plan_review",
   "createdAt": 1789612083031,
   "goal": "Research manager: identify a bounded set of benchmark sources that can distinguish genuine information retention and revision from retrieving a longer transcript. Choose a feasible scope and stopping rule. Inspect sources only; do not install or execute code. Report canonical HTTPS links, what you actually inspected, each benchmark’s task and evaluation signal, whether it tests revision or only retrieval, limitations, and one comparison that could distinguish the competing explanations. Treat commissioning materials as leads, not independent findings.",
   "planReviews": 0,
@@ -23,8 +23,8 @@
     {
       "id": "research-1789612083008-03-planner",
       "role": "planner",
-      "status": "running",
-      "summary": "planner is working"
+      "status": "completed",
+      "summary": "Plan a bounded, research-only scan of primary benchmarks for persistent agent memory, focusing on whether they test retention and revision beyond access to longer transcripts. No research has been performed in this planning step."
     }
   ],
   "status": "active",
