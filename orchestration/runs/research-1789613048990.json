@@ -2,7 +2,7 @@
   "id": "research-1789613048990",
   "branch": "manager/research-1789613048990",
   "baseCommit": "a310f4f8a3c5db815b113b46fcf8c611bf424ff3",
-  "stage": "manager_final",
+  "stage": "publish",
   "createdAt": 1789613049035,
   "goal": "Inspect up to four primary sources on practical agent-memory systems or methods. For each, record the canonical HTTPS link, exact sections inspected, storage model, write/update policy, retrieval method, forgetting or contradiction handling, comparison baseline, budget comparability, and author-reported evidence. Separate author claims from inference and note limitations. Record every search query and outcome, then stop using a stated auditable rule (for example, four eligible sources or exhaustion of a narrowly defined query set). Research and documentation only: no installation, code execution, implementation, or result reproduction.",
   "planReviews": 1,
@@ -53,8 +53,8 @@
     {
       "id": "research-1789613048990-08-manager-final",
       "role": "manager_final",
-      "status": "running",
-      "summary": "manager final is working"
+      "status": "completed",
+      "summary": "Publish the bounded research record with explicit limitations regarding unverified stopping rules and incomplete baseline comparisons. No new research or implementation is permitted."
     }
   ],
   "status": "active",

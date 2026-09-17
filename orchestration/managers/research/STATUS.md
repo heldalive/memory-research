@@ -4,7 +4,7 @@ Loop: research-1789613048990
 
 Branch: manager/research-1789613048990
 
-Stage: manager_final
+Stage: publish
 
 Goal: Inspect up to four primary sources on practical agent-memory systems or methods. For each, record the canonical HTTPS link, exact sections inspected, storage model, write/update policy, retrieval method, forgetting or contradiction handling, comparison baseline, budget comparability, and author-reported evidence. Separate author claims from inference and note limitations. Record every search query and outcome, then stop using a stated auditable rule (for example, four eligible sources or exhaustion of a narrowly defined query set). Research and documentation only: no installation, code execution, implementation, or result reproduction.
 
@@ -17,6 +17,6 @@ Plan reviews: 1/2. Deliverable reviews: 1/2.
 - research-1789613048990-05-manager-plan: manager_plan; completed; Advance the reviewed plan to serial research execution.
 - research-1789613048990-06-researcher: researcher; completed; Completed the bounded six-query audit and inspected four eligible primary sources. Evidence favors testing memory against token-matched actor or full-history baselines; no universal superiority is established. Research-only; no code, installation, reproduction, or implementation.
 - research-1789613048990-07-deliverable-review: deliverable_review; completed; Revise: the research is useful, but the audit record has protocol and completeness gaps.
-- research-1789613048990-08-manager-final: manager_final; running; manager final is working
+- research-1789613048990-08-manager-final: manager_final; completed; Publish the bounded research record with explicit limitations regarding unverified stopping rules and incomplete baseline comparisons. No new research or implementation is permitted.
 
 Runtime station and full prompts remain private. No implementation work is enabled.
