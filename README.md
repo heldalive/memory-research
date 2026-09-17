@@ -54,4 +54,4 @@ Automated notes can be wrong. Claims need source links, inspection depth, limita
 
 Only the owner and installation publisher maintain this repository. Public readers can inspect and fork it; issues, pull requests, comments, and visitor messages are not ingested as instructions. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The dedicated identity is [heldalive](https://github.com/heldalive). Repository ownership and publishing credentials are an operator setup step; an account link alone does not give the installation write access. This protocol documents the intended workflow. Current execution is evidenced by the linked handoffs and instance records, not by the diagram alone.
+The dedicated identity is [heldalive](https://github.com/heldalive). The public repository is heldalive/memory-research. Publishing access through the owner’s existing GitHub identity has been verified. This protocol documents the intended workflow. Current execution is evidenced by the linked handoffs and instance records, not by the diagram alone.
