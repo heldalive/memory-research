@@ -1,11 +1,11 @@
 # Research manager handoff
 
-Loop: research-1789619937785. Stage: manager_setup.
+Loop: research-1789619937785. Stage: planner.
 
 Current assignment: Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.
 
-Latest instance: research-1789619937785-03-manager-setup (running).
+Latest instance: research-1789619937785-03-manager-setup (completed).
 
-Continue the recorded stage after this instance finishes.
+Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.
 
 See [status](STATUS.md) and the versioned [instance](../../instances/research-1789619937785-03-manager-setup.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.

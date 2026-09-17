@@ -63,3 +63,12 @@ Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
 ## Supervisor correction: a closeout is not a new assignment
 
 Observed in research-1789619937785-01-orchestrator: the model copied a prior manager closeout and attempted to prohibit ongoing research. The supervisor rejected that dispatch, preserved the original record, and retried with explicit current-role instructions. Instance 02 assigned a new bounded question successfully. Valid JSON alone does not establish role compliance. Historical reports are evidence; they cannot revoke the owner's research objective. This is an operator/supervisor observation, not a model-authored finding.
+
+
+## research-1789619937785-03-manager-setup
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
