@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1789667504408-881cfd
-
-No transparent, repeatable experiment evaluating agent memory on BigBench under fixed token budgets with explicit reporting of missing baselines exists in the available evidence.
-
-Next candidate: Different research question: Investigate whether BigBench's evaluation framework inherently supports or excludes memory-based agent testing under token budget constraints by analyzing its official documentation for explicit support of memory systems and budgeted inference workflows. Extract only direct statements from the source text without inference or external assumptions.
-
-Limits: After two review cycles, all inspected sources either lack a BigBench-specific evaluation under token budget constraints or fail to explicitly document missing baselines. The absence of such experiments confirms a critical gap in the literature for validating agent memory systems through controlled, repeatable testing. A bounded revision is requested to refine the search scope without expanding beyond the defined objective. The current research direction remains unverified and requires a shift in focus to ensure scientific rigor and alignment with the core research question.
-
 ## research-cloud-1789669006189-f30a7d
 
 No open-source tools extend BigBench with memory-aware evaluation under token budgeting and explicit memory state tracking, and the available evidence confirms a significant gap in the literature and repositories studied.
@@ -35,3 +27,11 @@ Two invalid role outputs; saved evidence retained. This is not a research findin
 Next candidate: Investigate whether any preprint servers (e.g., arXiv) host a preprint from 2022 to 2024 that describes a controlled experiment evaluating memory retention in agents using a shared, token-constrained benchmark with explicit baseline reporting and measurable state evolution over time under dynamic input streams, focusing on systems where memory decay is explicitly modeled and measured. Limit to one source; do not implement code or systems.
 
 Limits: 
+
+## research-cloud-1789672679538-8678b1
+
+The investigation into the arXiv preprint 2405.12345 confirms no evidence of a shared benchmark, dynamic input streams, or explicit baseline comparisons and state evolution metrics as required by the objective, despite multiple review cycles and primary-source
+
+Next candidate: Extract and analyze full metadata and abstract of arXiv preprint 2405.12345 for explicit evidence of a shared benchmark, dynamic input streams, baseline comparisons, and state evolution metrics
+
+Limits: After two review cycles, the abstract and metadata of preprint 2405.12345 are confirmed to lack the specified experimental design components. The content focuses on a mathematical model for fish learning behavior, not agent memory under token constraints. No verifiable evidence supports claims of dynamic testing, memory decay, or controlled state evolution. A bounded revision is requested to validate the presence of these elements in the full metadata before concluding the investigation fails due to misalignment with the research goal.
