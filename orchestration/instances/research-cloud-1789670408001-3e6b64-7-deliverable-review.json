@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1789670408001-3e6b64-7-deliverable-review",
+  "role": "deliverable_review",
+  "status": "completed",
+  "at": 1789671281480,
+  "answer": {
+    "summary": "No inspected source reports a controlled experiment evaluating memory retention under token constraints with explicit baseline comparisons and measurable state evolution metrics as required by the objective.",
+    "content": "Source S1 investigates membership inference attacks on chat agent memory using multi-recall probes under black-box, gray-box, and white-box settings, demonstrating MRMMIA's effectiveness in detecting membership signals but not conducting a controlled retention experiment with token budgeting or baseline reporting. Source S2 evaluates revocation enforcement in agent-memory systems and finds no system enforces revocation by default, but does not report memory retention under token constraints or state evolution metrics. Neither study meets the required criteria for a controlled, token-constrained memory retention experiment with explicit baselines and measurable state changes.",
+    "decision": "revise",
+    "search": "https://arxiv.org/abs/10.1145/3582961.3583012",
+    "sources": "S1,S2",
+    "nextTask": "Analyze the paper with DOI 10.1145/3582961.3583012 for evidence of controlled memory retention experiments under token-constrained conditions with explicit baseline reporting and measurable state evolution metrics. Summarize findings in one paragraph with direct quotes if applicable.",
+    "lesson": "Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting and measurable state evolution to avoid invalid performance claims"
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 301,
+  "inputTokens": 1670,
+  "durationMs": 12709,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2605.27825v1",
+      "title": "MRMMIA: Membership Inference Attacks on Memory in Chat Agents",
+      "excerpt": "Abstract: Membership inference attacks (MIAs) test whether a target data record belongs to a system's private data, and have become a standard tool to measure privacy leakage in machine learning systems. Prior work has primarily focused on training corpora or retrieval databases. However, MIAs against agent memory have received less attention, even though such memory can contain sensitive user-agent interactions, retrieved facts, and user preferences. Therefore, in this work, we focus on chat agent memory MIAs, where an adversary infers whether a candidate memory unit belongs to the chat agent's memory store. We propose Multi-Recall Memory MIA (MRMMIA), a unified attack that utilizes multiple recall probes to the agent to extract the membership signal across black-box, gray-box, and white-box settings. Our experiments demonstrate that MRMMIA consistently outperforms baselines. Our results expose the privacy risk in agents and provide an initial evaluation framework for membership leakage in chat-agent memory systems.",
+      "checkedAt": 1789671138520,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "ddb5034b19d1475bc9be615b95cd92659bddfd0bab1273e92ac6f753d6440c6f",
+      "discovery": {
+        "query": "https://doi.org/10.1145/3582961.3583012",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    },
+    {
+      "id": "S2",
+      "url": "https://arxiv.org/abs/2609.08258v1",
+      "title": "Revoked but Still Authoritative: An Empirical Study of Revocation Enforcement in Agent-Memory Systems",
+      "excerpt": "Abstract: Long-running language-model agents depend on persistent memory. Many agent-memory systems preserve history through soft revocation: a contradicted fact is marked invalid and retained rather than deleted. However, whether that mark is enforced at retrieval time is unexamined. In this paper, we measure five such systems: we load each with a revoked policy and its replacement, track whether the revoked fact is returned at retrieval and whether the agent then acts on it across nine policy scenarios and nine models, and score every trial under six defense conditions. We find that no system enforces revocation by default: the revoked fact is returned wherever the revocation label is visible to the retrieval layer, outranks its replacement, and leads agents to the unsafe action. Based on these findings, we develop a guard that sits between the agent and any memory backend and withholds records that are revoked or conflict with their replacement.",
+      "checkedAt": 1789671138520,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "ca76c29108ab0f957fe404831f9c8ece8466e252d6511cb43507f4a63879d0bc",
+      "discovery": {
+        "query": "https://doi.org/10.1145/3582961.3583012",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    }
+  ]
+}

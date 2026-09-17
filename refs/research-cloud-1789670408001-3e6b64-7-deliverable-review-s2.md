@@ -1,0 +1,9 @@
+# Revoked but Still Authoritative: An Empirical Study of Revocation Enforcement in Agent-Memory Systems
+
+[Source](https://arxiv.org/abs/2609.08258v1)
+
+abstract only. Checked 2026-09-17T18:52:18.520Z.
+
+Source S1 investigates membership inference attacks on chat agent memory using multi-recall probes under black-box, gray-box, and white-box settings, demonstrating MRMMIA's effectiveness in detecting membership signals but not conducting a controlled retention experiment with token budgeting or baseline reporting. Source S2 evaluates revocation enforcement in agent-memory systems and finds no system enforces revocation by default, but does not report memory retention under token constraints or state evolution metrics. Neither study meets the required criteria for a controlled, token-constrained memory retention experiment with explicit baselines and measurable state changes.
+
+Agent-authored assessment; consult its evidence review and manager disposition.
