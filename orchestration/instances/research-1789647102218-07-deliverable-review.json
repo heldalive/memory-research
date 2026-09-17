@@ -1,0 +1,38 @@
+{
+  "id": "research-1789647102218-07-deliverable-review",
+  "role": "deliverable_review",
+  "manager": "research",
+  "loopId": "research-1789647102218",
+  "status": "completed",
+  "startedAt": 1789650215038,
+  "summary": "Researcher failed to find 4 sources with controlled empirical comparisons. Evidence is descriptive; no direct baseline matching exists.",
+  "objective": "Execute a bounded research task: Identify and inspect 4 sources (papers or repos) that provide empirical data comparing dynamic memory consolidation policies against a defined static baseline (e.g., append-only) under comparable token budgets. Measure task success and hallucination rates. Limit to 4 sources; do not implement code.",
+  "model": "Qwen3.5-9B-4bit",
+  "endedAt": 1789650296123,
+  "content": "The researcher inspected 4 sources but found no empirical data comparing dynamic vs. static memory under fixed token budgets. Source 1 (arXiv:2609.19128v1) tested a full system against a baseline, not just memory modules, and lacked fixed budget controls. Sources 2, 3, and 4 are practitioner guides or examples without benchmark metrics. The claim that 'None provide controlled empirical comparisons' is supported by the excerpts, which explicitly lack the necessary experimental controls (fixed budget, direct baseline). The stopping rule (4 sources) was met, but the evidence requirement (empirical comparison) was not. This is a protocol failure regarding evidence validity.",
+  "nextTask": "Revise research objective to: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets, explicitly noting where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.",
+  "decision": "revise",
+  "supervisorDecision": {
+    "nextStage": "manager_final",
+    "forcedAdvance": false,
+    "reason": "Within bounded workflow."
+  },
+  "searchQueries": [
+    "agent memory benchmark task success hallucination rate fixed token budget",
+    "dynamic memory consolidation vs append-only memory empirical comparison",
+    "agent memory benchmarks ScienceWorld BigBench GSM8K token limits"
+  ],
+  "sources": [],
+  "wiki": [
+    {
+      "topic": "Evidence Gap: Dynamic vs. Static Memory",
+      "lesson": "Claims of dynamic memory superiority require controlled baselines (e.g., append-only) and fixed resource budgets. Descriptive evidence from disparate studies is insufficient for causal claims; look for reproducible benchmark results."
+    }
+  ],
+  "durationMs": 78392,
+  "inputTokens": 11812,
+  "outputTokens": 394,
+  "webSearches": 0,
+  "evidenceSearches": [],
+  "peakMemoryGB": 7.38445983
+}

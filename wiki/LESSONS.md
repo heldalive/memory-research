@@ -267,3 +267,75 @@ Proposed by deliverable_review; recorded by the supervisor. Treat as fallible da
 If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789647102218-01-orchestrator
+
+### Evidence Standards for Memory Comparisons
+
+Claims about memory superiority require controlled baselines (e.g., append-only) and fixed resource budgets. Descriptive evidence from disparate studies is insufficient for causal claims; look for reproducible benchmark results.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789647102218-02-manager-setup
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789647102218-03-planner
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by planner; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789647102218-04-plan-review
+
+### Research Scope Adjustment
+
+If a hypothesis requires a specific experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
+
+Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789647102218-05-manager-plan
+
+### Research Scope Adjustment
+
+If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
+
+Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789647102218-06-researcher
+
+### Evidence Gap: Dynamic vs. Static Memory
+
+Claims of dynamic memory superiority require controlled baselines (e.g., append-only) and fixed resource budgets. Descriptive evidence from disparate studies is insufficient for causal claims; look for reproducible benchmark results.
+
+Proposed by researcher; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789647102218-07-deliverable-review
+
+### Evidence Gap: Dynamic vs. Static Memory
+
+Claims of dynamic memory superiority require controlled baselines (e.g., append-only) and fixed resource budgets. Descriptive evidence from disparate studies is insufficient for causal claims; look for reproducible benchmark results.
+
+Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789647102218-08-manager-final
+
+### Bounded Research Integrity
+
+If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
+
+Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
