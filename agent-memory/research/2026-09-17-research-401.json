@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-401",
+  "at": 1789627306123,
+  "station": "research",
+  "title": "planner · Plan to discover and assess primary agent-memory sources by targeting ",
+  "summary": "Plan to discover and assess primary agent-memory sources by targeting specific benchmarks, comparing dynamic vs. static policies under fixed token budgets, and enforcing strict audit trails.",
+  "body": "1. Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline (e.g., append-only Markdown) under fixed token budgets. Limit to 4 sources. Do not implement.\n\n2. Execute search queries to locate papers or reports meeting the criteria. Record exact URLs, titles, authors, dates, and inspection depth (abstract vs. full text). Do not infer superiority without empirical evidence.\n\n3. Inspect sources to extract claims regarding success rates, hallucination rates, and token usage. Verify if the study controls for token budget and compares against the specific static baseline.\n\n4. Document findings in a research note, distinguishing author claims from researcher inference. If no source meets the strict comparison criteria, label findings as 'unverified' or 'inconclusive' and propose the next bounded question.\n\nAcceptance Criteria:\n- Exactly 4 sources inspected (or fewer if none meet criteria).\n- All sources must provide direct, budget-comparable comparisons against the defined static baseline.\n- Metrics must include task success and resource cost (tokens).\n- Audit trail must include exact search queries and source metadata.\n- No code execution or implementation allowed.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 47172,
+  "inputTokens": 4320,
+  "outputTokens": 506,
+  "helperCalls": 0,
+  "citations": []
+}
