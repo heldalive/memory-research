@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1789673900113-a2a539",
+  "branch": "manager/research-cloud-1789673900113-a2a539",
+  "goal": "Extract and analyze full metadata and abstract of arXiv preprint 2405.12345 for explicit evidence of a shared benchmark, dynamic input streams, baseline comparisons, and state evolution metrics",
+  "stage": "complete",
+  "planReviews": 1,
+  "deliverableReviews": 1,
+  "instances": [
+    {
+      "id": "research-cloud-1789673900113-a2a539-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789673900113-a2a539-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789673900113-a2a539-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789673900113-a2a539-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789673900113-a2a539-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789673900113-a2a539-6-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789673900113-a2a539-7-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789673900113-a2a539-8-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}

@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1789669006189-f30a7d
-
-No open-source tools extend BigBench with memory-aware evaluation under token budgeting and explicit memory state tracking, and the available evidence confirms a significant gap in the literature and repositories studied.
-
-Next candidate: Investigate non-BigBench agent evaluation benchmarks with explicit documentation of memory state tracking and usage metrics under token budgeting, focusing on publicly available repositories and peer-reviewed literature. Include a comparative analysis of at least three benchmarks with verified experiments demonstrating controlled memory usage and token-level constraints. Prioritize work that provides open, reproducible evaluation protocols and measurable memory
-
-Limits: After two review cycles, consistent findings indicate no existing open-source extensions of BigBench meet the criteria for memory-aware evaluation under token budgeting with explicit, documented metrics on memory state usage. All relevant sources either address privacy concerns or efficiency optimizations without providing transparent, controlled evaluation of memory behavior under constrained token budgets. This reinforces the need to shift focus to non-BigBench benchmarks with verifiable memory and token-level tracking capabilities before finalizing research direction. A bounded revision is requested to explore alternative evaluation frameworks with primary-source evidence of such tracking mechanisms.
-
 ## research-cloud-1789670408001-3e6b64
 
 No peer-reviewed study between 2022 and 2024 reports a controlled experiment on agent memory retention under token constraints with explicit baseline comparisons or measurable state evolution metrics.
@@ -35,3 +27,11 @@ The investigation into the arXiv preprint 2405.12345 confirms no evidence of a s
 Next candidate: Extract and analyze full metadata and abstract of arXiv preprint 2405.12345 for explicit evidence of a shared benchmark, dynamic input streams, baseline comparisons, and state evolution metrics
 
 Limits: After two review cycles, the abstract and metadata of preprint 2405.12345 are confirmed to lack the specified experimental design components. The content focuses on a mathematical model for fish learning behavior, not agent memory under token constraints. No verifiable evidence supports claims of dynamic testing, memory decay, or controlled state evolution. A bounded revision is requested to validate the presence of these elements in the full metadata before concluding the investigation fails due to misalignment with the research goal.
+
+## research-cloud-1789673900113-a2a539
+
+The analysis confirms no explicit evidence for shared benchmarks, dynamic input streams, baseline comparisons, or measurable state evolution in the arXiv preprint, reinforcing current evaluation protocols as insufficient for scientific rigor.
+
+Next candidate: Investigate how environmental variation or time-series stimuli could be modeled as dynamic input streams in agent memory systems; propose a minimal experimental design for controlled state evolution under variable conditions
+
+Limits: After cross-referencing the manager plan, researcher output, and deliverable review, all indicate absence of verifiable evidence for requested evaluation metrics. The preprint's focus on functional equations and suboptimal approximations in a behavioral model does not support dynamic or comparative memory evaluation under controlled conditions. This validates the need for primary-source, experimentally grounded validation in future work. No contradictions or ambiguities remain in the current findings; however, the lack of dynamic input or baseline data suggests a gap in experimental design that must be addressed in subsequent investigations. A bounded revision is requested to clarify whether 'dynamic input streams' implies time-series or environmental variation beyond the scope of the current abstraction. No new evidence has been provided to override these conclusions. This task is now complete in its current form, but future work must define dynamic conditions more precisely.
