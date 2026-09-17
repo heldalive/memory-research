@@ -276,3 +276,12 @@ Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 Claims about memory superiority require controlled baselines (e.g., append-only) and fixed resource budgets. Descriptive evidence from disparate studies is insufficient for causal claims; look for reproducible benchmark results.
 
 Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789647102218-02-manager-setup
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
