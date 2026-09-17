@@ -53,10 +53,10 @@
     {
       "id": "research-1789642128992-08-deliverable-review",
       "role": "deliverable_review",
-      "status": "running",
-      "summary": "deliverable review is working"
+      "status": "failed",
+      "summary": "Call failed: Inline citation must also have a source record"
     }
   ],
-  "status": "active",
+  "status": "failed",
   "firstWeek": "research-only; implementation remains disabled"
 }
