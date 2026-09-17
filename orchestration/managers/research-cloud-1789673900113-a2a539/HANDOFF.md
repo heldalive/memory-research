@@ -2,7 +2,7 @@
 
 Analyze the full metadata and abstract of arXiv preprint 2405.12345 for explicit evidence of a shared benchmark, dynamic input streams, baseline comparisons, and state evolution metrics
 
-Next role: deliverable_review.
+Next role: manager_final.
 
 Handoff to evaluation team for synthesis of findings and recommendation of next-phase investigation into controlled memory benchmarks
 

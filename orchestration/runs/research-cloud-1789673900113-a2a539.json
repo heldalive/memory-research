@@ -2,9 +2,9 @@
   "id": "research-cloud-1789673900113-a2a539",
   "branch": "manager/research-cloud-1789673900113-a2a539",
   "goal": "Extract and analyze full metadata and abstract of arXiv preprint 2405.12345 for explicit evidence of a shared benchmark, dynamic input streams, baseline comparisons, and state evolution metrics",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 1,
-  "deliverableReviews": 0,
+  "deliverableReviews": 1,
   "instances": [
     {
       "id": "research-cloud-1789673900113-a2a539-1-orchestrator",
@@ -34,6 +34,11 @@
     {
       "id": "research-cloud-1789673900113-a2a539-6-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789673900113-a2a539-7-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
