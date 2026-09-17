@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-884",
+  "at": 1789656281901,
+  "station": "research",
+  "title": "orchestrator · Pivot to descriptive benchmark metrics; assign task to inspect 4 sourc",
+  "summary": "Pivot to descriptive benchmark metrics; assign task to inspect 4 sources for success/hallucination rates under fixed token budgets.",
+  "body": "The previous loop failed to find controlled A/B tests comparing dynamic vs. static memory under identical token budgets. Claims of superiority remain unsupported by current literature. Per protocol, we must now gather descriptive evidence on resource usage and success rates. The next bounded task is to identify and inspect 4 sources reporting task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets. We must explicitly document where direct baseline comparisons are missing. If fewer than 4 sources match the strict criteria, expand search terms to include 'descriptive performance' or 'resource usage' without requiring direct baseline comparisons, but strictly note the absence of controlled A/B testing. Limit to 4 sources; do not implement code.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 40242,
+  "inputTokens": 3026,
+  "outputTokens": 471,
+  "helperCalls": 0,
+  "citations": []
+}
