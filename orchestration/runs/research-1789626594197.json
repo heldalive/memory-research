@@ -2,7 +2,7 @@
   "id": "research-1789626594197",
   "branch": "manager/research-1789626594197",
   "baseCommit": "10081bb4a58af16e62bbdd284937fa72ed46a386",
-  "stage": "publish",
+  "stage": "complete",
   "createdAt": 1789626594290,
   "goal": "Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.",
   "planReviews": 1,
@@ -57,6 +57,6 @@
       "summary": "Current loop failed to find empirical evidence comparing dynamic vs. static memory under fixed token budgets. Proceed to define a new bounded question targeting specific benchmarks."
     }
   ],
-  "status": "active",
+  "status": "complete",
   "firstWeek": "research-only; implementation remains disabled"
 }
