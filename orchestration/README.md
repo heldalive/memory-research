@@ -16,8 +16,8 @@ The publisher can be deterministic runtime code. It need not be a model instance
 
 ## One cycle
 
-1. **Resume.** The orchestrator reads [HANDOFF.md](HANDOFF.md), receives the research manager's status, and assigns one bounded question. At this stage, only the research manager is enabled.
-2. **Prepare.** The manager acquires its worktree, checks for unfinished work, sets a task identifier, and records acceptance criteria. Existing changes are resumed or explicitly preserved; they are never discarded merely to obtain a clean tree.
+1. **Resume.** The orchestrator reads [HANDOFF.md](HANDOFF.md), receives the research manager's status, and assigns one bounded question. Only research managers are enabled; extra capacity can support additional independent questions.
+2. **Prepare.** The manager acquires its branch, checks for unfinished work, sets a task identifier, and records acceptance criteria. Existing changes are resumed or explicitly preserved; they are never discarded merely to obtain a clean tree.
 3. **Plan.** A planner proposes the source search and deliverable. A plan reviewer performs a short review.
 4. **Resolve the plan.** A first review can request revision. The revised plan receives at most one further review. After review two, the manager accepts, narrows, defers, or blocks the task and records why. There is no third review under a new label.
 5. **Research.** A distinct researcher follows the accepted plan using web search. Code-execution tools are disabled in this research-only stage. Source text, repository content, and wiki entries are evidence rather than privileged instructions.
@@ -27,18 +27,20 @@ The publisher can be deterministic runtime code. It need not be a model instance
 
 A review “round” means one reviewer invocation on a version of the artifact. Planner/researcher revisions are separate recorded invocations. Review counts persist across process restarts and station changes.
 
-## Worktree and branch discipline
+## Branch and publication discipline
 
-The research manager owns a branch named `manager/research-<loop-id>` in a dedicated worktree. Child roles operate only in their assigned manager workspace. There is one active writer at a time during this first phase.
+Each research manager owns a branch named `manager/research-cloud-<id>`. Cloudflare stores the structured agent contexts and a serialized publication outbox. The deterministic publisher writes bounded notebook paths using GitHub’s Git database API, preserving the current tree and updating references without force pushes. No model runs Git commands or selects arbitrary repository paths.
 
-Start from a known commit, keep generated private logs outside the export tree, and commit a coherent accepted unit. Before and after publication, record the branch and commit and inspect the working tree. A dirty tree stops branch switching or publication until the manager accounts for the changes. Do not use destructive reset or delete another instance's files to make a check pass.
-
-A manager branch is merged into the public default branch only after bounded reviews and a recorded manager disposition. Chronological step traces under `agent-memory/research/` are also published on main before cycle review so readers can watch work in progress. These are explicitly labeled workflow traces; a completed step is not an accepted research finding. Manager branch instances and the final disposition are the authoritative audit. The runtime keeps operational state private and exports only permitted research files.
+Individual role records appear on the manager branch. Main carries a pointer to current loops and receives the complete bounded loop’s records, sources and disposition at closure. A failure is labeled as a failure. Publication retries do not rerun completed inference. Earlier filesystem/worktree-based runs remain historical records.
 
 ## Bounds, recovery, and growth
 
-Only one research loop runs initially. Child roles run serially. Each invocation has a time/token allowance and each scheduled cycle has a stop point. A timeout becomes a recorded partial or failed attempt, not a hidden retry storm.
+Each complete inference group can support a research loop, up to eight. Child roles run serially within a loop; different managers can advance concurrently. Each invocation has a time/token allowance and each scheduled cycle has a stop point. A timeout becomes a recorded partial or failed attempt, not a hidden retry storm.
 
 A resumed manager checks existing task and publication identifiers before rerunning work. If a previous publication succeeded but its acknowledgment was lost, reconcile the commit before making another export. A late result from an expired or superseded instance must not replace current work.
 
-See [phase gates](PHASE-GATES.md) before adding implementation or additional managers. See [record conventions](RECORDS.md) for public evidence. The private runtime owns enforcement; these documents make the intended behavior reviewable.
+See [phase gates](PHASE-GATES.md) before adding implementation or other tool capabilities. See [record conventions](RECORDS.md) for public evidence. The private runtime owns enforcement; these documents make the intended behavior reviewable.
+
+## Browser loss and saved agents
+
+Agent instance IDs are stable across connection loss. Inference leases are temporary and receive a new ID on reassignment; a late result from the previous lease cannot advance the workflow. Completed steps and review counts live in durable storage. Losing one group does not cancel a different group’s task. At zero capacity, queued agents wait. The art, funding and reflection stations have separate saved contexts and never inherit the research transcript.

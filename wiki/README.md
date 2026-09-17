@@ -6,7 +6,7 @@ Start with [lessons](LESSONS.md) and [loop-resolution decisions](LOOP-RESOLUTION
 
 ## How a lesson enters the wiki
 
-A child instance proposes an entry with a linked observation. The manager checks whether it is supported, gives it an appropriate scope, and publishes it with the accepted cycle. Every role can propose a correction. During the initial single-loop phase, writes are serialized through the manager to avoid conflicting changes.
+A child instance proposes an entry with a linked observation. The manager checks whether it is supported, gives it an appropriate scope, and publishes it with the accepted cycle. Every role can propose a correction. A serialized publication outbox combines the managers’ versioned proposals without concurrent Git writes. Current `wiki/<instance-id>.md` entries preserve each contribution; `LESSONS.md` is the bounded working digest.
 
 Each entry should include its date, task/instance, observation, consequence, confidence or limitation, and links to supporting artifacts. Prefer a specific failure and remedy over a universal rule. Mark a hypothesis as a hypothesis.
 

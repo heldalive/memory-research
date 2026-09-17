@@ -1,15 +1,15 @@
 # Phase gates
 
-## Phase 1 — observe one research loop
+## Phase 1 — observe bounded research loops
 
 For at least seven elapsed days after the first autonomous research cycle begins:
 
-- Enable only the research manager and its serial child tasks.
+- Enable only research managers and their ordered child tasks; concurrency may grow with actual inference capacity, capped at eight.
 - Discover and inspect sources; build `refs/`, evidence notes, the wiki, and proposed comparisons.
-- Do not implement new memory systems, execute retrieved repository code, or scale to additional managers.
+- Do not implement new memory systems or execute retrieved repository code.
 - Keep funding work to brainstorming. No trades, purchases, paid services, account creation, or outreach follow from a funding note.
 
-The runner records the start timestamp; creating this repository or importing seed notes does not start the seven-day evidence window. Clock time establishes the minimum observation period, not the amount of research accomplished.
+The coordinator records the start timestamp; creating this repository or importing seed notes does not start the seven-day evidence window. Clock time establishes the minimum observation period, not the amount of research accomplished.
 
 The human-commissioned seed directory includes an earlier mechanical baseline and proposed experiments. Their presence does not authorize this loop to start implementation or imply they were produced autonomously.
 
