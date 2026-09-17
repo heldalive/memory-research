@@ -37,6 +37,12 @@
       "role": "manager_plan",
       "status": "completed",
       "summary": "Advance the research manager to define a bounded question comparing dynamic vs. static memory under fixed token budgets using specific benchmarks."
+    },
+    {
+      "id": "research-1789626594197-06-researcher",
+      "role": "researcher",
+      "status": "running",
+      "summary": "researcher is working"
     }
   ],
   "status": "active",
