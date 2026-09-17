@@ -25,6 +25,12 @@
       "role": "planner",
       "status": "completed",
       "summary": "Pivot to benchmarking dynamic vs. static memory using LongMemEval. Identify 4 sources with empirical data under fixed token constraints."
+    },
+    {
+      "id": "research-1789637845413-04-plan-review",
+      "role": "plan_review",
+      "status": "running",
+      "summary": "plan review is working"
     }
   ],
   "status": "active",
