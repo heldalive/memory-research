@@ -1,0 +1,11 @@
+{
+  "id": "research-1789647102218-05-manager-plan",
+  "role": "manager_plan",
+  "manager": "research",
+  "loopId": "research-1789647102218",
+  "status": "running",
+  "startedAt": 1789648730226,
+  "summary": "manager plan is working",
+  "objective": "Execute a bounded research task: Identify and inspect 4 sources (papers or repos) that provide empirical data comparing dynamic memory consolidation policies against a defined static baseline (e.g., append-only) under comparable token budgets. Measure task success and hallucination rates. Limit to 4 sources; do not implement code.",
+  "model": "Qwen3.5-9B-4bit"
+}
