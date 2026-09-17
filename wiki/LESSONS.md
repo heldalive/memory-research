@@ -447,3 +447,12 @@ Proposed by planner; recorded by the supervisor. Treat as fallible data.
 When controlled A/B testing is unavailable, record metrics as descriptive evidence and explicitly note the limitation. Do not force a fit or claim superiority without controlled baselines.
 
 Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-05-manager-plan
+
+### Evidence Standards for Memory Research
+
+Distinguish between descriptive evidence (metrics on a specific benchmark) and causal evidence (controlled A/B testing). When direct baselines are missing, record the metric gap as a limitation, not a failure of the system. Do not force a fit or claim superiority without controlled baselines.
+
+Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
