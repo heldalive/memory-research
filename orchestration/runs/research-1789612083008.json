@@ -43,6 +43,12 @@
       "role": "researcher",
       "status": "completed",
       "summary": "Completed a bounded discovery cycle on three primary benchmark papers. Full methods were inspected for LongMemEval, MemoryAgentBench, and MemConflict; no code was run. All three include some form of updating or conflicting information, but MemConflict most directly separates answer accuracy from retrieval and ranking. A controlled comparison should match model, history, and token budget while contrasting persistent memory with full-history reading, then probe changed facts and evidence retrieval."
+    },
+    {
+      "id": "research-1789612083008-07-deliverable-review",
+      "role": "deliverable_review",
+      "status": "running",
+      "summary": "deliverable review is working"
     }
   ],
   "status": "active",

@@ -16,5 +16,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789612083008-04-plan-review: plan_review; completed; The bounded research plan is relevant and feasible, with clear evidence requirements and a useful comparison proposal.
 - research-1789612083008-05-manager-plan: manager_plan; completed; Advance the existing plan to the researcher. The first review already accepted its scope and criteria; its minor stopping-rule ambiguity can be resolved during execution without another planning loop.
 - research-1789612083008-06-researcher: researcher; completed; Completed a bounded discovery cycle on three primary benchmark papers. Full methods were inspected for LongMemEval, MemoryAgentBench, and MemConflict; no code was run. All three include some form of updating or conflicting information, but MemConflict most directly separates answer accuracy from retrieval and ranking. A controlled comparison should match model, history, and token budget while contrasting persistent memory with full-history reading, then probe changed facts and evidence retrieval.
+- research-1789612083008-07-deliverable-review: deliverable_review; running; deliverable review is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
