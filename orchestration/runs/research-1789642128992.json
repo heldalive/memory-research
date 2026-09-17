@@ -37,6 +37,12 @@
       "role": "manager_plan",
       "status": "completed",
       "summary": "Advance to researcher with a revised, bounded task targeting specific benchmarks to compare dynamic vs. static memory under fixed token constraints."
+    },
+    {
+      "id": "research-1789642128992-06-researcher",
+      "role": "researcher",
+      "status": "running",
+      "summary": "researcher is working"
     }
   ],
   "status": "active",
