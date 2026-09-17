@@ -25,6 +25,12 @@
       "role": "planner",
       "status": "completed",
       "summary": "Bound one research-only audit of up to four primary agent-memory sources, centered on evidence against simple baselines at comparable budgets. Log exact queries and outcomes, inspect specified sections, separate author claims from inference, and stop by an auditable rule. No implementation, installation, execution, reproduction, or infrastructure changes are permitted."
+    },
+    {
+      "id": "research-1789613048990-04-plan-review",
+      "role": "plan_review",
+      "status": "running",
+      "summary": "plan review is working"
     }
   ],
   "status": "active",
