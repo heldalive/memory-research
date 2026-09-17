@@ -1,0 +1,11 @@
+{
+  "id": "research-1789619937785-02-orchestrator",
+  "role": "orchestrator",
+  "manager": "research",
+  "loopId": "research-1789619937785",
+  "status": "running",
+  "startedAt": 1789620313635,
+  "summary": "orchestrator is working",
+  "objective": "Study practical agent-memory methods and their evaluation. Assign the research manager one new bounded question; implementation remains disabled.",
+  "model": "Qwen3.5-9B-4bit"
+}

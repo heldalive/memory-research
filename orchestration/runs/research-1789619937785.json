@@ -13,6 +13,12 @@
       "role": "orchestrator",
       "status": "rejected",
       "summary": "Publish the bounded research record with explicit limitations regarding unverified stopping rules and incomplete baseline comparisons. No new research or implementation is permitted."
+    },
+    {
+      "id": "research-1789619937785-02-orchestrator",
+      "role": "orchestrator",
+      "status": "running",
+      "summary": "orchestrator is working"
     }
   ],
   "status": "active",

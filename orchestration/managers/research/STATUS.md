@@ -11,5 +11,6 @@ Goal: Study practical agent-memory methods and their evaluation. Assign the rese
 Plan reviews: 0/2. Deliverable reviews: 0/2.
 
 - research-1789619937785-01-orchestrator: orchestrator; rejected; Publish the bounded research record with explicit limitations regarding unverified stopping rules and incomplete baseline comparisons. No new research or implementation is permitted.
+- research-1789619937785-02-orchestrator: orchestrator; running; orchestrator is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
