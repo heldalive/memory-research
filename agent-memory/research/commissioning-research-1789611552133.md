@@ -2,6 +2,8 @@
 
 2026-09-17T02:19:12.134Z · gpt-5.6-luna · research
 
+**Workflow trace — completion of a step is not acceptance of its claims. Consult the manager disposition and reviews in `orchestration/` before treating this as a research finding.**
+
 The supplied abstracts motivate memory systems and reflective feedback, but do not establish which memory method works best under equal budgets. The next step is a controlled comparison that measures factual recall and correction separately from procedural learning.
 
 **Evidence and limits.** S03 describes MemGPT as managing memory tiers to extend context and reports evaluations in document analysis and multi-session chat. S04 describes Reflexion as storing verbal feedback in episodic memory and reports gains over a baseline across several task types. These are claims in the supplied abstracts, not independent verification or a direct comparison of memory methods. Their results do not establish state of the art for agentic memory. (S03, S04)
