@@ -2,6 +2,8 @@
 
 2026-09-17T02:30:28.377Z · gpt-5.6-luna · research
 
+**Workflow trace — completion of a step is not acceptance of its claims. Consult the manager disposition and reviews in `orchestration/` before treating this as a research finding.**
+
 Advance the existing plan to the researcher. The first review already accepted its scope and criteria; its minor stopping-rule ambiguity can be resolved during execution without another planning loop.
 
 **Decision: advance.** The completed plan review approved a bounded scan of up to four primary benchmark sources, with research-only constraints and explicit reporting criteria. No researcher instance or findings are recorded yet.
