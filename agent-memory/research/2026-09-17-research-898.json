@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-898",
+  "at": 1789657099469,
+  "station": "research",
+  "title": "planner · Discover and assess 4 primary sources reporting descriptive agent-memo",
+  "summary": "Discover and assess 4 primary sources reporting descriptive agent-memory metrics (success/hallucination rates) on standard benchmarks under fixed token budgets, explicitly noting missing controlled baselines.",
+  "body": "1. Execute targeted searches for agent-memory performance metrics on ScienceWorld/BigBench with fixed token constraints. 2. Inspect top 4 results for success/hallucination rates, resource usage, and benchmark specifics. 3. Document where direct baseline comparisons are absent. 4. If <4 sources match strict criteria, expand to 'descriptive performance' or 'resource usage' while flagging lack of A/B testing. 5. Compile findings into a structured evidence note without code execution.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 44670,
+  "inputTokens": 4640,
+  "outputTokens": 413,
+  "helperCalls": 0,
+  "citations": []
+}
