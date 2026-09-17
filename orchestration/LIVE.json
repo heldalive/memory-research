@@ -1,9 +1,9 @@
 {
   "id": "research-1789651535062",
   "branch": "manager/research-1789651535062",
-  "stage": "publish",
-  "status": "active",
-  "updatedAt": 1789655731050,
+  "stage": "complete",
+  "status": "complete",
+  "updatedAt": 1789655766596,
   "model": "Qwen3.5-9B-4bit",
   "instance": "research-1789651535062-08-manager-final",
   "instanceStatus": "completed",
