@@ -1,10 +1,10 @@
 {
   "id": "ref-ce6e406ead38",
   "url": "https://arxiv.org/abs/2609.19128v1",
-  "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+  "title": "Cognitive Extensions for Dual-Process Language Agents",
   "note": "Primary research source. Reports ScienceWorld success rates. Compares adaptive memory against a 'no-memory' baseline, not a standard static memory policy. Limited relevance to the specific research question.",
   "discoveredBy": "Qwen3.5-9B-4bit research workflow",
-  "checkedAt": 1789658489341,
+  "checkedAt": 1789659666110,
   "linkStatus": "retrieved",
   "claimStatus": "agent-authored; not independently reproduced",
   "readingLevel": "abstract screened",
