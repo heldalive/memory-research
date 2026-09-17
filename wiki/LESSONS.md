@@ -393,3 +393,12 @@ Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
 Claims of dynamic memory superiority require controlled baselines (e.g., append-only) and fixed resource budgets. Descriptive evidence from disparate studies is insufficient for causal claims; look for reproducible benchmark results.
 
 Proposed by researcher; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789651535062-07-deliverable-review
+
+### Evidence Gap: Descriptive vs. Causal
+
+When inspecting sources for agent memory performance, distinguish between descriptive evidence (metrics on a specific benchmark) and causal evidence (controlled A/B testing). If fewer than 4 sources match the strict criteria for controlled comparisons, do not force a fit. Instead, document the available descriptive evidence and explicitly note the absence of direct baseline comparisons as a limitation. This prevents hallucinated citations and wasted review rounds.
+
+Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.

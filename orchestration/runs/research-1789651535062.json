@@ -2,11 +2,11 @@
   "id": "research-1789651535062",
   "branch": "manager/research-1789651535062",
   "baseCommit": "498e8e217a8ea9f1df3d8d870402af653d158091",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "createdAt": 1789651535195,
   "goal": "Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets, explicitly noting where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.",
   "planReviews": 1,
-  "deliverableReviews": 0,
+  "deliverableReviews": 1,
   "instances": [
     {
       "id": "research-1789651535062-01-orchestrator",
@@ -47,8 +47,8 @@
     {
       "id": "research-1789651535062-07-deliverable-review",
       "role": "deliverable_review",
-      "status": "running",
-      "summary": "deliverable review is working"
+      "status": "completed",
+      "summary": "Researcher failed to find 4 sources meeting criteria; 3 are non-empirical. Advance to next bounded task targeting specific benchmarks."
     }
   ],
   "status": "active",
