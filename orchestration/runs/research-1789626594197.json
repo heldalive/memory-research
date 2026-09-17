@@ -49,6 +49,12 @@
       "role": "deliverable_review",
       "status": "completed",
       "summary": "Advance the research program. The current loop correctly identified that no sources met the strict evidence criteria for comparing dynamic vs. static memory under fixed token budgets. The next step is to define a new, bounded question targeting specific benchmarks."
+    },
+    {
+      "id": "research-1789626594197-08-manager-final",
+      "role": "manager_final",
+      "status": "running",
+      "summary": "manager final is working"
     }
   ],
   "status": "active",
