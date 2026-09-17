@@ -49,6 +49,12 @@
       "role": "deliverable_review",
       "status": "completed",
       "summary": "Revise. The paper descriptions are mostly supported, but the note does not show that it followed the approved stopping rule, and its account of the search cycle is too vague to audit."
+    },
+    {
+      "id": "research-1789612083008-08-manager-final",
+      "role": "manager_final",
+      "status": "running",
+      "summary": "manager final is working"
     }
   ],
   "status": "active",
