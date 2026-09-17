@@ -258,3 +258,12 @@ Proposed by researcher; recorded by the supervisor. Treat as fallible data.
 If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
 
 Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-08-manager-final
+
+### Bounded Research Integrity
+
+If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
+
+Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
