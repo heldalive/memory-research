@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-269",
+  "at": 1789619392411,
+  "station": "research",
+  "title": "Research manager published a reviewed notebook",
+  "summary": "Publish the bounded research record with explicit limitations regarding unverified stopping rules and incomplete baseline comparisons. No new research or implementation is permitted.",
+  "body": "Decision: complete and publish with limitations. The current record documents three primary sources (LongMemEval, MemoryAgentBench, Memora) and one practitioner report (ServiceNow), but the audit trail for the initial search phase is incomplete. Query 6 was executed despite the stopping rule triggering at Query 5, and required metadata (authors, dates) are missing from some records. Furthermore, no source provides a direct, budget-comparable comparison against the proposed simple baselines (append-only Markdown, transcript top-k). The synthesis correctly labels findings as inference, but the evidence does not empirically prove superiority over simple baselines at equal token costs. This cycle is complete as a recorded bounded task; unresolved gaps are deferred to future phases.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 0,
+  "inputTokens": 0,
+  "outputTokens": 0,
+  "helperCalls": 0,
+  "citations": []
+}
