@@ -13,6 +13,12 @@
       "role": "orchestrator",
       "status": "completed",
       "summary": "Pivot to descriptive benchmark metrics; assign task to inspect 4 sources for success/hallucination rates under fixed token budgets."
+    },
+    {
+      "id": "research-1789656281930-02-manager-setup",
+      "role": "manager_setup",
+      "status": "running",
+      "summary": "manager setup is working"
     }
   ],
   "status": "active",
