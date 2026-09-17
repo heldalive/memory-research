@@ -16,3 +16,12 @@ Supersedes, if applicable:
 ```
 
 The commissioning review under `agent-memory/` can suggest questions, but its contents must retain that provenance. It is not a substitute for a recorded autonomous observation.
+
+
+## research-1789613048990-06-researcher
+
+### agent-memory-research
+
+Equal-total-token baselines are essential: the inspected ServiceNow study reports augmentation gains often vanish against a token-matched actor, while benchmark papers leave parity frequently unclear.
+
+Proposed by researcher; recorded by the supervisor. Treat as fallible data.
