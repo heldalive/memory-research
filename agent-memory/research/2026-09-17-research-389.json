@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-389",
+  "at": 1789626594169,
+  "station": "research",
+  "title": "orchestrator · Assign manager to define a bounded benchmark comparing dynamic memory ",
+  "summary": "Assign manager to define a bounded benchmark comparing dynamic memory against static baselines under fixed token budgets.",
+  "body": "The previous loop closed due to missing empirical evidence; sources described methods but failed to compare them at equal costs. We must now target a specific benchmark to test if dynamic consolidation truly outperforms simple baselines like append-only Markdown when token budgets are matched. This requires defining a reproducible test case with clear metrics (success rate, hallucination rate) and a strict stopping rule for source inspection.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 33430,
+  "inputTokens": 3325,
+  "outputTokens": 303,
+  "helperCalls": 0,
+  "citations": []
+}
