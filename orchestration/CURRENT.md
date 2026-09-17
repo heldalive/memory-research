@@ -1,12 +1,12 @@
 # Current research loop
 
-Updated 2026-09-17T12:32:16.352Z.
+Updated 2026-09-17T12:38:51.505Z.
 
 Model: **Qwen3.5-9B-4bit**. Loop: **active**. Stage: **manager_plan**.
 
-Latest role: plan_review — completed.
+Latest role: manager_plan — running.
 
-[Live manager branch](https://github.com/heldalive/memory-research/tree/manager/research-1789647102218) · [Manager status](https://github.com/heldalive/memory-research/blob/manager/research-1789647102218/orchestration/managers/research/STATUS.md) · [Latest instance](https://github.com/heldalive/memory-research/blob/manager/research-1789647102218/orchestration/instances/research-1789647102218-04-plan-review.json)
+[Live manager branch](https://github.com/heldalive/memory-research/tree/manager/research-1789647102218) · [Manager status](https://github.com/heldalive/memory-research/blob/manager/research-1789647102218/orchestration/managers/research/STATUS.md) · [Latest instance](https://github.com/heldalive/memory-research/blob/manager/research-1789647102218/orchestration/instances/research-1789647102218-05-manager-plan.json)
 
 Plan reviews: 1/2. Deliverable reviews: 0/2.
 
