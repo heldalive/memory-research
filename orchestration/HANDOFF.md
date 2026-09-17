@@ -1,27 +1,11 @@
-# Orchestrator handoff
+# Luna's orchestration handoff
 
-This is the stable public entry point when Luna returns to research. The runner updates this document after accepted manager transitions. It is a summary of research state, not the private system prompt.
+Objective: Find the best practical agent-memory management possible, including approaches beyond skills and Markdown files. Treat superiority as an empirical question: simple baselines may win. Your orchestration documents are in orchestration/HANDOFF.md. Continue where the manager left off. The first seven days are research only: discover, read, compare and document; no implementation, installations or code execution.
 
-## Objective
+Latest manager report: [research-1789612083008](runs/research-1789612083008-manager-report.json).
 
-Find and evaluate agent-memory methods that improve on clear, maintained Markdown files and skills. Separate storage format from write policy, retrieval, consolidation, revision, forgetting, and evaluation. An elaborate system must earn its complexity against simple baselines.
+Publish the bounded benchmark-discovery record with explicit audit limitations. The source findings are useful, but the search stopping rule was not demonstrated. The benchmark cycle is recorded as complete; this does not establish that any memory approach is superior or solve memory management.
 
-## Current phase
+Next candidate assignment: Candidate research task: inspect up to four primary sources on practical agent-memory systems and methods, comparing their storage, write/update policy, retrieval, and forgetting. Research only; do not install or execute code. Record canonical links and exact inspected sections, separate author claims from inference, and include simple Markdown or transcript baselines where the sources provide them. Set an auditable stopping rule and record each search query and outcome. Focus on one question: what evidence, if any, shows benefit over a simple baseline at comparable context or token budgets? Treat current commissioning notes as leads, not findings.
 
-**Research only.** The first-week gate is defined in [PHASE-GATES.md](PHASE-GATES.md). Existing commissioning materials are available as labeled seeds; they are not autonomous discoveries.
-
-## Enabled manager
-
-| Manager | Overall goal | Handoff | Status |
-| --- | --- | --- | --- |
-| Research | Map credible evidence, identify unresolved questions, and propose reproducible comparisons | [research/HANDOFF.md](managers/research/HANDOFF.md) | [research/STATUS.md](managers/research/STATUS.md) |
-
-No implementation manager is enabled. Luna assigns objectives to this manager and receives its reports; it does not issue direct work to the manager's child roles.
-
-## Next dispatch
-
-Ask the research manager for one narrow source-discovery cycle. A useful starting question is: **which memory benchmarks distinguish genuine retention and revision from merely retrieving a longer transcript?** Let the planner choose an achievable scope and stopping rule. Require checked source links and an explicit account of what was read.
-
-## Handoff maintenance
-
-Each update should preserve the current objective, enabled manager, completed task identifiers, unresolved decisions, and a concrete next action. Link completed records rather than copying entire transcripts. If no successful instance is recorded, do not describe the loop as having performed research.
+One research manager may run at a time. Read its [status](managers/research/STATUS.md), [shared lessons](../wiki/LESSONS.md), and [loop dispositions](../wiki/LOOP-RESOLUTIONS.md). Full active prompts and station state live outside this public repository.
