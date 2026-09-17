@@ -2,7 +2,7 @@
 
 Analyze the paper with DOI 10.1145/3582961.3583012 for evidence of controlled memory retention experiments under token-constrained conditions with explicit baseline reporting and measurable state evolution metrics. Summarize findings in one paragraph with direct quotes if applicable.
 
-Next role: deliverable_review.
+Next role: manager_final.
 
 Analyze the paper with DOI 10.1145/3582961.3583012 for evidence of controlled memory retention experiments under token-constrained conditions with explicit baseline reporting and measurable state evolution metrics. Summarize findings in one paragraph with direct quotes if applicable.
 

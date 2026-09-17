@@ -2,9 +2,9 @@
   "id": "research-cloud-1789670408001-3e6b64",
   "branch": "manager/research-cloud-1789670408001-3e6b64",
   "goal": "Investigate whether any peer-reviewed papers from 2022 to 2024 describe a controlled experiment evaluating memory retention or state evolution in agents using a shared, token-constrained benchmark with measurable memory usage metrics and explicit baseline reporting. Limit to one source; do not implement code or systems.",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 1,
-  "deliverableReviews": 1,
+  "deliverableReviews": 2,
   "instances": [
     {
       "id": "research-cloud-1789670408001-3e6b64-1-orchestrator",
@@ -54,6 +54,11 @@
     {
       "id": "research-cloud-1789670408001-3e6b64-9-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789670408001-3e6b64-10-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
