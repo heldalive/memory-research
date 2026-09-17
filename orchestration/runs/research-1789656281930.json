@@ -31,6 +31,12 @@
       "role": "plan_review",
       "status": "completed",
       "summary": "Plan fails feasibility: 4 sources with controlled baselines under fixed token budgets likely unfindable. Pivot to descriptive metrics on specific benchmarks, explicitly noting lack of causal evidence."
+    },
+    {
+      "id": "research-1789656281930-05-manager-plan",
+      "role": "manager_plan",
+      "status": "running",
+      "summary": "manager plan is working"
     }
   ],
   "status": "active",
