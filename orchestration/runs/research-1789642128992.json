@@ -13,6 +13,12 @@
       "role": "orchestrator",
       "status": "completed",
       "summary": "Pivot to inspecting specific benchmarks for descriptive evidence comparing dynamic vs. static memory under fixed token budgets."
+    },
+    {
+      "id": "research-1789642128992-02-manager-setup",
+      "role": "manager_setup",
+      "status": "running",
+      "summary": "manager setup is working"
     }
   ],
   "status": "active",

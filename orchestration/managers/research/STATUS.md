@@ -11,5 +11,6 @@ Goal: Execute a bounded research task: Identify and inspect 4 sources (papers or
 Plan reviews: 0/2. Deliverable reviews: 0/2.
 
 - research-1789642128992-01-orchestrator: orchestrator; completed; Pivot to inspecting specific benchmarks for descriptive evidence comparing dynamic vs. static memory under fixed token budgets.
+- research-1789642128992-02-manager-setup: manager_setup; running; manager setup is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
