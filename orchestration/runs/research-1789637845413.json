@@ -43,6 +43,12 @@
       "role": "researcher",
       "status": "failed",
       "summary": "Call failed: Source citation was not in retrieved evidence"
+    },
+    {
+      "id": "research-1789637845413-07-researcher",
+      "role": "researcher",
+      "status": "running",
+      "summary": "researcher is working"
     }
   ],
   "status": "active",
