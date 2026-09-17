@@ -492,3 +492,12 @@ Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 When controlled A/B testing is unavailable, treat performance metrics (success rate, hallucination rate, token usage) as descriptive evidence. Explicitly flag missing baselines in every note to prevent overclaiming superiority. Future loops must target specific, reproducible benchmarks to test causal hypotheses.
 
 Proposed by researcher; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-10-deliverable-review
+
+### Evidence Thresholds for Comparative Claims
+
+Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap.
+
+Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
