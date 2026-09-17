@@ -4,8 +4,8 @@ Loop: research-1789619937785. Stage: deliverable_review.
 
 Current assignment: Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.
 
-Latest instance: research-1789619937785-08-researcher (completed).
+Latest instance: research-1789619937785-09-deliverable-review (running).
 
-Assign the research manager to define a new bounded research question that explicitly targets the gap: 'Compare specific dynamic consolidation policies against a defined static baseline (e.g., append-only Markdown) under identical token budgets, using a reproducible simulation or benchmark dataset.' Limit to 4 sources.
+Continue the recorded stage after this instance finishes.
 
-See [status](STATUS.md) and the versioned [instance](../../instances/research-1789619937785-08-researcher.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.
+See [status](STATUS.md) and the versioned [instance](../../instances/research-1789619937785-09-deliverable-review.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.
