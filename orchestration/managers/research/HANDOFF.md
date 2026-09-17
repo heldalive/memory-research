@@ -1,11 +1,11 @@
 # Research manager handoff
 
-Loop: research-1789656281930. Stage: manager_final.
+Loop: research-1789656281930. Stage: publish.
 
 Current assignment: Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. If fewer than 4 sources match the criteria, expand search terms to include 'descriptive performance' or 'resource usage' without requiring direct baseline comparisons, but strictly note the absence of controlled A/B testing. Limit to 4 sources; do not implement code.
 
-Latest instance: research-1789656281930-11-manager-final (running).
+Latest instance: research-1789656281930-11-manager-final (completed).
 
-Continue the recorded stage after this instance finishes.
+Execute a bounded research task: Identify and inspect 4 sources reporting descriptive performance metrics (success rate, token usage, hallucination rate) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.
 
 See [status](STATUS.md) and the versioned [instance](../../instances/research-1789656281930-11-manager-final.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.

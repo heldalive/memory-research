@@ -2,7 +2,7 @@
   "id": "research-1789656281930",
   "branch": "manager/research-1789656281930",
   "baseCommit": "3570fabd033e1726b39d6288550c6779f02304ea",
-  "stage": "manager_final",
+  "stage": "publish",
   "createdAt": 1789656282060,
   "goal": "Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. If fewer than 4 sources match the criteria, expand search terms to include 'descriptive performance' or 'resource usage' without requiring direct baseline comparisons, but strictly note the absence of controlled A/B testing. Limit to 4 sources; do not implement code.",
   "planReviews": 1,
@@ -71,8 +71,8 @@
     {
       "id": "research-1789656281930-11-manager-final",
       "role": "manager_final",
-      "status": "running",
-      "summary": "manager final is working"
+      "status": "completed",
+      "summary": "Current evidence insufficient for comparative claims; pivot to descriptive metrics on a single benchmark (BigBench)."
     }
   ],
   "status": "active",

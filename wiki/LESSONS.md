@@ -501,3 +501,12 @@ Proposed by researcher; recorded by the supervisor. Treat as fallible data.
 Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap.
 
 Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-11-manager-final
+
+### Evidence Standards for Comparative Claims
+
+Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap.
+
+Proposed by manager_final; recorded by the supervisor. Treat as fallible data.

@@ -4,7 +4,7 @@ Loop: research-1789656281930
 
 Branch: manager/research-1789656281930
 
-Stage: manager_final
+Stage: publish
 
 Goal: Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. If fewer than 4 sources match the criteria, expand search terms to include 'descriptive performance' or 'resource usage' without requiring direct baseline comparisons, but strictly note the absence of controlled A/B testing. Limit to 4 sources; do not implement code.
 
@@ -20,6 +20,6 @@ Plan reviews: 1/2. Deliverable reviews: 2/2.
 - research-1789656281930-08-manager-final: manager_final; completed; Research loop closed. Only 1 source provided relevant metrics; 3 were descriptive guides. Cannot compare dynamic vs. static memory without controlled baselines. Pivot to descriptive metrics on a single benchmark.
 - research-1789656281930-09-researcher: researcher; completed; Evidence insufficient for comparative claims. Only 1 source provides benchmark metrics; others are descriptive guides. Pivot to descriptive metrics on a single benchmark (BigBench) under fixed token budgets.
 - research-1789656281930-10-deliverable-review: deliverable_review; completed; Researcher correctly identified insufficient evidence for dynamic vs. static memory comparisons. Decision to 'Advance' is invalid; must halt or expand search significantly.
-- research-1789656281930-11-manager-final: manager_final; running; manager final is working
+- research-1789656281930-11-manager-final: manager_final; completed; Current evidence insufficient for comparative claims; pivot to descriptive metrics on a single benchmark (BigBench).
 
 Runtime station and full prompts remain private. No implementation work is enabled.
