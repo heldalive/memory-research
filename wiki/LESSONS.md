@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: When evaluating agent memory systems, prioritize controlled, observable experiments with explicit baseline documentation to ensure scientific validity and avoid uncontrolled or indirect inferences.
 - plan review: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions.
 - manager plan: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions.
 - researcher: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions.'
@@ -40,5 +39,6 @@
 - manager setup: When evaluating agent memory systems, a bounded, evidence-based investigation into primary-source preprints with explicit experimental design and measurable state tracking is essential to establish scientific validity without implementation or full-text dependency.'
 - planner: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
 - plan review: Agent memory evaluation must be grounded in primary-source, verifiable experimental design with explicit, measurable state tracking under controlled constraints to establish scientific validity
+- manager plan: Agent memory evaluation must be grounded in primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
