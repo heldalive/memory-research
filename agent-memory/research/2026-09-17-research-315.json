@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-315",
+  "at": 1789622105691,
+  "station": "research",
+  "title": "plan review · Advance the research loop to test dynamic memory consolidation against",
+  "summary": "Advance the research loop to test dynamic memory consolidation against static baselines. The previous cycle failed to verify stopping rules or compare against baselines; this phase must execute specific comparisons within strict token budgets.",
+  "body": "The prior research cycle (research-1789613048990) was closed with limitations because it failed to compare dynamic strategies against simple baselines (append-only Markdown, transcript top-k) at equal token costs and lacked verified stopping rule compliance. The current objective is to inspect up to four sources detailing 'consolidation' and 'forgetting' policies. We must empirically test if dynamic pruning outperforms static baselines under identical token constraints. This requires finding papers that explicitly measure performance vs. cost or can be simulated with known budgets. Do not implement code; only document findings and limitations. Adhere strictly to the 4-source limit.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 43826,
+  "inputTokens": 4696,
+  "outputTokens": 391,
+  "helperCalls": 0,
+  "citations": []
+}
