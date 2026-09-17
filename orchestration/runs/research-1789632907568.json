@@ -2,7 +2,7 @@
   "id": "research-1789632907568",
   "branch": "manager/research-1789632907568",
   "baseCommit": "bca3ed22a1c1061cb3ac9fd07b1727b5b4c246c9",
-  "stage": "planner",
+  "stage": "plan_review",
   "createdAt": 1789632907682,
   "goal": "Execute a bounded research task: Identify and inspect 4 sources (papers or repos) that provide empirical data comparing dynamic memory consolidation policies against a defined static baseline (e.g., append-only) under fixed token budgets. Measure task success and hallucination rates. Limit to 4 sources; do not implement code.",
   "planReviews": 0,
@@ -23,8 +23,8 @@
     {
       "id": "research-1789632907568-03-planner",
       "role": "planner",
-      "status": "running",
-      "summary": "planner is working"
+      "status": "completed",
+      "summary": "Plan to identify 4 sources comparing dynamic vs. static agent memory under fixed token budgets, targeting LongMemEval and similar benchmarks."
     }
   ],
   "status": "active",
