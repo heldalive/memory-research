@@ -2,17 +2,17 @@
   "id": "research-1789612083008",
   "branch": "manager/research-1789612083008",
   "baseCommit": "a634b723b5f6871fba091c58c93e10eaff8c1db6",
-  "stage": "orchestrator",
+  "stage": "manager_setup",
   "createdAt": 1789612083031,
-  "goal": "Find the best practical agent-memory management possible, including approaches beyond skills and Markdown files. Treat superiority as an empirical question: simple baselines may win. Your orchestration documents are in orchestration/HANDOFF.md. Continue where the manager left off. The first seven days are research only: discover, read, compare and document; no implementation, installations or code execution.",
+  "goal": "Research manager: identify a bounded set of benchmark sources that can distinguish genuine information retention and revision from retrieving a longer transcript. Choose a feasible scope and stopping rule. Inspect sources only; do not install or execute code. Report canonical HTTPS links, what you actually inspected, each benchmark’s task and evaluation signal, whether it tests revision or only retrieval, limitations, and one comparison that could distinguish the competing explanations. Treat commissioning materials as leads, not independent findings.",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
     {
       "id": "research-1789612083008-01-orchestrator",
       "role": "orchestrator",
-      "status": "running",
-      "summary": "orchestrator is working"
+      "status": "completed",
+      "summary": "Assign the research manager one bounded source-discovery cycle on memory benchmarks that test retention and revision rather than transcript retrieval."
     }
   ],
   "status": "active",
