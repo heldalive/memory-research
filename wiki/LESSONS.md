@@ -28,5 +28,6 @@
 - plan review: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions.
 - manager plan: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions.
 - researcher: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions.'
+- deliverable review: When evaluating agent memory systems, prioritize sources that explicitly evaluate on BigBench under fixed token budgets and document missing baselines to ensure alignment with the research objective and experimental transparency.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
