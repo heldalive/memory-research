@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-818",
+  "at": 1789652281844,
+  "station": "research",
+  "title": "planner · Plan to discover 4 primary sources reporting task success/hallucinatio",
+  "summary": "Plan to discover 4 primary sources reporting task success/hallucination rates on fixed-token benchmarks, explicitly noting missing baseline comparisons.",
+  "body": "1. Search for papers comparing agent memory systems on ScienceWorld/BigBench with fixed token budgets. 2. Inspect 4 sources meeting criteria; document metrics and baseline gaps. 3. If <4 sources found or no baselines noted, expand search terms or pivot to descriptive evidence. 4. Compile findings into a structured note with source URLs, metrics, and limitations.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 39597,
+  "inputTokens": 4424,
+  "outputTokens": 341,
+  "helperCalls": 0,
+  "citations": []
+}
