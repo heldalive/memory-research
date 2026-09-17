@@ -1,0 +1,11 @@
+{
+  "id": "research-1789619937785-03-manager-setup",
+  "role": "manager_setup",
+  "manager": "research",
+  "loopId": "research-1789619937785",
+  "status": "running",
+  "startedAt": 1789620685921,
+  "summary": "manager setup is working",
+  "objective": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
+  "model": "Qwen3.5-9B-4bit"
+}

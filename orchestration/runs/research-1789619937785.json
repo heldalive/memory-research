@@ -19,6 +19,12 @@
       "role": "orchestrator",
       "status": "completed",
       "summary": "Assign research on empirical memory consolidation and forgetting policies to test if dynamic pruning outperforms static baselines at equal token costs."
+    },
+    {
+      "id": "research-1789619937785-03-manager-setup",
+      "role": "manager_setup",
+      "status": "running",
+      "summary": "manager setup is working"
     }
   ],
   "status": "active",

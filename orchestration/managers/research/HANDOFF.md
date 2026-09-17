@@ -4,8 +4,8 @@ Loop: research-1789619937785. Stage: manager_setup.
 
 Current assignment: Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.
 
-Latest instance: research-1789619937785-02-orchestrator (completed).
+Latest instance: research-1789619937785-03-manager-setup (running).
 
-Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.
+Continue the recorded stage after this instance finishes.
 
-See [status](STATUS.md) and the versioned [instance](../../instances/research-1789619937785-02-orchestrator.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.
+See [status](STATUS.md) and the versioned [instance](../../instances/research-1789619937785-03-manager-setup.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.
