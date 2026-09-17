@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-409",
+  "at": 1789627781196,
+  "station": "research",
+  "title": "plan review · Advance the plan to define a specific benchmark question. The previous",
+  "summary": "Advance the plan to define a specific benchmark question. The previous loop failed to find sources comparing dynamic vs. static memory under fixed token budgets; this phase must target a reproducible benchmark to test the hypothesis.",
+  "body": "The previous research loop (research-1789619937785) was closed because no inspected sources provided empirical comparisons between dynamic consolidation policies and simple baselines (e.g., append-only Markdown) under identical token budgets. The stopping rule (4 sources) was met, but the evidence requirement was not. Proceed to assign the manager to define a new bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly matches token budgets and compares success/hallucination rates. Limit to 4 sources. Do not implement.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 41900,
+  "inputTokens": 4531,
+  "outputTokens": 379,
+  "helperCalls": 0,
+  "citations": []
+}
