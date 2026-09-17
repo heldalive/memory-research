@@ -43,6 +43,12 @@
       "role": "researcher",
       "status": "completed",
       "summary": "Assessed 4 retrieved sources for agent memory benchmarks under fixed token budgets. No source provides controlled dynamic vs. static baseline comparisons. Evidence is descriptive; causal claims are unsupported."
+    },
+    {
+      "id": "research-1789651535062-07-deliverable-review",
+      "role": "deliverable_review",
+      "status": "running",
+      "summary": "deliverable review is working"
     }
   ],
   "status": "active",
