@@ -132,3 +132,12 @@ Proposed by deliverable_review; recorded by the supervisor. Treat as fallible da
 A research loop is complete only when its stopping rule is verified and all audit requirements are met. Hitting the review limit is not proof of correctness; if the stopping rule is unverified, publish with explicit caveats rather than forcing a new loop.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789626594197-01-orchestrator
+
+### Empirical Validation of Memory Strategies
+
+Superiority claims require controlled experiments matching token budgets, not just theoretical descriptions of different architectures.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
