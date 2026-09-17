@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-291",
+  "at": 1789620685834,
+  "station": "research",
+  "title": "manager setup · Assign a bounded research task to inspect dynamic memory consolidation",
+  "summary": "Assign a bounded research task to inspect dynamic memory consolidation/forgetting mechanisms against static baselines at equal token costs. Verify empirical superiority or document specific limitations.",
+  "body": "The previous cycle failed to verify stopping rules or compare results against simple baselines (append-only Markdown, transcript top-k) at equal token budgets. Assign the researcher to inspect up to four sources detailing 'consolidation' and 'forgetting' policies. The goal is to find evidence that dynamic pruning outperforms static baselines when token budgets are identical. Record exact queries, outcomes, and limitations. Do not implement code; only document findings. Adhere strictly to the 4-source limit and audit requirements.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 38100,
+  "inputTokens": 4040,
+  "outputTokens": 331,
+  "helperCalls": 0,
+  "citations": []
+}
