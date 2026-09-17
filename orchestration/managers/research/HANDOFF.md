@@ -1,11 +1,11 @@
 # Research manager handoff
 
-Loop: research-1789613048990. Stage: publish.
+Loop: research-1789619937785. Stage: orchestrator.
 
-Current assignment: Planner brief: Design the bounded research-only loop described above. Specify the question, source eligibility and inspection fields, exact query-log format, comparison-baseline and budget-comparability checks, author-claim versus inference labels, limitations capture, and an auditable stopping rule. Include explicit safeguards against implementation, installation, code execution, or result reproduction. Return a concise plan ready for serial researcher execution, with no invented evidence.
+Current assignment: Find the best practical agent-memory management possible, including approaches beyond skills and Markdown files. Treat superiority as an empirical question: simple baselines may win. Your orchestration documents are in orchestration/HANDOFF.md. Continue where the manager left off. The first seven days are research only: discover, read, compare and document; no implementation, installations or code execution.
 
-Latest instance: research-1789613048990-08-manager-final (completed).
+Latest instance: research-1789619937785-01-orchestrator (running).
 
-Publish the current bounded research record to the public repository with attached limitations. Do not initiate new research loops or implementation phases. The unresolved gaps (stopping rule compliance, baseline comparability) remain deferred for future commissioning.
+Continue the recorded stage after this instance finishes.
 
-See [status](STATUS.md) and the versioned [instance](../../instances/research-1789613048990-08-manager-final.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.
+See [status](STATUS.md) and the versioned [instance](../../instances/research-1789619937785-01-orchestrator.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.
