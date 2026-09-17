@@ -1,0 +1,16 @@
+{
+  "id": "research-cloud-1789673900113-a2a539",
+  "branch": "manager/research-cloud-1789673900113-a2a539",
+  "goal": "Extract and analyze full metadata and abstract of arXiv preprint 2405.12345 for explicit evidence of a shared benchmark, dynamic input streams, baseline comparisons, and state evolution metrics",
+  "stage": "manager_setup",
+  "planReviews": 0,
+  "deliverableReviews": 0,
+  "instances": [
+    {
+      "id": "research-cloud-1789673900113-a2a539-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}
