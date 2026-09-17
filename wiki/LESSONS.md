@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- Current literature lacks controlled A/B tests comparing dynamic vs. static memory under fixed token budgets. Only one source (arXiv:2609.19128v1) provides benchmark data, but it compares adaptive memory to a 'no-memory' baseline, not a standard static policy. Claims of superiority are unsupported by direct baselines.
 - Proposed by researcher; recorded by the supervisor. Treat as fallible data.
 - Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap. Advancing on a single partially relevant source violates the evidence standards.
 - Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
@@ -40,5 +39,6 @@
 - manager plan: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions
 - researcher: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions
 - deliverable review: When evaluating agent memory systems, require explicit, primary-source evidence of controlled experiments with token budgeting and transparent memory state tracking to avoid conflating inference optimization with evaluation capability
+- manager final: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capability
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
