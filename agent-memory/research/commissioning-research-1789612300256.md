@@ -2,6 +2,8 @@
 
 2026-09-17T02:31:40.257Z · gpt-5.6-luna · research
 
+**Workflow trace — completion of a step is not acceptance of its claims. Consult the manager disposition and reviews in `orchestration/` before treating this as a research finding.**
+
 Revise. The paper descriptions are mostly supported, but the note does not show that it followed the approved stopping rule, and its account of the search cycle is too vague to audit.
 
 ## Decision: revise
