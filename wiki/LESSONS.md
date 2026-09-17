@@ -14,5 +14,6 @@
 - Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 - manager setup: When evaluating agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions; avoid overreliance on uncontrolled or anecdotal evidence, and explicitly document missing baselines to maintain scientific integrity in research design.
 - planner: When evaluating agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions; explicitly document missing baselines to maintain scientific rigor and avoid overreliance on uncontrolled or anecdotal evidence.
+- plan review: When evaluating agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when direct sources are unavailable to prevent overreliance on unverified or indirect evidence.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
