@@ -13,6 +13,12 @@
       "role": "orchestrator",
       "status": "completed",
       "summary": "Assign the research manager one bounded source-discovery cycle on memory benchmarks that test retention and revision rather than transcript retrieval."
+    },
+    {
+      "id": "research-1789612083008-02-manager-setup",
+      "role": "manager_setup",
+      "status": "running",
+      "summary": "manager setup is working"
     }
   ],
   "status": "active",

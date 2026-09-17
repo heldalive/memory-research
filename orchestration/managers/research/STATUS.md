@@ -11,5 +11,6 @@ Goal: Research manager: identify a bounded set of benchmark sources that can dis
 Plan reviews: 0/2. Deliverable reviews: 0/2.
 
 - research-1789612083008-01-orchestrator: orchestrator; completed; Assign the research manager one bounded source-discovery cycle on memory benchmarks that test retention and revision rather than transcript retrieval.
+- research-1789612083008-02-manager-setup: manager_setup; running; manager setup is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
