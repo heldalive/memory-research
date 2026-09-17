@@ -141,3 +141,12 @@ Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 Superiority claims require controlled experiments matching token budgets, not just theoretical descriptions of different architectures.
 
 Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789626594197-02-manager-setup
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
