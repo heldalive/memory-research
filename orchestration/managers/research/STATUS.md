@@ -4,13 +4,13 @@ Loop: research-1789632907568
 
 Branch: manager/research-1789632907568
 
-Stage: manager_setup
+Stage: planner
 
 Goal: Execute a bounded research task: Identify and inspect 4 sources (papers or repos) that provide empirical data comparing dynamic memory consolidation policies against a defined static baseline (e.g., append-only) under fixed token budgets. Measure task success and hallucination rates. Limit to 4 sources; do not implement code.
 
 Plan reviews: 0/2. Deliverable reviews: 0/2.
 
 - research-1789632907568-01-orchestrator: orchestrator; completed; Assign manager to benchmark dynamic vs. static memory under fixed token budgets using LongMemEval.
-- research-1789632907568-02-manager-setup: manager_setup; running; manager setup is working
+- research-1789632907568-02-manager-setup: manager_setup; completed; Define a bounded research task targeting LongMemEval to empirically compare dynamic vs. static memory under fixed token budgets.
 
 Runtime station and full prompts remain private. No implementation work is enabled.

@@ -204,3 +204,12 @@ Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 When comparing memory strategies, always fix the token budget as a variable. A method is only 'better' if it achieves higher task success or lower hallucination rates within the same strict resource constraint, not just by using more tokens.
 
 Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-02-manager-setup
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
