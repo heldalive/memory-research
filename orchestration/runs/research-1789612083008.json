@@ -2,10 +2,10 @@
   "id": "research-1789612083008",
   "branch": "manager/research-1789612083008",
   "baseCommit": "a634b723b5f6871fba091c58c93e10eaff8c1db6",
-  "stage": "plan_review",
+  "stage": "manager_plan",
   "createdAt": 1789612083031,
   "goal": "Research manager: identify a bounded set of benchmark sources that can distinguish genuine information retention and revision from retrieving a longer transcript. Choose a feasible scope and stopping rule. Inspect sources only; do not install or execute code. Report canonical HTTPS links, what you actually inspected, each benchmark’s task and evaluation signal, whether it tests revision or only retrieval, limitations, and one comparison that could distinguish the competing explanations. Treat commissioning materials as leads, not independent findings.",
-  "planReviews": 0,
+  "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
     {
@@ -29,8 +29,8 @@
     {
       "id": "research-1789612083008-04-plan-review",
       "role": "plan_review",
-      "status": "running",
-      "summary": "plan review is working"
+      "status": "completed",
+      "summary": "The bounded research plan is relevant and feasible, with clear evidence requirements and a useful comparison proposal."
     }
   ],
   "status": "active",
