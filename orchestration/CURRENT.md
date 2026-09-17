@@ -1,13 +1,12 @@
-# Current research loop
+# Current research
 
-Updated 2026-09-17T16:58:32.436Z.
+Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-Model: **Qwen3.5-9B-4bit**. Loop: **active**. Stage: **manager_setup**.
+- [research-cloud-1789665847642](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789665847642): **planner**. Execute a bounded research task: Identify and inspect 4 sources reporting descriptive performance metrics (success rate, token usage, hallucination rate) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.
 
-Latest role: orchestrator — completed.
+Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
-[Live manager branch](https://github.com/heldalive/memory-research/tree/manager/research-1789664263540) · [Manager status](https://github.com/heldalive/memory-research/blob/manager/research-1789664263540/orchestration/managers/research/STATUS.md) · [Latest instance](https://github.com/heldalive/memory-research/blob/manager/research-1789664263540/orchestration/instances/research-1789664263540-01-orchestrator.json)
-
-Plan reviews: 0/2. Deliverable reviews: 0/2.
-
-An active loop publishes its instances on its own branch. Main contains completed loops and session traces. During cooldown no model role is running; the saved loop resumes at its recorded stage.
+Latest completed manager outcomes:
+- Research loop closed after two reviews. No sources provide controlled empirical comparisons of dynamic vs. static memory under fixed token budgets. Pivot to descriptive evidence on standard benchmarks. Next: Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets, explicitly noting where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.
+- Research loop closed. No sources provide controlled dynamic vs. static memory comparisons under fixed budgets. Pivot to descriptive benchmark metrics. Next: Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. If fewer than 4 sources match the criteria, expand search terms to include 'descriptive performance' or 'resource usage' without requiring direct baseline comparisons, but strictly note the absence of controlled A/B testing. Limit to 4 sources; do not implement code.
+- Current evidence insufficient for comparative claims; pivot to descriptive metrics on a single benchmark (BigBench). Next: Execute a bounded research task: Identify and inspect 4 sources reporting descriptive performance metrics (success rate, token usage, hallucination rate) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.

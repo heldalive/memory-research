@@ -1,12 +1,14 @@
 {
-  "id": "research-1789664263540",
-  "branch": "manager/research-1789664263540",
-  "stage": "manager_setup",
-  "status": "active",
-  "updatedAt": 1789664312436,
-  "model": "Qwen3.5-9B-4bit",
-  "instance": "research-1789664263540-01-orchestrator",
-  "instanceStatus": "completed",
-  "planReviews": 0,
-  "deliverableReviews": 0
+  "updatedAt": 1789665969151,
+  "model": "Qwen3 · 4B",
+  "engine": "shared inference pool",
+  "completed": 95,
+  "loops": [
+    {
+      "id": "research-cloud-1789665847642",
+      "branch": "manager/research-cloud-1789665847642",
+      "stage": "planner",
+      "goal": "Execute a bounded research task: Identify and inspect 4 sources reporting descriptive performance metrics (success rate, token usage, hallucination rate) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. Limit to 4 sources; do not implement code."
+    }
+  ]
 }
