@@ -13,6 +13,12 @@
       "role": "orchestrator",
       "status": "completed",
       "summary": "Advance one bounded research loop to audit practical memory evidence against simple baselines."
+    },
+    {
+      "id": "research-1789613048990-02-manager-setup",
+      "role": "manager_setup",
+      "status": "running",
+      "summary": "manager setup is working"
     }
   ],
   "status": "active",

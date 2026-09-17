@@ -11,5 +11,6 @@ Goal: Inspect up to four primary sources on practical agent-memory systems or me
 Plan reviews: 0/2. Deliverable reviews: 0/2.
 
 - research-1789613048990-01-orchestrator: orchestrator; completed; Advance one bounded research loop to audit practical memory evidence against simple baselines.
+- research-1789613048990-02-manager-setup: manager_setup; running; manager setup is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
