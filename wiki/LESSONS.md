@@ -35,5 +35,6 @@
 - manager final: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions and ensure scientific validity in the absence of available benchmarks or experimental designs.
 - orchestrator: Agent memory evaluation requires explicit support in benchmark frameworks for memory state tracking and budgeted inference workflows; without such design, performance claims remain unverifiable and non-comparable across systems or tasks.'
 - manager setup: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions about performance or feasibility without empirical validation or citation of verifiable data sources.
+- planner: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
