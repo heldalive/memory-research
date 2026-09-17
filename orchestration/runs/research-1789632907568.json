@@ -43,6 +43,12 @@
       "role": "researcher",
       "status": "completed",
       "summary": "Sources lack controlled dynamic-vs-static comparisons under fixed token budgets. Pivot to inspecting specific benchmarks (LongMemEval, MemoryAgentBench) for empirical data on task success and token usage."
+    },
+    {
+      "id": "research-1789632907568-07-deliverable-review",
+      "role": "deliverable_review",
+      "status": "running",
+      "summary": "deliverable review is working"
     }
   ],
   "status": "active",
