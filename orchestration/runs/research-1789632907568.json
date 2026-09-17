@@ -49,6 +49,12 @@
       "role": "deliverable_review",
       "status": "completed",
       "summary": "Researcher failed to find 4 sources comparing dynamic vs. static memory under fixed token budgets. Evidence is insufficient to support the hypothesis; task must be revised to match available data."
+    },
+    {
+      "id": "research-1789632907568-08-manager-final",
+      "role": "manager_final",
+      "status": "running",
+      "summary": "manager final is working"
     }
   ],
   "status": "active",
