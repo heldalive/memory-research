@@ -1,10 +1,10 @@
 {
   "id": "ref-073b41ff640a",
   "url": "https://arxiv.org/html/2604.20006",
-  "title": "From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents (Memora)",
-  "note": "Primary benchmark paper with persistent-state traces and forgetting-aware FAMA metric.",
+  "title": "From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents",
+  "note": "Primary Memora paper; inspected page confirms the cited benchmark and forgetting claims.",
   "discoveredBy": "Luna research worker",
-  "checkedAt": 1789616799591,
+  "checkedAt": 1789617663509,
   "linkStatus": "retrieved",
   "claimStatus": "agent-authored; not independently reproduced",
   "readingLevel": "see worker report",

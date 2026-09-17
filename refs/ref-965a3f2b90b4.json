@@ -2,9 +2,9 @@
   "id": "ref-965a3f2b90b4",
   "url": "https://www.servicenow.com/research/publication/sina-hajimiri-are-emnlp2026.html",
   "title": "Are Online Skill and Memory Modules Always Worth Their Tokens?",
-  "note": "Provider research abstract reporting token-matched vanilla baseline comparisons.",
+  "note": "Official ServiceNow page verifies the token-matched baseline and reported aggregate comparison.",
   "discoveredBy": "Luna research worker",
-  "checkedAt": 1789616799635,
+  "checkedAt": 1789617663508,
   "linkStatus": "outside fetch allowlist; needs review",
   "claimStatus": "agent-authored; not independently reproduced",
   "readingLevel": "see worker report"
