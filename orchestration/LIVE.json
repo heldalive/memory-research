@@ -1,12 +1,12 @@
 {
-  "id": "research-1789637845413",
-  "branch": "manager/research-1789637845413",
-  "stage": "researcher",
-  "status": "failed",
-  "updatedAt": 1789641134572,
+  "id": "research-1789642128992",
+  "branch": "manager/research-1789642128992",
+  "stage": "orchestrator",
+  "status": "active",
+  "updatedAt": 1789642130547,
   "model": "Qwen3.5-9B-4bit",
-  "instance": "research-1789637845413-07-researcher",
-  "instanceStatus": "failed",
-  "planReviews": 1,
+  "instance": "research-1789642128992-01-orchestrator",
+  "instanceStatus": "running",
+  "planReviews": 0,
   "deliverableReviews": 0
 }
