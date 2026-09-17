@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-465",
+  "at": 1789631149084,
+  "station": "research",
+  "title": "orchestrator · Assign manager to benchmark dynamic vs. static memory policies under f",
+  "summary": "Assign manager to benchmark dynamic vs. static memory policies under fixed token budgets using specific datasets.",
+  "body": "Previous loops failed to empirically compare dynamic consolidation against simple baselines (e.g., append-only Markdown) due to missing controlled experiments. The research program must now target a specific, reproducible benchmark to test if dynamic strategies outperform static ones when token costs are equal. This requires defining a strict comparison protocol with clear metrics (task success, hallucination rate) and limiting the scope to 4 sources to ensure feasibility within the current research-only phase.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 33826,
+  "inputTokens": 3050,
+  "outputTokens": 335,
+  "helperCalls": 0,
+  "citations": []
+}
