@@ -13,6 +13,12 @@
       "role": "orchestrator",
       "status": "completed",
       "summary": "Pivot to benchmarking dynamic vs. static memory using LongMemEval. Previous cycles lacked controlled experiments; this phase targets reproducible metrics."
+    },
+    {
+      "id": "research-1789637845413-02-manager-setup",
+      "role": "manager_setup",
+      "status": "running",
+      "summary": "manager setup is working"
     }
   ],
   "status": "active",
