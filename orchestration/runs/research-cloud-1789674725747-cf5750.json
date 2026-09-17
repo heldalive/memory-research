@@ -2,7 +2,7 @@
   "id": "research-cloud-1789674725747-cf5750",
   "branch": "manager/research-cloud-1789674725747-cf5750",
   "goal": "Investigate how environmental variation or time-series stimuli can be encoded in agent memory systems to induce measurable state transitions under controlled, variable input conditions, focusing on a single preprint or paper from 2023 to 2024 that explicitly models dynamic environmental change as a memory input stream with observable state drift over time. Limit to one source; do not implement systems or code.",
-  "stage": "planner",
+  "stage": "plan_review",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
@@ -14,6 +14,11 @@
     {
       "id": "research-cloud-1789674725747-cf5750-2-manager-setup",
       "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789674725747-cf5750-3-planner",
+      "role": "planner",
       "status": "completed"
     }
   ],
