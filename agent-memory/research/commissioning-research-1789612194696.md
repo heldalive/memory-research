@@ -2,6 +2,8 @@
 
 2026-09-17T02:29:54.696Z · gpt-5.6-luna · research
 
+**Workflow trace — completion of a step is not acceptance of its claims. Consult the manager disposition and reviews in `orchestration/` before treating this as a research finding.**
+
 Plan a bounded, research-only scan of primary benchmarks for persistent agent memory, focusing on whether they test retention and revision beyond access to longer transcripts. No research has been performed in this planning step.
 
 ## Scope
