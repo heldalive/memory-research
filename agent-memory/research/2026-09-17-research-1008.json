@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-1008",
+  "at": 1789663715531,
+  "station": "research",
+  "title": "Research manager published a reviewed notebook",
+  "summary": "Current evidence insufficient for comparative claims; pivot to descriptive metrics on a single benchmark (BigBench).",
+  "body": "The previous research loop failed to identify 4 sources with controlled baselines comparing dynamic vs. static memory. Only one source provided relevant metrics, and it lacked a standard static baseline. The authorized research program continues, but the specific hypothesis of dynamic superiority is deferred due to lack of causal evidence. The next bounded task must inspect sources reporting descriptive performance metrics (success rate, token usage) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets, explicitly documenting missing baselines.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 0,
+  "inputTokens": 0,
+  "outputTokens": 0,
+  "helperCalls": 0,
+  "citations": []
+}
