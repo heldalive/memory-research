@@ -1,0 +1,14 @@
+{
+  "id": "commissioning-research-1789612212205",
+  "at": 1789612212205,
+  "station": "research",
+  "title": "plan review · The bounded research plan is relevant and feasible, with clear evidenc",
+  "summary": "The bounded research plan is relevant and feasible, with clear evidence requirements and a useful comparison proposal.",
+  "body": "**Decision: advance.** The four-source cap, research-only constraints, and requirement to record a revision-testing gap make this achievable. Acceptance criteria cover task, evaluation signal, limitations, actual inspection, and a discriminating comparison.\n\nOne minor issue to resolve during execution: define “two successive query results” as two successive search queries, and record which queries produced no new qualifying sources. This makes the stopping rule auditable without changing scope.",
+  "model": "gpt-5.6-luna",
+  "durationMs": 12337,
+  "inputTokens": 12434,
+  "outputTokens": 492,
+  "helperCalls": 0,
+  "citations": []
+}
