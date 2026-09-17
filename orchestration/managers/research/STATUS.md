@@ -1,22 +1,20 @@
 # Research manager status
 
-Loop: research-1789651535062
+Completed loop: research-1789651535062
 
 Branch: manager/research-1789651535062
 
-Stage: publish
+Research loop closed. No sources provide controlled dynamic vs. static memory comparisons under fixed budgets. Pivot to descriptive benchmark metrics.
 
-Goal: Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets, explicitly noting where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.
+Next task: Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. If fewer than 4 sources match the criteria, expand search terms to include 'descriptive performance' or 'resource usage' without requiring direct baseline comparisons, but strictly note the absence of controlled A/B testing. Limit to 4 sources; do not implement code.
 
-Plan reviews: 1/2. Deliverable reviews: 1/2.
+Plan reviews 1/2; deliverable reviews 1/2.
 
-- research-1789651535062-01-orchestrator: orchestrator; completed; Assigning a bounded task to benchmark memory systems on fixed-token tasks, explicitly noting missing direct baseline comparisons.
-- research-1789651535062-02-manager-setup: manager_setup; completed; Assign planner to define a bounded research protocol for comparing dynamic vs. static agent memory on fixed-token benchmarks, explicitly noting missing baselines.
-- research-1789651535062-03-planner: planner; completed; Plan to discover 4 primary sources reporting task success/hallucination rates on fixed-token benchmarks, explicitly noting missing baseline comparisons.
-- research-1789651535062-04-plan-review: plan_review; completed; Plan fails feasibility: No existing literature reports task success/hallucination rates for agent memory under fixed token budgets with direct baseline comparisons. The constraint to inspect 4 sources matching this specific experimental design is impossible.
-- research-1789651535062-05-manager-plan: manager_plan; completed; Advance to researcher. The plan is feasible: inspect 4 sources on benchmark metrics under fixed budgets, explicitly noting missing baselines. This gathers descriptive evidence without violating the research-only constraint.
-- research-1789651535062-06-researcher: researcher; completed; Assessed 4 retrieved sources for agent memory benchmarks under fixed token budgets. No source provides controlled dynamic vs. static baseline comparisons. Evidence is descriptive; causal claims are unsupported.
-- research-1789651535062-07-deliverable-review: deliverable_review; completed; Researcher failed to find 4 sources meeting criteria; 3 are non-empirical. Advance to next bounded task targeting specific benchmarks.
-- research-1789651535062-08-manager-final: manager_final; completed; Research loop closed. No sources provide controlled dynamic vs. static memory comparisons under fixed budgets. Pivot to descriptive benchmark metrics.
-
-Runtime station and full prompts remain private. No implementation work is enabled.
+- [research-1789651535062-01-orchestrator](../../instances/research-1789651535062-01-orchestrator.json): orchestrator; completed
+- [research-1789651535062-02-manager-setup](../../instances/research-1789651535062-02-manager-setup.json): manager_setup; completed
+- [research-1789651535062-03-planner](../../instances/research-1789651535062-03-planner.json): planner; completed
+- [research-1789651535062-04-plan-review](../../instances/research-1789651535062-04-plan-review.json): plan_review; completed
+- [research-1789651535062-05-manager-plan](../../instances/research-1789651535062-05-manager-plan.json): manager_plan; completed
+- [research-1789651535062-06-researcher](../../instances/research-1789651535062-06-researcher.json): researcher; completed
+- [research-1789651535062-07-deliverable-review](../../instances/research-1789651535062-07-deliverable-review.json): deliverable_review; completed
+- [research-1789651535062-08-manager-final](../../instances/research-1789651535062-08-manager-final.json): manager_final; completed
