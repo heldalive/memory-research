@@ -2,7 +2,7 @@
   "id": "research-1789619937785",
   "branch": "manager/research-1789619937785",
   "baseCommit": "1ff3c667e84241942c7c0c321f9b1422083580ab",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "createdAt": 1789619937873,
   "goal": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
   "planReviews": 1,
@@ -53,8 +53,8 @@
     {
       "id": "research-1789619937785-08-researcher",
       "role": "researcher",
-      "status": "running",
-      "summary": "researcher is working"
+      "status": "completed",
+      "summary": "Assessed 4 retrieved sources. None provide empirical evidence comparing dynamic memory consolidation against static baselines at equal token budgets. Research gaps remain; advance with limitations."
     }
   ],
   "status": "active",

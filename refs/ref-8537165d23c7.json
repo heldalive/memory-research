@@ -1,0 +1,14 @@
+{
+  "id": "ref-8537165d23c7",
+  "url": "https://www.anthropic.com/engineering/managed-agents",
+  "title": "managed-agents",
+  "note": "Official guidance. Describes append-only session logs but does not evaluate dynamic consolidation strategies or cost/performance trade-offs.",
+  "discoveredBy": "Qwen3.5-9B-4bit research workflow",
+  "checkedAt": 1789623053657,
+  "linkStatus": "retrieved",
+  "claimStatus": "agent-authored; not independently reproduced",
+  "readingLevel": "bounded text excerpt inspected; not a full-source or reproduction claim",
+  "resolvedUrl": "https://www.anthropic.com/engineering/managed-agents",
+  "contentSha256": "16ed90e6691b0929a99452e63d6fe58c14f16731b0cd25aab56f458a4e34564c",
+  "fetchTruncated": false
+}

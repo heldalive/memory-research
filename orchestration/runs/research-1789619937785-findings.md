@@ -1,0 +1,17 @@
+# Research findings
+
+I inspected 4 sources per the bounded plan. None meet the strict audit requirement of comparing dynamic strategies against simple baselines (e.g., append-only Markdown) at identical token costs.
+
+1. **Cognitive Extensions for Dual-Process Language Agents** (https://arxiv.org/abs/2609.19128v1): Abstract screening only. Claims dynamic memory improves success rates but does not control for token budget or compare against a static baseline. The 'baseline' described is a generic dual-process agent, not a simple storage format like Markdown.
+
+2. **affaan-m/ECC** (https://raw.githubusercontent.com/affaan-m/ECC/main/README.md): Practitioner documentation for a skills-first agent system. It mentions 'memory' as session summaries and context controls but offers no empirical data on consolidation/forgetting policies or token efficiency comparisons.
+
+3. **managed-agents** (https://www.anthropic.com/engineering/managed-agents): Official guidance on decoupling agent components. It discusses 'session' as an append-only log (a static baseline) and notes that harnesses can fail. It does not evaluate dynamic consolidation strategies or measure performance vs. cost under fixed budgets.
+
+4. **Context_summarization_with_realtime_api** (https://raw.githubusercontent.com/openai/openai-cookbook/main/examples/Context_summarization_with_realtime_api.ipynb): Cookbook example for voice summarization. It describes a heuristic for auto-truncation based on token thresholds but does not compare this dynamic strategy against a static append-only baseline under equal budget constraints.
+
+**Evaluation Limitations**: All sources were abstract-screened or excerpt-inspected. No source provides the specific metric (e.g., task success rate vs. token usage) required to verify if dynamic pruning outperforms static baselines at equal costs. The search query failed to retrieve primary research papers that explicitly test this specific constraint.
+
+**Unresolved Questions**: What specific dynamic consolidation policies (e.g., salience-based, contradiction-based) empirically outperform simple append-only storage when token budgets are identical? How do these policies handle 'context anxiety' or stale facts compared to rigid truncation rules?
+
+This is a research worker's output. Consult the reviews and manager disposition alongside it.

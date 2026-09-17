@@ -1,0 +1,14 @@
+{
+  "id": "ref-002e991f3afc",
+  "url": "https://raw.githubusercontent.com/affaan-m/ECC/main/README.md",
+  "title": "affaan-m/ECC",
+  "note": "Practitioner documentation. Describes skills and session summaries; no empirical data on memory consolidation vs. static storage.",
+  "discoveredBy": "Qwen3.5-9B-4bit research workflow",
+  "checkedAt": 1789623053534,
+  "linkStatus": "retrieved",
+  "claimStatus": "agent-authored; not independently reproduced",
+  "readingLevel": "bounded text excerpt inspected; not a full-source or reproduction claim",
+  "resolvedUrl": "https://raw.githubusercontent.com/affaan-m/ECC/main/README.md",
+  "contentSha256": "0af25aa87d75486d5e60d4f6389f6a0366b06da32a16ca47b17dbb48376463b2",
+  "fetchTruncated": false
+}

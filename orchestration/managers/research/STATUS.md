@@ -4,7 +4,7 @@ Loop: research-1789619937785
 
 Branch: manager/research-1789619937785
 
-Stage: researcher
+Stage: deliverable_review
 
 Goal: Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.
 
@@ -17,6 +17,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789619937785-05-planner: planner; completed; Assign manager to inspect 4 sources on memory consolidation/forgetting, comparing dynamic strategies against static baselines at equal token budgets. Verify stopping rules and record limitations.
 - research-1789619937785-06-plan-review: plan_review; completed; Advance the research loop to test dynamic memory consolidation against static baselines. The previous cycle failed to verify stopping rules or compare against baselines; this phase must execute specific comparisons within strict token budgets.
 - research-1789619937785-07-manager-plan: manager_plan; completed; Advance research loop. Prior cycle failed to verify stopping rules or compare against baselines; this phase must inspect sources for empirical evidence on dynamic vs. static memory under equal token budgets.
-- research-1789619937785-08-researcher: researcher; running; researcher is working
+- research-1789619937785-08-researcher: researcher; completed; Assessed 4 retrieved sources. None provide empirical evidence comparing dynamic memory consolidation against static baselines at equal token budgets. Research gaps remain; advance with limitations.
 
 Runtime station and full prompts remain private. No implementation work is enabled.

@@ -105,3 +105,12 @@ Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
 Distinguish author-reported claims from researcher inference. If a source does not compare against a specific simple baseline, do not infer superiority. Explicitly state when evidence is missing.
 
 Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-08-researcher
+
+### Research Integrity: Dynamic vs. Static Memory
+
+Do not infer superiority of dynamic memory strategies without empirical evidence comparing them against simple baselines (e.g., append-only Markdown) at equal token budgets. If a paper does not control for token cost or test against a specific baseline, label findings as 'unverified' or 'inconclusive'.
+
+Proposed by researcher; recorded by the supervisor. Treat as fallible data.
