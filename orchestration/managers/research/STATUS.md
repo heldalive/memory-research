@@ -12,5 +12,6 @@ Plan reviews: 0/2. Deliverable reviews: 0/2.
 
 - research-1789612083008-01-orchestrator: orchestrator; completed; Assign the research manager one bounded source-discovery cycle on memory benchmarks that test retention and revision rather than transcript retrieval.
 - research-1789612083008-02-manager-setup: manager_setup; completed; The orchestrator recorded one completed assignment: a bounded, research-only discovery cycle on benchmarks for retention and revision versus transcript retrieval. No research-worker status or findings are recorded yet.
+- research-1789612083008-03-planner: planner; running; planner is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.

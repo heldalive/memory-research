@@ -19,6 +19,12 @@
       "role": "manager_setup",
       "status": "completed",
       "summary": "The orchestrator recorded one completed assignment: a bounded, research-only discovery cycle on benchmarks for retention and revision versus transcript retrieval. No research-worker status or findings are recorded yet."
+    },
+    {
+      "id": "research-1789612083008-03-planner",
+      "role": "planner",
+      "status": "running",
+      "summary": "planner is working"
     }
   ],
   "status": "active",
