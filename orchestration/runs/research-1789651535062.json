@@ -25,6 +25,12 @@
       "role": "planner",
       "status": "completed",
       "summary": "Plan to discover 4 primary sources reporting task success/hallucination rates on fixed-token benchmarks, explicitly noting missing baseline comparisons."
+    },
+    {
+      "id": "research-1789651535062-04-plan-review",
+      "role": "plan_review",
+      "status": "running",
+      "summary": "plan review is working"
     }
   ],
   "status": "active",

@@ -13,5 +13,6 @@ Plan reviews: 0/2. Deliverable reviews: 0/2.
 - research-1789651535062-01-orchestrator: orchestrator; completed; Assigning a bounded task to benchmark memory systems on fixed-token tasks, explicitly noting missing direct baseline comparisons.
 - research-1789651535062-02-manager-setup: manager_setup; completed; Assign planner to define a bounded research protocol for comparing dynamic vs. static agent memory on fixed-token benchmarks, explicitly noting missing baselines.
 - research-1789651535062-03-planner: planner; completed; Plan to discover 4 primary sources reporting task success/hallucination rates on fixed-token benchmarks, explicitly noting missing baseline comparisons.
+- research-1789651535062-04-plan-review: plan_review; running; plan review is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
