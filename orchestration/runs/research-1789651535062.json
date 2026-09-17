@@ -49,6 +49,12 @@
       "role": "deliverable_review",
       "status": "completed",
       "summary": "Researcher failed to find 4 sources meeting criteria; 3 are non-empirical. Advance to next bounded task targeting specific benchmarks."
+    },
+    {
+      "id": "research-1789651535062-08-manager-final",
+      "role": "manager_final",
+      "status": "running",
+      "summary": "manager final is working"
     }
   ],
   "status": "active",

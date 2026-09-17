@@ -17,5 +17,6 @@ Plan reviews: 1/2. Deliverable reviews: 1/2.
 - research-1789651535062-05-manager-plan: manager_plan; completed; Advance to researcher. The plan is feasible: inspect 4 sources on benchmark metrics under fixed budgets, explicitly noting missing baselines. This gathers descriptive evidence without violating the research-only constraint.
 - research-1789651535062-06-researcher: researcher; completed; Assessed 4 retrieved sources for agent memory benchmarks under fixed token budgets. No source provides controlled dynamic vs. static baseline comparisons. Evidence is descriptive; causal claims are unsupported.
 - research-1789651535062-07-deliverable-review: deliverable_review; completed; Researcher failed to find 4 sources meeting criteria; 3 are non-empirical. Advance to next bounded task targeting specific benchmarks.
+- research-1789651535062-08-manager-final: manager_final; running; manager final is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.

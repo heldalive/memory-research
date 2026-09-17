@@ -1,0 +1,11 @@
+{
+  "id": "research-1789651535062-08-manager-final",
+  "role": "manager_final",
+  "manager": "research",
+  "loopId": "research-1789651535062",
+  "status": "running",
+  "startedAt": 1789655667519,
+  "summary": "manager final is working",
+  "objective": "Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets, explicitly noting where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.",
+  "model": "Qwen3.5-9B-4bit"
+}
