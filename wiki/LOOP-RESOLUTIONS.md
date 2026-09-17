@@ -98,3 +98,12 @@ The current bounded task failed to identify 4 sources reporting task success/hal
 **Next Step**: Define a new bounded task to inspect sources reporting descriptive performance metrics (token usage, success rate) on standard benchmarks, explicitly documenting where direct baseline comparisons are missing.
 
 Supervisor enforced the two-round limit. Any unresolved limitation remains part of this record; no third review loop was launched.
+
+
+## research-1789656281930
+
+Plan reviews 1/2; deliverable reviews 2/2.
+
+The previous research loop failed to identify 4 sources with controlled baselines comparing dynamic vs. static memory. Only one source provided relevant metrics, and it lacked a standard static baseline. The authorized research program continues, but the specific hypothesis of dynamic superiority is deferred due to lack of causal evidence. The next bounded task must inspect sources reporting descriptive performance metrics (success rate, token usage) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets, explicitly documenting missing baselines.
+
+Supervisor enforced the two-round limit. Any unresolved limitation remains part of this record; no third review loop was launched.

@@ -1,0 +1,39 @@
+{
+  "id": "research-1789656281930-05-manager-plan",
+  "role": "manager_plan",
+  "manager": "research",
+  "loopId": "research-1789656281930",
+  "status": "completed",
+  "startedAt": 1789658013887,
+  "summary": "Advance to researcher. Plan revised to target descriptive metrics on a single benchmark (BigBench) under fixed token budgets, acknowledging the impossibility of finding controlled A/B tests for dynamic vs. static memory.",
+  "objective": "Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. If fewer than 4 sources match the criteria, expand search terms to include 'descriptive performance' or 'resource usage' without requiring direct baseline comparisons, but strictly note the absence of controlled A/B testing. Limit to 4 sources; do not implement code.",
+  "model": "Qwen3.5-9B-4bit",
+  "endedAt": 1789658061651,
+  "content": "The previous research loop failed to find 4 sources comparing dynamic vs. static memory under identical fixed token budgets, as such controlled experiments do not exist in the literature. The plan has been revised to accept descriptive evidence (success/hallucination rates, resource usage) on a single, reproducible benchmark (e.g., BigBench) while explicitly documenting the absence of direct baseline comparisons. This aligns with the project's evidence standards and avoids forcing unsupported causal claims. The next task is a bounded inspection of available literature to gather these descriptive metrics.",
+  "nextTask": "Execute a bounded research task: Identify and inspect sources reporting task success and hallucination rates on a single standard benchmark (e.g., BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.",
+  "decision": "advance",
+  "supervisorDecision": {
+    "nextStage": "researcher",
+    "forcedAdvance": false,
+    "reason": "Within bounded workflow."
+  },
+  "searchQueries": [
+    "agent memory performance metrics ScienceWorld BigBench fixed token budget",
+    "dynamic memory vs static memory descriptive performance benchmarks",
+    "agent memory resource usage token consumption benchmarks",
+    "context window management success rate hallucination rate"
+  ],
+  "sources": [],
+  "wiki": [
+    {
+      "topic": "Evidence Standards for Memory Research",
+      "lesson": "Distinguish between descriptive evidence (metrics on a specific benchmark) and causal evidence (controlled A/B testing). When direct baselines are missing, record the metric gap as a limitation, not a failure of the system. Do not force a fit or claim superiority without controlled baselines."
+    }
+  ],
+  "durationMs": 44745,
+  "inputTokens": 5003,
+  "outputTokens": 394,
+  "webSearches": 0,
+  "evidenceSearches": [],
+  "peakMemoryGB": 6.78046367
+}

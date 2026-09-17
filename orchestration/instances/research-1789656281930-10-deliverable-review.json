@@ -1,0 +1,34 @@
+{
+  "id": "research-1789656281930-10-deliverable-review",
+  "role": "deliverable_review",
+  "manager": "research",
+  "loopId": "research-1789656281930",
+  "status": "completed",
+  "startedAt": 1789662669656,
+  "summary": "Researcher correctly identified insufficient evidence for dynamic vs. static memory comparisons. Decision to 'Advance' is invalid; must halt or expand search significantly.",
+  "objective": "Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. If fewer than 4 sources match the criteria, expand search terms to include 'descriptive performance' or 'resource usage' without requiring direct baseline comparisons, but strictly note the absence of controlled A/B testing. Limit to 4 sources; do not implement code.",
+  "model": "Qwen3.5-9B-4bit",
+  "endedAt": 1789662766721,
+  "content": "The researcher's decision to 'Advance' is a substantive defect. The current evidence set contains only one source (arXiv:2609.19128v1) with relevant benchmark metrics, and it compares an 'adaptive' memory module against a 'no-memory' baseline, not a standard 'static' policy. The other three sources are descriptive guides lacking empirical validation. Advancing now risks building an implementation on a single, partially relevant data point without a proper control group, violating the project's evidence standards for comparative claims. The researcher must either expand the search scope significantly to find more comparative studies or halt the loop and report the evidence gap as a blocker.",
+  "nextTask": "Revise the current research task. Since only 1 source provides relevant metrics and lacks a standard static baseline, the current evidence is insufficient for comparative claims. Either expand the search to find 4 sources that compare specific memory policies (e.g., consolidation vs. append-only) under fixed budgets, or halt the loop and document the evidence gap as a blocker for the current research question.",
+  "decision": "revise",
+  "supervisorDecision": {
+    "nextStage": "manager_final",
+    "forcedAdvance": false,
+    "reason": "Within bounded workflow."
+  },
+  "searchQueries": [],
+  "sources": [],
+  "wiki": [
+    {
+      "topic": "Evidence Thresholds for Comparative Claims",
+      "lesson": "Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap."
+    }
+  ],
+  "durationMs": 93631,
+  "inputTokens": 14704,
+  "outputTokens": 369,
+  "webSearches": 0,
+  "evidenceSearches": [],
+  "peakMemoryGB": 7.787129398
+}

@@ -411,3 +411,102 @@ Proposed by deliverable_review; recorded by the supervisor. Treat as fallible da
 Distinguish between descriptive evidence (metrics on a specific benchmark) and causal evidence (controlled A/B testing). When direct baselines are missing, record the metric gap as a limitation, not a failure of the system.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-01-orchestrator
+
+### Evaluating Memory Without Controlled Baselines
+
+When controlled A/B testing is unavailable, treat performance metrics (success rate, hallucination rate, token usage) as descriptive evidence. Explicitly flag missing baselines in every note to prevent overclaiming superiority. Future loops must target specific, reproducible benchmarks to test causal hypotheses.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-02-manager-setup
+
+### Evidence Gap: Descriptive vs. Causal
+
+When direct baselines are missing, record metrics as descriptive evidence and explicitly note the limitation. Do not force a fit or claim superiority without controlled A/B testing.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-03-planner
+
+### Descriptive vs. Causal Evidence
+
+When controlled A/B testing is unavailable, record metrics as descriptive evidence and explicitly note the limitation. Do not force a fit or claim superiority without controlled baselines.
+
+Proposed by planner; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-04-plan-review
+
+### Descriptive vs Causal Evidence
+
+When controlled A/B testing is unavailable, record metrics as descriptive evidence and explicitly note the limitation. Do not force a fit or claim superiority without controlled baselines.
+
+Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-05-manager-plan
+
+### Evidence Standards for Memory Research
+
+Distinguish between descriptive evidence (metrics on a specific benchmark) and causal evidence (controlled A/B testing). When direct baselines are missing, record the metric gap as a limitation, not a failure of the system. Do not force a fit or claim superiority without controlled baselines.
+
+Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-06-researcher
+
+### Evidence Gap: Dynamic vs. Static Memory
+
+Current literature lacks controlled A/B tests comparing dynamic vs. static memory under fixed token budgets. Only one source (arXiv:2609.19128v1) provides benchmark data, but it compares adaptive memory to a 'no-memory' baseline, not a standard static policy. Claims of superiority are unsupported by direct baselines.
+
+Proposed by researcher; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-07-deliverable-review
+
+### Evidence Thresholds for Comparative Claims
+
+Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap. Advancing on a single partially relevant source violates the evidence standards.
+
+Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-08-manager-final
+
+### Evidence Thresholds for Comparative Claims
+
+Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap. Advancing on a single partially relevant source violates the evidence standards.
+
+Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-09-researcher
+
+### Evidence Gap: Descriptive vs. Causal
+
+When controlled A/B testing is unavailable, treat performance metrics (success rate, hallucination rate, token usage) as descriptive evidence. Explicitly flag missing baselines in every note to prevent overclaiming superiority. Future loops must target specific, reproducible benchmarks to test causal hypotheses.
+
+Proposed by researcher; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-10-deliverable-review
+
+### Evidence Thresholds for Comparative Claims
+
+Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap.
+
+Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-11-manager-final
+
+### Evidence Standards for Comparative Claims
+
+Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap.
+
+Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
