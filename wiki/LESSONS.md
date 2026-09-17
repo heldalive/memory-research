@@ -510,3 +510,12 @@ Proposed by deliverable_review; recorded by the supervisor. Treat as fallible da
 Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789664263540-01-orchestrator
+
+### Evidence Standards for Descriptive Metrics
+
+When controlled baselines are unavailable, report descriptive metrics (success rate, token usage) for a single benchmark. Explicitly flag missing comparisons as a limitation, not a finding of superiority.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
