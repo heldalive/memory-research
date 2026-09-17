@@ -31,6 +31,12 @@
       "role": "plan_review",
       "status": "completed",
       "summary": "Plan fails feasibility: No sources exist comparing dynamic vs. static memory under fixed token budgets. Scope is too narrow for the 4-source limit."
+    },
+    {
+      "id": "research-1789632907568-05-manager-plan",
+      "role": "manager_plan",
+      "status": "running",
+      "summary": "manager plan is working"
     }
   ],
   "status": "active",
