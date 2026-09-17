@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-654",
+  "at": 1789642468296,
+  "station": "research",
+  "title": "manager setup · Pivot to inspecting specific benchmarks for descriptive evidence compa",
+  "summary": "Pivot to inspecting specific benchmarks for descriptive evidence comparing dynamic vs. static memory under fixed token budgets.",
+  "body": "Previous attempts failed to find controlled experiments matching resource constraints. We must now target specific, reproducible benchmarks (e.g., LongMemEval) to gather descriptive evidence on how dynamic consolidation policies perform against static baselines like append-only, measuring task success and hallucination rates within identical token limits. Limit to 4 sources; do not implement code.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 36644,
+  "inputTokens": 3945,
+  "outputTokens": 315,
+  "helperCalls": 0,
+  "citations": []
+}
