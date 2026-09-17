@@ -123,3 +123,12 @@ Proposed by researcher; recorded by the supervisor. Treat as fallible data.
 A claim that 'dynamic strategy X is better' is invalid unless the study explicitly compares it against a defined static baseline (e.g., append-only storage) under identical resource constraints (e.g., token budget). Abstract screening or practitioner anecdotes do not constitute empirical evidence for superiority.
 
 Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-11-manager-final
+
+### Bounded Research Integrity
+
+A research loop is complete only when its stopping rule is verified and all audit requirements are met. Hitting the review limit is not proof of correctness; if the stopping rule is unverified, publish with explicit caveats rather than forcing a new loop.
+
+Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
