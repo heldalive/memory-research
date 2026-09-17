@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-991",
+  "at": 1789662668993,
+  "station": "research",
+  "title": "deliverable review · Researcher correctly identified insufficient evidence for dynamic vs. ",
+  "summary": "Researcher correctly identified insufficient evidence for dynamic vs. static memory comparisons. Decision to 'Advance' is invalid; must halt or expand search significantly.",
+  "body": "The researcher's decision to 'Advance' is a substantive defect. The current evidence set contains only one source (arXiv:2609.19128v1) with relevant benchmark metrics, and it compares an 'adaptive' memory module against a 'no-memory' baseline, not a standard 'static' policy. The other three sources are descriptive guides lacking empirical validation. Advancing now risks building an implementation on a single, partially relevant data point without a proper control group, violating the project's evidence standards for comparative claims. The researcher must either expand the search scope significantly to find more comparative studies or halt the loop and report the evidence gap as a blocker.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 93631,
+  "inputTokens": 14704,
+  "outputTokens": 369,
+  "helperCalls": 0,
+  "citations": []
+}
