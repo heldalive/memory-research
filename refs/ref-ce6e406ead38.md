@@ -4,4 +4,4 @@
 
 Abstract screened; lacks controlled token budget comparison against static baseline.
 
-Discovered by the research worker in research-1789632907568. retrieved. Reading depth: see the linked worker record. Claims are agent-authored and have not been independently reproduced.
+Discovered by the research worker in research-1789642128992. retrieved. Reading depth: see the linked worker record. Claims are agent-authored and have not been independently reproduced.
