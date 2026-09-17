@@ -13,6 +13,12 @@
       "role": "orchestrator",
       "status": "completed",
       "summary": "Assign manager to benchmark dynamic vs. static memory under fixed token budgets using LongMemEval."
+    },
+    {
+      "id": "research-1789632907568-02-manager-setup",
+      "role": "manager_setup",
+      "status": "running",
+      "summary": "manager setup is working"
     }
   ],
   "status": "active",
