@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-322",
+  "at": 1789622546985,
+  "station": "research",
+  "title": "manager plan · Advance research loop. Prior cycle failed to verify stopping rules or ",
+  "summary": "Advance research loop. Prior cycle failed to verify stopping rules or compare against baselines; this phase must inspect sources for empirical evidence on dynamic vs. static memory under equal token budgets.",
+  "body": "The previous research cycle (research-1789613048990) was closed with limitations because it failed to compare dynamic strategies against simple baselines (append-only Markdown, transcript top-k) at equal token costs and lacked verified stopping rule compliance. The current objective is to inspect up to four sources detailing 'consolidation' and 'forgetting' policies. We must empirically test if dynamic pruning outperforms static baselines when token budgets are identical. This requires finding papers that explicitly measure performance vs. cost or can be simulated with known budgets. Do not implement code; only document findings and limitations. Adhere strictly to the 4-source limit. If 4 sources are inspected without meeting the comparison criteria, stop and report gaps. Do not exceed 2 plan reviews.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 47287,
+  "inputTokens": 4679,
+  "outputTokens": 463,
+  "helperCalls": 0,
+  "citations": []
+}
