@@ -2,7 +2,7 @@
   "id": "research-cloud-1789667504408-881cfd",
   "branch": "manager/research-cloud-1789667504408-881cfd",
   "goal": "Design and inspect one source that details a transparent, repeatable experiment evaluating agent memory on BigBench under fixed token budgets, with explicit notes on missing baselines or performance gaps. Limit to one source; do not implement code or systems.",
-  "stage": "manager_setup",
+  "stage": "planner",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
@@ -15,6 +15,11 @@
       "id": "research-cloud-1789667504408-881cfd-2-manager-setup-rejected-1",
       "role": "manager_setup",
       "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
     }
   ],
   "mode": "research-only"
