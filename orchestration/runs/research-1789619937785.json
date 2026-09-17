@@ -49,6 +49,12 @@
       "role": "manager_plan",
       "status": "completed",
       "summary": "Advance research loop. Prior cycle failed to verify stopping rules or compare against baselines; this phase must inspect sources for empirical evidence on dynamic vs. static memory under equal token budgets."
+    },
+    {
+      "id": "research-1789619937785-08-researcher",
+      "role": "researcher",
+      "status": "running",
+      "summary": "researcher is working"
     }
   ],
   "status": "active",
