@@ -3,10 +3,10 @@
   "branch": "manager/research-1789632907568",
   "stage": "planner",
   "status": "active",
-  "updatedAt": 1789633289906,
+  "updatedAt": 1789633655533,
   "model": "Qwen3.5-9B-4bit",
-  "instance": "research-1789632907568-02-manager-setup",
-  "instanceStatus": "completed",
+  "instance": "research-1789632907568-03-planner",
+  "instanceStatus": "running",
   "planReviews": 0,
   "deliverableReviews": 0
 }
