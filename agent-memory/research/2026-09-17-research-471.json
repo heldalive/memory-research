@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-471",
+  "at": 1789631490587,
+  "station": "research",
+  "title": "manager setup · Assign planner to define a bounded research protocol comparing dynamic",
+  "summary": "Assign planner to define a bounded research protocol comparing dynamic vs. static memory policies under fixed token budgets using specific benchmarks.",
+  "body": "Previous loops failed to empirically compare dynamic consolidation against simple baselines (e.g., append-only Markdown) due to missing controlled experiments. The research program must now target a specific, reproducible benchmark to test if dynamic strategies outperform static ones when token costs are equal. This requires defining a strict comparison protocol with clear metrics (task success, hallucination rate) and limiting the scope to 4 sources to ensure feasibility within the current research-only phase. Do not implement or execute code.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 34875,
+  "inputTokens": 4005,
+  "outputTokens": 283,
+  "helperCalls": 0,
+  "citations": []
+}
