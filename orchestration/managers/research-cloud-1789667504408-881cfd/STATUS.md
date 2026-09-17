@@ -5,3 +5,4 @@ Goal: Design and inspect one source that details a transparent, repeatable exper
 Stage: manager_setup. Plan reviews 0/2; evidence reviews 0/2.
 
 - research-cloud-1789667504408-881cfd-1-orchestrator: orchestrator — completed
+- research-cloud-1789667504408-881cfd-2-manager-setup-rejected-1: manager_setup — rejected
