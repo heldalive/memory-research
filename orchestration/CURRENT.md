@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-
+- [research-cloud-1789669006189-f30a7d](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789669006189-f30a7d): **manager setup**. Investigate whether any open-source community forks or supplementary tools extend BigBench to include memory-aware evaluation under token budgeting, with focus on explicit documentation of memory state tracking and usage metrics. Limit to one source; do not implement code or systems.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
