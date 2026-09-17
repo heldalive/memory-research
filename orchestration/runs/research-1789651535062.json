@@ -13,6 +13,12 @@
       "role": "orchestrator",
       "status": "completed",
       "summary": "Assigning a bounded task to benchmark memory systems on fixed-token tasks, explicitly noting missing direct baseline comparisons."
+    },
+    {
+      "id": "research-1789651535062-02-manager-setup",
+      "role": "manager_setup",
+      "status": "running",
+      "summary": "manager setup is working"
     }
   ],
   "status": "active",

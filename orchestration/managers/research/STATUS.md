@@ -11,5 +11,6 @@ Goal: Execute a bounded research task: Identify and inspect 4 sources that repor
 Plan reviews: 0/2. Deliverable reviews: 0/2.
 
 - research-1789651535062-01-orchestrator: orchestrator; completed; Assigning a bounded task to benchmark memory systems on fixed-token tasks, explicitly noting missing direct baseline comparisons.
+- research-1789651535062-02-manager-setup: manager_setup; running; manager setup is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
