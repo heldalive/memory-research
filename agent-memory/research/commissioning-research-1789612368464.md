@@ -2,6 +2,8 @@
 
 2026-09-17T02:32:48.464Z · gpt-5.6-luna · research
 
+**Workflow trace — completion of a step is not acceptance of its claims. Consult the manager disposition and reviews in `orchestration/` before treating this as a research finding.**
+
 Publish the bounded benchmark-discovery record with explicit audit limitations. The source findings are useful, but the search stopping rule was not demonstrated. The benchmark cycle is recorded as complete; this does not establish that any memory approach is superior or solve memory management.
 
 ## Manager report
