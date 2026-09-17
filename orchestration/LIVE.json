@@ -1,12 +1,12 @@
 {
-  "id": "research-1789656281930",
-  "branch": "manager/research-1789656281930",
-  "stage": "complete",
-  "status": "complete",
-  "updatedAt": 1789663718192,
+  "id": "research-1789664263540",
+  "branch": "manager/research-1789664263540",
+  "stage": "orchestrator",
+  "status": "active",
+  "updatedAt": 1789664265030,
   "model": "Qwen3.5-9B-4bit",
-  "instance": "research-1789656281930-11-manager-final",
-  "instanceStatus": "completed",
-  "planReviews": 1,
-  "deliverableReviews": 2
+  "instance": "research-1789664263540-01-orchestrator",
+  "instanceStatus": "running",
+  "planReviews": 0,
+  "deliverableReviews": 0
 }
