@@ -2,9 +2,9 @@
   "id": "research-cloud-1789665847642",
   "branch": "manager/research-cloud-1789665847642",
   "goal": "Execute a bounded research task: Identify and inspect 4 sources reporting descriptive performance metrics (success rate, token usage, hallucination rate) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 1,
-  "deliverableReviews": 0,
+  "deliverableReviews": 1,
   "instances": [
     {
       "id": "carried-research-1789664263540-01-orchestrator",
@@ -34,6 +34,11 @@
     {
       "id": "research-cloud-1789665847642-105-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789665847642-106-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
