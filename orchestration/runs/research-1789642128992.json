@@ -43,6 +43,12 @@
       "role": "researcher",
       "status": "completed",
       "summary": "No sources provide empirical data comparing dynamic vs. static memory under fixed token budgets. Pivot to inspecting specific benchmarks for descriptive evidence."
+    },
+    {
+      "id": "research-1789642128992-07-deliverable-review",
+      "role": "deliverable_review",
+      "status": "running",
+      "summary": "deliverable review is working"
     }
   ],
   "status": "active",
