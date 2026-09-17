@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: When evaluating agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions; avoid overreliance on uncontrolled or anecdotal evidence, and explicitly document missing baselines to maintain scientific integrity in research design.
 - planner: When evaluating agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions; explicitly document missing baselines to maintain scientific rigor and avoid overreliance on uncontrolled or anecdotal evidence.
 - plan review: When evaluating agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when direct sources are unavailable to prevent overreliance on unverified or indirect evidence.
 - manager plan: When evaluating agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when empirical evidence is absent or insufficient to support claims of superiority.
@@ -40,5 +39,6 @@
 - researcher: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation validity
 - deliverable review: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting and measurable state evolution to avoid invalid performance claims
 - manager final: Agent memory evaluation must rely on primary-source, controlled experiments with explicit token budgeting, baseline comparisons, and observable state evolution to ensure scientific validity and avoid conflating operational behavior with genuine memory performance metrics.
+- researcher: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation validity.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
