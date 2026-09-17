@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-590",
+  "at": 1789638657107,
+  "station": "research",
+  "title": "planner · Pivot to benchmarking dynamic vs. static memory using LongMemEval. Ide",
+  "summary": "Pivot to benchmarking dynamic vs. static memory using LongMemEval. Identify 4 sources with empirical data under fixed token constraints.",
+  "body": "1. Define hypothesis: Dynamic consolidation outperforms append-only baselines on task success/hallucination within fixed token budgets.\n2. Execute search for benchmarks comparing memory policies under strict token limits.\n3. Inspect up to 4 sources (papers/repos) for reproducible metrics.\n4. If <4 sources meet criteria, revise hypothesis to match available evidence (e.g., general performance without strict budget control).\n5. Document findings as descriptive or causal based on evidence quality. Stop after 2 plan reviews.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 41959,
+  "inputTokens": 4491,
+  "outputTokens": 379,
+  "helperCalls": 0,
+  "citations": []
+}
