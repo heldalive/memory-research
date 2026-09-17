@@ -2,10 +2,10 @@
   "id": "research-1789613048990",
   "branch": "manager/research-1789613048990",
   "baseCommit": "a310f4f8a3c5db815b113b46fcf8c611bf424ff3",
-  "stage": "plan_review",
+  "stage": "manager_plan",
   "createdAt": 1789613049035,
   "goal": "Inspect up to four primary sources on practical agent-memory systems or methods. For each, record the canonical HTTPS link, exact sections inspected, storage model, write/update policy, retrieval method, forgetting or contradiction handling, comparison baseline, budget comparability, and author-reported evidence. Separate author claims from inference and note limitations. Record every search query and outcome, then stop using a stated auditable rule (for example, four eligible sources or exhaustion of a narrowly defined query set). Research and documentation only: no installation, code execution, implementation, or result reproduction.",
-  "planReviews": 0,
+  "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
     {
@@ -29,8 +29,8 @@
     {
       "id": "research-1789613048990-04-plan-review",
       "role": "plan_review",
-      "status": "running",
-      "summary": "plan review is working"
+      "status": "completed",
+      "summary": "Advance. The plan is feasible, bounded, relevant, and auditable for a research-only loop."
     }
   ],
   "status": "active",
