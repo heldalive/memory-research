@@ -159,3 +159,12 @@ Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
 Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
 
 Proposed by planner; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789626594197-04-plan-review
+
+### Research Integrity: Evidence vs. Inference
+
+Do not infer superiority of dynamic memory strategies without empirical evidence comparing them against simple baselines at equal token budgets. If a source does not control for token cost or test against a specific baseline, label findings as 'unverified'.
+
+Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
