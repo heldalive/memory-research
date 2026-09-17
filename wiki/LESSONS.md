@@ -420,3 +420,12 @@ Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 When controlled A/B testing is unavailable, treat performance metrics (success rate, hallucination rate, token usage) as descriptive evidence. Explicitly flag missing baselines in every note to prevent overclaiming superiority. Future loops must target specific, reproducible benchmarks to test causal hypotheses.
 
 Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-02-manager-setup
+
+### Evidence Gap: Descriptive vs. Causal
+
+When direct baselines are missing, record metrics as descriptive evidence and explicitly note the limitation. Do not force a fit or claim superiority without controlled A/B testing.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
