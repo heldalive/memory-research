@@ -2,6 +2,6 @@
 
 [Primary link](https://arxiv.org/abs/2609.19128v1)
 
-Abstract screened. Describes dynamic memory module but lacks controlled comparison against static baselines under fixed token budgets.
+Abstract screened; lacks controlled token budget comparison against static baseline.
 
-Discovered by the research worker in research-1789626594197. retrieved. Reading depth: see the linked worker record. Claims are agent-authored and have not been independently reproduced.
+Discovered by the research worker in research-1789632907568. retrieved. Reading depth: see the linked worker record. Claims are agent-authored and have not been independently reproduced.

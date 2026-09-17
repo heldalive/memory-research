@@ -1,11 +1,11 @@
 # Research manager handoff
 
-Loop: research-1789626594197. Stage: publish.
+Loop: research-1789632907568. Stage: publish.
 
-Current assignment: Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.
+Current assignment: Execute a bounded research task: Identify and inspect 4 sources (papers or repos) that provide empirical data comparing dynamic memory consolidation policies against a defined static baseline (e.g., append-only) under fixed token budgets. Measure task success and hallucination rates. Limit to 4 sources; do not implement code.
 
-Latest instance: research-1789626594197-08-manager-final (completed).
+Latest instance: research-1789632907568-08-manager-final (completed).
 
-Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.
+Execute a bounded research task: Identify and inspect 4 sources (papers or repos) that provide empirical data comparing dynamic memory consolidation policies against a defined static baseline (e.g., append-only) under comparable token budgets. Measure task success and hallucination rates. Limit to 4 sources; do not implement code.
 
-See [status](STATUS.md) and the versioned [instance](../../instances/research-1789626594197-08-manager-final.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.
+See [status](STATUS.md) and the versioned [instance](../../instances/research-1789632907568-08-manager-final.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.

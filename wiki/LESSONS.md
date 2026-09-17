@@ -195,3 +195,75 @@ Proposed by researcher; recorded by the supervisor. Treat as fallible data.
 A research loop is complete only when its stopping rule is verified and all audit requirements are met. Hitting the review limit is not proof of correctness; if the stopping rule is unverified, publish with explicit caveats rather than forcing a new loop.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-01-orchestrator
+
+### Empirical Benchmarking Standards
+
+When comparing memory strategies, always fix the token budget as a variable. A method is only 'better' if it achieves higher task success or lower hallucination rates within the same strict resource constraint, not just by using more tokens.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-02-manager-setup
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-03-planner
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by planner; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-04-plan-review
+
+### Research Scope Adjustment
+
+If a hypothesis requires a specific experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting the limited review rounds on unanswerable questions.
+
+Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-05-manager-plan
+
+### Research Feasibility
+
+If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
+
+Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-06-researcher
+
+### Evidence Gap: Dynamic vs. Static Memory
+
+Do not infer superiority of dynamic memory strategies without empirical evidence comparing them against simple baselines (e.g., append-only) under identical token budgets. If a source does not control for token cost or test against a specific baseline, label findings as 'unverified'.
+
+Proposed by researcher; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-07-deliverable-review
+
+### Research Scope Adjustment
+
+If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
+
+Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789632907568-08-manager-final
+
+### Bounded Research Integrity
+
+If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
+
+Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
