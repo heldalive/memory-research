@@ -49,3 +49,12 @@ Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 A research loop is complete only when its stopping rule is verified and all audit requirements (query logs, metadata, baseline comparisons) are met. Publishing a record with unverified stopping rules or missing baseline comparisons must be done with explicit caveats, preserving the distinction between a completed task and a solved problem.
 
 Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-02-orchestrator
+
+### Research Note Standards
+
+Always separate source claims from your inference. If a paper claims 'dynamic pruning is better,' your note must record the specific metric, dataset, and budget used to verify or refute that claim, noting if the study actually tested equal budgets.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.

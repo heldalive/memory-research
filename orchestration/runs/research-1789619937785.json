@@ -2,9 +2,9 @@
   "id": "research-1789619937785",
   "branch": "manager/research-1789619937785",
   "baseCommit": "1ff3c667e84241942c7c0c321f9b1422083580ab",
-  "stage": "orchestrator",
+  "stage": "manager_setup",
   "createdAt": 1789619937873,
-  "goal": "Study practical agent-memory methods and their evaluation. Assign the research manager one new bounded question; implementation remains disabled.",
+  "goal": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
@@ -17,8 +17,8 @@
     {
       "id": "research-1789619937785-02-orchestrator",
       "role": "orchestrator",
-      "status": "running",
-      "summary": "orchestrator is working"
+      "status": "completed",
+      "summary": "Assign research on empirical memory consolidation and forgetting policies to test if dynamic pruning outperforms static baselines at equal token costs."
     }
   ],
   "status": "active",
