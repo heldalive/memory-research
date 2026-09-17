@@ -1,0 +1,11 @@
+{
+  "id": "research-1789619937785-06-plan-review",
+  "role": "plan_review",
+  "manager": "research",
+  "loopId": "research-1789619937785",
+  "status": "running",
+  "startedAt": 1789622105771,
+  "summary": "plan review is working",
+  "objective": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
+  "model": "Qwen3.5-9B-4bit"
+}

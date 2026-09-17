@@ -15,5 +15,6 @@ Plan reviews: 0/2. Deliverable reviews: 0/2.
 - research-1789619937785-03-manager-setup: manager_setup; completed; Assign a bounded research task to inspect dynamic memory consolidation/forgetting mechanisms against static baselines at equal token costs. Verify empirical superiority or document specific limitations.
 - research-1789619937785-04-planner: planner; failed; Call failed: Only research and evidence-review roles may cite new sources
 - research-1789619937785-05-planner: planner; completed; Assign manager to inspect 4 sources on memory consolidation/forgetting, comparing dynamic strategies against static baselines at equal token budgets. Verify stopping rules and record limitations.
+- research-1789619937785-06-plan-review: plan_review; running; plan review is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.

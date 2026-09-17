@@ -37,6 +37,12 @@
       "role": "planner",
       "status": "completed",
       "summary": "Assign manager to inspect 4 sources on memory consolidation/forgetting, comparing dynamic strategies against static baselines at equal token budgets. Verify stopping rules and record limitations."
+    },
+    {
+      "id": "research-1789619937785-06-plan-review",
+      "role": "plan_review",
+      "status": "running",
+      "summary": "plan review is working"
     }
   ],
   "status": "active",
