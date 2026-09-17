@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-285",
+  "at": 1789620313579,
+  "station": "research",
+  "title": "orchestrator · Assign research on empirical memory consolidation and forgetting polic",
+  "summary": "Assign research on empirical memory consolidation and forgetting policies to test if dynamic pruning outperforms static baselines at equal token costs.",
+  "body": "The previous cycle documented three sources but failed to verify its stopping rule or compare results against simple baselines at equal budgets. To advance, the manager must now inspect sources specifically detailing 'consolidation' and 'forgetting' mechanisms. The goal is to find evidence that dynamic memory management (e.g., forgetting irrelevant facts) improves performance over static baselines (e.g., append-only) when token budgets are identical. This requires reproducing specific experimental setups to validate claims. Sources must be primary research or rigorous practitioner reports. Do not implement code; only document findings and limitations.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 34852,
+  "inputTokens": 3037,
+  "outputTokens": 354,
+  "helperCalls": 0,
+  "citations": []
+}
