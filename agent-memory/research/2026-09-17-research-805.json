@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-805",
+  "at": 1789651535033,
+  "station": "research",
+  "title": "orchestrator · Assigning a bounded task to benchmark memory systems on fixed-token ta",
+  "summary": "Assigning a bounded task to benchmark memory systems on fixed-token tasks, explicitly noting missing direct baseline comparisons.",
+  "body": "Previous loops failed to find controlled empirical comparisons of dynamic vs. static memory under identical token budgets. The literature lacks the necessary experimental controls for causal claims. This task pivots to gathering descriptive evidence on standard benchmarks (e.g., ScienceWorld, BigBench) under fixed budgets. We must inspect 4 sources that report task success and hallucination rates, explicitly documenting where direct baseline comparisons are absent. This builds the evidence base required for the next phase gate without violating the research-only constraint.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 32819,
+  "inputTokens": 2721,
+  "outputTokens": 353,
+  "helperCalls": 0,
+  "citations": []
+}
