@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-278",
+  "at": 1789619937753,
+  "station": "research",
+  "title": "orchestrator · Publish the bounded research record with explicit limitations regardin",
+  "summary": "Publish the bounded research record with explicit limitations regarding unverified stopping rules and incomplete baseline comparisons. No new research or implementation is permitted.",
+  "body": "The current research cycle has documented three primary sources (LongMemEval, MemoryAgentBench, MemConflict) and one practitioner report (ServiceNow). However, the audit trail for the initial search phase is incomplete; Query 6 was executed despite the stopping rule triggering at Query 5, and required metadata are missing from some records. Furthermore, no source provides a direct, budget-comparable comparison against the proposed simple baselines (append-only Markdown, transcript top-k). The synthesis correctly labels findings as inference, but the evidence does not empirically prove superiority over simple baselines at equal token costs. This cycle is complete as a recorded bounded task; unresolved gaps are deferred to future phases. The decision to publish is constrained by these specific audit failures.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 34693,
+  "inputTokens": 2765,
+  "outputTokens": 357,
+  "helperCalls": 0,
+  "citations": []
+}
