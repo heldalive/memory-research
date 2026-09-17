@@ -1,0 +1,12 @@
+{
+  "id": "research-1789613048990",
+  "branch": "manager/research-1789613048990",
+  "stage": "complete",
+  "status": "complete",
+  "updatedAt": 1789619635520,
+  "model": "Qwen3.5-9B-4bit",
+  "instance": "research-1789613048990-08-manager-final",
+  "instanceStatus": "completed",
+  "planReviews": 1,
+  "deliverableReviews": 1
+}
