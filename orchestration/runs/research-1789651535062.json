@@ -37,6 +37,12 @@
       "role": "manager_plan",
       "status": "completed",
       "summary": "Advance to researcher. The plan is feasible: inspect 4 sources on benchmark metrics under fixed budgets, explicitly noting missing baselines. This gathers descriptive evidence without violating the research-only constraint."
+    },
+    {
+      "id": "research-1789651535062-06-researcher",
+      "role": "researcher",
+      "status": "running",
+      "summary": "researcher is working"
     }
   ],
   "status": "active",
