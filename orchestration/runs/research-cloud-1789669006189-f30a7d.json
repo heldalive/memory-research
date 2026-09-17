@@ -2,9 +2,9 @@
   "id": "research-cloud-1789669006189-f30a7d",
   "branch": "manager/research-cloud-1789669006189-f30a7d",
   "goal": "Investigate whether any open-source community forks or supplementary tools extend BigBench to include memory-aware evaluation under token budgeting, with focus on explicit documentation of memory state tracking and usage metrics. Limit to one source; do not implement code or systems.",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 1,
-  "deliverableReviews": 1,
+  "deliverableReviews": 2,
   "instances": [
     {
       "id": "research-cloud-1789669006189-f30a7d-1-orchestrator",
@@ -54,6 +54,11 @@
     {
       "id": "research-cloud-1789669006189-f30a7d-9-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-10-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],

@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1789669006189-f30a7d-10-deliverable-review",
+  "role": "deliverable_review",
+  "status": "completed",
+  "at": 1789670257797,
+  "answer": {
+    "summary": "No source provides evidence of BigBench extensions with memory-aware evaluation under token budgeting and explicit memory state tracking; available work addresses privacy risks or inference efficiency without evaluation metrics tied to token constraints or memory",
+    "content": "Source S1 investigates membership inference attacks on chat agent memory, identifying privacy risks but not evaluating memory under token budgeting or providing metrics on memory state usage. Source S2 describes a persistent KV cache system for multi-agent edge inference, improving efficiency through cache persistence, yet lacks any evaluation framework tied to token budgeting or explicit memory state tracking within a BigBench context. Neither source documents an extension of BigBench with controlled, transparent evaluation of memory-aware agents under token constraints. The evidence does not support the claim of existing open-source tools meeting the specified criteria for memory-aware evaluation under token budgeting and explicit state tracking. The gap remains unaddressed in current data.",
+    "decision": "revise",
+    "search": "https://github.com/search?q=BigBench+memory+token+budget+evaluation+documentation+open+source&type=Repositories",
+    "sources": "S1,S2",
+    "nextTask": "Investigate non-BigBench agent evaluation benchmarks with explicit documentation of memory state tracking and usage metrics under token budgeting, focusing on publicly available repositories and peer-reviewed literature. Include a comparative analysis of at least three benchmarks with transparent, controlled experiments involving token limits and memory state monitoring. Prioritize sources with direct evaluation metrics over system optimizations or privacy",
+    "lesson": "When evaluating agent memory systems, require explicit, primary-source evidence of controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capabilities"
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 342,
+  "inputTokens": 1957,
+  "durationMs": 14824,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2605.27825v1",
+      "title": "MRMMIA: Membership Inference Attacks on Memory in Chat Agents",
+      "excerpt": "Abstract: Membership inference attacks (MIAs) test whether a target data record belongs to a system's private data, and have become a standard tool to measure privacy leakage in machine learning systems. Prior work has primarily focused on training corpora or retrieval databases. However, MIAs against agent memory have received less attention, even though such memory can contain sensitive user-agent interactions, retrieved facts, and user preferences. Therefore, in this work, we focus on chat agent memory MIAs, where an adversary infers whether a candidate memory unit belongs to the chat agent's memory store. We propose Multi-Recall Memory MIA (MRMMIA), a unified attack that utilizes multiple recall probes to the agent to extract the membership signal across black-box, gray-box, and white-box settings. Our experiments demonstrate that MRMMIA consistently outperforms baselines. Our results expose the privacy risk in agents and provide an initial evaluation framework for membership leakage in chat-agent memory systems.",
+      "checkedAt": 1789670112859,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "ddb5034b19d1475bc9be615b95cd92659bddfd0bab1273e92ac6f753d6440c6f",
+      "discovery": {
+        "query": "https://huggingface.co/spaces/BigBench/bigbench-memory-evaluation",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    },
+    {
+      "id": "S2",
+      "url": "https://arxiv.org/abs/2603.04428v1",
+      "title": "Agent Memory Below the Prompt: Persistent Q4 KV Cache for Multi-Agent LLM Inference on Edge Devices",
+      "excerpt": "Abstract: Multi-agent LLM systems on edge devices face a memory management problem: device RAM is too small to hold every agent's KV cache simultaneously. On Apple M4 Pro with 10.2 GB of cache budget, only 3 agents fit at 8K context in FP16. A 10-agent workflow must constantly evict and reload caches. Without persistence, every eviction forces a full re-prefill through the model -- 15.7 seconds per agent at 4K context. We address this by persisting each agent's KV cache to disk in 4-bit quantized format and reloading it directly into the attention layer, eliminating redundant O(n) prefill computation via direct cache restoration. The system comprises three components: a block pool providing per-agent isolated Q4 KV caches in safetensors format, a BatchQuantizedKVCache for concurrent inference over multiple agents' quantized caches, and cross-phase context injection that accumulates attention state across conversation phases without re-computation. Evaluated on three architectures (Gemma 3 12B, dense GQA, 48 layers; DeepSeek-Coder-V2-Lite 16B, MoE MLA, 27 layers; Llama 3.1 8B, dense GQA, 32 layers), cache restoration reduces time-to-first-token by up to 136x (Gemma: 22--136x at 4K--32K; DeepSeek: 11--76x at 4K--32K; Llama: 24--111x at 4K--16K; 3--10x at 1K). Q4 quantization fits 4x more agent contexts into fixed device memory than FP16. Perplexity measured with actual Q4 KV caches shows -0.7% for Gemma, +2.8% for Llama, and +3.0% for DeepSeek. Open-source at this https URL",
+      "checkedAt": 1789670112859,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "885af9f29484198c5cf1e4b178b0b251366d6768ab0870adf1aa61fab865cf40",
+      "discovery": {
+        "query": "https://huggingface.co/spaces/BigBench/bigbench-memory-evaluation",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    }
+  ]
+}
