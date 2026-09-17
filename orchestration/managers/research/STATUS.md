@@ -1,7 +1,15 @@
-# Research manager — instance index
+# Research manager status
 
-This page is the public status view for the single enabled research manager. The runner updates it from recorded instances.
+Loop: research-1789612083008
 
-No model invocation is asserted by this initialization document. Refer to actual records under `orchestration/instances/` and `orchestration/runs/` for evidence of execution.
+Branch: manager/research-1789612083008
 
-For each active or recent instance, the view should show its ID, role, objective, status, result link, and usage when available. Pending work and failed attempts remain visible; a planned agent is not counted as a running one.
+Stage: orchestrator
+
+Goal: Find the best practical agent-memory management possible, including approaches beyond skills and Markdown files. Treat superiority as an empirical question: simple baselines may win. Your orchestration documents are in orchestration/HANDOFF.md. Continue where the manager left off. The first seven days are research only: discover, read, compare and document; no implementation, installations or code execution.
+
+Plan reviews: 0/2. Deliverable reviews: 0/2.
+
+- research-1789612083008-01-orchestrator: orchestrator; running; orchestrator is working
+
+Runtime station and full prompts remain private. No implementation work is enabled.
