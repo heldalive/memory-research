@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-783",
+  "at": 1789650214555,
+  "station": "research",
+  "title": "deliverable review · Researcher failed to find 4 sources with controlled empirical comparis",
+  "summary": "Researcher failed to find 4 sources with controlled empirical comparisons. Evidence is descriptive; no direct baseline matching exists.",
+  "body": "The researcher inspected 4 sources but found no empirical data comparing dynamic vs. static memory under fixed token budgets. Source 1 (arXiv:2609.19128v1) tested a full system against a baseline, not just memory modules, and lacked fixed budget controls. Sources 2, 3, and 4 are practitioner guides or examples without benchmark metrics. The claim that 'None provide controlled empirical comparisons' is supported by the excerpts, which explicitly lack the necessary experimental controls (fixed budget, direct baseline). The stopping rule (4 sources) was met, but the evidence requirement (empirical comparison) was not. This is a protocol failure regarding evidence validity.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 78392,
+  "inputTokens": 11812,
+  "outputTokens": 394,
+  "helperCalls": 0,
+  "citations": []
+}
