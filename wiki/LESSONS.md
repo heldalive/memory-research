@@ -204,3 +204,12 @@ Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 When a research loop fails to produce empirical evidence (e.g., missing baseline comparisons), do not close the program. Instead, redefine the question to target a specific, reproducible benchmark where the hypothesis can be tested with limited sources.
 
 Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789631149112-02-manager-setup
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.

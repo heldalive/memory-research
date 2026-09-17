@@ -2,7 +2,7 @@
   "id": "research-1789631149112",
   "branch": "manager/research-1789631149112",
   "baseCommit": "5622fdf124413268fbd4ad590c4621ff8c8e95a5",
-  "stage": "manager_setup",
+  "stage": "planner",
   "createdAt": 1789631149212,
   "goal": "Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.",
   "planReviews": 0,
@@ -17,8 +17,8 @@
     {
       "id": "research-1789631149112-02-manager-setup",
       "role": "manager_setup",
-      "status": "running",
-      "summary": "manager setup is working"
+      "status": "completed",
+      "summary": "Assign planner to define a bounded research protocol comparing dynamic vs. static memory policies under fixed token budgets using specific benchmarks."
     }
   ],
   "status": "active",
