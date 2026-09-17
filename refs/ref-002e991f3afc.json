@@ -4,7 +4,7 @@
   "title": "affaan-m/ECC",
   "note": "Practitioner guide. Describes memory hooks for code agents. No benchmark metrics or token budget analysis. Does not compare dynamic vs. static memory policies.",
   "discoveredBy": "Qwen3.5-9B-4bit research workflow",
-  "checkedAt": 1789659666155,
+  "checkedAt": 1789661392052,
   "linkStatus": "retrieved",
   "claimStatus": "agent-authored; not independently reproduced",
   "readingLevel": "bounded text excerpt inspected; not a full-source or reproduction claim",

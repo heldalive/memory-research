@@ -483,3 +483,12 @@ Proposed by deliverable_review; recorded by the supervisor. Treat as fallible da
 Do not advance to implementation or comparative conclusions if fewer than 4 sources provide relevant, comparable metrics. If the current literature lacks sufficient controlled comparisons, the research loop must either expand the search scope significantly or halt and report the gap. Advancing on a single partially relevant source violates the evidence standards.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789656281930-09-researcher
+
+### Evidence Gap: Descriptive vs. Causal
+
+When controlled A/B testing is unavailable, treat performance metrics (success rate, hallucination rate, token usage) as descriptive evidence. Explicitly flag missing baselines in every note to prevent overclaiming superiority. Future loops must target specific, reproducible benchmarks to test causal hypotheses.
+
+Proposed by researcher; recorded by the supervisor. Treat as fallible data.

@@ -1,4 +1,4 @@
-# Cognitive Extensions for Dual-Process Language Agents
+# Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments
 
 [Primary link](https://arxiv.org/abs/2609.19128v1)
 

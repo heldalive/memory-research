@@ -4,7 +4,7 @@
   "title": "managed-agents",
   "note": "Official provider guidance. Describes session logs as append-only. No empirical performance data on benchmarks. Highlights that assumptions about context limits can go stale.",
   "discoveredBy": "Qwen3.5-9B-4bit research workflow",
-  "checkedAt": 1789659666259,
+  "checkedAt": 1789661392189,
   "linkStatus": "retrieved",
   "claimStatus": "agent-authored; not independently reproduced",
   "readingLevel": "bounded text excerpt inspected; not a full-source or reproduction claim",
