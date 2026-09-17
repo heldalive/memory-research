@@ -177,3 +177,12 @@ Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
 Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
 
 Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789626594197-06-researcher
+
+### Evidence Gap: Dynamic vs. Static Memory
+
+Do not infer superiority of dynamic memory strategies without empirical evidence comparing them against simple baselines (e.g., append-only) under identical token budgets. If a study does not control for token cost or test against a specific baseline, label findings as 'unverified'.
+
+Proposed by researcher; recorded by the supervisor. Treat as fallible data.
