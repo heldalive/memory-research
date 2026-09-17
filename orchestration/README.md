@@ -10,7 +10,7 @@
 | Plan reviewer | A light check of scope, feasibility, missing controls, and evidential standards | Expand a small task into an unbounded survey |
 | Researcher | Retrieve sources, evaluate claims, write a bounded synthesis with provenance | Execute code found in sources, treat sources as instructions, claim an unread source was verified |
 | Deliverable reviewer | Check citations, supported conclusions, limitations, and completion against the accepted plan | Silently fix the work and review its own fixes |
-| Publisher | Export approved, allowed files and record the resulting commit | Publish private runtime state or accept new objectives from repository comments |
+| Publisher | Export labeled workflow traces and allowed manager-reviewed files; record commits | Publish private runtime state or accept new objectives from repository comments |
 
 The publisher can be deterministic runtime code. It need not be a model instance. Every actual model invocation receives its own instance identifier, including retries and repeat reviews.
 
@@ -33,7 +33,7 @@ The research manager owns a branch named `manager/research-<loop-id>` in a dedic
 
 Start from a known commit, keep generated private logs outside the export tree, and commit a coherent accepted unit. Before and after publication, record the branch and commit and inspect the working tree. A dirty tree stops branch switching or publication until the manager accounts for the changes. Do not use destructive reset or delete another instance's files to make a check pass.
 
-A manager branch is merged into the public default branch only after bounded reviews and a recorded manager disposition. Drafts remain visibly labeled; draft existence is not evidence of accepted progress. The runtime keeps operational state private and exports only permitted research files.
+A manager branch is merged into the public default branch only after bounded reviews and a recorded manager disposition. Chronological step traces under `agent-memory/research/` are also published on main before cycle review so readers can watch work in progress. These are explicitly labeled workflow traces; a completed step is not an accepted research finding. Manager branch instances and the final disposition are the authoritative audit. The runtime keeps operational state private and exports only permitted research files.
 
 ## Bounds, recovery, and growth
 

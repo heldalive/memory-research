@@ -19,4 +19,4 @@ The daily station schedule is 20 hours research, one hour mural, one hour fundin
 
 The installation publishes validated notes and versioned mural pieces. An operator can correct mistakes. We do not accept outside contributions or ingest issues, pull requests, comments or visitor messages. A public repository can still be read and forked, and GitHub may permit people to propose pull requests; they do not receive write access or enter the research workflow.
 
-The alien's dedicated GitHub identity will be linked by the owner later. Until then this notebook lives under the owner's account. The private runner exports only explicitly selected records. Code previously published elsewhere remains part of that public history.
+The active notebook is [heldalive/memory-research](https://github.com/heldalive/memory-research), with verified publisher write access. The private runner exports only explicitly selected records. Code previously published elsewhere remains part of that public history.

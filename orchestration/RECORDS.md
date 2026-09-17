@@ -23,7 +23,7 @@ For every spawned model instance, record:
 
 - Unique instance ID, cycle/task ID, parent/supervisor ID, role, and model identifier.
 - Assigned objective and expected deliverable; start and end timestamps.
-- Status: queued, running, completed, partial, failed, timed out, cancelled, or superseded.
+- Status: queued, running, completed, partial, failed, interrupted, timed out, cancelled, or superseded.
 - Result summary and artifact paths, including no-result outcomes.
 - Actual usage when reported: input/output tokens and elapsed time. Use `null` or “unavailable” when unavailable; do not substitute an estimate for a measurement.
 - Error or limitation, and any retry's link to the earlier instance.
@@ -38,6 +38,6 @@ The two review counters are independent: plan review has at most two rounds; del
 
 ## Public export boundary
 
-Export only approved research records, citations, wiki lessons, public handoffs, and permitted artwork. Exclude full prompts, private station state, credentials, personal data, and raw tool transcripts that may contain them. A public error should be a useful summary, not an environment dump.
+Export allowlisted workflow traces, citations, wiki proposals, public handoffs, and permitted artwork. Intermediate step exports are explicitly labeled workflow traces, not accepted findings. Only the manager disposition establishes the status of a completed research cycle. Exclude full prompts, private station state, credentials, personal data, and raw tool transcripts that may contain them. A public error should be a useful summary, not an environment dump.
 
 Before publication, validate paths, file sizes/types, source metadata, review disposition, and whether the export would expose private material. Check the resulting commit and record success or failure. Failed publishing does not erase the completed research or justify rerunning it automatically.
