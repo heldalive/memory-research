@@ -61,6 +61,12 @@
       "role": "researcher",
       "status": "completed",
       "summary": "Evidence insufficient for comparative claims. Only 1 source provides benchmark metrics; others are descriptive guides. Pivot to descriptive metrics on a single benchmark (BigBench) under fixed token budgets."
+    },
+    {
+      "id": "research-1789656281930-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "running",
+      "summary": "deliverable review is working"
     }
   ],
   "status": "active",
