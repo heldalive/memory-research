@@ -1,0 +1,62 @@
+{
+  "id": "research-1789626594197",
+  "branch": "manager/research-1789626594197",
+  "baseCommit": "10081bb4a58af16e62bbdd284937fa72ed46a386",
+  "stage": "complete",
+  "createdAt": 1789626594290,
+  "goal": "Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.",
+  "planReviews": 1,
+  "deliverableReviews": 1,
+  "instances": [
+    {
+      "id": "research-1789626594197-01-orchestrator",
+      "role": "orchestrator",
+      "status": "completed",
+      "summary": "Assign manager to define a bounded benchmark comparing dynamic memory against static baselines under fixed token budgets."
+    },
+    {
+      "id": "research-1789626594197-02-manager-setup",
+      "role": "manager_setup",
+      "status": "completed",
+      "summary": "Assign planner to define a bounded research question targeting a specific benchmark comparing dynamic vs. static memory under fixed token budgets."
+    },
+    {
+      "id": "research-1789626594197-03-planner",
+      "role": "planner",
+      "status": "completed",
+      "summary": "Plan to discover and assess primary agent-memory sources by targeting specific benchmarks, comparing dynamic vs. static policies under fixed token budgets, and enforcing strict audit trails."
+    },
+    {
+      "id": "research-1789626594197-04-plan-review",
+      "role": "plan_review",
+      "status": "completed",
+      "summary": "Advance the plan to define a specific benchmark question. The previous loop failed to find sources comparing dynamic vs. static memory under fixed token budgets; this phase must target a reproducible benchmark to test the hypothesis."
+    },
+    {
+      "id": "research-1789626594197-05-manager-plan",
+      "role": "manager_plan",
+      "status": "completed",
+      "summary": "Advance the research manager to define a bounded question comparing dynamic vs. static memory under fixed token budgets using specific benchmarks."
+    },
+    {
+      "id": "research-1789626594197-06-researcher",
+      "role": "researcher",
+      "status": "completed",
+      "summary": "Sources fail to compare dynamic vs. static memory under fixed token budgets. Evidence is descriptive; superiority claims are unverified."
+    },
+    {
+      "id": "research-1789626594197-07-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed",
+      "summary": "Advance the research program. The current loop correctly identified that no sources met the strict evidence criteria for comparing dynamic vs. static memory under fixed token budgets. The next step is to define a new, bounded question targeting specific benchmarks."
+    },
+    {
+      "id": "research-1789626594197-08-manager-final",
+      "role": "manager_final",
+      "status": "completed",
+      "summary": "Current loop failed to find empirical evidence comparing dynamic vs. static memory under fixed token budgets. Proceed to define a new bounded question targeting specific benchmarks."
+    }
+  ],
+  "status": "complete",
+  "firstWeek": "research-only; implementation remains disabled"
+}

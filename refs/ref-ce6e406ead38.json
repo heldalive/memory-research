@@ -1,10 +1,10 @@
 {
   "id": "ref-ce6e406ead38",
   "url": "https://arxiv.org/abs/2609.19128v1",
-  "title": "Cognitive Extensions for Dual-Process Language Agents",
-  "note": "Abstract screened only. Claims dynamic memory improves success but lacks controlled token budget comparison against simple baselines.",
+  "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+  "note": "Abstract screened. Describes dynamic memory module but lacks controlled comparison against static baselines under fixed token budgets.",
   "discoveredBy": "Qwen3.5-9B-4bit research workflow",
-  "checkedAt": 1789625103813,
+  "checkedAt": 1789628678321,
   "linkStatus": "retrieved",
   "claimStatus": "agent-authored; not independently reproduced",
   "readingLevel": "abstract screened",
