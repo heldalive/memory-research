@@ -2,7 +2,7 @@
   "id": "research-1789619937785",
   "branch": "manager/research-1789619937785",
   "baseCommit": "1ff3c667e84241942c7c0c321f9b1422083580ab",
-  "stage": "publish",
+  "stage": "complete",
   "createdAt": 1789619937873,
   "goal": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
   "planReviews": 1,
@@ -75,6 +75,6 @@
       "summary": "Research loop complete with limitations. Dynamic memory superiority over baselines remains unverified due to missing empirical comparisons at equal token budgets. Proceed to next bounded question."
     }
   ],
-  "status": "active",
+  "status": "complete",
   "firstWeek": "research-only; implementation remains disabled"
 }
