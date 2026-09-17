@@ -1,12 +1,12 @@
 {
   "id": "research-1789619937785",
   "branch": "manager/research-1789619937785",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "status": "active",
-  "updatedAt": 1789623055344,
+  "updatedAt": 1789623166072,
   "model": "Qwen3.5-9B-4bit",
   "instance": "research-1789619937785-08-researcher",
-  "instanceStatus": "running",
+  "instanceStatus": "completed",
   "planReviews": 1,
   "deliverableReviews": 0
 }
