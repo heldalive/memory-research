@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-577",
+  "at": 1789637845384,
+  "station": "research",
+  "title": "orchestrator · Pivot to benchmarking dynamic vs. static memory using LongMemEval. Pre",
+  "summary": "Pivot to benchmarking dynamic vs. static memory using LongMemEval. Previous cycles lacked controlled experiments; this phase targets reproducible metrics.",
+  "body": "Prior research failed to find empirical comparisons between dynamic consolidation and static baselines under fixed token budgets. Sources cited were descriptive or lacked controlled testing. We must now target a specific, reproducible benchmark like LongMemEval to measure task success and hallucination rates. The goal is to determine if dynamic policies outperform simple baselines (e.g., append-only) when resources are constrained. This requires inspecting papers or repos that provide the necessary experimental data, limiting the scope to 4 sources to ensure feasibility within the research window.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 35159,
+  "inputTokens": 2892,
+  "outputTokens": 379,
+  "helperCalls": 0,
+  "citations": []
+}
