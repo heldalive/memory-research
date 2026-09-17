@@ -1,0 +1,71 @@
+{
+  "id": "research-cloud-1789669006189-f30a7d",
+  "branch": "manager/research-cloud-1789669006189-f30a7d",
+  "goal": "Investigate whether any open-source community forks or supplementary tools extend BigBench to include memory-aware evaluation under token budgeting, with focus on explicit documentation of memory state tracking and usage metrics. Limit to one source; do not implement code or systems.",
+  "stage": "complete",
+  "planReviews": 1,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1789669006189-f30a7d-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-2-manager-setup-rejected-1",
+      "role": "manager_setup",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-6-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-7-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-8-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789669006189-f30a7d-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}

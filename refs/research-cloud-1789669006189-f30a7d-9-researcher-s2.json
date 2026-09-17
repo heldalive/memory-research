@@ -1,0 +1,14 @@
+{
+  "id": "S2",
+  "url": "https://arxiv.org/abs/2603.04428v1",
+  "title": "Agent Memory Below the Prompt: Persistent Q4 KV Cache for Multi-Agent LLM Inference on Edge Devices",
+  "excerpt": "Abstract: Multi-agent LLM systems on edge devices face a memory management problem: device RAM is too small to hold every agent's KV cache simultaneously. On Apple M4 Pro with 10.2 GB of cache budget, only 3 agents fit at 8K context in FP16. A 10-agent workflow must constantly evict and reload caches. Without persistence, every eviction forces a full re-prefill through the model -- 15.7 seconds per agent at 4K context. We address this by persisting each agent's KV cache to disk in 4-bit quantized format and reloading it directly into the attention layer, eliminating redundant O(n) prefill computation via direct cache restoration. The system comprises three components: a block pool providing per-agent isolated Q4 KV caches in safetensors format, a BatchQuantizedKVCache for concurrent inference over multiple agents' quantized caches, and cross-phase context injection that accumulates attention state across conversation phases without re-computation. Evaluated on three architectures (Gemma 3 12B, dense GQA, 48 layers; DeepSeek-Coder-V2-Lite 16B, MoE MLA, 27 layers; Llama 3.1 8B, dense GQA, 32 layers), cache restoration reduces time-to-first-token by up to 136x (Gemma: 22--136x at 4K--32K; DeepSeek: 11--76x at 4K--32K; Llama: 24--111x at 4K--16K; 3--10x at 1K). Q4 quantization fits 4x more agent contexts into fixed device memory than FP16. Perplexity measured with actual Q4 KV caches shows -0.7% for Gemma, +2.8% for Llama, and +3.0% for DeepSeek. Open-source at this https URL",
+  "checkedAt": 1789670002665,
+  "status": "retrieved",
+  "readingLevel": "abstract only",
+  "sha256": "885af9f29484198c5cf1e4b178b0b251366d6768ab0870adf1aa61fab865cf40",
+  "discovery": {
+    "query": "https://huggingface.co/spaces/BigBench/bigbench-memory-evaluation",
+    "method": "planner query; arXiv, GitHub and provider-index discovery"
+  }
+}

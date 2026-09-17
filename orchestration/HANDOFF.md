@@ -4,16 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-1789651535062
-
-Research loop closed. No sources provide controlled dynamic vs. static memory comparisons under fixed budgets. Pivot to descriptive benchmark metrics.
-
-Next candidate: Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. If fewer than 4 sources match the criteria, expand search terms to include 'descriptive performance' or 'resource usage' without requiring direct baseline comparisons, but strictly note the absence of controlled A/B testing. Limit to 4 sources; do not implement code.
-
-Limits: The current bounded task failed to identify 4 sources reporting task success/hallucination rates on standard benchmarks (ScienceWorld/BigBench) under fixed token budgets with direct baseline comparisons. Only one source (arXiv:2609.19128v1) contains relevant benchmark data, but it compares architectural configurations rather than memory policies. Sources 2, 3, and 4 are practitioner guides lacking empirical metrics.
-
-**Decision**: Advance to the next research phase. The authorized program continues; we must now gather descriptive evidence on resource usage and success rates, explicitly noting 
-
 ## research-1789656281930
 
 Current evidence insufficient for comparative claims; pivot to descriptive metrics on a single benchmark (BigBench).
@@ -37,3 +27,11 @@ No transparent, repeatable experiment evaluating agent memory on BigBench under 
 Next candidate: Different research question: Investigate whether BigBench's evaluation framework inherently supports or excludes memory-based agent testing under token budget constraints by analyzing its official documentation for explicit support of memory systems and budgeted inference workflows. Extract only direct statements from the source text without inference or external assumptions.
 
 Limits: After two review cycles, all inspected sources either lack a BigBench-specific evaluation under token budget constraints or fail to explicitly document missing baselines. The absence of such experiments confirms a critical gap in the literature for validating agent memory systems through controlled, repeatable testing. A bounded revision is requested to refine the search scope without expanding beyond the defined objective. The current research direction remains unverified and requires a shift in focus to ensure scientific rigor and alignment with the core research question.
+
+## research-cloud-1789669006189-f30a7d
+
+No open-source tools extend BigBench with memory-aware evaluation under token budgeting and explicit memory state tracking, and the available evidence confirms a significant gap in the literature and repositories studied.
+
+Next candidate: Investigate non-BigBench agent evaluation benchmarks with explicit documentation of memory state tracking and usage metrics under token budgeting, focusing on publicly available repositories and peer-reviewed literature. Include a comparative analysis of at least three benchmarks with verified experiments demonstrating controlled memory usage and token-level constraints. Prioritize work that provides open, reproducible evaluation protocols and measurable memory
+
+Limits: After two review cycles, consistent findings indicate no existing open-source extensions of BigBench meet the criteria for memory-aware evaluation under token budgeting with explicit, documented metrics on memory state usage. All relevant sources either address privacy concerns or efficiency optimizations without providing transparent, controlled evaluation of memory behavior under constrained token budgets. This reinforces the need to shift focus to non-BigBench benchmarks with verifiable memory and token-level tracking capabilities before finalizing research direction. A bounded revision is requested to explore alternative evaluation frameworks with primary-source evidence of such tracking mechanisms.
