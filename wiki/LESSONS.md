@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: When assessing agent memory effectiveness, prioritize sources that report explicit, reproducible metrics on a shared benchmark under controlled conditions; without such data, refine the objective to focus on evaluation gaps and methodological transparency
 - manager final: When assessing agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when direct performance data is unavailable.
 - orchestrator: Prioritize transparent, repeatable experiments with explicit baseline documentation when evaluating agent memory to establish scientific validity and avoid reliance on uncontrolled or indirect evidence.
 - manager setup: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions or indirect inferences.
@@ -40,5 +39,6 @@
 - planner: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting, baseline comparisons, and observable state evolution to ensure scientific validity and avoid performance claims based on unverified assumptions
 - plan review: Agent memory evaluation must be grounded in independently verifiable, primary-source experiments with transparent token constraints, baseline comparisons, and observable state evolution to ensure scientific rigor and reproducibility
 - manager plan: Agent memory evaluation must be grounded in independently verifiable, primary-source experiments with transparent token constraints, baseline comparisons, and observable state evolution to ensure scientific rigor and reproducibility.
+- orchestrator: Memory evaluation in agents requires explicit, dynamic, and measurable state tracking under controlled constraints; absence of such work signals a need for foundational research design over incremental extensions.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
