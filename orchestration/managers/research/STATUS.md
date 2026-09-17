@@ -12,5 +12,6 @@ Plan reviews: 0/2. Deliverable reviews: 0/2.
 
 - research-1789626594197-01-orchestrator: orchestrator; completed; Assign manager to define a bounded benchmark comparing dynamic memory against static baselines under fixed token budgets.
 - research-1789626594197-02-manager-setup: manager_setup; completed; Assign planner to define a bounded research question targeting a specific benchmark comparing dynamic vs. static memory under fixed token budgets.
+- research-1789626594197-03-planner: planner; running; planner is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.

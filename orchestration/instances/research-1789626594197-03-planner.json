@@ -1,0 +1,11 @@
+{
+  "id": "research-1789626594197-03-planner",
+  "role": "planner",
+  "manager": "research",
+  "loopId": "research-1789626594197",
+  "status": "running",
+  "startedAt": 1789627306212,
+  "summary": "planner is working",
+  "objective": "Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.",
+  "model": "Qwen3.5-9B-4bit"
+}

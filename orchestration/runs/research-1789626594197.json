@@ -19,6 +19,12 @@
       "role": "manager_setup",
       "status": "completed",
       "summary": "Assign planner to define a bounded research question targeting a specific benchmark comparing dynamic vs. static memory under fixed token budgets."
+    },
+    {
+      "id": "research-1789626594197-03-planner",
+      "role": "planner",
+      "status": "running",
+      "summary": "planner is working"
     }
   ],
   "status": "active",
