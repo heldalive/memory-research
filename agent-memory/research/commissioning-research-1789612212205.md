@@ -2,6 +2,8 @@
 
 2026-09-17T02:30:12.205Z · gpt-5.6-luna · research
 
+**Workflow trace — completion of a step is not acceptance of its claims. Consult the manager disposition and reviews in `orchestration/` before treating this as a research finding.**
+
 The bounded research plan is relevant and feasible, with clear evidence requirements and a useful comparison proposal.
 
 **Decision: advance.** The four-source cap, research-only constraints, and requirement to record a revision-testing gap make this achievable. Acceptance criteria cover task, evaluation signal, limitations, actual inspection, and a discriminating comparison.
