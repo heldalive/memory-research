@@ -10,7 +10,7 @@ For at least its first seven days, the autonomous workflow researches the field.
 
 ```mermaid
 flowchart TD
-    L["Luna · orchestrator"] --> M["Research manager · one branch/worktree"]
+    L["Qwen · orchestrator"] --> M["Research manager · one branch/worktree"]
     M --> P["Planner · bounded question + search plan"]
     P --> PR["Light plan review · at most 2 rounds"]
     PR --> R["Researcher · retrieve and inspect evidence"]
@@ -22,7 +22,7 @@ flowchart TD
     H --> L
 ```
 
-Luna chooses objectives and reads manager reports. It does not perform the plan, source research, or review in this workflow. The manager assigns those tasks to distinct recorded instances and supervises them; it does not quietly become the implementer. After two review rounds, the manager records a decision instead of sending the same work around forever. Rejected findings are not published as established results.
+The orchestrator chooses objectives and reads manager reports. It does not perform the plan, source research, or review in this workflow. The manager assigns those tasks to distinct recorded instances and supervises them; it does not quietly become the implementer. After two review rounds, the manager records a decision instead of sending the same work around forever. Rejected findings are not published as established results.
 
 The initial concurrency limit is **one research manager, with serial child tasks**. An agent role is a bounded model invocation, not a permanently running process. This keeps the experiment inspectable and limits load on the host.
 
@@ -38,11 +38,15 @@ The initial concurrency limit is **one research manager, with serial child tasks
 | [Shared wiki](wiki/README.md) | Reusable lessons, failed approaches, and loop-resolution decisions |
 | [Commissioning review](agent-memory/README.md) | An earlier, human-commissioned seed review with 55 sources |
 
-The seed review is **not** credited to Luna's autonomous research loop. A seed source enters `refs/` only after a workflow record shows that an agent retrieved or inspected it. The catalog distinguishes reading a title, screening an abstract, inspecting a full source, and reproducing a result.
+The seed review is **not** credited to the orchestrator's autonomous research loop. A seed source enters `refs/` only after a workflow record shows that an agent retrieved or inspected it. The catalog distinguishes reading a title, screening an abstract, inspecting a full source, and reproducing a result.
 
 ## What actually runs
 
-The central model is **GPT-5.6 Luna**, accessed by a server-side runner. **Qwen3 4B is a separate open-source browser worker.** Browser attendance, helper work, and central-model work are different measurements. This notebook does not turn visitor counts into an invented model size or pretend the central model lives inside visitors' tabs.
+The central model is **Qwen3.5 9B**, running locally through MLX with 4-bit weights. **Qwen3 4B runs the shared-browser experiments.** Each role gets a fresh context; one role runs at a time. After each inference call, a persistent cooldown lasts nine times the call's duration, targeting 10% inference duty over time. That is a scheduling budget, not an exact CPU-utilization measurement.
+
+The planner proposes search queries. The supervisor retrieves arXiv results, GitHub repositories, and official provider materials; the researcher receives bounded excerpts with URLs and hashes. The reviewer receives fresh source fetches. Records distinguish abstract screening from excerpt inspection and preserve failures. This is a bounded research process, not an exhaustive crawl or independent experimental reproduction.
+
+Current instructions use Qwen. Historical records keep their actual model attribution, including the earlier Luna commissioning runs. A model change never rewrites earlier evidence.
 
 The daily schedule allocates 20 hours to research, one to the ASCII mural, one to funding brainstorming, one to reflection, and one to rest. These are availability windows. The runner schedules bounded work and records actual activity; “20 research hours” does not mean 20 hours of uninterrupted inference. During the first week, funding work is planning only.
 
@@ -54,4 +58,4 @@ Automated notes can be wrong. Claims need source links, inspection depth, limita
 
 Only the owner and installation publisher maintain this repository. Public readers can inspect and fork it; issues, pull requests, comments, and visitor messages are not ingested as instructions. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The dedicated identity is [heldalive](https://github.com/heldalive). The public repository is heldalive/memory-research. Publishing access through the owner’s existing GitHub identity has been verified. This protocol documents the intended workflow. Current execution is evidenced by the linked handoffs and instance records, not by the diagram alone.
+The dedicated identity is [heldalive](https://github.com/heldalive). The public repository is heldalive/memory-research. Publishing access through the owner’s existing GitHub identity has been verified. Current execution is evidenced by the linked handoffs and instance records, not by the diagram alone.

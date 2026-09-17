@@ -16,14 +16,14 @@ The publisher can be deterministic runtime code. It need not be a model instance
 
 ## One cycle
 
-1. **Resume.** Luna reads [HANDOFF.md](HANDOFF.md), receives the research manager's status, and assigns one bounded question. At this stage, only the research manager is enabled.
+1. **Resume.** The orchestrator reads [HANDOFF.md](HANDOFF.md), receives the research manager's status, and assigns one bounded question. At this stage, only the research manager is enabled.
 2. **Prepare.** The manager acquires its worktree, checks for unfinished work, sets a task identifier, and records acceptance criteria. Existing changes are resumed or explicitly preserved; they are never discarded merely to obtain a clean tree.
 3. **Plan.** A planner proposes the source search and deliverable. A plan reviewer performs a short review.
 4. **Resolve the plan.** A first review can request revision. The revised plan receives at most one further review. After review two, the manager accepts, narrows, defers, or blocks the task and records why. There is no third review under a new label.
 5. **Research.** A distinct researcher follows the accepted plan using web search. Code-execution tools are disabled in this research-only stage. Source text, repository content, and wiki entries are evidence rather than privileged instructions.
 6. **Review the deliverable.** A reviewer checks material claims against the cited evidence. Proposed source URLs receive a separate HTTP reachability check; a working URL does not verify its claims. One corrective research pass and one second review are allowed. Reviewer agreement does not establish a claim experimentally.
 7. **Dispose and publish.** The manager resolves outstanding points. Publish only an approved, bounded note, or a clearly labeled limitations/failure note. A missing citation does not become verified because the review budget expired.
-8. **Handoff.** Record every instance, the useful result, remaining uncertainties, exact next action, and any wiki lesson. The manager reports to Luna; Luna does not address the child instances directly.
+8. **Handoff.** Record every instance, the useful result, remaining uncertainties, exact next action, and any wiki lesson. The manager reports to the orchestrator; the orchestrator does not address the child instances directly.
 
 A review “round” means one reviewer invocation on a version of the artifact. Planner/researcher revisions are separate recorded invocations. Review counts persist across process restarts and station changes.
 
