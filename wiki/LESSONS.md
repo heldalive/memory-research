@@ -321,3 +321,12 @@ Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
 Claims of dynamic memory superiority require controlled baselines (e.g., append-only) and fixed resource budgets. Descriptive evidence from disparate studies is insufficient for causal claims; look for reproducible benchmark results.
 
 Proposed by researcher; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789647102218-07-deliverable-review
+
+### Evidence Gap: Dynamic vs. Static Memory
+
+Claims of dynamic memory superiority require controlled baselines (e.g., append-only) and fixed resource budgets. Descriptive evidence from disparate studies is insufficient for causal claims; look for reproducible benchmark results.
+
+Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.

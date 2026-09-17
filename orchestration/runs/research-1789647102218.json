@@ -2,11 +2,11 @@
   "id": "research-1789647102218",
   "branch": "manager/research-1789647102218",
   "baseCommit": "7e78c6e3625dab0f5796c81db7e771cc27e72033",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "createdAt": 1789647102355,
   "goal": "Execute a bounded research task: Identify and inspect 4 sources (papers or repos) that provide empirical data comparing dynamic memory consolidation policies against a defined static baseline (e.g., append-only) under comparable token budgets. Measure task success and hallucination rates. Limit to 4 sources; do not implement code.",
   "planReviews": 1,
-  "deliverableReviews": 0,
+  "deliverableReviews": 1,
   "instances": [
     {
       "id": "research-1789647102218-01-orchestrator",
@@ -47,8 +47,8 @@
     {
       "id": "research-1789647102218-07-deliverable-review",
       "role": "deliverable_review",
-      "status": "running",
-      "summary": "deliverable review is working"
+      "status": "completed",
+      "summary": "Researcher failed to find 4 sources with controlled empirical comparisons. Evidence is descriptive; no direct baseline matching exists."
     }
   ],
   "status": "active",
