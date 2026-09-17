@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789665847642](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789665847642): **manager plan**. Execute a bounded research task: Identify and inspect 4 sources reporting descriptive performance metrics (success rate, token usage, hallucination rate) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.
+- [research-cloud-1789665847642](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789665847642): **researcher**. Execute a bounded research task: Identify and inspect 4 sources reporting descriptive performance metrics (success rate, token usage, hallucination rate) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
