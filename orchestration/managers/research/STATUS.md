@@ -16,6 +16,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789642128992-04-plan-review: plan_review; completed; Plan is unfeasible: no sources exist comparing dynamic vs. static memory under fixed token budgets. Pivot to inspecting specific benchmarks for descriptive evidence.
 - research-1789642128992-05-manager-plan: manager_plan; completed; Advance to researcher with a revised, bounded task targeting specific benchmarks to compare dynamic vs. static memory under fixed token constraints.
 - research-1789642128992-06-researcher: researcher; completed; No sources provide empirical data comparing dynamic vs. static memory under fixed token budgets. Pivot to inspecting specific benchmarks for descriptive evidence.
-- research-1789642128992-07-deliverable-review: deliverable_review; running; deliverable review is working
+- research-1789642128992-07-deliverable-review: deliverable_review; failed; Call failed: Inline citation must also have a source record
 
 Runtime station and full prompts remain private. No implementation work is enabled.
