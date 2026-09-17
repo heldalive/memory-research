@@ -13,6 +13,12 @@
       "role": "orchestrator",
       "status": "completed",
       "summary": "Assign manager to define a bounded benchmark comparing dynamic memory against static baselines under fixed token budgets."
+    },
+    {
+      "id": "research-1789626594197-02-manager-setup",
+      "role": "manager_setup",
+      "status": "running",
+      "summary": "manager setup is working"
     }
   ],
   "status": "active",
