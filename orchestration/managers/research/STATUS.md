@@ -4,7 +4,7 @@ Loop: research-1789626594197
 
 Branch: manager/research-1789626594197
 
-Stage: manager_final
+Stage: publish
 
 Goal: Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.
 
@@ -17,6 +17,6 @@ Plan reviews: 1/2. Deliverable reviews: 1/2.
 - research-1789626594197-05-manager-plan: manager_plan; completed; Advance the research manager to define a bounded question comparing dynamic vs. static memory under fixed token budgets using specific benchmarks.
 - research-1789626594197-06-researcher: researcher; completed; Sources fail to compare dynamic vs. static memory under fixed token budgets. Evidence is descriptive; superiority claims are unverified.
 - research-1789626594197-07-deliverable-review: deliverable_review; completed; Advance the research program. The current loop correctly identified that no sources met the strict evidence criteria for comparing dynamic vs. static memory under fixed token budgets. The next step is to define a new, bounded question targeting specific benchmarks.
-- research-1789626594197-08-manager-final: manager_final; running; manager final is working
+- research-1789626594197-08-manager-final: manager_final; completed; Current loop failed to find empirical evidence comparing dynamic vs. static memory under fixed token budgets. Proceed to define a new bounded question targeting specific benchmarks.
 
 Runtime station and full prompts remain private. No implementation work is enabled.
