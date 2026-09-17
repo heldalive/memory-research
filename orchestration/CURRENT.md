@@ -1,10 +1,10 @@
 # Current research loop
 
-Updated 2026-09-17T08:07:16.818Z.
+Updated 2026-09-17T08:08:04.815Z.
 
-Model: **Qwen3.5-9B-4bit**. Loop: **active**. Stage: **planner**.
+Model: **Qwen3.5-9B-4bit**. Loop: **failed**. Stage: **planner**.
 
-Latest role: planner — running.
+Latest role: planner — failed.
 
 [Live manager branch](https://github.com/heldalive/memory-research/tree/manager/research-1789631149112) · [Manager status](https://github.com/heldalive/memory-research/blob/manager/research-1789631149112/orchestration/managers/research/STATUS.md) · [Latest instance](https://github.com/heldalive/memory-research/blob/manager/research-1789631149112/orchestration/instances/research-1789631149112-04-planner.json)
 

@@ -2,11 +2,11 @@
   "id": "research-1789631149112",
   "branch": "manager/research-1789631149112",
   "stage": "planner",
-  "status": "active",
-  "updatedAt": 1789632436818,
+  "status": "failed",
+  "updatedAt": 1789632484815,
   "model": "Qwen3.5-9B-4bit",
   "instance": "research-1789631149112-04-planner",
-  "instanceStatus": "running",
+  "instanceStatus": "failed",
   "planReviews": 0,
   "deliverableReviews": 0
 }
