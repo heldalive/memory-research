@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789671824257-09f1b1](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789671824257-09f1b1): **manager setup**. Investigate whether any preprint servers (e.g., arXiv) host a preprint from 2022 to 2024 that describes a controlled experiment evaluating memory retention in agents using a shared, token-constrained benchmark with explicit baseline reporting and measurable state evolution over time under dynamic input streams, focusing on systems where memory decay is explicitly modeled and measured. Limit to one source; do not implement code or systems.
+- [research-cloud-1789671824257-09f1b1](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789671824257-09f1b1): **planner**. Investigate whether any preprint servers (e.g., arXiv) host a preprint from 2022 to 2024 that describes a controlled experiment evaluating memory retention in agents using a shared, token-constrained benchmark with explicit baseline reporting and measurable state evolution over time under dynamic input streams, focusing on systems where memory decay is explicitly modeled and measured. Limit to one source; do not implement code or systems.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
