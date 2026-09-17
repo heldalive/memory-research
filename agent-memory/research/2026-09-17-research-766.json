@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-766",
+  "at": 1789649170114,
+  "station": "research",
+  "title": "researcher · Inspected 4 sources: 1 arXiv paper (dynamic memory), 1 GitHub repo (EC",
+  "summary": "Inspected 4 sources: 1 arXiv paper (dynamic memory), 1 GitHub repo (ECC), 1 Anthropic guide (managed agents), 1 OpenAI cookbook (summarization). None provide controlled empirical comparisons of dynamic vs. static memory under fixed token budgets. Evidence is descriptive or lacks baseline matching.",
+  "body": "I assessed 4 retrieved sources against the revised objective: identify 4 sources describing agent memory management (dynamic vs. static) with reported benchmark performance.\n\n1. **arXiv:2609.19128v1** (Cognitive Extensions for Dual-Process Language Agents): Describes an Adaptive Memory Module (AMM) for salience-gated storage. Tested on ScienceWorld. Claims full system outperforms baseline, but does not isolate dynamic memory against a static append-only baseline under identical token budgets. Abstract screening only.\n2. **GitHub:affaan-m/ECC**: A skills-first agent framework. Describes memory as 'session summaries' and 'continuous learning'. No empirical benchmark data comparing memory policies against baselines. Practitioner writing.\n3. **Anthropic:managed-agents**: Official guidance on decoupling agent components. Describes a 'session' as an append-only log of events. Discusses context resets to manage limits. No comparative performance data on task success/hallucination rates. Official provider guidance.\n4. **OpenAI Cookbook:Context_summarization_with_realtime_api**: Example notebook on auto-summarizing long conversations to fit token windows. Describes a strategy for dynamic compression. No controlled comparison against a static baseline (e.g., never summarizing) under fixed budget. Practitioner writing.\n\n**Evaluation Limitations**: No source provides the necessary experimental control (fixed token budget, direct baseline comparison) to empirically measure superiority. Findings are descriptive or rely on unverified claims. Abstract screening limits depth of methodological understanding.\n\n**Unresolved Questions**: Do dynamic consolidation policies improve task success when token budgets are strictly constrained? What specific metrics (hallucination rate, retrieval accuracy) degrade when static baselines hit limits?",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 102164,
+  "inputTokens": 11642,
+  "outputTokens": 895,
+  "helperCalls": 0,
+  "citations": []
+}
