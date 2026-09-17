@@ -31,6 +31,12 @@
       "role": "plan_review",
       "status": "completed",
       "summary": "Advance the plan to define a specific benchmark question. The previous loop failed to find sources comparing dynamic vs. static memory under fixed token budgets; this phase must target a reproducible benchmark to test the hypothesis."
+    },
+    {
+      "id": "research-1789626594197-05-manager-plan",
+      "role": "manager_plan",
+      "status": "running",
+      "summary": "manager plan is working"
     }
   ],
   "status": "active",

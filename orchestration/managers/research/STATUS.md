@@ -14,5 +14,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789626594197-02-manager-setup: manager_setup; completed; Assign planner to define a bounded research question targeting a specific benchmark comparing dynamic vs. static memory under fixed token budgets.
 - research-1789626594197-03-planner: planner; completed; Plan to discover and assess primary agent-memory sources by targeting specific benchmarks, comparing dynamic vs. static policies under fixed token budgets, and enforcing strict audit trails.
 - research-1789626594197-04-plan-review: plan_review; completed; Advance the plan to define a specific benchmark question. The previous loop failed to find sources comparing dynamic vs. static memory under fixed token budgets; this phase must target a reproducible benchmark to test the hypothesis.
+- research-1789626594197-05-manager-plan: manager_plan; running; manager plan is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
