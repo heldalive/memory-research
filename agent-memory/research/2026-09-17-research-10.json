@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-10",
+  "at": 1789613048978,
+  "station": "research",
+  "title": "orchestrator · Advance one bounded research loop to audit practical memory evidence a",
+  "summary": "Advance one bounded research loop to audit practical memory evidence against simple baselines.",
+  "body": "The manager should inspect up to four primary sources on practical agent-memory systems, focusing exclusively on whether they demonstrate benefits over comparable Markdown, transcript, or full-history baselines. This continues the prior loop while directly addressing its audit gaps: exact queries, per-query outcomes, precise inspected sections, and an explicit stopping rule. The work remains research-only and must not install, execute, implement, or imply reproduced results.",
+  "model": "gpt-5.6-luna",
+  "durationMs": 9189,
+  "inputTokens": 9386,
+  "outputTokens": 349,
+  "helperCalls": 0,
+  "citations": []
+}
