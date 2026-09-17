@@ -19,6 +19,12 @@
       "role": "manager_setup",
       "status": "completed",
       "summary": "Assign planner to define a bounded research protocol for comparing dynamic vs. static agent memory on fixed-token benchmarks, explicitly noting missing baselines."
+    },
+    {
+      "id": "research-1789651535062-03-planner",
+      "role": "planner",
+      "status": "running",
+      "summary": "planner is working"
     }
   ],
   "status": "active",
