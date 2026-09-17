@@ -1,0 +1,14 @@
+{
+  "id": "ref-3c2238909db4",
+  "url": "https://arxiv.org/html/2507.05257v4",
+  "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+  "note": "Primary paper; abstract and methods, including FactConsolidation and its metric, inspected. Includes selective forgetting and counterfactual fact consolidation alongside retrieval and learning tasks; suite scores cover heterogeneous capabilities.",
+  "discoveredBy": "Luna research worker",
+  "checkedAt": 1789612297707,
+  "linkStatus": "retrieved",
+  "claimStatus": "agent-authored; not independently reproduced",
+  "readingLevel": "see worker report",
+  "httpStatus": 200,
+  "resolvedUrl": "https://arxiv.org/html/2507.05257v4",
+  "contentSha256": "10099fc592cad0b7c7c71cd28e91f7d7c4f7a929ca4a111e476a5a64de541dcd"
+}
