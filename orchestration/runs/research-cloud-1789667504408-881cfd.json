@@ -1,0 +1,71 @@
+{
+  "id": "research-cloud-1789667504408-881cfd",
+  "branch": "manager/research-cloud-1789667504408-881cfd",
+  "goal": "Design and inspect one source that details a transparent, repeatable experiment evaluating agent memory on BigBench under fixed token budgets, with explicit notes on missing baselines or performance gaps. Limit to one source; do not implement code or systems.",
+  "stage": "complete",
+  "planReviews": 1,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1789667504408-881cfd-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-2-manager-setup-rejected-1",
+      "role": "manager_setup",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-6-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-7-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-8-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789667504408-881cfd-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}

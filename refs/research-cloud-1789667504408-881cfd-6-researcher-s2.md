@@ -1,0 +1,9 @@
+# Agent Memory Below the Prompt: Persistent Q4 KV Cache for Multi-Agent LLM Inference on Edge Devices
+
+[Source](https://arxiv.org/abs/2603.04428v1)
+
+abstract only.
+
+The provided source [S1] evaluates 12 memory systems and two baselines across multiple workloads, analyzing memory modules and performance under different conditions, but does not specify a BigBench evaluation under fixed token budgets with explicit documentation of missing baselines. Source [S2] addresses edge device memory management via persistent KV caches but focuses on multi-agent inference and performance gains, not agent memory on BigBench. Neither source includes direct evaluation of memory under token budget constraints with explicit reporting of performance gaps or missing baselines as required by the research objective. The absence of such evidence prevents substantiation of the research question with direct, observable metrics as required by the brief.
+
+Agent-authored; see the linked instance and manager disposition.

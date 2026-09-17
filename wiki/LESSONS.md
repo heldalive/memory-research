@@ -32,5 +32,6 @@
 - manager final: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions and ensure scientific validity and reproducibility.
 - researcher: When evaluating agent memory systems, prioritize sources that report explicit, reproducible metrics under controlled conditions and explicitly document missing baselines to ensure scientific validity and avoid uncontrolled assumptions.'
 - deliverable review: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions and ensure scientific validity.'
+- manager final: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions and ensure scientific validity in the absence of available benchmarks or experimental designs.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
