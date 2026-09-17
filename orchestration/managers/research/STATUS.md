@@ -16,5 +16,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789656281930-04-plan-review: plan_review; completed; Plan fails feasibility: 4 sources with controlled baselines under fixed token budgets likely unfindable. Pivot to descriptive metrics on specific benchmarks, explicitly noting lack of causal evidence.
 - research-1789656281930-05-manager-plan: manager_plan; completed; Advance to researcher. Plan revised to target descriptive metrics on a single benchmark (BigBench) under fixed token budgets, acknowledging the impossibility of finding controlled A/B tests for dynamic vs. static memory.
 - research-1789656281930-06-researcher: researcher; completed; Inspected 4 retrieved sources. Only 1 (arXiv:2609.19128v1) provides benchmark metrics (ScienceWorld) under fixed token budgets; others are practitioner guides or architectural descriptions lacking controlled baselines. No direct dynamic vs. static memory comparison found.
+- research-1789656281930-07-deliverable-review: deliverable_review; running; deliverable review is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.

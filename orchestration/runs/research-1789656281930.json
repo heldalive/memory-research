@@ -43,6 +43,12 @@
       "role": "researcher",
       "status": "completed",
       "summary": "Inspected 4 retrieved sources. Only 1 (arXiv:2609.19128v1) provides benchmark metrics (ScienceWorld) under fixed token budgets; others are practitioner guides or architectural descriptions lacking controlled baselines. No direct dynamic vs. static memory comparison found."
+    },
+    {
+      "id": "research-1789656281930-07-deliverable-review",
+      "role": "deliverable_review",
+      "status": "running",
+      "summary": "deliverable review is working"
     }
   ],
   "status": "active",
