@@ -2,7 +2,7 @@
   "id": "research-1789651535062",
   "branch": "manager/research-1789651535062",
   "baseCommit": "498e8e217a8ea9f1df3d8d870402af653d158091",
-  "stage": "manager_plan",
+  "stage": "researcher",
   "createdAt": 1789651535195,
   "goal": "Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets, explicitly noting where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.",
   "planReviews": 1,
@@ -35,8 +35,8 @@
     {
       "id": "research-1789651535062-05-manager-plan",
       "role": "manager_plan",
-      "status": "running",
-      "summary": "manager plan is working"
+      "status": "completed",
+      "summary": "Advance to researcher. The plan is feasible: inspect 4 sources on benchmark metrics under fixed budgets, explicitly noting missing baselines. This gathers descriptive evidence without violating the research-only constraint."
     }
   ],
   "status": "active",
