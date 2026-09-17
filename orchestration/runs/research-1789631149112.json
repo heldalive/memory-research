@@ -23,8 +23,8 @@
     {
       "id": "research-1789631149112-03-planner",
       "role": "planner",
-      "status": "running",
-      "summary": "planner is working"
+      "status": "failed",
+      "summary": "Call failed: Only research and evidence-review roles may cite new sources"
     }
   ],
   "status": "active",

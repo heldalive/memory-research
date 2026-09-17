@@ -4,7 +4,7 @@ Loop: research-1789631149112. Stage: planner.
 
 Current assignment: Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.
 
-Latest instance: research-1789631149112-03-planner (running).
+Latest instance: research-1789631149112-03-planner (failed).
 
 Continue the recorded stage after this instance finishes.
 

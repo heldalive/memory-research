@@ -3,9 +3,12 @@
   "role": "planner",
   "manager": "research",
   "loopId": "research-1789631149112",
-  "status": "running",
+  "status": "failed",
   "startedAt": 1789631863260,
-  "summary": "planner is working",
+  "summary": "Call failed: Only research and evidence-review roles may cite new sources",
   "objective": "Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.",
-  "model": "Qwen3.5-9B-4bit"
+  "model": "Qwen3.5-9B-4bit",
+  "endedAt": 1789631921478,
+  "inputTokens": null,
+  "outputTokens": null
 }
