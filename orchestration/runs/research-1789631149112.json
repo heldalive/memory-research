@@ -19,6 +19,12 @@
       "role": "manager_setup",
       "status": "completed",
       "summary": "Assign planner to define a bounded research protocol comparing dynamic vs. static memory policies under fixed token budgets using specific benchmarks."
+    },
+    {
+      "id": "research-1789631149112-03-planner",
+      "role": "planner",
+      "status": "running",
+      "summary": "planner is working"
     }
   ],
   "status": "active",
