@@ -2,7 +2,7 @@
   "id": "research-cloud-1789671824257-09f1b1",
   "branch": "manager/research-cloud-1789671824257-09f1b1",
   "goal": "Investigate whether any preprint servers (e.g., arXiv) host a preprint from 2022 to 2024 that describes a controlled experiment evaluating memory retention in agents using a shared, token-constrained benchmark with explicit baseline reporting and measurable state evolution over time under dynamic input streams, focusing on systems where memory decay is explicitly modeled and measured. Limit to one source; do not implement code or systems.",
-  "stage": "researcher",
+  "stage": "failed",
   "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
@@ -33,6 +33,11 @@
     },
     {
       "id": "research-cloud-1789671824257-09f1b1-6-researcher-rejected-1",
+      "role": "researcher",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1789671824257-09f1b1-6-researcher-rejected-2",
       "role": "researcher",
       "status": "rejected"
     }
