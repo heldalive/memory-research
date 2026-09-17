@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-365",
+  "at": 1789625103806,
+  "station": "research",
+  "title": "deliverable review · Research failed to compare dynamic vs. static memory under equal token",
+  "summary": "Research failed to compare dynamic vs. static memory under equal token budgets. Sources are abstract-screened or practitioner docs lacking empirical cost/performance data. Advance with strict new query targeting reproducible benchmarks.",
+  "body": "The researcher inspected four sources but failed the core audit requirement: comparing dynamic consolidation against a static baseline (e.g., append-only Markdown) at identical token budgets. None of the four sources (arXiv abstracts, GitHub READMEs, vendor docs) provide the necessary metric (task success vs. token usage) to verify superiority under fixed constraints. The researcher correctly labeled findings as 'unverified' but did not document the specific search queries or outcomes to prove stopping rule compliance. This constitutes a protocol failure per HANDOFF.md and RESEARCH-OBJECTIVE.md standards. The research loop must be revised to target a bounded, reproducible comparison question before proceeding.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 93402,
+  "inputTokens": 11685,
+  "outputTokens": 695,
+  "helperCalls": 0,
+  "citations": []
+}
