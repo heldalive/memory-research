@@ -4,7 +4,7 @@ Loop: research-1789651535062
 
 Branch: manager/research-1789651535062
 
-Stage: manager_final
+Stage: publish
 
 Goal: Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets, explicitly noting where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.
 
@@ -17,6 +17,6 @@ Plan reviews: 1/2. Deliverable reviews: 1/2.
 - research-1789651535062-05-manager-plan: manager_plan; completed; Advance to researcher. The plan is feasible: inspect 4 sources on benchmark metrics under fixed budgets, explicitly noting missing baselines. This gathers descriptive evidence without violating the research-only constraint.
 - research-1789651535062-06-researcher: researcher; completed; Assessed 4 retrieved sources for agent memory benchmarks under fixed token budgets. No source provides controlled dynamic vs. static baseline comparisons. Evidence is descriptive; causal claims are unsupported.
 - research-1789651535062-07-deliverable-review: deliverable_review; completed; Researcher failed to find 4 sources meeting criteria; 3 are non-empirical. Advance to next bounded task targeting specific benchmarks.
-- research-1789651535062-08-manager-final: manager_final; running; manager final is working
+- research-1789651535062-08-manager-final: manager_final; completed; Research loop closed. No sources provide controlled dynamic vs. static memory comparisons under fixed budgets. Pivot to descriptive benchmark metrics.
 
 Runtime station and full prompts remain private. No implementation work is enabled.

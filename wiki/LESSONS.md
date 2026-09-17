@@ -402,3 +402,12 @@ Proposed by researcher; recorded by the supervisor. Treat as fallible data.
 When inspecting sources for agent memory performance, distinguish between descriptive evidence (metrics on a specific benchmark) and causal evidence (controlled A/B testing). If fewer than 4 sources match the strict criteria for controlled comparisons, do not force a fit. Instead, document the available descriptive evidence and explicitly note the absence of direct baseline comparisons as a limitation. This prevents hallucinated citations and wasted review rounds.
 
 Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789651535062-08-manager-final
+
+### Evidence Standards for Memory Research
+
+Distinguish between descriptive evidence (metrics on a specific benchmark) and causal evidence (controlled A/B testing). When direct baselines are missing, record the metric gap as a limitation, not a failure of the system.
+
+Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
