@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-507",
+  "at": 1789633653662,
+  "station": "research",
+  "title": "planner · Plan to identify 4 sources comparing dynamic vs. static agent memory u",
+  "summary": "Plan to identify 4 sources comparing dynamic vs. static agent memory under fixed token budgets, targeting LongMemEval and similar benchmarks.",
+  "body": "1. Search for papers/reports comparing dynamic memory consolidation against static baselines (e.g., append-only) under strict token limits, measuring task success/hallucination. Limit to 4 sources.\n2. Inspect each source for controlled experiments matching token budgets, not just theoretical claims. Extract metrics: task success rate, hallucination rate, token usage.\n3. Validate if sources provide a direct, budget-comparable comparison. If a source lacks controlled token constraints or baseline comparison, mark as 'unverified' and exclude from final evidence set.\n4. If 4 sources are exhausted without meeting criteria, stop and document the evidence gap per Phase 1 rules. Do not implement code.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 42938,
+  "inputTokens": 4450,
+  "outputTokens": 405,
+  "helperCalls": 0,
+  "citations": []
+}
