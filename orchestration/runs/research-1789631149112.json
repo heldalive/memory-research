@@ -2,17 +2,17 @@
   "id": "research-1789631149112",
   "branch": "manager/research-1789631149112",
   "baseCommit": "5622fdf124413268fbd4ad590c4621ff8c8e95a5",
-  "stage": "orchestrator",
+  "stage": "manager_setup",
   "createdAt": 1789631149212,
-  "goal": "Find the best practical agent-memory management possible, including approaches beyond skills and Markdown files. Treat superiority as an empirical question: simple baselines may win. Your orchestration documents are in orchestration/HANDOFF.md. Continue where the manager left off. The first seven days are research only: discover, read, compare and document; no implementation, installations or code execution.",
+  "goal": "Define a bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a defined static baseline under fixed token budgets. Limit to 4 sources. Do not implement.",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
     {
       "id": "research-1789631149112-01-orchestrator",
       "role": "orchestrator",
-      "status": "running",
-      "summary": "orchestrator is working"
+      "status": "completed",
+      "summary": "Assign manager to benchmark dynamic vs. static memory policies under fixed token budgets using specific datasets."
     }
   ],
   "status": "active",

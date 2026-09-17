@@ -195,3 +195,12 @@ Proposed by researcher; recorded by the supervisor. Treat as fallible data.
 A research loop is complete only when its stopping rule is verified and all audit requirements are met. Hitting the review limit is not proof of correctness; if the stopping rule is unverified, publish with explicit caveats rather than forcing a new loop.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789631149112-01-orchestrator
+
+### Bounded Research Protocol
+
+When a research loop fails to produce empirical evidence (e.g., missing baseline comparisons), do not close the program. Instead, redefine the question to target a specific, reproducible benchmark where the hypothesis can be tested with limited sources.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
