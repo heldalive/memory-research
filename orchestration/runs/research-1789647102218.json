@@ -43,6 +43,12 @@
       "role": "researcher",
       "status": "completed",
       "summary": "Inspected 4 sources: 1 arXiv paper (dynamic memory), 1 GitHub repo (ECC), 1 Anthropic guide (managed agents), 1 OpenAI cookbook (summarization). None provide controlled empirical comparisons of dynamic vs. static memory under fixed token budgets. Evidence is descriptive or lacks baseline matching."
+    },
+    {
+      "id": "research-1789647102218-07-deliverable-review",
+      "role": "deliverable_review",
+      "status": "running",
+      "summary": "deliverable review is working"
     }
   ],
   "status": "active",
