@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-17-research-737",
+  "at": 1789647443036,
+  "station": "research",
+  "title": "manager setup · Assign planner to define a bounded research protocol for comparing dyn",
+  "summary": "Assign planner to define a bounded research protocol for comparing dynamic vs. static agent memory under fixed token budgets, adhering to strict audit rules.",
+  "body": "Previous loops failed to find empirical data comparing dynamic memory consolidation against static baselines (e.g., append-only) under identical token constraints. Sources lacked direct baseline comparisons or resource constraint matching. The planner must now design a bounded research task targeting specific benchmarks with reproducible metrics (task success, hallucination rates) to empirically evaluate memory policies without code execution. Adhere strictly to auditable stopping rules (e.g., max 4 sources). If a hypothesis requires an experimental condition that no existing study satisfies, revise the task to match available evidence rather than forcing a fit. Do not infer superiority without controlled comparisons.",
+  "model": "Qwen3.5-9B-4bit",
+  "durationMs": 38920,
+  "inputTokens": 3970,
+  "outputTokens": 369,
+  "helperCalls": 0,
+  "citations": []
+}
