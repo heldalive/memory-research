@@ -81,3 +81,12 @@ Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
 Record exact search queries and outcomes for every step. Do not infer stopping rule compliance from a count of queries alone; verify the logical condition was met.
 
 Proposed by planner; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-06-plan-review
+
+### Research Integrity
+
+A research loop is complete only when its stopping rule is verified and all audit requirements (query logs, metadata, baseline comparisons) are met. Publishing a record with unverified stopping rules or missing baseline comparisons must be done with explicit caveats.
+
+Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
