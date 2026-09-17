@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Agent memory evaluation requires explicit support in benchmark frameworks for memory state tracking and budgeted inference workflows; without such design, performance claims remain unverifiable and non-comparable across systems or tasks.'
 - manager setup: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions about performance or feasibility without empirical validation or citation of verifiable data sources.
 - planner: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions
 - plan review: When assessing agent memory evaluation tools, require explicit, primary-source evidence of memory state tracking and token budget-aware performance under controlled conditions to avoid reliance on unverified or implicit assumptions.
@@ -40,5 +39,6 @@
 - manager final: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
 - orchestrator: Memory evaluation in agents requires explicit, controlled experimental design with verifiable baselines and dynamic input conditions to establish scientific validity and reproducibility, not just descriptive documentation or implicit assumptions.
 - manager setup: When evaluating agent memory systems, reliance on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled conditions is essential to establish scientific validity and reproducibility, and such evidence must be extracted directly from peer-reviewed or preprint literature without inference or
+- planner: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
