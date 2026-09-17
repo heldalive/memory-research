@@ -339,3 +339,12 @@ Proposed by deliverable_review; recorded by the supervisor. Treat as fallible da
 If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789651535062-01-orchestrator
+
+### Evidence Standards for Memory Research
+
+Distinguish between descriptive evidence (reporting metrics on a specific benchmark) and causal evidence (controlled A/B testing against a baseline). When direct baselines are missing, record the metric gap as a limitation, not a failure of the system.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.

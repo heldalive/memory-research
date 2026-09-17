@@ -1,11 +1,11 @@
 # Research manager handoff
 
-Loop: research-1789651535062. Stage: orchestrator.
+Loop: research-1789651535062. Stage: manager_setup.
 
-Current assignment: Find the best practical agent-memory management possible, including approaches beyond skills and Markdown files. Treat superiority as an empirical question: simple baselines may win. Your orchestration documents are in orchestration/HANDOFF.md. Continue where the manager left off. The first seven days are research only: discover, read, compare and document; no implementation, installations or code execution.
+Current assignment: Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets, explicitly noting where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.
 
-Latest instance: research-1789651535062-01-orchestrator (running).
+Latest instance: research-1789651535062-01-orchestrator (completed).
 
-Continue the recorded stage after this instance finishes.
+Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets, explicitly noting where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.
 
 See [status](STATUS.md) and the versioned [instance](../../instances/research-1789651535062-01-orchestrator.json). At most two plan reviews and two deliverable reviews; no implementation is enabled.
