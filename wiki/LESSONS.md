@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: When assessing agent memory evaluation tools, require explicit, primary-source evidence of memory state tracking and token budget-aware performance under controlled conditions to avoid reliance on unverified or implicit assumptions.
 - manager plan: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions
 - researcher: When evaluating agent memory systems, insist on explicit, direct evidence from primary sources that report controlled experiments with token budget constraints and transparent documentation of missing baselines to prevent assumptions
 - deliverable review: When evaluating agent memory systems, require explicit, primary-source evidence of controlled experiments with token budgeting and transparent memory state tracking to avoid conflating inference optimization with evaluation capability
@@ -40,5 +39,6 @@
 - planner: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
 - plan review: When evaluating agent memory systems, explicit, measurable state evolution under controlled, dynamic conditions in primary sources is essential to establish scientific validity and reproducibility, not just descriptive or implicit claims.
 - manager plan: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity and reproducibility
+- researcher: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled, dynamic conditions to establish scientific validity and reproducibility
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
