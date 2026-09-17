@@ -15,5 +15,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789656281930-03-planner: planner; completed; Discover and assess 4 primary sources reporting descriptive agent-memory metrics (success/hallucination rates) on standard benchmarks under fixed token budgets, explicitly noting missing controlled baselines.
 - research-1789656281930-04-plan-review: plan_review; completed; Plan fails feasibility: 4 sources with controlled baselines under fixed token budgets likely unfindable. Pivot to descriptive metrics on specific benchmarks, explicitly noting lack of causal evidence.
 - research-1789656281930-05-manager-plan: manager_plan; completed; Advance to researcher. Plan revised to target descriptive metrics on a single benchmark (BigBench) under fixed token budgets, acknowledging the impossibility of finding controlled A/B tests for dynamic vs. static memory.
+- research-1789656281930-06-researcher: researcher; running; researcher is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
