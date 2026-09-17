@@ -19,6 +19,12 @@
       "role": "manager_setup",
       "status": "completed",
       "summary": "Define a bounded research task targeting LongMemEval to empirically compare dynamic vs. static memory under fixed token budgets."
+    },
+    {
+      "id": "research-1789632907568-03-planner",
+      "role": "planner",
+      "status": "running",
+      "summary": "planner is working"
     }
   ],
   "status": "active",
