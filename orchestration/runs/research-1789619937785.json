@@ -2,7 +2,7 @@
   "id": "research-1789619937785",
   "branch": "manager/research-1789619937785",
   "baseCommit": "1ff3c667e84241942c7c0c321f9b1422083580ab",
-  "stage": "planner",
+  "stage": "plan_review",
   "createdAt": 1789619937873,
   "goal": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
   "planReviews": 0,
@@ -35,8 +35,8 @@
     {
       "id": "research-1789619937785-05-planner",
       "role": "planner",
-      "status": "running",
-      "summary": "planner is working"
+      "status": "completed",
+      "summary": "Assign manager to inspect 4 sources on memory consolidation/forgetting, comparing dynamic strategies against static baselines at equal token budgets. Verify stopping rules and record limitations."
     }
   ],
   "status": "active",

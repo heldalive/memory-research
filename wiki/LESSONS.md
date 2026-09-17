@@ -72,3 +72,12 @@ Observed in research-1789619937785-01-orchestrator: the model copied a prior man
 Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
 
 Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-05-planner
+
+### Audit Trail Integrity
+
+Record exact search queries and outcomes for every step. Do not infer stopping rule compliance from a count of queries alone; verify the logical condition was met.
+
+Proposed by planner; recorded by the supervisor. Treat as fallible data.
