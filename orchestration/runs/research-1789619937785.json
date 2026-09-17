@@ -1,0 +1,80 @@
+{
+  "id": "research-1789619937785",
+  "branch": "manager/research-1789619937785",
+  "baseCommit": "1ff3c667e84241942c7c0c321f9b1422083580ab",
+  "stage": "complete",
+  "createdAt": 1789619937873,
+  "goal": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
+  "planReviews": 1,
+  "deliverableReviews": 1,
+  "instances": [
+    {
+      "id": "research-1789619937785-01-orchestrator",
+      "role": "orchestrator",
+      "status": "rejected",
+      "summary": "Publish the bounded research record with explicit limitations regarding unverified stopping rules and incomplete baseline comparisons. No new research or implementation is permitted."
+    },
+    {
+      "id": "research-1789619937785-02-orchestrator",
+      "role": "orchestrator",
+      "status": "completed",
+      "summary": "Assign research on empirical memory consolidation and forgetting policies to test if dynamic pruning outperforms static baselines at equal token costs."
+    },
+    {
+      "id": "research-1789619937785-03-manager-setup",
+      "role": "manager_setup",
+      "status": "completed",
+      "summary": "Assign a bounded research task to inspect dynamic memory consolidation/forgetting mechanisms against static baselines at equal token costs. Verify empirical superiority or document specific limitations."
+    },
+    {
+      "id": "research-1789619937785-04-planner",
+      "role": "planner",
+      "status": "failed",
+      "summary": "Call failed: Only research and evidence-review roles may cite new sources"
+    },
+    {
+      "id": "research-1789619937785-05-planner",
+      "role": "planner",
+      "status": "completed",
+      "summary": "Assign manager to inspect 4 sources on memory consolidation/forgetting, comparing dynamic strategies against static baselines at equal token budgets. Verify stopping rules and record limitations."
+    },
+    {
+      "id": "research-1789619937785-06-plan-review",
+      "role": "plan_review",
+      "status": "completed",
+      "summary": "Advance the research loop to test dynamic memory consolidation against static baselines. The previous cycle failed to verify stopping rules or compare against baselines; this phase must execute specific comparisons within strict token budgets."
+    },
+    {
+      "id": "research-1789619937785-07-manager-plan",
+      "role": "manager_plan",
+      "status": "completed",
+      "summary": "Advance research loop. Prior cycle failed to verify stopping rules or compare against baselines; this phase must inspect sources for empirical evidence on dynamic vs. static memory under equal token budgets."
+    },
+    {
+      "id": "research-1789619937785-08-researcher",
+      "role": "researcher",
+      "status": "completed",
+      "summary": "Assessed 4 retrieved sources. None provide empirical evidence comparing dynamic memory consolidation against static baselines at equal token budgets. Research gaps remain; advance with limitations."
+    },
+    {
+      "id": "research-1789619937785-09-deliverable-review",
+      "role": "deliverable_review",
+      "status": "failed",
+      "summary": "Call failed: Inline citation must also have a source record"
+    },
+    {
+      "id": "research-1789619937785-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed",
+      "summary": "Research failed to compare dynamic vs. static memory under equal token budgets. Sources are abstract-screened or practitioner docs lacking empirical cost/performance data. Advance with strict new query targeting reproducible benchmarks."
+    },
+    {
+      "id": "research-1789619937785-11-manager-final",
+      "role": "manager_final",
+      "status": "completed",
+      "summary": "Research loop complete with limitations. Dynamic memory superiority over baselines remains unverified due to missing empirical comparisons at equal token budgets. Proceed to next bounded question."
+    }
+  ],
+  "status": "complete",
+  "firstWeek": "research-only; implementation remains disabled"
+}

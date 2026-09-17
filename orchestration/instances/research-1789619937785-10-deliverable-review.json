@@ -1,0 +1,94 @@
+{
+  "id": "research-1789619937785-10-deliverable-review",
+  "role": "deliverable_review",
+  "manager": "research",
+  "loopId": "research-1789619937785",
+  "status": "completed",
+  "startedAt": 1789625104298,
+  "summary": "Research failed to compare dynamic vs. static memory under equal token budgets. Sources are abstract-screened or practitioner docs lacking empirical cost/performance data. Advance with strict new query targeting reproducible benchmarks.",
+  "objective": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
+  "model": "Qwen3.5-9B-4bit",
+  "endedAt": 1789625200419,
+  "content": "The researcher inspected four sources but failed the core audit requirement: comparing dynamic consolidation against a static baseline (e.g., append-only Markdown) at identical token budgets. None of the four sources (arXiv abstracts, GitHub READMEs, vendor docs) provide the necessary metric (task success vs. token usage) to verify superiority under fixed constraints. The researcher correctly labeled findings as 'unverified' but did not document the specific search queries or outcomes to prove stopping rule compliance. This constitutes a protocol failure per HANDOFF.md and RESEARCH-OBJECTIVE.md standards. The research loop must be revised to target a bounded, reproducible comparison question before proceeding.",
+  "nextTask": "Assign the research manager to define a new bounded research question targeting a specific, reproducible benchmark (e.g., LongMemEval or MemoryAgentBench) that explicitly compares dynamic consolidation policies against a static baseline under fixed token budgets. Limit to 4 sources. Do not implement.",
+  "decision": "revise",
+  "supervisorDecision": {
+    "nextStage": "manager_final",
+    "forcedAdvance": false,
+    "reason": "Within bounded workflow."
+  },
+  "searchQueries": [
+    "agent memory consolidation forgetting benchmark token budget comparison dynamic static",
+    "LongMemEval MemoryAgentBench MemConflict dynamic memory pruning cost performance"
+  ],
+  "sources": [
+    {
+      "id": "ref-ce6e406ead38",
+      "url": "https://arxiv.org/abs/2609.19128v1",
+      "title": "Cognitive Extensions for Dual-Process Language Agents",
+      "note": "Abstract screened only. Claims dynamic memory improves success but lacks controlled token budget comparison against simple baselines.",
+      "discoveredBy": "Qwen3.5-9B-4bit research workflow",
+      "checkedAt": 1789625103813,
+      "linkStatus": "retrieved",
+      "claimStatus": "agent-authored; not independently reproduced",
+      "readingLevel": "abstract screened",
+      "resolvedUrl": "https://arxiv.org/abs/2609.19128v1",
+      "contentSha256": "e113c48006b52c443499e3ad1cf9e8c3fc7d53d5f21c763c95d6896f78526a3a",
+      "fetchTruncated": false
+    },
+    {
+      "id": "ref-002e991f3afc",
+      "url": "https://raw.githubusercontent.com/affaan-m/ECC/main/README.md",
+      "title": "affaan-m/ECC",
+      "note": "Practitioner documentation. Describes skills and session summaries; no empirical data on memory consolidation vs. static storage.",
+      "discoveredBy": "Qwen3.5-9B-4bit research workflow",
+      "checkedAt": 1789625103874,
+      "linkStatus": "retrieved",
+      "claimStatus": "agent-authored; not independently reproduced",
+      "readingLevel": "bounded text excerpt inspected; not a full-source or reproduction claim",
+      "resolvedUrl": "https://raw.githubusercontent.com/affaan-m/ECC/main/README.md",
+      "contentSha256": "0af25aa87d75486d5e60d4f6389f6a0366b06da32a16ca47b17dbb48376463b2",
+      "fetchTruncated": false
+    },
+    {
+      "id": "ref-8537165d23c7",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "title": "managed-agents",
+      "note": "Official guidance. Describes append-only session logs but does not evaluate dynamic consolidation strategies or cost/performance trade-offs.",
+      "discoveredBy": "Qwen3.5-9B-4bit research workflow",
+      "checkedAt": 1789625103964,
+      "linkStatus": "retrieved",
+      "claimStatus": "agent-authored; not independently reproduced",
+      "readingLevel": "bounded text excerpt inspected; not a full-source or reproduction claim",
+      "resolvedUrl": "https://www.anthropic.com/engineering/managed-agents",
+      "contentSha256": "16ed90e6691b0929a99452e63d6fe58c14f16731b0cd25aab56f458a4e34564c",
+      "fetchTruncated": false
+    },
+    {
+      "id": "ref-6afaacc7e4a7",
+      "url": "https://raw.githubusercontent.com/openai/openai-cookbook/main/examples/Context_summarization_with_realtime_api.ipynb",
+      "title": "examples/Context_summarization_with_realtime_api.ipynb",
+      "note": "Cookbook example. Describes heuristic truncation but lacks comparison against static baselines at equal token budgets.",
+      "discoveredBy": "Qwen3.5-9B-4bit research workflow",
+      "checkedAt": 1789625104143,
+      "linkStatus": "retrieved",
+      "claimStatus": "agent-authored; not independently reproduced",
+      "readingLevel": "bounded text excerpt inspected; not a full-source or reproduction claim",
+      "resolvedUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/examples/Context_summarization_with_realtime_api.ipynb",
+      "contentSha256": "a44e3a72309265156c993137d6f16cfbdaa0b0b155ebec41d5d1d5aeee16c606",
+      "fetchTruncated": false
+    }
+  ],
+  "wiki": [
+    {
+      "topic": "Research Integrity: Baseline Comparisons",
+      "lesson": "A claim that 'dynamic strategy X is better' is invalid unless the study explicitly compares it against a defined static baseline (e.g., append-only storage) under identical resource constraints (e.g., token budget). Abstract screening or practitioner anecdotes do not constitute empirical evidence for superiority."
+    }
+  ],
+  "durationMs": 93402,
+  "inputTokens": 11685,
+  "outputTokens": 695,
+  "webSearches": 0,
+  "evidenceSearches": [],
+  "peakMemoryGB": 7.38445983
+}

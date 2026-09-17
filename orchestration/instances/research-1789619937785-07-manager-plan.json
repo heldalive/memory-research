@@ -1,0 +1,43 @@
+{
+  "id": "research-1789619937785-07-manager-plan",
+  "role": "manager_plan",
+  "manager": "research",
+  "loopId": "research-1789619937785",
+  "status": "completed",
+  "startedAt": 1789622547068,
+  "summary": "Advance research loop. Prior cycle failed to verify stopping rules or compare against baselines; this phase must inspect sources for empirical evidence on dynamic vs. static memory under equal token budgets.",
+  "objective": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
+  "model": "Qwen3.5-9B-4bit",
+  "endedAt": 1789622597049,
+  "content": "The previous research cycle (research-1789613048990) was closed with limitations because it failed to compare dynamic strategies against simple baselines (append-only Markdown, transcript top-k) at equal token costs and lacked verified stopping rule compliance. The current objective is to inspect up to four sources detailing 'consolidation' and 'forgetting' policies. We must empirically test if dynamic pruning outperforms static baselines when token budgets are identical. This requires finding papers that explicitly measure performance vs. cost or can be simulated with known budgets. Do not implement code; only document findings and limitations. Adhere strictly to the 4-source limit. If 4 sources are inspected without meeting the comparison criteria, stop and report gaps. Do not exceed 2 plan reviews.",
+  "nextTask": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
+  "decision": "advance",
+  "supervisorDecision": {
+    "nextStage": "researcher",
+    "forcedAdvance": false,
+    "reason": "Within bounded workflow."
+  },
+  "searchQueries": [
+    "agent memory consolidation forgetting dynamic pruning token budget comparison empirical study",
+    "memory management dynamic vs static baseline equal token cost performance",
+    "forgetting irrelevant facts agent memory efficiency benchmark",
+    "memory consolidation strategies token budget constraints research"
+  ],
+  "sources": [],
+  "wiki": [
+    {
+      "topic": "Bounded Research Integrity",
+      "lesson": "Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence."
+    },
+    {
+      "topic": "Evidence vs. Inference",
+      "lesson": "Distinguish author-reported claims from researcher inference. If a source does not compare against a specific simple baseline, do not infer superiority. Explicitly state when evidence is missing."
+    }
+  ],
+  "durationMs": 47287,
+  "inputTokens": 4679,
+  "outputTokens": 463,
+  "webSearches": 0,
+  "evidenceSearches": [],
+  "peakMemoryGB": 6.78046367
+}

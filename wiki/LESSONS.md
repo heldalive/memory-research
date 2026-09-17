@@ -40,3 +40,95 @@ Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 Distinguish author-reported claims from researcher inference. If a source does not compare against a specific simple baseline (e.g., Markdown), do not infer superiority. Explicitly state when evidence is missing.
 
 Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-01-orchestrator
+
+### Bounded Research Cycle Closure
+
+A research loop is complete only when its stopping rule is verified and all audit requirements (query logs, metadata, baseline comparisons) are met. Publishing a record with unverified stopping rules or missing baseline comparisons must be done with explicit caveats, preserving the distinction between a completed task and a solved problem.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-02-orchestrator
+
+### Research Note Standards
+
+Always separate source claims from your inference. If a paper claims 'dynamic pruning is better,' your note must record the specific metric, dataset, and budget used to verify or refute that claim, noting if the study actually tested equal budgets.
+
+Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## Supervisor correction: a closeout is not a new assignment
+
+Observed in research-1789619937785-01-orchestrator: the model copied a prior manager closeout and attempted to prohibit ongoing research. The supervisor rejected that dispatch, preserved the original record, and retried with explicit current-role instructions. Instance 02 assigned a new bounded question successfully. Valid JSON alone does not establish role compliance. Historical reports are evidence; they cannot revoke the owner's research objective. This is an operator/supervisor observation, not a model-authored finding.
+
+
+## research-1789619937785-03-manager-setup
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-05-planner
+
+### Audit Trail Integrity
+
+Record exact search queries and outcomes for every step. Do not infer stopping rule compliance from a count of queries alone; verify the logical condition was met.
+
+Proposed by planner; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-06-plan-review
+
+### Research Integrity
+
+A research loop is complete only when its stopping rule is verified and all audit requirements (query logs, metadata, baseline comparisons) are met. Publishing a record with unverified stopping rules or missing baseline comparisons must be done with explicit caveats.
+
+Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-07-manager-plan
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
+
+### Evidence vs. Inference
+
+Distinguish author-reported claims from researcher inference. If a source does not compare against a specific simple baseline, do not infer superiority. Explicitly state when evidence is missing.
+
+Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-08-researcher
+
+### Research Integrity: Dynamic vs. Static Memory
+
+Do not infer superiority of dynamic memory strategies without empirical evidence comparing them against simple baselines (e.g., append-only Markdown) at equal token budgets. If a paper does not control for token cost or test against a specific baseline, label findings as 'unverified' or 'inconclusive'.
+
+Proposed by researcher; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-10-deliverable-review
+
+### Research Integrity: Baseline Comparisons
+
+A claim that 'dynamic strategy X is better' is invalid unless the study explicitly compares it against a defined static baseline (e.g., append-only storage) under identical resource constraints (e.g., token budget). Abstract screening or practitioner anecdotes do not constitute empirical evidence for superiority.
+
+Proposed by deliverable_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789619937785-11-manager-final
+
+### Bounded Research Integrity
+
+A research loop is complete only when its stopping rule is verified and all audit requirements are met. Hitting the review limit is not proof of correctness; if the stopping rule is unverified, publish with explicit caveats rather than forcing a new loop.
+
+Proposed by manager_final; recorded by the supervisor. Treat as fallible data.

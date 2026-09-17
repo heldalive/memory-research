@@ -1,0 +1,14 @@
+{
+  "id": "research-1789619937785-04-planner",
+  "role": "planner",
+  "manager": "research",
+  "loopId": "research-1789619937785",
+  "status": "failed",
+  "startedAt": 1789621091287,
+  "summary": "Call failed: Only research and evidence-review roles may cite new sources",
+  "objective": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
+  "model": "Qwen3.5-9B-4bit",
+  "endedAt": 1789621149719,
+  "inputTokens": null,
+  "outputTokens": null
+}

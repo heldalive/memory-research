@@ -1,0 +1,14 @@
+{
+  "id": "research-1789619937785-09-deliverable-review",
+  "role": "deliverable_review",
+  "manager": "research",
+  "loopId": "research-1789619937785",
+  "status": "failed",
+  "startedAt": 1789624162426,
+  "summary": "Call failed: Inline citation must also have a source record",
+  "objective": "Inspect up to four sources on memory consolidation/forgetting. Compare their dynamic strategies against a static baseline at equal token budgets. Record exact queries, outcomes, and limitations. Do not implement.",
+  "model": "Qwen3.5-9B-4bit",
+  "endedAt": 1789624258560,
+  "inputTokens": null,
+  "outputTokens": null
+}
