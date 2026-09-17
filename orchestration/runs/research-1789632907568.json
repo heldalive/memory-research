@@ -37,6 +37,12 @@
       "role": "manager_plan",
       "status": "completed",
       "summary": "Advance to researcher with a revised, feasible benchmarking task targeting specific existing datasets."
+    },
+    {
+      "id": "research-1789632907568-06-researcher",
+      "role": "researcher",
+      "status": "running",
+      "summary": "researcher is working"
     }
   ],
   "status": "active",

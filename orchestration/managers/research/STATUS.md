@@ -15,5 +15,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789632907568-03-planner: planner; completed; Plan to identify 4 sources comparing dynamic vs. static agent memory under fixed token budgets, targeting LongMemEval and similar benchmarks.
 - research-1789632907568-04-plan-review: plan_review; completed; Plan fails feasibility: No sources exist comparing dynamic vs. static memory under fixed token budgets. Scope is too narrow for the 4-source limit.
 - research-1789632907568-05-manager-plan: manager_plan; completed; Advance to researcher with a revised, feasible benchmarking task targeting specific existing datasets.
+- research-1789632907568-06-researcher: researcher; running; researcher is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.
