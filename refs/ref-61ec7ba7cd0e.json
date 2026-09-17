@@ -1,0 +1,14 @@
+{
+  "id": "ref-61ec7ba7cd0e",
+  "url": "https://arxiv.org/html/2605.20926v1",
+  "title": "MemConflict: Evaluating Long-Term Memory Systems Under Memory Conflicts",
+  "note": "Primary benchmark paper cited in the recorded research.",
+  "discoveredBy": "Luna research worker",
+  "checkedAt": 1789612365958,
+  "linkStatus": "retrieved",
+  "claimStatus": "agent-authored; not independently reproduced",
+  "readingLevel": "see worker report",
+  "httpStatus": 200,
+  "resolvedUrl": "https://arxiv.org/html/2605.20926v1",
+  "contentSha256": "3dbca11185361b979bc3754a9f3d1728a073c29a8a5bc7cc40708f9ba47142c6"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "research-1789612083008",
+  "branch": "manager/research-1789612083008",
+  "baseCommit": "a634b723b5f6871fba091c58c93e10eaff8c1db6",
+  "stage": "complete",
+  "createdAt": 1789612083031,
+  "goal": "Research manager: identify a bounded set of benchmark sources that can distinguish genuine information retention and revision from retrieving a longer transcript. Choose a feasible scope and stopping rule. Inspect sources only; do not install or execute code. Report canonical HTTPS links, what you actually inspected, each benchmark’s task and evaluation signal, whether it tests revision or only retrieval, limitations, and one comparison that could distinguish the competing explanations. Treat commissioning materials as leads, not independent findings.",
+  "planReviews": 1,
+  "deliverableReviews": 1,
+  "instances": [
+    {
+      "id": "research-1789612083008-01-orchestrator",
+      "role": "orchestrator",
+      "status": "completed",
+      "summary": "Assign the research manager one bounded source-discovery cycle on memory benchmarks that test retention and revision rather than transcript retrieval."
+    },
+    {
+      "id": "research-1789612083008-02-manager-setup",
+      "role": "manager_setup",
+      "status": "completed",
+      "summary": "The orchestrator recorded one completed assignment: a bounded, research-only discovery cycle on benchmarks for retention and revision versus transcript retrieval. No research-worker status or findings are recorded yet."
+    },
+    {
+      "id": "research-1789612083008-03-planner",
+      "role": "planner",
+      "status": "completed",
+      "summary": "Plan a bounded, research-only scan of primary benchmarks for persistent agent memory, focusing on whether they test retention and revision beyond access to longer transcripts. No research has been performed in this planning step."
+    },
+    {
+      "id": "research-1789612083008-04-plan-review",
+      "role": "plan_review",
+      "status": "completed",
+      "summary": "The bounded research plan is relevant and feasible, with clear evidence requirements and a useful comparison proposal."
+    },
+    {
+      "id": "research-1789612083008-05-manager-plan",
+      "role": "manager_plan",
+      "status": "completed",
+      "summary": "Advance the existing plan to the researcher. The first review already accepted its scope and criteria; its minor stopping-rule ambiguity can be resolved during execution without another planning loop."
+    },
+    {
+      "id": "research-1789612083008-06-researcher",
+      "role": "researcher",
+      "status": "completed",
+      "summary": "Completed a bounded discovery cycle on three primary benchmark papers. Full methods were inspected for LongMemEval, MemoryAgentBench, and MemConflict; no code was run. All three include some form of updating or conflicting information, but MemConflict most directly separates answer accuracy from retrieval and ranking. A controlled comparison should match model, history, and token budget while contrasting persistent memory with full-history reading, then probe changed facts and evidence retrieval."
+    },
+    {
+      "id": "research-1789612083008-07-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed",
+      "summary": "Revise. The paper descriptions are mostly supported, but the note does not show that it followed the approved stopping rule, and its account of the search cycle is too vague to audit."
+    },
+    {
+      "id": "research-1789612083008-08-manager-final",
+      "role": "manager_final",
+      "status": "completed",
+      "summary": "Publish the bounded benchmark-discovery record with explicit audit limitations. The source findings are useful, but the search stopping rule was not demonstrated. The benchmark cycle is recorded as complete; this does not establish that any memory approach is superior or solve memory management."
+    }
+  ],
+  "status": "complete",
+  "firstWeek": "research-only; implementation remains disabled"
+}
