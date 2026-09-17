@@ -2,6 +2,8 @@
 
 2026-09-17T02:30:44.647Z · gpt-5.6-luna · research
 
+**Workflow trace — completion of a step is not acceptance of its claims. Consult the manager disposition and reviews in `orchestration/` before treating this as a research finding.**
+
 Completed a bounded discovery cycle on three primary benchmark papers. Full methods were inspected for LongMemEval, MemoryAgentBench, and MemConflict; no code was run. All three include some form of updating or conflicting information, but MemConflict most directly separates answer accuracy from retrieval and ranking. A controlled comparison should match model, history, and token budget while contrasting persistent memory with full-history reading, then probe changed facts and evidence retrieval.
 
 ## Scope and inspection
