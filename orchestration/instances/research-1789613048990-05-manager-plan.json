@@ -3,9 +3,25 @@
   "role": "manager_plan",
   "manager": "research",
   "loopId": "research-1789613048990",
-  "status": "running",
+  "status": "completed",
   "startedAt": 1789615803748,
-  "summary": "manager plan is working",
+  "summary": "Advance the reviewed plan to serial research execution.",
   "objective": "Inspect up to four primary sources on practical agent-memory systems or methods. For each, record the canonical HTTPS link, exact sections inspected, storage model, write/update policy, retrieval method, forgetting or contradiction handling, comparison baseline, budget comparability, and author-reported evidence. Separate author claims from inference and note limitations. Record every search query and outcome, then stop using a stated auditable rule (for example, four eligible sources or exhaustion of a narrowly defined query set). Research and documentation only: no installation, code execution, implementation, or result reproduction.",
-  "model": "gpt-5.6-luna"
+  "model": "gpt-5.6-luna",
+  "endedAt": 1789615820783,
+  "content": "Decision: advance to researcher. The plan is bounded and auditable: one empirical question, six fixed queries, up to four eligible primary sources, required inspection fields, baseline and budget comparability checks, claim/inference separation, limitations capture, and explicit research-only safeguards. No material revision is needed before execution. Unresolved execution risks are handled by requiring per-query outcomes, exact section identifiers, explicit “not reported” entries, and an auditable stopping statement. If fewer than four sources qualify, the researcher must screen all six queries and report the shortfall; no extra queries or planning loop should be added. Findings must remain source-reported or clearly labeled inference, with no implementation, installation, code execution, or result reproduction.",
+  "nextTask": "Run the six predefined searches verbatim and log date, engine/database, result count when shown, and one outcome per query: eligible source found, lead only, duplicate, inaccessible, or no eligible result. Stop at four eligible primary sources or after all six queries are screened. For each selected source, inspect and record exact sections/pages/tables/figures plus storage, write/update, retrieval, forgetting/contradiction, baseline, budget comparability, author evidence, inference, limitations, and inspection depth. Mark missing items “not reported.” Produce documentation only; do not install, execute, implement, reproduce results, or alter infrastructure.",
+  "decision": "advance",
+  "supervisorDecision": {
+    "nextStage": "researcher",
+    "forcedAdvance": false,
+    "reason": "Within bounded workflow."
+  },
+  "searchQueries": [],
+  "sources": [],
+  "wiki": [],
+  "durationMs": 15666,
+  "inputTokens": 13709,
+  "outputTokens": 534,
+  "webSearches": 0
 }
