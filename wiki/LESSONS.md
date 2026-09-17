@@ -19,5 +19,6 @@
 - researcher: When evaluating agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when direct comparative data is absent in available literature.
 - deliverable review: When assessing agent memory effectiveness, prioritize sources that report explicit, reproducible metrics on a shared benchmark under controlled conditions; without such data, objective refinement to focus on evaluation gaps and methodological transparency is essential for scientific validity and feasibility.
 - manager final: When assessing agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when direct performance data is absent to preserve research integrity and reproducibility.
+- researcher: When evaluating agent memory effectiveness, prioritize controlled, observable metrics from a single benchmark under fixed conditions and explicitly document missing baselines to maintain scientific rigor; establish a fallback strategy when direct performance data is unavailable.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
