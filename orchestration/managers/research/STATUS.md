@@ -14,5 +14,6 @@ Plan reviews: 1/2. Deliverable reviews: 0/2.
 - research-1789612083008-02-manager-setup: manager_setup; completed; The orchestrator recorded one completed assignment: a bounded, research-only discovery cycle on benchmarks for retention and revision versus transcript retrieval. No research-worker status or findings are recorded yet.
 - research-1789612083008-03-planner: planner; completed; Plan a bounded, research-only scan of primary benchmarks for persistent agent memory, focusing on whether they test retention and revision beyond access to longer transcripts. No research has been performed in this planning step.
 - research-1789612083008-04-plan-review: plan_review; completed; The bounded research plan is relevant and feasible, with clear evidence requirements and a useful comparison proposal.
+- research-1789612083008-05-manager-plan: manager_plan; running; manager plan is working
 
 Runtime station and full prompts remain private. No implementation work is enabled.

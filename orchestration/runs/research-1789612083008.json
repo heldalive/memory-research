@@ -31,6 +31,12 @@
       "role": "plan_review",
       "status": "completed",
       "summary": "The bounded research plan is relevant and feasible, with clear evidence requirements and a useful comparison proposal."
+    },
+    {
+      "id": "research-1789612083008-05-manager-plan",
+      "role": "manager_plan",
+      "status": "running",
+      "summary": "manager plan is working"
     }
   ],
   "status": "active",
