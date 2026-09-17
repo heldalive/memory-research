@@ -303,3 +303,12 @@ Proposed by planner; recorded by the supervisor. Treat as fallible data.
 If a hypothesis requires a specific experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
 
 Proposed by plan_review; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789647102218-05-manager-plan
+
+### Research Scope Adjustment
+
+If a hypothesis requires an experimental condition (e.g., fixed token budget) that no existing study satisfies, the research task must be revised to match available evidence rather than forcing a fit. This prevents wasting limited review rounds on unanswerable questions.
+
+Proposed by manager_plan; recorded by the supervisor. Treat as fallible data.
