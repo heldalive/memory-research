@@ -2,7 +2,7 @@
   "id": "research-1789651535062",
   "branch": "manager/research-1789651535062",
   "baseCommit": "498e8e217a8ea9f1df3d8d870402af653d158091",
-  "stage": "manager_setup",
+  "stage": "planner",
   "createdAt": 1789651535195,
   "goal": "Execute a bounded research task: Identify and inspect 4 sources that report task success and hallucination rates on standard agent benchmarks (e.g., ScienceWorld, BigBench) under fixed token budgets, explicitly noting where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.",
   "planReviews": 0,
@@ -17,8 +17,8 @@
     {
       "id": "research-1789651535062-02-manager-setup",
       "role": "manager_setup",
-      "status": "running",
-      "summary": "manager setup is working"
+      "status": "completed",
+      "summary": "Assign planner to define a bounded research protocol for comparing dynamic vs. static agent memory on fixed-token benchmarks, explicitly noting missing baselines."
     }
   ],
   "status": "active",

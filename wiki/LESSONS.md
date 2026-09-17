@@ -348,3 +348,12 @@ Proposed by manager_final; recorded by the supervisor. Treat as fallible data.
 Distinguish between descriptive evidence (reporting metrics on a specific benchmark) and causal evidence (controlled A/B testing against a baseline). When direct baselines are missing, record the metric gap as a limitation, not a failure of the system.
 
 Proposed by orchestrator; recorded by the supervisor. Treat as fallible data.
+
+
+## research-1789651535062-02-manager-setup
+
+### Bounded Research Integrity
+
+Adhere strictly to auditable stopping rules (e.g., max 4 sources). Deviations must be documented as protocol failures. Never treat unverified search snippets as primary evidence.
+
+Proposed by manager_setup; recorded by the supervisor. Treat as fallible data.
