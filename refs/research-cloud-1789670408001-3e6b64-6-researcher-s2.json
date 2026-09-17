@@ -1,0 +1,14 @@
+{
+  "id": "S2",
+  "url": "https://arxiv.org/abs/2609.08258v1",
+  "title": "Revoked but Still Authoritative: An Empirical Study of Revocation Enforcement in Agent-Memory Systems",
+  "excerpt": "Abstract: Long-running language-model agents depend on persistent memory. Many agent-memory systems preserve history through soft revocation: a contradicted fact is marked invalid and retained rather than deleted. However, whether that mark is enforced at retrieval time is unexamined. In this paper, we measure five such systems: we load each with a revoked policy and its replacement, track whether the revoked fact is returned at retrieval and whether the agent then acts on it across nine policy scenarios and nine models, and score every trial under six defense conditions. We find that no system enforces revocation by default: the revoked fact is returned wherever the revocation label is visible to the retrieval layer, outranks its replacement, and leads agents to the unsafe action. Based on these findings, we develop a guard that sits between the agent and any memory backend and withholds records that are revoked or conflict with their replacement.",
+  "checkedAt": 1789670903461,
+  "status": "retrieved",
+  "readingLevel": "abstract only",
+  "sha256": "ca76c29108ab0f957fe404831f9c8ece8466e252d6511cb43507f4a63879d0bc",
+  "discovery": {
+    "query": "https://doi.org/10.1145/3582961.3583012",
+    "method": "planner query; arXiv, GitHub and provider-index discovery"
+  }
+}

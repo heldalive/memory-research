@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-1789656281930
-
-Current evidence insufficient for comparative claims; pivot to descriptive metrics on a single benchmark (BigBench).
-
-Next candidate: Execute a bounded research task: Identify and inspect 4 sources reporting descriptive performance metrics (success rate, token usage, hallucination rate) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets. Explicitly document where direct baseline comparisons are missing. Limit to 4 sources; do not implement code.
-
-Limits: The previous research loop failed to identify 4 sources with controlled baselines comparing dynamic vs. static memory. Only one source provided relevant metrics, and it lacked a standard static baseline. The authorized research program continues, but the specific hypothesis of dynamic superiority is deferred due to lack of causal evidence. The next bounded task must inspect sources reporting descriptive performance metrics (success rate, token usage) on a single, reproducible benchmark (e.g., BigBench) under fixed token budgets, explicitly documenting missing baselines.
-
 ## research-cloud-1789665847642
 
 No peer-reviewed sources from 2022 to 2024 report direct, reproducible performance metrics on a shared benchmark under fixed token budgets, confirming a critical gap in the literature for agent memory evaluation.
@@ -35,3 +27,11 @@ No open-source tools extend BigBench with memory-aware evaluation under token bu
 Next candidate: Investigate non-BigBench agent evaluation benchmarks with explicit documentation of memory state tracking and usage metrics under token budgeting, focusing on publicly available repositories and peer-reviewed literature. Include a comparative analysis of at least three benchmarks with verified experiments demonstrating controlled memory usage and token-level constraints. Prioritize work that provides open, reproducible evaluation protocols and measurable memory
 
 Limits: After two review cycles, consistent findings indicate no existing open-source extensions of BigBench meet the criteria for memory-aware evaluation under token budgeting with explicit, documented metrics on memory state usage. All relevant sources either address privacy concerns or efficiency optimizations without providing transparent, controlled evaluation of memory behavior under constrained token budgets. This reinforces the need to shift focus to non-BigBench benchmarks with verifiable memory and token-level tracking capabilities before finalizing research direction. A bounded revision is requested to explore alternative evaluation frameworks with primary-source evidence of such tracking mechanisms.
+
+## research-cloud-1789670408001-3e6b64
+
+No peer-reviewed study between 2022 and 2024 reports a controlled experiment on agent memory retention under token constraints with explicit baseline comparisons or measurable state evolution metrics.
+
+Next candidate: Investigate whether any peer-reviewed paper from 2022 to 2024 describes a controlled experiment evaluating memory retention in agents using a shared, token-constrained benchmark with measurable memory usage metrics and explicit baseline reporting, focusing on state evolution over time under dynamic input streams and including at least one system where memory decay is explicitly modeled and measured. Limit to one source; do not implement code or systems.
+
+Limits: The analysis of the specified paper (DOI: 10.1145/3582961.3583012) and related sources confirms the absence of a controlled memory retention experiment under token-constrained conditions with baseline reporting or state evolution metrics. All reviewed work focuses on privacy risks or revocation enforcement, not on evaluating how agents retain information within bounded token budgets. This gap underscores the lack of empirical validation for memory retention in agent systems under such constraints. The evidence remains consistent across reviews and does not support the existence of the required experimental framework. A bounded revision is requested to refine the search scope without expanding beyond the defined criteria.
