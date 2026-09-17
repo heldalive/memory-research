@@ -3,9 +3,12 @@
   "role": "researcher",
   "manager": "research",
   "loopId": "research-1789637845413",
-  "status": "running",
+  "status": "failed",
   "startedAt": 1789639981518,
-  "summary": "researcher is working",
+  "summary": "Call failed: Source citation was not in retrieved evidence",
   "objective": "Execute a bounded research task: Identify and inspect 4 sources (papers or repos) that provide empirical data comparing dynamic memory consolidation policies against a defined static baseline (e.g., append-only) under comparable token budgets. Measure task success and hallucination rates. Limit to 4 sources; do not implement code.",
-  "model": "Qwen3.5-9B-4bit"
+  "model": "Qwen3.5-9B-4bit",
+  "endedAt": 1789640085292,
+  "inputTokens": null,
+  "outputTokens": null
 }
