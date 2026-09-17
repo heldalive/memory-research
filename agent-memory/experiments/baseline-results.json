@@ -1,0 +1,1833 @@
+{
+  "kind": "deterministic-storage-semantics",
+  "warning": "NOT an LLM evaluation. Perfect ledger behavior follows from explicit structured events and is not evidence of extraction or reasoning skill.",
+  "seeds": [
+    1001,
+    1200
+  ],
+  "questionsPerEpisode": 18,
+  "results": {
+    "none": {
+      "correct": 606,
+      "total": 3600,
+      "episodes": 200
+    },
+    "recent-8": {
+      "correct": 1766,
+      "total": 3600,
+      "episodes": 200
+    },
+    "first-match": {
+      "correct": 679,
+      "total": 3600,
+      "episodes": 200
+    },
+    "versioned-ledger": {
+      "correct": 3600,
+      "total": 3600,
+      "episodes": 200
+    }
+  },
+  "episodes": [
+    {
+      "seed": 1001,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.3333333333333333,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1002,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1003,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1004,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1005,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3333333333333333,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1006,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1007,
+      "scores": {
+        "none": 0.05555555555555555,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1008,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1009,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1010,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1011,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1012,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1013,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1014,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.3333333333333333,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1015,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1016,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1017,
+      "scores": {
+        "none": 0.05555555555555555,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1018,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1019,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1020,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1021,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1022,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1023,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1024,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1025,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1026,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.5,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1027,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1028,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1029,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1030,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1031,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1032,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1033,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1034,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1035,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1036,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1037,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1038,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1039,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1040,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1041,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1042,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1043,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1044,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1045,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.3333333333333333,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1046,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1047,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1048,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1049,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1050,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.3888888888888889,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1051,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1052,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1053,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1054,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1055,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1056,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1057,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1058,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1059,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1060,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1061,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1062,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1063,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1064,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1065,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1066,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1067,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1068,
+      "scores": {
+        "none": 0.05555555555555555,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.3333333333333333,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1069,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1070,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1071,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1072,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.3888888888888889,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1073,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1074,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1075,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1076,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1077,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1078,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1079,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1080,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1081,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1082,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1083,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1084,
+      "scores": {
+        "none": 0.05555555555555555,
+        "recent-8": 0.3333333333333333,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1085,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1086,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1087,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1088,
+      "scores": {
+        "none": 0.05555555555555555,
+        "recent-8": 0.3333333333333333,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1089,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1090,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1091,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1092,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1093,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1094,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1095,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1096,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1097,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1098,
+      "scores": {
+        "none": 0.3333333333333333,
+        "recent-8": 0.7222222222222222,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1099,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1100,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1101,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1102,
+      "scores": {
+        "none": 0.05555555555555555,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1103,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1104,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1105,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1106,
+      "scores": {
+        "none": 0.3333333333333333,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1107,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1108,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1109,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1110,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1111,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1112,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1113,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1114,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.5,
+        "first-match": 0.3888888888888889,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1115,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.3333333333333333,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1116,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1117,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.3333333333333333,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1118,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1119,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1120,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1121,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.5,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1122,
+      "scores": {
+        "none": 0.05555555555555555,
+        "recent-8": 0.3333333333333333,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1123,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1124,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1125,
+      "scores": {
+        "none": 0.05555555555555555,
+        "recent-8": 0.3333333333333333,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1126,
+      "scores": {
+        "none": 0.3333333333333333,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1127,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1128,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1129,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1130,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1131,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1132,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1133,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1134,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1135,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1136,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1137,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.5,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1138,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1139,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1140,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1141,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1142,
+      "scores": {
+        "none": 0.05555555555555555,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1143,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1144,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1145,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1146,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1147,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1148,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1149,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1150,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1151,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1152,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1153,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1154,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1155,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1156,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1157,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1158,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1159,
+      "scores": {
+        "none": 0.05555555555555555,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1160,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1161,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6666666666666666,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1162,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1163,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1164,
+      "scores": {
+        "none": 0.3333333333333333,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1165,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1166,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1167,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1168,
+      "scores": {
+        "none": 0.2777777777777778,
+        "recent-8": 0.6666666666666666,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1169,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3333333333333333,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1170,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1171,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1172,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1173,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.3333333333333333,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1174,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1175,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1176,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1177,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1178,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1179,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1180,
+      "scores": {
+        "none": 0.05555555555555555,
+        "recent-8": 0.2777777777777778,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1181,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1182,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1183,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1184,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1185,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.5,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1186,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.1111111111111111,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1187,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.3333333333333333,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1188,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.05555555555555555,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1189,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1190,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1191,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.6111111111111112,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1192,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1193,
+      "scores": {
+        "none": 0.16666666666666666,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1194,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3888888888888889,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1195,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1196,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.3333333333333333,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1197,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.4444444444444444,
+        "first-match": 0.16666666666666666,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1198,
+      "scores": {
+        "none": 0.2222222222222222,
+        "recent-8": 0.5555555555555556,
+        "first-match": 0.2777777777777778,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1199,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    },
+    {
+      "seed": 1200,
+      "scores": {
+        "none": 0.1111111111111111,
+        "recent-8": 0.5,
+        "first-match": 0.2222222222222222,
+        "versioned-ledger": 1
+      }
+    }
+  ]
+}
