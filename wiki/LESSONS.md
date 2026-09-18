@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: Always verify full source accessibility and content, including full-text and metadata fields, before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - deliverable review: Always verify explicit presence and accessibility of target phrases or concepts in source content before asserting evidence of latent temporal state persistence
 - manager final: Always verify full source accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - orchestrator: Non-linguistic structural patterns in technical literature can serve as proxies for latent state persistence and should be considered in memory modeling beyond explicit semantic indicators alone, especially when linguistic data is absent or inaccessible.
@@ -40,5 +39,6 @@
 - plan review: Always validate source accessibility and content integrity before analyzing mathematical or structural features in research preprints
 - manager plan: Always validate source accessibility and content availability before initiating any structural or mathematical analysis, particularly when investigating temporal dynamics or persistence indicators in research preprints, to prevent speculative or ungrounded evaluations of equation structure or recurrence patterns.'
 - researcher: Always verify the presence of target mathematical structures in preprints before concluding on their existence; abstracts alone are insufficient for structural analysis of time-dependent systems or memory terms in recurrent dynamics, even if the topic is relevant to AI or data analysis applications such as cell type annotation.
+- deliverable review: Always validate the presence of target mathematical structures in preprints before concluding on their absence; abstracts are insufficient for structural analysis of time-dependent or memory-related systems
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
