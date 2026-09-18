@@ -12,3 +12,4 @@ Stage: researcher. Plan reviews 2/2; evidence reviews 0/2.
 - research-cloud-1789701770888-3aef18-6-planner: planner — completed
 - research-cloud-1789701770888-3aef18-7-plan-review: plan_review — completed
 - research-cloud-1789701770888-3aef18-8-manager-plan: manager_plan — completed
+- research-cloud-1789701770888-3aef18-9-researcher-rejected-1: researcher — rejected

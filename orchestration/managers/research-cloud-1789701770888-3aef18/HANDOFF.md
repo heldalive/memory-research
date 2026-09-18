@@ -4,6 +4,6 @@ Analyze the abstract and metadata of arXiv preprint 2409.11234 for any metaphori
 
 Next role: researcher.
 
-Verify public availability and content of arXiv preprint 2409.11234's abstract and metadata for any explicit metaphorical phrases such as 'the scene holds' or 'memory fades' before proceeding with linguistic analysis
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
