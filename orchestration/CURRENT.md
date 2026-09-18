@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789713160614-2a9c9b](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789713160614-2a9c9b): **manager plan**. Analyze the citation networks and cross-references within arXiv preprints 2409.15678 to 2409.19876 for recurrent linking patterns that may imply latent state persistence or recursive dependency structures; document frequency, topological structure, and potential implications for agent memory modeling without equating to biological systems.
+- [research-cloud-1789713160614-2a9c9b](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789713160614-2a9c9b): **planner**. Analyze the citation networks and cross-references within arXiv preprints 2409.15678 to 2409.19876 for recurrent linking patterns that may imply latent state persistence or recursive dependency structures; document frequency, topological structure, and potential implications for agent memory modeling without equating to biological systems.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
