@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: When evaluating agent memory systems, a bounded, evidence-based investigation into primary-source preprints with explicit experimental design and measurable state tracking is essential to establish scientific validity without implementation or full-text dependency.'
 - planner: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
 - plan review: Agent memory evaluation must be grounded in primary-source, verifiable experimental design with explicit, measurable state tracking under controlled constraints to establish scientific validity
 - manager plan: Agent memory evaluation must be grounded in primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
@@ -40,5 +39,6 @@
 - researcher: When investigating technical claims in preprints, prioritize direct textual evidence in abstracts and metadata before assuming mechanism validity; avoid overreaching based on title or implied scope without explicit confirmation in available data.
 - deliverable review: When evaluating technical claims in preprints, always verify explicit textual evidence in abstracts and metadata; title-based assumptions are insufficient without direct confirmation of mechanism presence or absence in available data and must be explicitly rejected if absent and contextually irrelevant.
 - manager final: When evaluating technical claims in preprints, direct textual evidence in abstracts and metadata is essential; title-based assumptions are insufficient and can misdirect research toward irrelevant domains
+- researcher: When investigating technical claims in preprints, prioritize direct textual evidence in abstracts and metadata before assuming mechanism validity; avoid overreaching based on title or implied scope without explicit confirmation in available data.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

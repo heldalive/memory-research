@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789691025630-931b37](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789691025630-931b37): **researcher**. Investigate whether the preprint 'Temporal Memory Dynamics in Reactive Agents under Environmental Fluctuations' by Chen et al. (2024), arXiv:2403.12345, explicitly models temporal pattern recognition in neural memory systems under structured time-series inputs with observable state transitions or drift over time, focusing solely on the abstract and metadata for evidence of such mechanisms without accessing full text or implementing systems.
+- [research-cloud-1789691025630-931b37](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789691025630-931b37): **deliverable review**. Investigate whether the preprint 'Temporal Memory Dynamics in Reactive Agents under Environmental Fluctuations' by Chen et al. (2024), arXiv:2403.12345, explicitly models temporal pattern recognition in neural memory systems under structured time-series inputs with observable state transitions or drift over time, focusing solely on the abstract and metadata for evidence of such mechanisms without accessing full text or implementing systems.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
