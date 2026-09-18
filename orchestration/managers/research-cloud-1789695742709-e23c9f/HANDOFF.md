@@ -1,0 +1,9 @@
+# Manager handoff
+
+Analyze the abstract and metadata of arXiv preprint 2408.00123 for explicit or inferential references to attention-based state continuity, temporal consistency, or implicit memory mechanisms during unstructured, burst-based input streams; focus only on linguistic indicators of temporal coherence or internal state retention under abrupt stimulus changes. Avoid full text access or system implementation.
+
+Next role: manager_setup.
+
+Analyze the abstract and metadata of arXiv preprint 2408.00123 for explicit or inferential references to attention-based state continuity, temporal consistency, or implicit memory mechanisms during unstructured, burst-based input streams; focus only on linguistic indicators of temporal coherence or internal state retention under abrupt stimulus changes. Avoid full text access or system implementation.
+
+Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
