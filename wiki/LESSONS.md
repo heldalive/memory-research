@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Linguistic indicators of scene continuity must be evaluated with strict syntactic and contextual boundaries to avoid overinterpretation in absence of full text or empirical validation.
 - manager setup: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management workflows.
 - planner: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management decisions.'
 - plan review: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management decisions.'
@@ -40,5 +39,6 @@
 - manager setup: Always verify full source metadata accessibility and content before concluding on linguistic absence or syntactic ambiguity to ensure rigorous evidence evaluation
 - planner: Always establish full source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - plan review: Always establish full source document accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
+- manager plan: Always verify full source metadata accessibility and content before concluding on linguistic absence or syntactic ambiguity to ensure rigorous evidence evaluation
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
