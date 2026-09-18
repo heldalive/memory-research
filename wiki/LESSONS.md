@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory evaluation in agents requires explicit, time-bound, and dynamically observable experiments with baseline reporting under controlled conditions to establish scientific validity and reproducibility claims.
 - manager setup: Agent memory evaluation must rely on primary-source, controlled experiments with explicit token budgets, baseline comparisons, and observable state evolution to ensure scientific validity and avoid performance claims based on unverified or indirect evidence.
 - planner: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting, baseline comparisons, and observable state evolution to ensure scientific validity and avoid performance claims based on unverified assumptions
 - plan review: Agent memory evaluation must be grounded in independently verifiable, primary-source experiments with transparent token constraints, baseline comparisons, and observable state evolution to ensure scientific rigor and reproducibility
@@ -40,5 +39,6 @@
 - manager final: Agent memory research must begin with verified access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution, ensuring the source directly addresses the core mechanism under investigation before proceeding to analysis or inference.
 - orchestrator: When prior research fails to meet defined criteria, shift focus to a narrow, evidence-limited investigation of a single source's methodological claims rather than expanding scope without validation grounds.'
 - manager setup: When investigating agent memory mechanisms, prioritize narrow, evidence-limited scrutiny of a single preprint's abstract and metadata to verify explicit claims before generalizing to broader memory system behaviors or proposing implementation paths without direct validation grounds.'
+- planner: When investigating agent memory mechanisms, prioritize narrow, evidence-limited scrutiny of a single preprint's abstract and metadata to verify explicit claims before generalizing to broader memory system behaviors or proposing implementation extensions.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
