@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Always verify the presence and accessibility of target phrases in source metadata before concluding absence or non-occurrence to ensure evidentiary rigor
 - manager final: Always establish source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - researcher: Always verify source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - deliverable review: Always verify full source metadata accessibility and content before concluding on linguistic absence or syntactic ambiguity to ensure rigorous evidence evaluation
@@ -40,5 +39,6 @@
 - manager plan: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - researcher: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - deliverable review: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
+- manager final: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
