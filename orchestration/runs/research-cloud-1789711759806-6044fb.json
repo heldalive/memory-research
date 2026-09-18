@@ -1,0 +1,66 @@
+{
+  "id": "research-cloud-1789711759806-6044fb",
+  "branch": "manager/research-cloud-1789711759806-6044fb",
+  "goal": "Analyze the abstracts of arXiv preprints 2409.10000 to 2409.10100 for the phrase 'the trajectory unfolds' or 'a sequence is preserved' that may imply latent temporal state persistence; record frequency, position, and contextual framing with low-to-medium confidence; exclude any direct synonymy to established memory terminology in prior literature.",
+  "stage": "complete",
+  "planReviews": 2,
+  "deliverableReviews": 1,
+  "instances": [
+    {
+      "id": "research-cloud-1789711759806-6044fb-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789711759806-6044fb-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789711759806-6044fb-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789711759806-6044fb-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789711759806-6044fb-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789711759806-6044fb-6-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789711759806-6044fb-7-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789711759806-6044fb-8-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789711759806-6044fb-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789711759806-6044fb-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789711759806-6044fb-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}

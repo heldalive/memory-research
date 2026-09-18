@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1789711759806-6044fb-10-deliverable-review",
+  "role": "deliverable_review",
+  "status": "completed",
+  "at": 1789713028526,
+  "answer": {
+    "summary": "The inspected sources do not contain the target phrases 'the trajectory unfolds' or 'a sequence is preserved' within the specified arXiv range, and no contextual evidence of latent temporal state persistence is present in the abstracts provided.",
+    "content": "Source S1 discusses memory mechanisms including short-term and long-term memory loops for experience consolidation and agent self-evolution, but does not include the phrase 'the trajectory unfolds' or 'a sequence is preserved'. Source S2 introduces a reference-based memory model with layered inheritance and copy-on-write semantics, yet fails to use or imply the target linguistic indicators. Neither source provides empirical or contextual support for the claimed linguistic patterns under investigation. The absence of the target phrases in accessible content confirms a data gap and undermines the feasibility of the research objective as proposed.",
+    "decision": "revise",
+    "search": "https://arxiv.org/list/2409/10000?src=all&show=abstracts",
+    "sources": "S1,S2",
+    "nextTask": "Request access to full abstracts and metadata for arXiv preprints 2409.10000 to 2409.10100 prior to linguistic analysis",
+    "lesson": "Always verify explicit presence and accessibility of target phrases or concepts in source content before asserting evidence of latent temporal state persistence"
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 280,
+  "inputTokens": 1927,
+  "durationMs": 12927,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2602.06052v4",
+      "title": "A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents",
+      "excerpt": "Abstract: Research in artificial intelligence is shifting from model innovations and benchmark scores towards problem definition and rigorous real-world evaluation. As the field enters the &#34;second half,&#34; the central challenge becomes real utility in long-horizon, dynamic, and user-dependent settings such as agentic coding, deep research, and computer use, where LLM-based agents face context explosion beyond fixed context windows and must continuously accumulate, manage, and selectively reuse information across extended interactions. Memory, with hundreds of papers released in 2025, therefore emerges as the critical solution to fill this utility gap. Beyond passive storage, memory is increasingly the substrate through which agents self-evolve: short-term memory gates which experiences are perceived and abstracted during execution, while long-term memory consolidates them into reusable knowledge and skills, forming the loop through which agents improve from their own experience. In this survey, we provide a unified view of foundation agent memory along three dimensions: memory substrate (internal parametric state and external retrieval-augmented stores), cognitive mechanism (sensory, working, episodic, semantic, and procedural), and memory subject (user-centric personalization and agent-centric experience). We then analyze how memory is operated under single- and multi-agent topologies and highlight learning policies over memory operations, showing how memory management itself is becoming a trainable capability spanning reinforcement-learned context curation, experience consolidation at decision time, and the emerging ecosystem of portable, shareable agent skills. Finally, we review evaluation benchmarks and metrics for memory utility, and outline open challenges and future directions.",
+      "checkedAt": 1789712830528,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "0af6d8ebf70c90aea2431b5abe5e71f3c9e1b010a5a45a2e847e81635bf73c2e",
+      "discovery": {
+        "query": "https://arxiv.org/list/physics/2409?src=qs&search=2409.10000+to+2409.10100",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    },
+    {
+      "id": "S2",
+      "url": "https://arxiv.org/abs/2604.12129v1",
+      "title": "Aethon: A Reference-Based Replication Primitive for Constant-Time Instantiation of Stateful AI Agents",
+      "excerpt": "Abstract: The transition from stateless model inference to stateful agentic execution is reshaping the systems assumptions underlying modern AI infrastructure. While large language models have made persistent, tool-using, and collaborative agents technically viable, existing runtime architectures remain constrained by materialization-heavy instantiation models that impose significant latency and memory overhead. This paper introduces Aethon, a reference-based replication primitive for near-constant-time instantiation of stateful AI agents. Rather than reconstructing agents as fully materialized objects, Aethon represents each instance as a compositional view over stable definitions, layered memory, and local contextual overlays. By shifting instantiation from duplication to reference, Aethon decouples creation cost from inherited structure. We present the conceptual framework, system architecture, and memory model underlying Aethon, including layered inheritance and copy-on-write semantics. We analyze its implications for complexity, scalability, multi-agent orchestration, and enterprise governance. We argue that reference-based instantiation is not merely an optimization, but a more appropriate systems abstraction for production-scale agentic software. Aethon points toward a new class of AI infrastructure in which agents become lightweight, composable execution identities that can be spawned, specialized, and governed at scale.",
+      "checkedAt": 1789712830528,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "fb707e0469320f8f30eae16fe9fb156df7c1d04559dbc4f7aac52a14c68a51dc",
+      "discovery": {
+        "query": "https://arxiv.org/list/physics/2409?src=qs&search=2409.10000+to+2409.10100",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    }
+  ]
+}
