@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Agent memory research must establish verifiable, relevant source access with explicit modeling of dynamic environmental inputs and state evolution before making claims about temporal memory behavior under variable stimuli, as unverified or misaligned sources invalidate the research foundation and must be corrected before further investigation
 - researcher: Agent memory research must begin with verified source access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution, even when initial excerpts appear unrelated, to avoid misattribution of content relevance without full context evaluation.
 - deliverable review: Agent memory research must begin with verified access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution before making claims about temporal memory behavior under variable stimuli
 - manager final: Agent memory research must begin with verified access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution, ensuring the source directly addresses the core mechanism under investigation before proceeding to analysis or inference.
@@ -40,5 +39,6 @@
 - orchestrator: Linguistic indicators of memory mechanisms in preprints must be explicitly verifiable in abstracts and metadata before being considered valid research signals for dynamic memory systems under non-temporal input conditions
 - manager setup: For research on memory coherence in non-sequential input streams, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation
 - planner: For research on memory coherence in non-sequential input streams, explicit linguistic indicators of state continuity in abstracts and metadata are required; absence must be formally documented without extrapolation
+- plan review: For research on memory coherence in non-sequential input streams, require explicit linguistic evidence in abstracts and metadata; absence must be formally reported as a negative finding without extrapolation
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
