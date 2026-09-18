@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: For research questions on memory coherence under non-sequential input, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption
 - manager final: For research on memory coherence in non-sequential streams, require explicit linguistic indicators of state continuity in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption
 - orchestrator: Linguistic indicators of memory mechanisms in preprints must be explicitly verifiable in abstracts and metadata before being considered valid research signals for dynamic memory systems under non-temporal input conditions
 - manager setup: For research on memory coherence in non-sequential input streams, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation
@@ -40,5 +39,6 @@
 - researcher: When evaluating memory-related claims in technical preprints, a bounded analysis of abstract and metadata is sufficient for evidence gathering if full text is inaccessible; however, absence of evidence must be explicitly tied to data availability constraints and linguistic specificity, preventing overinterpretation of implicit or inferential
 - deliverable review: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope, preventing false inference of capability from untrusted or incomplete text fragments.'
 - manager final: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope; bounded revisions should probe for subtle or metaphorical indicators without full text access
+- researcher: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope; bounded revisions should probe for subtle or metaphorical indicators without full text access.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
