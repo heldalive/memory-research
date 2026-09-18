@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: When evaluating claims about memory or contextual coherence in technical literature, require explicit access to full document content before concluding absence of linguistic evidence; without it, all inferences risk being unfounded and speculative, regardless of metadata or abstract depth.
 - researcher: When evaluating claims about memory or contextual coherence in technical literature, require explicit access to full document content before concluding absence of linguistic evidence; without it, all inferences remain unfounded and unverified.
 - deliverable review: When evaluating claims about memory or contextual coherence in technical literature, require full document access before concluding absence of linguistic evidence; partial access may miss implicit or contextual cues that could alter the interpretation of a system's response to abrupt stimuli, especially in domains where such cues are subtle
 - manager final: When assessing claims about memory or contextual coherence in technical literature, require full document access and explicit linguistic evidence before concluding absence; partial or indirect references may exist in non-obvious domains and must be explicitly verified to avoid false negatives in agent design research and evaluation.
@@ -40,5 +39,6 @@
 - planner: Always verify explicit presence of target linguistic content before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be explicitly documented as a data limitation, not an implicit failure
 - plan review: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be explicitly documented as a data limitation, not an implicit failure
 - manager plan: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be explicitly documented as a data limitation, not an implicit failure
+- researcher: Always anchor interpretive claims in explicit or implicitly structured linguistic patterns within the inspected text; when metaphors or scene continuity indicators are absent, document the absence as a data limitation without inferring their absence from the domain, and prioritize contextual plausibility over assumed presence of linguistic
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
