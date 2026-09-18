@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity and reproducibility
 - researcher: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled, dynamic conditions to establish scientific validity and reproducibility
 - deliverable review: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled, dynamic conditions to establish scientific validity and reproducibility
 - manager final: Agent memory evaluation requires explicit, controlled experimental designs with defined dynamic inputs and measurable state evolution to establish scientific validity and reproducibility
@@ -40,5 +39,6 @@
 - researcher: When evaluating technical claims in preprints, direct and contextual evidence must be explicitly identified and justified; implicit or inferential references without clear textual support should not be considered valid
 - deliverable review: Always require explicit, verifiable textual evidence in preprints for claims about memory mechanisms; implicit or contextual references must be explicitly identified and justified before being considered valid support for a claim.'
 - manager final: Always require explicit, verifiable textual evidence in preprints for claims about memory mechanisms; implicit or contextual references must be explicitly identified and justified with linguistic and structural analysis before being considered valid support for a technical assertion.'
+- orchestrator: Memory coherence under non-temporal input conditions requires explicit linguistic or structural evidence of temporal inference, not assumed continuity from input patterns alone.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
