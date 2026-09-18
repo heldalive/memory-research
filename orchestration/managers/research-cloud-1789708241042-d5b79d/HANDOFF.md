@@ -1,9 +1,9 @@
 # Manager handoff
 
-Discover how to manage an agent's memory better than a pile of skills and Markdown files. Test superiority as a question, not a premise. Research-only phase: read, compare and document evidence; do not implement systems or execute code.
+Analyze the metadata of arXiv preprint 2409.18901 for the phrase 'the system remembers' or variants such as 'the state lingers' or 'a prior condition is recalled'; record position, context, and syntactic ambiguity; assign confidence level as low, medium, or high; exclude any phrase with direct semantic equivalence to established memory terminology in prior literature; if found, document for potential implications in agent memory modeling;
 
-Next role: orchestrator.
+Next role: manager_setup.
 
-Retry the saved role within its contract.
+Analyze the metadata of arXiv preprint 2409.18901 for the phrase 'the system remembers' or variants such as 'the state lingers' or 'a prior condition is recalled'; record position, context, and syntactic ambiguity; assign confidence level as low, medium, or high; exclude any phrase with direct semantic equivalence to established memory terminology in prior literature; if found, document for potential implications in agent memory modeling;
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
