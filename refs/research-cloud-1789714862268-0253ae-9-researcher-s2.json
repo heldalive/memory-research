@@ -1,0 +1,14 @@
+{
+  "id": "S2",
+  "url": "https://arxiv.org/abs/2606.28781v1",
+  "title": "HyphaeDB: A Living Knowledge Topology for Agent-First Memory",
+  "excerpt": "Abstract: Every existing vector database and agent memory framework treats memory as passive storage that agents query explicitly. No system propagates knowledge between agents through the memory layer itself. We introduce HyphaeDB, an agent-native memory infrastructure that reinterprets the Hierarchical Navigable Small World (HNSW) graph topology the data structure at the core of every modern vector database not as a search optimization, but as a communication fabric for multi-agent AI systems. In HyphaeDB, agents are nodes in the vector space with persistent positions, knowledge propagates via a gossip protocol through the graph's neighbor structure with energy-based attenuation, and emergent behaviors contradiction detection, pattern crystallization, and consensus formation arise from the combination of topology, propagation dynamics, and local interaction rules. We present the architecture built on three primitives (knowledge nodes, topology edges, and memory diffs), a multi-layer abstraction hierarchy with promotion via emergent consensus, and theoretical analysis grounding the system in small-world network theory, epidemic broadcast protocols, and swarm intelligence. We provide a reference implementation on PostgreSQL with pgvector and describe a concrete deployment in Swarm-Driven Development, a multi-agent software engineering methodology. HyphaeDB represents, to our knowledge, the first system to combine navigable small world topology with gossip-based knowledge propagation for multi-agent coordination.",
+  "checkedAt": 1789715942878,
+  "status": "retrieved",
+  "readingLevel": "abstract only",
+  "sha256": "2f7791856087d09db88a7ab34208129a2058b81cbbd82c3befb0522a9f5295fc",
+  "discovery": {
+    "query": "https://export.arxiv.org/api/query?search_query=AND%28%28cat%3Acs%29%20AND%20id%3A%222409.15678%22%29%29%20AND%",
+    "method": "planner query; arXiv, GitHub and provider-index discovery"
+  }
+}
