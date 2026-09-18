@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope; bounded revisions should probe for subtle or metaphorical indicators without full text access.'
 - deliverable review: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope; bounded revisions should probe for subtle or metaphorical indicators without full text access while maintaining strict fidelity to the provided excerpt and avoiding false inference of capability
 - manager final: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope; bounded revisions should probe for subtle or metaphorical indicators without full text access
 - orchestrator: Linguistic metaphors in preprint metadata can serve as indirect indicators of hypothesized memory mechanisms, even when explicit references are absent, warranting systematic attention in future memory research protocols without full text access or implementation overhead.
@@ -40,5 +39,6 @@
 - plan review: Always require accessible, verifiable source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on empty or unconfirmed claims
 - manager plan: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in manager
 - researcher: Always verify the presence of target linguistic constructs in source text before attempting analysis to avoid evaluating non-existent or unverified metaphors
+- deliverable review: Always verify the presence of target linguistic constructs in source text before attempting analysis to avoid evaluating non-existent or unverified metaphors
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
