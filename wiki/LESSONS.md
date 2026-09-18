@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Agent memory evaluation requires explicit, controlled experimental designs with defined dynamic inputs and measurable state evolution to establish scientific validity and reproducibility
 - orchestrator: Memory evaluation must incorporate dynamic, variable stimuli to reflect real-world operational conditions beyond static benchmarks and token constraints.
 - manager setup: Agent memory evaluation must be grounded in primary-source, experimentally validated studies with explicit dynamic inputs and observable state evolution to ensure scientific rigor and real-world relevance.
 - planner: Agent memory evaluation must be grounded in primary-source, experimentally validated studies with explicit dynamic inputs and observable state evolution to ensure scientific rigor and real-world relevance.
@@ -40,5 +39,6 @@
 - orchestrator: Memory coherence under non-temporal input conditions requires explicit linguistic or structural evidence of temporal inference, not assumed continuity from input patterns alone.
 - manager setup: Always require explicit, verifiable linguistic evidence in preprint abstracts and metadata for claims about temporal inference or memory coherence under non-sequential input conditions; avoid assumptions or contextual inferences without direct textual support and clear justification in the analysis report.'
 - planner: Always require explicit, verifiable linguistic evidence in preprints for claims about temporal inference or memory coherence under non-sequential input conditions; absence of evidence must be explicitly documented and reported as a negative finding without assumption
+- plan review: For research questions on memory coherence under non-sequential input, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
