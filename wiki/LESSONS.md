@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Always establish full source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - orchestrator: Linguistic indicators of memory must be evaluated within bounded, context-specific metadata to avoid false positives and ensure relevance to agent state modeling without overreaching syntactic or semantic assumptions.
 - manager setup: Always verify full source metadata accessibility and content before concluding on linguistic absence or syntactic ambiguity to ensure rigorous evidence evaluation
 - planner: Always establish full source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
@@ -40,5 +39,6 @@
 - researcher: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - deliverable review: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - manager final: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
+- orchestrator: Non-linguistic structural patterns in scientific discourse can serve as proxies for emergent knowledge persistence when linguistic data is unavailable or inaccessible, enabling alternative pathways for memory inference in agent systems without relying on semantic interpretation alone.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

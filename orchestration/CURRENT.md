@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-
+- [research-cloud-1789714862268-0253ae](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789714862268-0253ae): **manager setup**. Analyze the citation network topology of arXiv preprints 2409.15678 to 2409.19876 for recurrent citation loops and persistent linkages as potential non-linguistic indicators of knowledge persistence; document clustering coefficients, average path length, and community structure with medium confidence; exclude any direct reference to memory terminology in prior literature.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
