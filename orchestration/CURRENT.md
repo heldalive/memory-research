@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789707370503-e190a3](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789707370503-e190a3): **researcher**. Analyze the metadata of arXiv preprint 2409.15678 for the phrase 'the pattern holds' or 'a thread continues'; record position, surrounding context, and syntactic ambiguity; assign confidence level as low, medium, or high; exclude any phrase with direct semantic match to established memory-related terms in prior research literature; if none found, document absence and conclude the investigation for this linguistic class of indicators.
+- [research-cloud-1789707370503-e190a3](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789707370503-e190a3): **deliverable review**. Analyze the metadata of arXiv preprint 2409.15678 for the phrase 'the pattern holds' or 'a thread continues'; record position, surrounding context, and syntactic ambiguity; assign confidence level as low, medium, or high; exclude any phrase with direct semantic match to established memory-related terms in prior research literature; if none found, document absence and conclude the investigation for this linguistic class of indicators.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
