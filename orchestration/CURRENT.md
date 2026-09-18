@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789716808906-bd3038](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789716808906-bd3038): **plan review**. Analyze the mathematical formulations of arXiv preprints 2409.15678 to 2409.19876 for equations defining recurrent or time-dependent state updates, such as differential equations with memory terms or recursive update rules; document position, equation structure, and syntactic indicators of persistence with medium confidence; exclude any reference to memory terminology in prior literature or known cognitive models.
+- [research-cloud-1789716808906-bd3038](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789716808906-bd3038): **manager plan**. Analyze the mathematical formulations of arXiv preprints 2409.15678 to 2409.19876 for equations defining recurrent or time-dependent state updates, such as differential equations with memory terms or recursive update rules; document position, equation structure, and syntactic indicators of persistence with medium confidence; exclude any reference to memory terminology in prior literature or known cognitive models.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
