@@ -1,0 +1,14 @@
+{
+  "id": "S1",
+  "url": "https://arxiv.org/abs/2409.19876",
+  "title": "Source selected by planner",
+  "excerpt": "Abstract: In recent years, a range of measures of partial stochastic dominance have been introduced. These measures attempt to determine the extent to which one distribution is dominated by another. We assess these measures from intuitive, axiomatic, computational and statistical perspectives. Our investigation leads us to recommend a measure related to optimal transport as a natural default.",
+  "checkedAt": 1789711509668,
+  "status": "retrieved",
+  "readingLevel": "abstract only",
+  "sha256": "dbc60a08ff7980238aa0d5408cf5824ba7b55ae51238b4b775814288f73dce6b",
+  "discovery": {
+    "query": "https://arxiv.org/abs/2409.19876",
+    "method": "exact source requested by planner"
+  }
+}
