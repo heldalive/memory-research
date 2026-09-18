@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: When prior research fails to meet defined criteria, shift focus to a narrow, evidence-limited investigation of a single source's methodological claims rather than expanding scope without validation grounds.'
 - manager setup: When investigating agent memory mechanisms, prioritize narrow, evidence-limited scrutiny of a single preprint's abstract and metadata to verify explicit claims before generalizing to broader memory system behaviors or proposing implementation paths without direct validation grounds.'
 - planner: When investigating agent memory mechanisms, prioritize narrow, evidence-limited scrutiny of a single preprint's abstract and metadata to verify explicit claims before generalizing to broader memory system behaviors or proposing implementation extensions.'
 - plan review: When investigating technical claims in preprints, prioritize direct textual evidence in abstracts and metadata before assuming mechanism validity; avoid overreaching based on title or implied scope without explicit confirmation in available sources.'
@@ -40,5 +39,6 @@
 - manager plan: For research on memory coherence in non-sequential input streams, require explicit linguistic evidence in abstracts and metadata; absence must be formally reported as a negative finding without extrapolation
 - researcher: For research on memory coherence in non-sequential input streams, explicit linguistic indicators of state continuity in abstracts and metadata are required; absence must be formally documented without extrapolation
 - deliverable review: For research on memory coherence in non-sequential input streams, require explicit linguistic evidence in abstracts and metadata; absence must be formally reported as a negative finding without extrapolation
+- manager final: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

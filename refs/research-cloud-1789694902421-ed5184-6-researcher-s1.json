@@ -1,0 +1,14 @@
+{
+  "id": "S1",
+  "url": "https://arxiv.org/abs/2407.11223",
+  "title": "Source selected by planner",
+  "excerpt": "Abstract: Microscopy images obtained from multiple camera lenses or sensors in biological experiments provide a comprehensive understanding of objects from diverse perspectives. However, using multiple microscope setups increases the risk of misalignment of identical target features across different modalities, making multimodal image registration crucial. In this work, we build upon previous successes in biological image translation (XAcGAN) and mono-modal image registration (RoTIR) to develop a deep learning model, Dual-Domain RoTIR (DD_RoTIR), specifically designed to address these challenges. While GAN-based translation models are often considered inadequate for multimodal image registration, we enhance registration accuracy by employing a feature-matching algorithm based on Transformers and rotation equivariant networks. Additionally, hierarchical feature matching is utilized to tackle the complexities of multimodal image registration. Our results demonstrate that the DD_RoTIR model exhibits strong applicability and robustness across multiple microscopy image datasets.",
+  "checkedAt": 1789695437478,
+  "status": "retrieved",
+  "readingLevel": "abstract only",
+  "sha256": "c0d3d30ef5cfe4a5c93aa1d72c0d7e32a280e0f03ee2dea0dcd86cee7f64c430",
+  "discovery": {
+    "query": "https://arxiv.org/abs/2407.11223",
+    "method": "exact source requested by planner"
+  }
+}
