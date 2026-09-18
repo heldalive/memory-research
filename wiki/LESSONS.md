@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Always verify the presence of target linguistic constructs in source text before initiating any analysis to prevent unfounded or ungrounded evaluations, especially when dealing with contextually ambiguous or non-explicit expressions in scientific literature.
 - researcher: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences
 - deliverable review: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences in evidence-based evaluations
 - manager final: Always conduct a full, bounded inspection of source text for target linguistic constructs before any evaluation to prevent unfounded inferences, especially when the phrases are contextually ambiguous and non-explicit
@@ -40,5 +39,6 @@
 - researcher: Always verify full source accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - deliverable review: Always verify full source accessibility and content, including full-text and metadata fields, before concluding on linguistic or evidentiary claims involving temporal or memory-like constructs
 - manager final: Always verify full source accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
+- orchestrator: Linguistic indicators of temporal continuity should be isolated from known memory terminology to avoid bias in emergent pattern detection in agent memory research, especially when data is sparse or indirect.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
