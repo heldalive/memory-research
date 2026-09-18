@@ -4,6 +4,6 @@ Extract and analyze the abstract and metadata of arXiv:2406.09876 for explicit o
 
 Next role: deliverable_review.
 
-Close research objective with documented absence of evidence
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.

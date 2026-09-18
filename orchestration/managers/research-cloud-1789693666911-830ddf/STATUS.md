@@ -10,3 +10,4 @@ Stage: deliverable_review. Plan reviews 1/2; evidence reviews 0/2.
 - research-cloud-1789693666911-830ddf-4-plan-review: plan_review — completed
 - research-cloud-1789693666911-830ddf-5-manager-plan: manager_plan — completed
 - research-cloud-1789693666911-830ddf-6-researcher: researcher — completed
+- research-cloud-1789693666911-830ddf-7-deliverable-review-rejected-1: deliverable_review — rejected
