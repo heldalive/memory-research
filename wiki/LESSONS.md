@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: When evaluating claims about memory or contextual coherence in technical literature, verify the presence of explicit linguistic cues in abstracts and metadata before concluding absence; without access to the full text, assumptions about content cannot be validated and must be deferred until source data is available or accessible.
 - manager plan: When evaluating claims about memory or contextual coherence in technical literature, require explicit access to full document content before concluding absence of linguistic evidence; without it, all inferences risk being unfounded and speculative, regardless of metadata or abstract depth.
 - researcher: When evaluating claims about memory or contextual coherence in technical literature, require explicit access to full document content before concluding absence of linguistic evidence; without it, all inferences remain unfounded and unverified.
 - deliverable review: When evaluating claims about memory or contextual coherence in technical literature, require full document access before concluding absence of linguistic evidence; partial access may miss implicit or contextual cues that could alter the interpretation of a system's response to abrupt stimuli, especially in domains where such cues are subtle
@@ -40,5 +39,6 @@
 - manager plan: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be explicitly documented as a data limitation, not an implicit failure
 - planner: Always verify explicit presence of target linguistic content before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be explicitly documented as a data limitation, not an implicit failure
 - plan review: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be explicitly documented as a data limitation, not an implicit failure
+- manager plan: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be explicitly documented as a data limitation, not an implicit failure
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
