@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: When evaluating agent memory systems, require explicit, primary-source evidence of controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capabilities
 - manager final: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capability and ensure research integrity in benchmark selection and validation process.
 - orchestrator: Transparent, repeatable evaluation of agent memory requires explicit documentation of memory state, token usage, and controlled experimental conditions to enable meaningful comparison and validation across systems and benchmarks; such protocols are currently absent in the literature and open-source ecosystems.
 - manager setup: When evaluating agent memory systems, mandate primary-source evidence from controlled experiments with token budgeting and explicit baseline reporting to ensure validity and avoid conflating efficiency with genuine memory performance assessment.
@@ -40,5 +39,6 @@
 - orchestrator: Memory evaluation must incorporate dynamic, variable stimuli to reflect real-world operational conditions beyond static benchmarks and token constraints.
 - manager setup: Agent memory evaluation must be grounded in primary-source, experimentally validated studies with explicit dynamic inputs and observable state evolution to ensure scientific rigor and real-world relevance.
 - planner: Agent memory evaluation must be grounded in primary-source, experimentally validated studies with explicit dynamic inputs and observable state evolution to ensure scientific rigor and real-world relevance.
+- plan review: Agent memory evaluation must begin with verifiable source access and confirmed experimental reporting before proceeding to claims of dynamic input encoding and state drift under variable conditions, as unverified preprints cannot serve as empirical foundations for research claims or system design decisions.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
