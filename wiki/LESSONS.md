@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: When assessing memory-related hypotheses in technical preprints, linguistic metaphors in abstracts and metadata can serve as indirect indicators, but must be evaluated with explicit bounds on evidence and confidence to prevent overreach without full text access or validation grounds.
 - planner: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope; bounded revisions should probe for subtle or metaphorical indicators without full text
 - plan review: When evaluating memory-related hypotheses in technical preprints, a plan must first verify data availability and access before attempting linguistic or structural analysis; absence of source content invalidates any downstream interpretation or inference attempts without explicit correction for data gaps.
 - manager plan: Always verify data availability and access before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content nullifies all downstream interpretive claims and must be explicitly acknowledged as a boundary condition prior to any research phase execution.
@@ -40,5 +39,6 @@
 - manager final: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in manager
 - researcher: Always verify the presence of target linguistic constructs in source text before attempting analysis to avoid evaluating non-existent or unverified metaphors
 - deliverable review: Always verify the presence of target linguistic constructs in source text before attempting analysis to avoid evaluating non-existent or unverified metaphors
+- manager final: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

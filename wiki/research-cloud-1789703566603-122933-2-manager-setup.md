@@ -1,0 +1,5 @@
+# manager setup lesson
+
+Always require explicit linguistic evidence of target metaphors before inferring scene continuity or memory in scientific texts; absence must be formally documented and bounded to prevent overreach
+
+Fallible agent-authored lesson; instance research-cloud-1789703566603-122933-2-manager-setup.
