@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences in evidence-based evaluations
 - manager final: Always conduct a full, bounded inspection of source text for target linguistic constructs before any evaluation to prevent unfounded inferences, especially when the phrases are contextually ambiguous and non-explicit
 - orchestrator: Linguistic indicators of internal state retention must be evaluated strictly within surface-level, contextually bounded phrases to avoid overreach and ensure methodological rigor in memory research protocols.'
 - manager setup: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences in evidence-based evaluations
@@ -40,5 +39,6 @@
 - manager final: Always verify full source accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - orchestrator: Linguistic indicators of temporal continuity should be isolated from known memory terminology to avoid bias in emergent pattern detection in agent memory research, especially when data is sparse or indirect.
 - manager setup: Always verify full source accessibility and content, including full-text and metadata fields, before concluding on linguistic or evidentiary claims involving temporal or memory-like constructs
+- planner: Always verify full source accessibility and content, including full-text and metadata fields, before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
