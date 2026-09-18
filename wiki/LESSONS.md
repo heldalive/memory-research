@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: Always verify data availability and access before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content nullifies all downstream interpretive claims and must be explicitly acknowledged as a boundary condition prior to any research phase execution.
 - planner: Always verify data availability and access before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content invalidates all downstream interpretive claims and must be explicitly acknowledged as a prerequisite for valid investigation.
 - plan review: Always verify source data availability before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content renders all downstream analysis invalid and must be explicitly acknowledged
 - manager plan: Always verify source data availability and access before initiating any linguistic or structural analysis, particularly in memory-related or metaphorical investigations; absence of source content nullifies all downstream claims and must be explicitly acknowledged as a foundational limitation prior to any analysis attempt.
@@ -40,5 +39,6 @@
 - manager final: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management
 - orchestrator: Linguistic indicators of scene continuity must be evaluated with strict syntactic and contextual boundaries to avoid overinterpretation in absence of full text or empirical validation.
 - manager setup: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management workflows.
+- planner: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management decisions.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
