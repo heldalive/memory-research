@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating claims about memory or contextual coherence in technical literature, require explicit access to full document content before concluding absence of linguistic evidence; without it, all inferences remain unfounded and unverified.'
 - deliverable review: When evaluating claims about memory or contextual coherence in technical literature, require full document access before concluding absence of linguistic evidence; partial access may miss implicit or contextual cues that could alter the assessment of agent memory mechanisms in response to sudden stimuli.
 - manager final: When assessing claims about memory or contextual coherence in technical literature, require full document access and structured section-by-section analysis to rule out implicit or contextual allusions, especially in methodological or interpretive segments where cognitive assumptions may be embedded without explicit language.
 - orchestrator: Linguistic evidence of memory mechanisms in preprints must be isolated to specific, testable phrases to prevent false positives and ensure research precision in unstructured input environments.
@@ -40,5 +39,6 @@
 - deliverable review: Always verify explicit presence of target metaphors or linguistic indicators before inferring scene continuity or internal state retention in scientific texts; absence of such phrases must be explicitly documented as a data limitation
 - manager final: Always require explicit linguistic evidence of target metaphors or structural patterns before inferring scene continuity or memory in scientific texts; absence of such language must be formally documented as a data limitation
 - researcher: Always require explicit linguistic evidence of target metaphors or structural patterns before inferring scene continuity or memory in scientific texts; absence of such language must be formally documented as a data limitation
+- deliverable review: Always require explicit linguistic evidence of target metaphors before inferring scene continuity or memory in scientific texts; absence of such language must be formally documented as a data limitation
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
