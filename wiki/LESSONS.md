@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: Always verify explicit presence of target linguistic content before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be explicitly documented as a data limitation, not an implicit failure
 - plan review: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be explicitly documented as a data limitation, not an implicit failure
 - manager plan: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be explicitly documented as a data limitation, not an implicit failure
 - researcher: Always anchor interpretive claims in explicit or implicitly structured linguistic patterns within the inspected text; when metaphors or scene continuity indicators are absent, document the absence as a data limitation without inferring their absence from the domain, and prioritize contextual plausibility over assumed presence of linguistic
@@ -40,5 +39,6 @@
 - orchestrator: Linguistic indicators of internal state retention must be evaluated strictly within surface-level, contextually bounded phrases to avoid overreach and ensure methodological rigor in memory research protocols.'
 - manager setup: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences in evidence-based evaluations
 - planner: Always verify the presence of target linguistic constructs in source text before analysis to prevent unfounded inferences, especially when dealing with contextually ambiguous or non-explicit indicators
+- plan review: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences in evidence-based evaluations
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
