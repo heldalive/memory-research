@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1789717278742,
+  "updatedAt": 1789717378691,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 392,
+  "completed": 393,
   "loops": [
     {
       "id": "research-cloud-1789716808906-bd3038",
       "branch": "manager/research-cloud-1789716808906-bd3038",
-      "stage": "manager_plan",
+      "stage": "planner",
       "goal": "Analyze the mathematical formulations of arXiv preprints 2409.15678 to 2409.19876 for equations defining recurrent or time-dependent state updates, such as differential equations with memory terms or recursive update rules; document position, equation structure, and syntactic indicators of persistence with medium confidence; exclude any reference to memory terminology in prior literature or known cognitive models."
     }
   ]
