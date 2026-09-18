@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Always verify full source accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - orchestrator: Linguistic indicators of temporal continuity should be isolated from known memory terminology to avoid bias in emergent pattern detection in agent memory research, especially when data is sparse or indirect.
 - manager setup: Always verify full source accessibility and content, including full-text and metadata fields, before concluding on linguistic or evidentiary claims involving temporal or memory-like constructs
 - planner: Always verify full source accessibility and content, including full-text and metadata fields, before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
@@ -40,5 +39,6 @@
 - researcher: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - deliverable review: Always verify metadata completeness and accessibility before initiating structural or network-level analysis, especially when non-linguistic indicators or citation loops are under investigation
 - manager final: Always validate source accessibility and metadata completeness before initiating structural or network-level analysis, particularly when investigating non-linguistic indicators of knowledge persistence
+- orchestrator: Isolate narrow, mathematically grounded indicators of temporal state persistence to avoid overreliance on linguistic or network proxies in memory research design.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
