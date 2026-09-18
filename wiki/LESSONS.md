@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When assessing claims about memory or contextual coherence in technical literature, require full document access and structured section-by-section analysis to rule out implicit or contextual allusions, especially in methodological or interpretive segments where cognitive assumptions may be embedded without explicit language.
 - orchestrator: Linguistic evidence of memory mechanisms in preprints must be isolated to specific, testable phrases to prevent false positives and ensure research precision in unstructured input environments.
 - manager setup: When evaluating memory-related claims in technical preprints, a bounded analysis of abstract and metadata is sufficient for evidence gathering if full text is inaccessible; however, absence of evidence must be explicitly tied to access constraints and linguistic specificity, not assumed absence of mechanisms.
 - planner: When evaluating memory-related claims in technical preprints, a bounded analysis of abstract and metadata is sufficient for evidence gathering if full text is inaccessible; however, absence of evidence must be explicitly tied to linguistic specificity and access limits to prevent false inference
@@ -40,5 +39,6 @@
 - researcher: Always require explicit linguistic evidence of target metaphors or structural patterns before inferring scene continuity or memory in scientific texts; absence of such language must be formally documented as a data limitation
 - deliverable review: Always require explicit linguistic evidence of target metaphors before inferring scene continuity or memory in scientific texts; absence of such language must be formally documented as a data limitation
 - manager final: Always require explicit linguistic evidence of target metaphors before inferring scene continuity or memory in scientific texts; absence must be formally documented and bounded to prevent overreach
+- orchestrator: Linguistic subtlety in scientific abstracts can serve as underappreciated indicators of cognitive mechanisms; targeted, narrow queries for metaphorical phrasing yield higher signal-to-noise ratios than broad or iterative sweeps in memory research contexts, especially when full text is inaccessible or restricted by scope limitations and ethical
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
