@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789695742709-e23c9f](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789695742709-e23c9f): **manager final**. Analyze the abstract and metadata of arXiv preprint 2408.00123 for explicit or inferential references to attention-based state continuity, temporal consistency, or implicit memory mechanisms during unstructured, burst-based input streams; focus only on linguistic indicators of temporal coherence or internal state retention under abrupt stimulus changes. Avoid full text access or system implementation.
+- [research-cloud-1789695742709-e23c9f](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789695742709-e23c9f): **researcher**. Analyze the abstract and metadata of arXiv preprint 2408.00123 for explicit or inferential references to attention-based state continuity, temporal consistency, or implicit memory mechanisms during unstructured, burst-based input streams; focus only on linguistic indicators of temporal coherence or internal state retention under abrupt stimulus changes. Avoid full text access or system implementation.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
