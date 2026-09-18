@@ -1,0 +1,9 @@
+# Aethon: A Reference-Based Replication Primitive for Constant-Time Instantiation of Stateful AI Agents
+
+[Source](https://arxiv.org/abs/2604.12129v1)
+
+abstract only. Checked 2026-09-18T06:25:10.505Z.
+
+No abstracts from the requested arXiv range 2409.10000 to 2409.10100 are available for analysis, as retrieval returns a 404 error. The available sources [S1] and [S2] discuss agent memory mechanisms and stateful execution but do not include the target linguistic indicators under investigation. Without empirical access to the specified preprints, any assessment of latent temporal state persistence remains ungrounded and unverifiable. The absence of content in the target range constitutes a fundamental data gap preventing analysis of phrase frequency, position, or contextual framing as intended by the research objective. This confirms the prior identification of source inaccessibility as a critical barrier to progress. The current evidence set does not support claims of temporal state persistence through linguistic patterns in the requested corpus. The search for these phrases is therefore unfeasible without access to the full abstracts and metadata of the specified preprints. A direct query to the arXiv repository for the range 2409.10000 to 2409.10100 is required to verify content availability before any further linguistic evaluation can proceed. The provided sources [S1] and [S2] are relevant to agent memory systems but do not address the specific linguistic patterns under investigation in the target range. The plan must be revised to first confirm data accessibility before proceeding with any linguistic analysis. This is a clear case of missing source data preventing empirical evaluation of the research question. No further action can be taken without
+
+Agent-authored assessment; consult its evidence review and manager disposition.
