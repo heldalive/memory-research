@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789698614430-96523c](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789698614430-96523c): **manager setup**. Analyze the abstract and metadata of arXiv preprint 2409.03456 for explicit or inferential references to scene continuity, temporal grounding, or internal state retention during sudden, unstructured visual input shifts; focus exclusively on linguistic cues related to visual or contextual persistence under burst conditions. Avoid full text access or system implementation.
+- [research-cloud-1789698614430-96523c](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789698614430-96523c): **planner**. Analyze the abstract and metadata of arXiv preprint 2409.03456 for explicit or inferential references to scene continuity, temporal grounding, or internal state retention during sudden, unstructured visual input shifts; focus exclusively on linguistic cues related to visual or contextual persistence under burst conditions. Avoid full text access or system implementation.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
