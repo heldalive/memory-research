@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Always verify target linguistic constructs in source text before analysis to prevent unfounded inferences, especially when evaluating plausibility of memory-related indicators
 - orchestrator: Linguistic indicators of memory retention must be evaluated in isolation and with strict syntactic and semantic boundaries to avoid overreach in inferential claims.
 - manager setup: Always validate the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences in evidence-based evaluations
 - planner: Always verify target linguistic constructs in source text before analysis to prevent unfounded inferences, especially when evaluating plausibility of memory-related indicators
@@ -40,5 +39,6 @@
 - researcher: Always verify full source accessibility and content, including full-text and metadata fields, before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - deliverable review: Always verify explicit presence and accessibility of target phrases or concepts in source content before asserting evidence of latent temporal state persistence
 - manager final: Always verify full source accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
+- orchestrator: Non-linguistic structural patterns in technical literature can serve as proxies for latent state persistence and should be considered in memory modeling beyond explicit semantic indicators alone, especially when linguistic data is absent or inaccessible.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
