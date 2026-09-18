@@ -2,7 +2,7 @@
   "id": "research-cloud-1789694902421-ed5184",
   "branch": "manager/research-cloud-1789694902421-ed5184",
   "goal": "Analyze the abstract and metadata of arXiv preprint 2407.11223 for explicit linguistic indicators of state continuity in non-sequential, burst-based input streams; if present, document any direct or indirect references to memory persistence or internal coherence mechanisms under abrupt, unstructured stimuli; if absent, confirm the absence with a summary of linguistic and structural analysis of the abstract and metadata for memory-related claims in the preprint",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
@@ -29,6 +29,11 @@
     {
       "id": "research-cloud-1789694902421-ed5184-5-manager-plan",
       "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789694902421-ed5184-6-researcher",
+      "role": "researcher",
       "status": "completed"
     }
   ],
