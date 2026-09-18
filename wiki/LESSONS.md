@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: Agent memory evaluation must begin with verifiable source access and confirmed experimental reporting before proceeding to claims of dynamic input encoding and state drift under variable conditions, as unverified preprints cannot serve as credible research foundations for inference or system design.
 - researcher: Agent memory research must begin with verified source content that explicitly models dynamic environmental inputs and observable state evolution, as irrelevant or misaligned papers cannot support the investigation objective effectively and efficiently.
 - deliverable review: Agent memory research must begin with verified source access to a relevant, explicitly modeled preprint before proceeding to claims about dynamic environmental encoding and state evolution
 - manager final: Agent memory research must establish verifiable, relevant source access with explicit modeling of dynamic environmental inputs and state evolution before making claims about temporal memory behavior under variable stimuli, as unverified or misaligned sources invalidate the research foundation and must be corrected before further investigation
@@ -40,5 +39,6 @@
 - researcher: For research questions on memory coherence under non-sequential input, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption
 - deliverable review: For research questions on memory coherence under non-sequential input, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption
 - manager final: For research on memory coherence in non-sequential streams, require explicit linguistic indicators of state continuity in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption
+- orchestrator: Linguistic indicators of memory mechanisms in preprints must be explicitly verifiable in abstracts and metadata before being considered valid research signals for dynamic memory systems under non-temporal input conditions
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
