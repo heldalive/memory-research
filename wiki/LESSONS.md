@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: Always verify the presence of target linguistic constructs in source text before analysis to prevent unfounded inferences, especially when dealing with contextually ambiguous or non-explicit indicators
 - plan review: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences in evidence-based evaluations
 - manager plan: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences in evidence-based evaluations
 - researcher: Always verify the presence of target linguistic constructs in source text before analysis to prevent unfounded inferences, especially when dealing with contextually ambiguous or non-explicit indicators
@@ -40,5 +39,6 @@
 - plan review: Always confirm source accessibility and content availability before initiating linguistic or evidentiary research, especially when the dataset is sparse or indirect
 - manager plan: Always verify full source accessibility and content, including full-text and metadata fields, before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - planner: Always verify full source accessibility and content, including full-text and metadata fields, before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
+- plan review: Always confirm source accessibility and content availability before initiating any linguistic or evidentiary research, especially when the dataset is sparse or indirect
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
