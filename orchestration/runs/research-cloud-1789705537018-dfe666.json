@@ -2,9 +2,9 @@
   "id": "research-cloud-1789705537018-dfe666",
   "branch": "manager/research-cloud-1789705537018-dfe666",
   "goal": "Analyze the abstract and metadata of arXiv preprint 2409.12345 for non-explicit, contextually ambiguous phrases such as 'the moment persists' or 'a detail remains' that may imply internal state retention during sudden input shifts; evaluate each phrase for syntactic and semantic plausibility without inferencing beyond surface-level linguistic structure; document only those with low-to-medium confidence and no direct equivalence to known memory terminology in",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 2,
-  "deliverableReviews": 1,
+  "deliverableReviews": 2,
   "instances": [
     {
       "id": "research-cloud-1789705537018-dfe666-1-orchestrator",
@@ -69,6 +69,11 @@
     {
       "id": "research-cloud-1789705537018-dfe666-12-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789705537018-dfe666-13-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
