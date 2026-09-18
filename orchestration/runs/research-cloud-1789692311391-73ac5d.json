@@ -2,8 +2,8 @@
   "id": "research-cloud-1789692311391-73ac5d",
   "branch": "manager/research-cloud-1789692311391-73ac5d",
   "goal": "Analyze the full abstract and metadata of arXiv preprint 2405.12345 for explicit evidence of tokenized state, periodic input streams, and bounded memory retention under known perturbations; if present, document the sequence of state transitions over time as a function of input variation",
-  "stage": "plan_review",
-  "planReviews": 0,
+  "stage": "manager_plan",
+  "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
     {
@@ -19,6 +19,11 @@
     {
       "id": "research-cloud-1789692311391-73ac5d-3-planner",
       "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789692311391-73ac5d-4-plan-review",
+      "role": "plan_review",
       "status": "completed"
     }
   ],
