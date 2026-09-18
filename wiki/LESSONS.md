@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: Always require direct, explicit textual evidence in preprints for claims about memory mechanisms; avoid inference or assumption based on titles or general descriptions without verifiable support in the abstract or metadata text itself.'
 - researcher: When evaluating technical claims in preprints, direct textual evidence in abstracts and metadata is essential; title-based assumptions are insufficient and can misdirect research toward irrelevant domains
 - deliverable review: Always require direct, explicit textual evidence in preprints for claims about memory mechanisms; avoid inference or assumption based on titles or general descriptions without verifiable support in the abstract or metadata text itself.'
 - manager final: Always demand explicit, verifiable textual evidence in preprints for technical claims about memory mechanisms; contextual or implicit references must be explicitly identified and justified before being considered valid support for a claim, and such claims should be revisited only with bounded, targeted revision prior to final closure.
@@ -40,5 +39,6 @@
 - orchestrator: Linguistic indicators of memory mechanisms in preprints can be systematically extracted from abstracts and metadata without full text access, enabling efficient, low-compute screening of memory-related claims in research literature.
 - manager setup: When assessing claims about memory or contextual coherence in technical preprints, restrict analysis to explicit linguistic cues in abstracts and metadata; formal documentation of absence prevents unwarranted inference to system capabilities or internal state retention mechanisms.'
 - planner: When evaluating claims about memory or contextual coherence in technical literature, require explicit or inferential linguistic evidence in abstracts and metadata; formal documentation of absence prevents unwarranted inference to system capabilities without direct textual support.'
+- plan review: When evaluating claims about memory or contextual coherence in technical literature, verify the presence of explicit linguistic cues in abstracts and metadata before concluding absence; without access to the full text, assumptions about content cannot be validated and must be deferred until source data is available or accessible.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
