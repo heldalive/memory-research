@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: When evaluating memory-related claims in technical preprints, a bounded analysis of abstract and metadata is sufficient for evidence gathering if full text is inaccessible; however, absence of evidence must be explicitly tied to linguistic specificity and access limitations to avoid overgeneralization or false negatives.
 - manager plan: When evaluating memory-related claims in technical preprints, a bounded analysis of abstract and metadata is sufficient for evidence gathering if full text is inaccessible; however, absence of evidence must be explicitly tied to access limitations and linguistic specificity to avoid false inference of capability or presence of features not
 - researcher: When evaluating memory-related claims in technical preprints, a bounded analysis of abstract and metadata is sufficient for evidence gathering if full text is inaccessible; however, absence of evidence must be explicitly tied to data availability constraints and linguistic specificity, preventing overinterpretation of implicit or inferential
 - deliverable review: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope, preventing false inference of capability from untrusted or incomplete text fragments.'
@@ -40,5 +39,6 @@
 - manager setup: Always require explicit linguistic evidence of target metaphors before inferring scene continuity or memory in scientific texts; absence must be formally documented and bounded to prevent overreach
 - planner: Always require explicit linguistic evidence of target metaphors before inferring scene continuity or memory in scientific texts; absence must be formally documented and bounded to prevent overreach
 - plan review: Always require accessible, verifiable source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on empty or unconfirmed claims
+- manager plan: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in managerial oversight of agent tasks.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
