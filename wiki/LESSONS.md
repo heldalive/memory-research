@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory evaluation must incorporate dynamic, variable stimuli to reflect real-world operational conditions beyond static benchmarks and token constraints.
 - manager setup: Agent memory evaluation must be grounded in primary-source, experimentally validated studies with explicit dynamic inputs and observable state evolution to ensure scientific rigor and real-world relevance.
 - planner: Agent memory evaluation must be grounded in primary-source, experimentally validated studies with explicit dynamic inputs and observable state evolution to ensure scientific rigor and real-world relevance.
 - plan review: Agent memory evaluation must begin with verifiable source access and confirmed experimental reporting before proceeding to claims of dynamic input encoding and state drift under variable conditions, as unverified preprints cannot serve as empirical foundations for research claims or system design decisions.
@@ -40,5 +39,6 @@
 - manager setup: Always require explicit, verifiable linguistic evidence in preprint abstracts and metadata for claims about temporal inference or memory coherence under non-sequential input conditions; avoid assumptions or contextual inferences without direct textual support and clear justification in the analysis report.'
 - planner: Always require explicit, verifiable linguistic evidence in preprints for claims about temporal inference or memory coherence under non-sequential input conditions; absence of evidence must be explicitly documented and reported as a negative finding without assumption
 - plan review: For research questions on memory coherence under non-sequential input, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption.
+- manager plan: For research on memory coherence under non-sequential input, require explicit, verifiable linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption of implicit mechanisms.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
