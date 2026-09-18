@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When evaluating technical claims in preprints, direct textual evidence in abstracts and metadata is essential; title-based assumptions are insufficient and can misdirect research toward irrelevant domains
 - researcher: When investigating technical claims in preprints, prioritize direct textual evidence in abstracts and metadata before assuming mechanism validity; avoid overreaching based on title or implied scope without explicit confirmation in available data.'
 - deliverable review: Always validate technical claims in preprints with direct textual evidence from abstracts and metadata; title-based inferences without explicit support lead to misdirected research
 - manager final: When evaluating technical claims in preprints, direct textual evidence in abstracts and metadata is essential; title-based assumptions are insufficient and can misdirect research toward irrelevant domains
@@ -40,5 +39,6 @@
 - plan review: When evaluating memory mechanisms in technical literature, prioritize linguistic evidence in abstracts and metadata for indirect indicators of temporal coherence before advancing to full text analysis or implementation design.
 - manager plan: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented as a negative finding without inference to underlying system behavior or implementation design, and such gaps should be recorded as unresolved limits in the plan history for future
 - researcher: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior or implementation design, especially in the context of unstructured input streams or temporal coherence claims.'
+- deliverable review: When evaluating memory-related claims in technical literature, prioritize linguistic evidence in abstracts and metadata for temporal coherence indicators; absence of such evidence must be formally documented without inference to system behavior or implementation design, especially in research-only phases with limited data access and scope
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
