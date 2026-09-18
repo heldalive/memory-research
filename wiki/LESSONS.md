@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: When evaluating memory mechanisms in reactive agents, prioritize linguistic evidence in abstracts and metadata for indirect indicators of temporal coherence before advancing to full text analysis or implementation design.
 - manager setup: When assessing memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented as a negative finding without inference to underlying system behavior or performance outcomes.'
 - planner: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior or implementation design.'
 - plan review: When evaluating memory mechanisms in technical literature, prioritize linguistic evidence in abstracts and metadata for indirect indicators of temporal coherence before advancing to full text analysis or implementation design.
@@ -40,5 +39,6 @@
 - manager plan: Always verify data availability and access before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content nullifies all downstream interpretive claims and must be explicitly acknowledged as a boundary condition prior to any research phase execution.
 - planner: Always verify data availability and access before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content invalidates all downstream interpretive claims and must be explicitly acknowledged as a prerequisite for valid investigation.
 - plan review: Always verify source data availability before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content renders all downstream analysis invalid and must be explicitly acknowledged
+- manager plan: Always verify source data availability and access before initiating any linguistic or structural analysis, particularly in memory-related or metaphorical investigations; absence of source content nullifies all downstream claims and must be explicitly acknowledged as a foundational limitation prior to any analysis attempt.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
