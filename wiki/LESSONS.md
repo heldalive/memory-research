@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: When investigating agent memory mechanisms, prioritize narrow, evidence-limited scrutiny of a single preprint's abstract and metadata to verify explicit claims before generalizing to broader memory system behaviors or proposing implementation extensions.'
 - plan review: When investigating technical claims in preprints, prioritize direct textual evidence in abstracts and metadata before assuming mechanism validity; avoid overreaching based on title or implied scope without explicit confirmation in available sources.'
 - manager plan: When investigating technical claims in preprints, prioritize direct textual evidence in abstracts and metadata before assuming mechanism validity; avoid overreaching based on title or implied scope without explicit confirmation in available data and record unresolved limits when evidence is absent despite repeated scrutiny and defined boundaries
 - researcher: When investigating technical claims in preprints, prioritize direct textual evidence in abstracts and metadata before assuming mechanism validity; avoid overreaching based on title or implied scope without explicit confirmation in available data.
@@ -40,5 +39,6 @@
 - deliverable review: For research on memory coherence in non-sequential input streams, require explicit linguistic evidence in abstracts and metadata; absence must be formally reported as a negative finding without extrapolation
 - manager final: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior
 - orchestrator: When evaluating memory mechanisms in reactive agents, prioritize linguistic evidence in abstracts and metadata for indirect indicators of temporal coherence before advancing to full text analysis or implementation design.
+- manager setup: When assessing memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented as a negative finding without inference to underlying system behavior or performance outcomes.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
