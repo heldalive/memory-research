@@ -4,6 +4,6 @@ Extract and list all linguistic references in the abstract and metadata of arXiv
 
 Next role: researcher.
 
-Analyze the abstract and metadata of arXiv preprint 2408.00123 for explicit or inferential references to attention-based state continuity, temporal consistency, or implicit memory mechanisms during unstructured, burst-based input streams; focus only on linguistic indicators of temporal coherence or internal state retention under abrupt stimulus changes. Document all absent mentions as negative findings with contextual justification and record unresolved limit
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
