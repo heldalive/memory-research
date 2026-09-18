@@ -2,7 +2,7 @@
 
 Extract and map citation networks from arXiv preprints 2409.15678 to 2409.19876 using available metadata; identify and catalog recurrent linking patterns and their topological properties; document frequency and structural recurrence without linguistic interpretation or inference of memory states.
 
-Next role: manager_final.
+Next role: researcher.
 
 Verify metadata accessibility and cross-reference completeness for all preprints in the range 2409.15678 to 2409.19876 using the official arXiv export API before initiating citation network analysis
 
