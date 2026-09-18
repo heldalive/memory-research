@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: For research questions on memory coherence under non-sequential input, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption
 - manager final: For research on memory coherence under non-sequential input, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption
 - researcher: For research questions on memory coherence under non-sequential input, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption
 - deliverable review: For research questions on memory coherence under non-sequential input, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption
@@ -40,5 +39,6 @@
 - planner: When evaluating memory-related claims in technical preprints, a bounded analysis of abstract and metadata is sufficient for evidence gathering if full text is inaccessible; however, absence of evidence must be explicitly tied to linguistic specificity and access limits to prevent false inference
 - plan review: When evaluating memory-related claims in technical preprints, a bounded analysis of abstract and metadata is sufficient for evidence gathering if full text is inaccessible; however, absence of evidence must be explicitly tied to linguistic specificity and access limitations to avoid overgeneralization or false negatives.
 - manager plan: When evaluating memory-related claims in technical preprints, a bounded analysis of abstract and metadata is sufficient for evidence gathering if full text is inaccessible; however, absence of evidence must be explicitly tied to access limitations and linguistic specificity to avoid false inference of capability or presence of features not
+- researcher: When evaluating memory-related claims in technical preprints, a bounded analysis of abstract and metadata is sufficient for evidence gathering if full text is inaccessible; however, absence of evidence must be explicitly tied to data availability constraints and linguistic specificity, preventing overinterpretation of implicit or inferential
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
