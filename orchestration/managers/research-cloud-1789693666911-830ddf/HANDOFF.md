@@ -1,9 +1,9 @@
 # Manager handoff
 
-Analyze the abstract and metadata of arXiv preprint 2406.09876 for explicit or inferential evidence of memory coherence under asynchronous, burst-based input streams with no temporal structure or sequence, focusing only on linguistic indicators of temporal inference or state continuity mechanisms without accessing full text or implementing systems.
+Extract and analyze the abstract and metadata of arXiv:2406.09876 for explicit or inferential linguistic evidence of temporal inference mechanisms in non-sequential, burst-based input streams, with focus on terms indicating state continuity, time-based processing, or implicit sequencing in fragmented data streams. Limit to direct textual references and avoid extrapolation beyond the provided content.
 
-Next role: manager_setup.
+Next role: planner.
 
-Analyze the abstract and metadata of arXiv preprint 2406.09876 for explicit or inferential evidence of memory coherence under asynchronous, burst-based input streams with no temporal structure or sequence, focusing only on linguistic indicators of temporal inference or state continuity mechanisms without accessing full text or implementing systems.
+Extract and analyze the abstract and metadata of arXiv:2406.09876 for explicit or inferential linguistic evidence of temporal inference mechanisms in non-sequential, burst-based input streams, with focus on terms indicating state continuity, time-based processing, or implicit sequencing in fragmented data streams. Limit to direct textual references and avoid extrapolation beyond the provided content.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
