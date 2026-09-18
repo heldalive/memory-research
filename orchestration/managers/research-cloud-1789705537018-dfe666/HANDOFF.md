@@ -4,6 +4,6 @@ Retrieve and inspect the full abstract and metadata of arXiv preprint 2409.12345
 
 Next role: planner.
 
-Retrieve the full abstract and metadata of arXiv preprint 2409.12345 before proceeding with linguistic analysis of non-explicit phrases such as 'the moment persists' or 'a detail remains' for syntactic and semantic plausibility only.
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
