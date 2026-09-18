@@ -4,6 +4,6 @@ Review the preprint titled 'Temporal Memory Dynamics in Reactive Agents under En
 
 Next role: researcher.
 
-Verify the existence and content of the preprint 'Temporal Memory Dynamics in Reactive Agents under Environmental Fluctuations' by Chen et al. (2024), arXiv:2403.12345, by retrieving its full text and assessing explicit modeling of time-series environmental input encoding and measurable state drift over time under variable stimuli. If unavailable or unverified, propose an alternative research question focused on a different agent memory mechanism (e.g.,
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
