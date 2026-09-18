@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1789707370503-e190a3",
+  "branch": "manager/research-cloud-1789707370503-e190a3",
+  "goal": "Analyze the metadata of arXiv preprint 2409.15678 for the phrase 'the pattern holds' or 'a thread continues'; record position, surrounding context, and syntactic ambiguity; assign confidence level as low, medium, or high; exclude any phrase with direct semantic match to established memory-related terms in prior research literature; if none found, document absence and conclude the investigation for this linguistic class of indicators.",
+  "stage": "complete",
+  "planReviews": 1,
+  "deliverableReviews": 1,
+  "instances": [
+    {
+      "id": "research-cloud-1789707370503-e190a3-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789707370503-e190a3-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789707370503-e190a3-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789707370503-e190a3-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789707370503-e190a3-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789707370503-e190a3-6-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789707370503-e190a3-7-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789707370503-e190a3-8-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}
