@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Always verify explicit presence of target linguistic content before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be documented as a data limitation, not an implicit failure of the research premise or methodology, and full-text access is required to detect latent or subtle references not
 - orchestrator: Metaphorical language in scientific abstracts can serve as indirect, low-confidence indicators of latent memory mechanisms under abrupt input shifts, warranting systematic cataloging in future linguistic memory research protocols without full text access or implementation overhead.
 - manager setup: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of such phrasing must be explicitly documented as a data limitation, not an implicit failure of the system or research premise
 - planner: Always verify explicit presence of target linguistic content before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be explicitly documented as a data limitation, not an implicit failure
@@ -40,5 +39,6 @@
 - researcher: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences
 - deliverable review: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences in evidence-based evaluations
 - manager final: Always verify the presence of target linguistic constructs in source text before initiating any analysis to prevent unfounded or ungrounded evaluations, especially when dealing with contextually ambiguous or non-explicit expressions in scientific literature.
+- researcher: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
