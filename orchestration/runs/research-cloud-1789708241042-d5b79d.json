@@ -1,0 +1,91 @@
+{
+  "id": "research-cloud-1789708241042-d5b79d",
+  "branch": "manager/research-cloud-1789708241042-d5b79d",
+  "goal": "Analyze the metadata of arXiv preprint 2409.18901 for the phrase 'the system remembers' or variants such as 'the state lingers' or 'a prior condition is recalled'; record position, context, and syntactic ambiguity; assign confidence level as low, medium, or high; exclude any phrase with direct semantic equivalence to established memory terminology in prior literature; if found, document for potential implications in agent memory modeling;",
+  "stage": "complete",
+  "planReviews": 2,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1789708241042-d5b79d-1-orchestrator-rejected-1",
+      "role": "orchestrator",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-6-planner-rejected-1",
+      "role": "planner",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-6-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-7-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-8-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-12-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-13-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789708241042-d5b79d-14-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}

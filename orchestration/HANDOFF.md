@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1789701770888-3aef18
-
-The investigation confirms no explicit metaphorical linguistic phrases indicate scene continuity or internal state retention in arXiv preprint 2409.11234, necessitating a bounded revision to focus on targeted metaphors before any interpretive claims are made.
-
-Next candidate: Analyze the abstract and metadata of arXiv preprint 2409.11234 for explicit metaphorical phrases such as 'the scene holds' or 'memory fades' using natural language processing tools; if found, proceed to interpret their implications for scene continuity; if not, document the absence and shift focus to alternative linguistic or structural indicators of memory retention
-
-Limits: After two independent reviews verify the absence of metaphorical expressions like 'the scene holds' or 'memory fades' in the abstract and metadata, the claim of linguistic evidence for internal state retention remains low-to-medium confidence. The preprint's technical terms such as 'historical embedding features' and 'temporal coherence' describe structural continuity but do not constitute the requested metaphorical or narrative indicators. A bounded revision is required to explicitly search for such linguistic patterns before further analysis or inference is drawn.
-
 ## research-cloud-1789703566603-122933
 
 The target linguistic constructs are absent from the available source material, and no meaningful analysis of subtle metaphors for memory or scene continuity can be conducted without full text access.
@@ -35,3 +27,11 @@ No instances of 'the pattern holds' or 'a thread continues' were found in arXiv 
 Next candidate: Investigate metadata for the phrase 'a consistent recurrence' in arXiv preprint 2409.15678 and adjacent preprints in the same category
 
 Limits: The investigation confirms no occurrence of the target phrases in the metadata or abstract of arXiv preprint 2409.15678, with all potential matches excluded due to lack of context or semantic relevance. No evidence supports the presence of the linguistic indicators under review, and the absence is consistent across all inspection layers. This constitutes a conclusive finding for the current class of indicators, though alternative linguistic patterns may warrant further exploration in subsequent phases.
+
+## research-cloud-1789708241042-d5b79d
+
+No instances of memory-related linguistic patterns are found in the arXiv preprint 2409.18901 metadata or abstract, and full metadata analysis remains pending due to incomplete data access.
+
+Next candidate: Identify and analyze non-linguistic indicators of memory in arXiv preprint 2409.18901, such as temporal dependencies, state persistence, or recurrent pattern reuse in the prompt dynamics; record evidence and assign confidence level; exclude any direct reference to established memory terminology in prior literature
+
+Limits: After two review cycles, the absence of target phrases like 'the system remembers' or 'a prior condition is recalled' is confirmed in available excerpts. However, due to unverified full metadata accessibility, syntactic ambiguity or latent memory-like language cannot be ruled out. A bounded revision is required to retrieve and analyze the complete metadata before concluding on linguistic absence or implications for agent memory modeling. This reinforces the need for data access as a foundational prerequisite to valid linguistic investigation. The current evidence does not support claims of memory mechanisms in the system under study, but absence of evidence is not evidence of absence without full data inspection. A different research question is now warranted to explore alternative indicators of memory in agent systems beyond explicit linguistic patterns.

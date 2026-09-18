@@ -1,0 +1,37 @@
+{
+  "id": "research-cloud-1789708241042-d5b79d-10-deliverable-review",
+  "role": "deliverable_review",
+  "status": "completed",
+  "at": 1789709601526,
+  "answer": {
+    "summary": "No target memory-related phrases such as 'the system remembers' or 'a prior condition is recalled' are present in the arXiv preprint metadata or abstract analysis.",
+    "content": "Inspected excerpt S1 (arXiv:2409.18901) contains no instances of 'the system remembers', 'the state lingers', or 'a prior condition is recalled'. The abstract describes a visual prompting mechanism (PiVOT) for dynamic prompt generation and contrastive guidance in object tracking, with no mention of memory retention or recall. All linguistic targets are absent, and no syntactic ambiguity or semantic equivalence to established memory terminology is identified. Confidence level for presence of such phrases is low due to absence of evidence and focus on dynamic prompt updating rather than memory mechanisms. No direct or indirect reference to memory systems exists in the provided metadata or abstract context.",
+    "decision": "revise",
+    "search": "https://arxiv.org/abs/2409.18901",
+    "sources": "S1",
+    "nextTask": "Analyze the metadata of arXiv preprint 2409.18901 for the phrase 'the system remembers' or variants such as 'the state lingers' or 'a prior condition is recalled'; record position, context, and syntactic ambiguity; assign confidence level as low, medium, or high",
+    "lesson": "Always verify the presence and accessibility of target phrases in source metadata before concluding absence or non-occurrence to ensure evidentiary rigor"
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 320,
+  "inputTokens": 1530,
+  "durationMs": 12903,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2409.18901",
+      "title": "Source selected by planner",
+      "excerpt": "Abstract: Learning a discriminative model that distinguishes the specified target from surrounding distractors across frames is essential for generic object tracking (GOT). Dynamic adaptation of target representation against distractors remains challenging because prevailing trackers exhibit limited discriminative capability. To address this issue, we present a new visual prompting mechanism for generic object tracking, termed PiVOT. PiVOT introduces mechanisms that leverage the pretrained foundation model (CLIP) to automatically generate and refine visual prompts online, thereby enabling the tracker to suppress distractors through contrastive guidance. To transfer contrastive knowledge from the foundation model to the tracker, PiVOT automatically propagates this knowledge online and dynamically generates and updates visual prompts. Specifically, it proposes a prompt initialization mechanism that produces an initial visual prompt highlighting potential target locations. The foundation model is then used to refine the prompt based on appearance similarities between candidate objects and reference templates across potential targets. After refinement, the visual prompt better highlights potential target locations and reduces irrelevant prompt information. With the proposed prompting mechanism, the tracker can generate instance-aware feature maps guided by the visual prompts, which are incrementally and automatically updated during tracking, thereby effectively suppressing distractors. Extensive experiments across multiple benchmarks indicate that PiVOT, with the proposed prompting mechanism, can suppress distracting objects and improve tracking performance.",
+      "checkedAt": 1789709463491,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "44cc9a7b15ae762227e99c98cbd34cab981640828a0912c757729e28eee7c8f4",
+      "discovery": {
+        "query": "https://arxiv.org/abs/2409.18901",
+        "method": "exact source requested by planner"
+      }
+    }
+  ]
+}
