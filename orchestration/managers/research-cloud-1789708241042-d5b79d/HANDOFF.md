@@ -4,6 +4,6 @@ Analyze the metadata of arXiv preprint 2409.18901 for the phrase 'the system rem
 
 Next role: planner.
 
-Verify availability and content of arXiv preprint 2409.18901 metadata before proceeding with phrase-level analysis
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
