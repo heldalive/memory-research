@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: Always verify source accessibility and metadata completeness before analyzing non-linguistic structural patterns in scientific literature
 - planner: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - plan review: Always verify source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - manager plan: Always verify source accessibility and metadata completeness before initiating structural analysis in research tasks involving non-linguistic evidence
@@ -40,5 +39,6 @@
 - planner: Linguistic recurrence in scientific writing can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to superficial repetition and lack of temporal or structural coherence
 - plan review: Linguistic recurrence in scientific writing can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to superficial repetition and topic drift without additional contextual validation.
 - manager plan: Linguistic recurrence in scientific writing can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to thematic drift and small sample bias
+- researcher: Linguistic recurrence in scientific writing can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to surface-level thematic drift or methodological overlap.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
