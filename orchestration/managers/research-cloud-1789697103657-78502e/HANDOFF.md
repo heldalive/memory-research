@@ -2,7 +2,7 @@
 
 Extract and list all linguistic references in the abstract and metadata of arXiv preprint 2409.01122 to terms such as 'contextual continuity', 'visual grounding', or 'scene coherence' in response to abrupt visual input shifts; if none exist, document absence with clear rationale and avoid any inference to internal system memory mechanisms.
 
-Next role: planner.
+Next role: plan_review.
 
 Extract and list all linguistic references in the abstract and metadata of arXiv preprint 2409.01122 to terms such as 'contextual continuity', 'visual grounding', or 'scene coherence' in response to abrupt visual input shifts; if none exist, document absence with clear rationale and avoid any inference to internal system memory mechanisms.
 

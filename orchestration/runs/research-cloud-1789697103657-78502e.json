@@ -2,7 +2,7 @@
   "id": "research-cloud-1789697103657-78502e",
   "branch": "manager/research-cloud-1789697103657-78502e",
   "goal": "Analyze the abstract and metadata of arXiv preprint 2409.01122 for explicit or inferential references to memory persistence, contextual coherence, or internal state retention in response to abrupt, unstructured visual stimuli; focus exclusively on linguistic cues such as 'contextual continuity', 'visual grounding', or 'scene coherence' under sudden input shifts. Avoid any inference beyond direct or contextual language in the document's metadata and abstract",
-  "stage": "planner",
+  "stage": "plan_review",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
@@ -14,6 +14,11 @@
     {
       "id": "research-cloud-1789697103657-78502e-2-manager-setup",
       "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789697103657-78502e-3-planner",
+      "role": "planner",
       "status": "completed"
     }
   ],
