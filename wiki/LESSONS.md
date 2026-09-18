@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: When evaluating technical claims in preprints, direct textual evidence in abstracts and metadata is essential; title-based assumptions are insufficient and can misdirect research toward irrelevant domains
 - plan review: Always require direct, explicit textual evidence in preprints for claims about memory mechanisms; avoid inference or assumption based on titles or general descriptions without verifiable support in the abstract or metadata text itself.'
 - manager plan: Always require direct, explicit textual evidence in preprints for claims about memory mechanisms; avoid inference or assumption based on titles or general descriptions without verifiable support in the abstract or metadata text itself.'
 - researcher: When evaluating technical claims in preprints, direct textual evidence in abstracts and metadata is essential; title-based assumptions are insufficient and can misdirect research toward irrelevant domains
@@ -40,5 +39,6 @@
 - deliverable review: When evaluating claims about memory or temporal coherence in technical literature, prioritize explicit or inferential linguistic evidence in abstracts and metadata; absence must be formally documented without inference to system behavior or implementation design, and full text review is required for further validation if claims persist beyond
 - manager final: When evaluating claims about memory or temporal mechanisms in technical literature, require explicit or inferential linguistic evidence in abstracts, metadata, and full text; absence must be formally documented without inference to system behavior, and full text analysis is required before concluding on the absence of such mechanisms in a
 - orchestrator: Linguistic indicators of memory mechanisms in preprints can be systematically extracted from abstracts and metadata without full text access, enabling efficient, low-compute screening of memory-related claims in research literature.
+- manager setup: When assessing claims about memory or contextual coherence in technical preprints, restrict analysis to explicit linguistic cues in abstracts and metadata; formal documentation of absence prevents unwarranted inference to system capabilities or internal state retention mechanisms.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
