@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting, baseline comparisons, and observable state evolution to ensure scientific validity and avoid performance claims based on unverified assumptions
 - plan review: Agent memory evaluation must be grounded in independently verifiable, primary-source experiments with transparent token constraints, baseline comparisons, and observable state evolution to ensure scientific rigor and reproducibility
 - manager plan: Agent memory evaluation must be grounded in independently verifiable, primary-source experiments with transparent token constraints, baseline comparisons, and observable state evolution to ensure scientific rigor and reproducibility.
 - orchestrator: Memory evaluation in agents requires explicit, dynamic, and measurable state tracking under controlled constraints; absence of such work signals a need for foundational research design over incremental extensions.'
@@ -40,5 +39,6 @@
 - manager setup: When investigating agent memory mechanisms, prioritize narrow, evidence-limited scrutiny of a single preprint's abstract and metadata to verify explicit claims before generalizing to broader memory system behaviors or proposing implementation paths without direct validation grounds.'
 - planner: When investigating agent memory mechanisms, prioritize narrow, evidence-limited scrutiny of a single preprint's abstract and metadata to verify explicit claims before generalizing to broader memory system behaviors or proposing implementation extensions.'
 - plan review: When investigating technical claims in preprints, prioritize direct textual evidence in abstracts and metadata before assuming mechanism validity; avoid overreaching based on title or implied scope without explicit confirmation in available sources.'
+- manager plan: When investigating technical claims in preprints, prioritize direct textual evidence in abstracts and metadata before assuming mechanism validity; avoid overreaching based on title or implied scope without explicit confirmation in available data and record unresolved limits when evidence is absent despite repeated scrutiny and defined boundaries
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
