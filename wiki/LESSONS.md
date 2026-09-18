@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
 - plan review: When evaluating agent memory systems, explicit, measurable state evolution under controlled, dynamic conditions in primary sources is essential to establish scientific validity and reproducibility, not just descriptive or implicit claims.
 - manager plan: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity and reproducibility
 - researcher: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled, dynamic conditions to establish scientific validity and reproducibility
@@ -40,5 +39,6 @@
 - deliverable review: Always require direct, explicit textual evidence in preprints for claims about memory mechanisms; avoid inference or assumption based on titles or general descriptions without verifiable support in the abstract or metadata text itself.'
 - manager final: Always demand explicit, verifiable textual evidence in preprints for technical claims about memory mechanisms; contextual or implicit references must be explicitly identified and justified before being considered valid support for a claim, and such claims should be revisited only with bounded, targeted revision prior to final closure.
 - researcher: When evaluating technical claims in preprints, direct and contextual evidence must be explicitly identified and justified; implicit or inferential references without clear textual support should not be considered valid
+- deliverable review: Always require explicit, verifiable textual evidence in preprints for claims about memory mechanisms; implicit or contextual references must be explicitly identified and justified before being considered valid support for a claim.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

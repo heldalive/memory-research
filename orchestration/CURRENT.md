@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789692311391-73ac5d](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789692311391-73ac5d): **deliverable review**. Analyze the full abstract and metadata of arXiv preprint 2405.12345 for explicit evidence of tokenized state, periodic input streams, and bounded memory retention under known perturbations; if present, document the sequence of state transitions over time as a function of input variation
+- [research-cloud-1789692311391-73ac5d](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789692311391-73ac5d): **manager final**. Analyze the full abstract and metadata of arXiv preprint 2405.12345 for explicit evidence of tokenized state, periodic input streams, and bounded memory retention under known perturbations; if present, document the sequence of state transitions over time as a function of input variation
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
