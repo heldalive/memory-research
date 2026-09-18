@@ -2,8 +2,8 @@
   "id": "research-cloud-1789695742709-e23c9f",
   "branch": "manager/research-cloud-1789695742709-e23c9f",
   "goal": "Analyze the abstract and metadata of arXiv preprint 2408.00123 for explicit or inferential references to attention-based state continuity, temporal consistency, or implicit memory mechanisms during unstructured, burst-based input streams; focus only on linguistic indicators of temporal coherence or internal state retention under abrupt stimulus changes. Avoid full text access or system implementation.",
-  "stage": "plan_review",
-  "planReviews": 0,
+  "stage": "manager_plan",
+  "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
     {
@@ -19,6 +19,11 @@
     {
       "id": "research-cloud-1789695742709-e23c9f-3-planner",
       "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789695742709-e23c9f-4-plan-review",
+      "role": "plan_review",
       "status": "completed"
     }
   ],
