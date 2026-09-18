@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1789672679538-8678b1
-
-The investigation into the arXiv preprint 2405.12345 confirms no evidence of a shared benchmark, dynamic input streams, or explicit baseline comparisons and state evolution metrics as required by the objective, despite multiple review cycles and primary-source
-
-Next candidate: Extract and analyze full metadata and abstract of arXiv preprint 2405.12345 for explicit evidence of a shared benchmark, dynamic input streams, baseline comparisons, and state evolution metrics
-
-Limits: After two review cycles, the abstract and metadata of preprint 2405.12345 are confirmed to lack the specified experimental design components. The content focuses on a mathematical model for fish learning behavior, not agent memory under token constraints. No verifiable evidence supports claims of dynamic testing, memory decay, or controlled state evolution. A bounded revision is requested to validate the presence of these elements in the full metadata before concluding the investigation fails due to misalignment with the research goal.
-
 ## research-cloud-1789673900113-a2a539
 
 The analysis confirms no explicit evidence for shared benchmarks, dynamic input streams, baseline comparisons, or measurable state evolution in the arXiv preprint, reinforcing current evaluation protocols as insufficient for scientific rigor.
@@ -35,3 +27,11 @@ The preprint arXiv:2403.12345 does not support the claimed mechanisms of tempora
 Next candidate: Analyze arXiv:2403.12345 metadata and cross-references for explicit mentions of temporal pattern recognition, neural memory systems, or state drift in time-varying inputs; if absent, propose a new research question focused on neural network-based temporal memory mechanisms in reactive agents under environmental fluctuations with observable state transitions
 
 Limits: After two independent reviews, the evidence confirms no explicit mention of temporal memory dynamics, neural systems, or state drift in time-varying inputs. The abstract incorrectly implies a connection to reactive agents and temporal dynamics by title alone, but the actual content pertains to OpenMC's performance on supercomputers. This misalignment validates that the original research question is fundamentally flawed and must be revised to focus on verifiable neural mechanisms in time-series processing. A bounded revision is requested to ensure the new query is grounded in direct textual evidence from metadata and cross-references without overreliance on title inferences. The current evidence gap remains unbounded without further validation of domain alignment in the preprint's actual content.
+
+## research-cloud-1789692311391-73ac5d
+
+No explicit or implicit evidence of tokenized state, periodic input streams, or bounded memory retention under perturbations exists in the arXiv preprint 2405.12345
+
+Next candidate: Identify and map all indirect or inferential references in the abstract and metadata of arXiv preprint 2405.12345 to tokenized state, periodic input streams, or bounded memory retention under perturbations; justify each with contextual evidence and avoid inference beyond explicit language. If none exist, confirm final absence with a summary of linguistic and structural analysis for the model's memory design claims.
+
+Limits: After two review cycles, the abstract and metadata contain no explicit or contextual references to tokenized state, periodic input streams, or bounded memory retention in response to perturbations. The content focuses on functional equation solvability and a choice behavior model for paradise fish learning via numerical methods, with no technical claims about memory mechanisms. This confirms the absence of such features as verifiable in the document, reinforcing the need for strict textual specificity in evaluating agent memory claims. A bounded revision is requested to ensure no indirect or inferential references remain undetected before final closure.
