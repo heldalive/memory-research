@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Always verify the explicit presence of target linguistic features before asserting their interpretive potential in memory-related or metaphorical investigations; absence of such phrasing must be explicitly documented as a data limitation, not an implicit inference
 - manager final: Always verify explicit presence of target linguistic content before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be documented as a data limitation, not an implicit failure of the system to detect it
 - researcher: Always verify the explicit presence of target linguistic features before asserting their interpretive potential in memory-related or metaphorical investigations; absence of such phrasing must be explicitly documented as a data limitation, not an implicit failure of the research approach.'
 - deliverable review: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of such phrasing must be explicitly documented as a data limitation, not an implicit failure of the research question or methodology.
@@ -40,5 +39,6 @@
 - manager plan: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management
 - planner: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management decisions
 - plan review: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management decisions.
+- manager plan: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management decisions.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
