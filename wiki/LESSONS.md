@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management
 - planner: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management decisions
 - plan review: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management decisions.
 - manager plan: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management decisions.
@@ -40,5 +39,6 @@
 - planner: Always establish full source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - plan review: Always establish full source document accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - manager plan: Always verify full source metadata accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
+- researcher: Always verify full source accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
