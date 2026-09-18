@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: Always verify full source accessibility and content, including full-text and metadata fields, before concluding on linguistic or evidentiary claims involving temporal or memory-like constructs
 - planner: Always verify full source accessibility and content, including full-text and metadata fields, before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - plan review: Always confirm source accessibility and content availability before initiating linguistic or evidentiary research, especially when the dataset is sparse or indirect
 - manager plan: Always verify full source accessibility and content, including full-text and metadata fields, before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
@@ -40,5 +39,6 @@
 - manager final: Always validate source accessibility and metadata completeness before initiating structural or network-level analysis, particularly when investigating non-linguistic indicators of knowledge persistence
 - orchestrator: Isolate narrow, mathematically grounded indicators of temporal state persistence to avoid overreliance on linguistic or network proxies in memory research design.
 - manager setup: Always isolate a bounded, mathematically grounded research question before analyzing scientific preprints for non-linguistic indicators of temporal state persistence to prevent scope drift and ensure analytical rigor.'
+- planner: Always validate source accessibility and metadata completeness before initiating structural or network-level analysis, particularly when investigating non-linguistic indicators of knowledge persistence
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
