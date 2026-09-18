@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789711759806-6044fb](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789711759806-6044fb): **manager setup**. Analyze the abstracts of arXiv preprints 2409.10000 to 2409.10100 for the phrase 'the trajectory unfolds' or 'a sequence is preserved' that may imply latent temporal state persistence; record frequency, position, and contextual framing with low-to-medium confidence; exclude any direct synonymy to established memory terminology in prior literature.
+- [research-cloud-1789711759806-6044fb](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789711759806-6044fb): **planner**. Analyze the abstracts of arXiv preprints 2409.10000 to 2409.10100 for the phrase 'the trajectory unfolds' or 'a sequence is preserved' that may imply latent temporal state persistence; record frequency, position, and contextual framing with low-to-medium confidence; exclude any direct synonymy to established memory terminology in prior literature.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
