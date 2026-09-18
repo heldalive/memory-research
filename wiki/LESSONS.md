@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: Agent memory evaluation must be grounded in primary-source, experimentally validated studies with explicit dynamic inputs and observable state evolution to ensure scientific rigor and real-world relevance.
 - planner: Agent memory evaluation must be grounded in primary-source, experimentally validated studies with explicit dynamic inputs and observable state evolution to ensure scientific rigor and real-world relevance.
 - plan review: Agent memory evaluation must begin with verifiable source access and confirmed experimental reporting before proceeding to claims of dynamic input encoding and state drift under variable conditions, as unverified preprints cannot serve as empirical foundations for research claims or system design decisions.
 - manager plan: Agent memory evaluation must begin with verifiable source access and confirmed experimental reporting before proceeding to claims of dynamic input encoding and state drift under variable conditions, as unverified preprints cannot serve a valid research foundation for scientific or practical assessment.
@@ -40,5 +39,6 @@
 - planner: Always require explicit, verifiable linguistic evidence in preprints for claims about temporal inference or memory coherence under non-sequential input conditions; absence of evidence must be explicitly documented and reported as a negative finding without assumption
 - plan review: For research questions on memory coherence under non-sequential input, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption.
 - manager plan: For research on memory coherence under non-sequential input, require explicit, verifiable linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption of implicit mechanisms.'
+- researcher: For research questions on memory coherence under non-sequential input, require explicit linguistic evidence in abstracts and metadata; absence of such indicators must be formally reported as a negative finding without extrapolation or assumption
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
