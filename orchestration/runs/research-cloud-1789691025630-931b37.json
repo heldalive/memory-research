@@ -2,7 +2,7 @@
   "id": "research-cloud-1789691025630-931b37",
   "branch": "manager/research-cloud-1789691025630-931b37",
   "goal": "Investigate whether the preprint 'Temporal Memory Dynamics in Reactive Agents under Environmental Fluctuations' by Chen et al. (2024), arXiv:2403.12345, explicitly models temporal pattern recognition in neural memory systems under structured time-series inputs with observable state transitions or drift over time, focusing solely on the abstract and metadata for evidence of such mechanisms without accessing full text or implementing systems.",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "planReviews": 1,
   "deliverableReviews": 1,
   "instances": [
@@ -44,6 +44,11 @@
     {
       "id": "research-cloud-1789691025630-931b37-8-manager-final",
       "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789691025630-931b37-9-researcher",
+      "role": "researcher",
       "status": "completed"
     }
   ],
