@@ -1,0 +1,14 @@
+{
+  "id": "S1",
+  "url": "https://arxiv.org/abs/2406.09876",
+  "title": "Source selected by planner",
+  "excerpt": "Abstract: Low-dimensional embeddings (LDEs) of high-dimensional data are ubiquitous in science and engineering. They allow us to quickly understand the main properties of the data, identify outliers and processing errors, and inform the next steps of data analysis. As such, LDEs have to be faithful to the original high-dimensional data, i.e., they should represent the relationships that are encoded in the data, both at a local as well as global scale. The current generation of LDE approaches focus on reconstructing local distances between any pair of samples correctly, often out-performing traditional approaches aiming at all distances. For these approaches, global relationships are, however, usually strongly distorted, often argued to be an inherent trade-off between local and global structure learning for embeddings. We suggest a new perspective on LDE learning, reconstructing angles between data points. We show that this approach, Mercat, yields good reconstruction across a diverse set of experiments and metrics, and preserve structures well across all scales. Compared to existing work, our approach also has a simple formulation, facilitating future theoretical analysis and algorithmic improvements.",
+  "checkedAt": 1789694191970,
+  "status": "retrieved",
+  "readingLevel": "abstract only",
+  "sha256": "cb3e73ee122a41fb04e1e63095d20aee7ee1d7e0610b55a4ce58825be4d0d8b8",
+  "discovery": {
+    "query": "https://arxiv.org/abs/2406.09876",
+    "method": "exact source requested by planner"
+  }
+}
