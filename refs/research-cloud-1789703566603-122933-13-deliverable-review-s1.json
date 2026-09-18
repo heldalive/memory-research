@@ -1,0 +1,14 @@
+{
+  "id": "S1",
+  "url": "https://arxiv.org/abs/2409.11234",
+  "title": "Source selected by planner",
+  "excerpt": "Abstract: Multiple object tracking (MOT) in Unmanned Aerial Vehicle (UAV) videos is important for diverse applications in computer vision. Current MOT trackers rely on accurate object detection results and precise matching of target reidentification (ReID). These methods focus on optimizing target spatial attributes while overlooking temporal cues in modelling object relationships, especially for challenging tracking conditions such as object deformation and blurring, etc. To address the above-mentioned issues, we propose a novel Spatio-Temporal Cohesion Multiple Object Tracking framework (STCMOT), which utilizes historical embedding features to model the representation of ReID and detection features in a sequential order. Concretely, a temporal embedding boosting module is introduced to enhance the discriminability of individual embedding based on adjacent frame cooperation. While the trajectory embedding is then propagated by a temporal detection refinement module to mine salient target locations in the temporal field. Extensive experiments on the VisDrone2019 and UAVDT datasets demonstrate our STCMOT sets a new state-of-the-art performance in MOTA and IDF1 metrics. The source codes are released at this https URL .",
+  "checkedAt": 1789705266927,
+  "status": "retrieved",
+  "readingLevel": "abstract only",
+  "sha256": "f1f9c5a667db2c7dcdd6d38b376072708bdaef91bc1368fa38a20d1794724960",
+  "discovery": {
+    "query": "https://arxiv.org/abs/2409.11234",
+    "method": "exact source requested by planner"
+  }
+}
