@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: Always verify full source metadata accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - researcher: Always verify full source accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - deliverable review: Always verify full source accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - manager final: Always verify full source accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
@@ -40,5 +39,6 @@
 - planner: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - plan review: Always verify source accessibility and metadata completeness before initiating any research task involving structural or network-level analysis
 - manager plan: Always verify source accessibility and metadata completeness before initiating structural analysis in research tasks involving non-linguistic evidence
+- researcher: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
