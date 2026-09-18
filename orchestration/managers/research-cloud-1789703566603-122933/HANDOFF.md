@@ -4,6 +4,6 @@ Extract and list all instances of 'the world stays the same' or 'a moment linger
 
 Next role: planner.
 
-Obtain and verify the full abstract and metadata of arXiv preprint 2409.11234 before proceeding with linguistic analysis
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
