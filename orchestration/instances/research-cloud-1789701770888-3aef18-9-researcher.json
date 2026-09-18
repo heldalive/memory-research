@@ -1,0 +1,37 @@
+{
+  "id": "research-cloud-1789701770888-3aef18-9-researcher",
+  "role": "researcher",
+  "status": "completed",
+  "at": 1789702919746,
+  "answer": {
+    "summary": "The abstract of arXiv preprint 2409.11234 mentions the use of historical embedding features and temporal coherence in modeling object relationships, suggesting a form of sequential state retention through spatio-temporal cohesion, though no explicit metaphorical",
+    "content": "The abstract references the use of historical embedding features and temporal embedding boosting to model object relationships across frames, indicating a structured approach to maintaining temporal continuity in tracking. While no direct metaphors like 'the scene holds' or 'memory fades' are present, the use of 'historical embedding features' and 'temporal coherence' implies a form of implicit internal state retention during visual input shifts, which may suggest scene continuity in a structured, sequential manner. This is a low-to-medium confidence inference based on contextual plausibility and linguistic ambiguity within the provided excerpt [S1].",
+    "decision": "revise",
+    "search": "https://arxiv.org/abs/2409.11234",
+    "sources": "S1",
+    "nextTask": "Analyze the abstract and metadata of arXiv preprint 2409.11234 for any metaphorical or implicitly structured linguistic phrases suggesting scene continuity or internal state retention during sudden visual input shifts; assign low-to-medium confidence based on contextual plausibility and linguistic ambiguity",
+    "lesson": "Always anchor interpretive claims in explicit or implicitly structured linguistic patterns within the inspected text; when metaphors or scene continuity indicators are absent, document the absence as a data limitation without inferring their absence from the domain, and prioritize contextual plausibility over assumed presence of linguistic"
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 334,
+  "inputTokens": 1669,
+  "durationMs": 13647,
+  "attempts": 2,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2409.11234",
+      "title": "Source selected by planner",
+      "excerpt": "Abstract: Multiple object tracking (MOT) in Unmanned Aerial Vehicle (UAV) videos is important for diverse applications in computer vision. Current MOT trackers rely on accurate object detection results and precise matching of target reidentification (ReID). These methods focus on optimizing target spatial attributes while overlooking temporal cues in modelling object relationships, especially for challenging tracking conditions such as object deformation and blurring, etc. To address the above-mentioned issues, we propose a novel Spatio-Temporal Cohesion Multiple Object Tracking framework (STCMOT), which utilizes historical embedding features to model the representation of ReID and detection features in a sequential order. Concretely, a temporal embedding boosting module is introduced to enhance the discriminability of individual embedding based on adjacent frame cooperation. While the trajectory embedding is then propagated by a temporal detection refinement module to mine salient target locations in the temporal field. Extensive experiments on the VisDrone2019 and UAVDT datasets demonstrate our STCMOT sets a new state-of-the-art performance in MOTA and IDF1 metrics. The source codes are released at this https URL .",
+      "checkedAt": 1789702686023,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "f1f9c5a667db2c7dcdd6d38b376072708bdaef91bc1368fa38a20d1794724960",
+      "discovery": {
+        "query": "https://arxiv.org/abs/2409.11234",
+        "method": "exact source requested by planner"
+      }
+    }
+  ]
+}
