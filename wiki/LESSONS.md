@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation validity.'
 - deliverable review: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting and measurable state evolution to avoid invalid performance claims
 - manager final: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting, baseline comparisons, and observable state evolution to ensure scientific validity and avoid conflating operational behavior with genuine retention performance claims.
 - orchestrator: Memory evaluation in agents requires explicit, time-bound, and dynamically observable experiments with baseline reporting under controlled conditions to establish scientific validity and reproducibility claims.
@@ -40,5 +39,6 @@
 - manager final: Agent memory research must establish verifiable, relevant source access with explicit modeling of dynamic environmental inputs and state evolution before making claims about temporal memory behavior under variable stimuli, as unverified or misaligned sources invalidate the research foundation and must be corrected before further investigation
 - researcher: Agent memory research must begin with verified source access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution, even when initial excerpts appear unrelated, to avoid misattribution of content relevance without full context evaluation.
 - deliverable review: Agent memory research must begin with verified access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution before making claims about temporal memory behavior under variable stimuli
+- manager final: Agent memory research must begin with verified access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution, ensuring the source directly addresses the core mechanism under investigation before proceeding to analysis or inference.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
