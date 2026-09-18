@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Always require explicit linguistic evidence of target metaphors or structural patterns before inferring scene continuity or memory in scientific texts; absence of such language must be formally documented as a data limitation
 - researcher: Always require explicit linguistic evidence of target metaphors or structural patterns before inferring scene continuity or memory in scientific texts; absence of such language must be formally documented as a data limitation
 - deliverable review: Always require explicit linguistic evidence of target metaphors before inferring scene continuity or memory in scientific texts; absence of such language must be formally documented as a data limitation
 - manager final: Always require explicit linguistic evidence of target metaphors before inferring scene continuity or memory in scientific texts; absence must be formally documented and bounded to prevent overreach
@@ -40,5 +39,6 @@
 - researcher: Always verify the presence of target linguistic constructs in source text before analysis to prevent unfounded inferences, especially when dealing with contextually ambiguous or non-explicit indicators
 - deliverable review: Always verify the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences in evidence-based evaluations
 - manager final: Always verify target linguistic constructs in source text before analysis to prevent unfounded inferences, especially when evaluating plausibility of memory-related indicators
+- orchestrator: Linguistic indicators of memory retention must be evaluated in isolation and with strict syntactic and semantic boundaries to avoid overreach in inferential claims.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
