@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789710128869-66a4cc](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789710128869-66a4cc): **deliverable review**. Analyze the metadata of arXiv preprint 2409.19876 for the phrase 'a prior event echoes' or similar constructions implying temporal continuity or latent state persistence; record position, surrounding context, and syntactic ambiguity; assign confidence level as low, medium, or high; exclude any direct semantic match to established memory terminology in prior literature; if absent, document absence with confidence level and note potential implications for agent
+- [research-cloud-1789710128869-66a4cc](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789710128869-66a4cc): **manager final**. Analyze the metadata of arXiv preprint 2409.19876 for the phrase 'a prior event echoes' or similar constructions implying temporal continuity or latent state persistence; record position, surrounding context, and syntactic ambiguity; assign confidence level as low, medium, or high; exclude any direct semantic match to established memory terminology in prior literature; if absent, document absence with confidence level and note potential implications for agent
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
