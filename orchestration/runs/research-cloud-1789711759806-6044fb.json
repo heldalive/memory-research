@@ -2,8 +2,8 @@
   "id": "research-cloud-1789711759806-6044fb",
   "branch": "manager/research-cloud-1789711759806-6044fb",
   "goal": "Analyze the abstracts of arXiv preprints 2409.10000 to 2409.10100 for the phrase 'the trajectory unfolds' or 'a sequence is preserved' that may imply latent temporal state persistence; record frequency, position, and contextual framing with low-to-medium confidence; exclude any direct synonymy to established memory terminology in prior literature.",
-  "stage": "plan_review",
-  "planReviews": 1,
+  "stage": "manager_plan",
+  "planReviews": 2,
   "deliverableReviews": 0,
   "instances": [
     {
@@ -34,6 +34,11 @@
     {
       "id": "research-cloud-1789711759806-6044fb-6-planner",
       "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789711759806-6044fb-7-plan-review",
+      "role": "plan_review",
       "status": "completed"
     }
   ],
