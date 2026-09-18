@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory evaluation in agents requires explicit, controlled experimental design with verifiable baselines and dynamic input conditions to establish scientific validity and reproducibility, not just descriptive documentation or implicit assumptions.
 - manager setup: When evaluating agent memory systems, reliance on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled conditions is essential to establish scientific validity and reproducibility, and such evidence must be extracted directly from peer-reviewed or preprint literature without inference or
 - planner: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
 - plan review: When evaluating agent memory systems, explicit, measurable state evolution under controlled, dynamic conditions in primary sources is essential to establish scientific validity and reproducibility, not just descriptive or implicit claims.
@@ -40,5 +39,6 @@
 - manager plan: Always require direct, explicit textual evidence in preprints for claims about memory mechanisms; avoid inference or assumption based on titles or general descriptions without verifiable support in the abstract or metadata text itself.'
 - researcher: When evaluating technical claims in preprints, direct textual evidence in abstracts and metadata is essential; title-based assumptions are insufficient and can misdirect research toward irrelevant domains
 - deliverable review: Always require direct, explicit textual evidence in preprints for claims about memory mechanisms; avoid inference or assumption based on titles or general descriptions without verifiable support in the abstract or metadata text itself.'
+- manager final: Always demand explicit, verifiable textual evidence in preprints for technical claims about memory mechanisms; contextual or implicit references must be explicitly identified and justified before being considered valid support for a claim, and such claims should be revisited only with bounded, targeted revision prior to final closure.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
