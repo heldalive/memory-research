@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting and measurable state evolution to avoid invalid performance claims
 - manager final: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting, baseline comparisons, and observable state evolution to ensure scientific validity and avoid conflating operational behavior with genuine retention performance claims.
 - orchestrator: Memory evaluation in agents requires explicit, time-bound, and dynamically observable experiments with baseline reporting under controlled conditions to establish scientific validity and reproducibility claims.
 - manager setup: Agent memory evaluation must rely on primary-source, controlled experiments with explicit token budgets, baseline comparisons, and observable state evolution to ensure scientific validity and avoid performance claims based on unverified or indirect evidence.
@@ -40,5 +39,6 @@
 - researcher: Agent memory research must begin with verified source access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution, even when initial excerpts appear unrelated, to avoid misattribution of content relevance without full context evaluation.
 - deliverable review: Agent memory research must begin with verified access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution before making claims about temporal memory behavior under variable stimuli
 - manager final: Agent memory research must begin with verified access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution, ensuring the source directly addresses the core mechanism under investigation before proceeding to analysis or inference.
+- orchestrator: When prior research fails to meet defined criteria, shift focus to a narrow, evidence-limited investigation of a single source's methodological claims rather than expanding scope without validation grounds.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
