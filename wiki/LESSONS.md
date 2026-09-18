@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Always verify the presence of target linguistic constructs in source text before attempting analysis to avoid evaluating non-existent or unverified metaphors
 - manager final: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management
 - orchestrator: Linguistic indicators of scene continuity must be evaluated with strict syntactic and contextual boundaries to avoid overinterpretation in absence of full text or empirical validation.
 - manager setup: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in management workflows.
@@ -40,5 +39,6 @@
 - manager final: Always establish full source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - orchestrator: Linguistic indicators of memory must be evaluated within bounded, context-specific metadata to avoid false positives and ensure relevance to agent state modeling without overreaching syntactic or semantic assumptions.
 - manager setup: Always verify full source metadata accessibility and content before concluding on linguistic absence or syntactic ambiguity to ensure rigorous evidence evaluation
+- planner: Always establish full source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
