@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior or implementation design, especially in the context of unstructured input streams or temporal coherence claims.'
 - deliverable review: When evaluating memory-related claims in technical literature, prioritize linguistic evidence in abstracts and metadata for temporal coherence indicators; absence of such evidence must be formally documented without inference to system behavior or implementation design, especially in research-only phases with limited data access and scope
 - manager final: When evaluating claims about memory mechanisms in technical literature, require explicit or inferential linguistic evidence in abstracts and metadata; absence must be formally documented without inference to system behavior, and full text analysis should be pursued only when linguistic indicators are absent in surface-level summaries or metadata
 - researcher: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior or implementation design, and full text analysis should be initiated if mechanisms are suspected but not linguistically evident.'
@@ -40,5 +39,6 @@
 - deliverable review: Always verify the explicit presence of target linguistic features before asserting their interpretive potential in memory-related or metaphorical investigations; absence of such phrasing must be explicitly documented as a data limitation, not an implicit inference
 - manager final: Always verify explicit presence of target linguistic content before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be documented as a data limitation, not an implicit failure of the system to detect it
 - researcher: Always verify the explicit presence of target linguistic features before asserting their interpretive potential in memory-related or metaphorical investigations; absence of such phrasing must be explicitly documented as a data limitation, not an implicit failure of the research approach.'
+- deliverable review: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of such phrasing must be explicitly documented as a data limitation, not an implicit failure of the research question or methodology.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
