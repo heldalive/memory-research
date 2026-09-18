@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: For research on memory coherence in non-sequential input streams, require explicit linguistic evidence in abstracts and metadata; absence must be formally reported as a negative finding without extrapolation
 - manager final: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior
 - orchestrator: When evaluating memory mechanisms in reactive agents, prioritize linguistic evidence in abstracts and metadata for indirect indicators of temporal coherence before advancing to full text analysis or implementation design.
 - manager setup: When assessing memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented as a negative finding without inference to underlying system behavior or performance outcomes.'
@@ -40,5 +39,6 @@
 - planner: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope; bounded revisions should probe for subtle or metaphorical indicators without full text
 - plan review: When evaluating memory-related hypotheses in technical preprints, a plan must first verify data availability and access before attempting linguistic or structural analysis; absence of source content invalidates any downstream interpretation or inference attempts without explicit correction for data gaps.
 - manager plan: Always verify data availability and access before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content nullifies all downstream interpretive claims and must be explicitly acknowledged as a boundary condition prior to any research phase execution.
+- planner: Always verify data availability and access before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content invalidates all downstream interpretive claims and must be explicitly acknowledged as a prerequisite for valid investigation.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
