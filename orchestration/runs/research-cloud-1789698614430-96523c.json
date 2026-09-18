@@ -1,0 +1,71 @@
+{
+  "id": "research-cloud-1789698614430-96523c",
+  "branch": "manager/research-cloud-1789698614430-96523c",
+  "goal": "Analyze the abstract and metadata of arXiv preprint 2409.03456 for explicit or inferential references to scene continuity, temporal grounding, or internal state retention during sudden, unstructured visual input shifts; focus exclusively on linguistic cues related to visual or contextual persistence under burst conditions. Avoid full text access or system implementation.",
+  "stage": "complete",
+  "planReviews": 1,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1789698614430-96523c-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-6-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-7-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-8-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-10-deliverable-review-rejected-1",
+      "role": "deliverable_review",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}
