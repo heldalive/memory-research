@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1789671824257-09f1b1
-
-Two invalid role outputs; saved evidence retained. This is not a research finding.
-
-Next candidate: Investigate whether any preprint servers (e.g., arXiv) host a preprint from 2022 to 2024 that describes a controlled experiment evaluating memory retention in agents using a shared, token-constrained benchmark with explicit baseline reporting and measurable state evolution over time under dynamic input streams, focusing on systems where memory decay is explicitly modeled and measured. Limit to one source; do not implement code or systems.
-
-Limits: 
-
 ## research-cloud-1789672679538-8678b1
 
 The investigation into the arXiv preprint 2405.12345 confirms no evidence of a shared benchmark, dynamic input streams, or explicit baseline comparisons and state evolution metrics as required by the objective, despite multiple review cycles and primary-source
@@ -35,3 +27,11 @@ The objective to investigate dynamic environmental encoding in agent memory syst
 Next candidate: Analyze the full text of the preprint 'Temporal Memory Dynamics in Reactive Agents under Environmental Fluctuations' by Chen et al. (2024), arXiv:2403.12345, for explicit modeling of time-series environmental inputs and observable state drift in agent memory systems; if no such content exists, propose an alternative research question on how external stimuli can be encoded in neural network-based memory systems through temporal pattern recognition instead.
 
 Limits: After two independent reviews confirm the non-existence or irrelevance of the preprint arXiv:2403.12345 as a source on agent memory dynamics under environmental fluctuations, and its actual content relates to GPU performance in OpenMC, the research goal lacks factual grounding. No evidence of time-series environmental input encoding or measurable state evolution is present in the available material. A bounded revision is requested to verify the preprint's existence and content before advancing claims about memory-based state transitions under variable stimuli. The current evidence does not support the investigation's premise, and the next step must confirm the source's relevance and accuracy before further analysis can proceed.
+
+## research-cloud-1789691025630-931b37
+
+The preprint arXiv:2403.12345 does not support the claimed mechanisms of temporal pattern recognition in neural memory systems under time-series inputs, as the abstract and metadata describe a GPU-optimized particle transport application, not neural or reactive
+
+Next candidate: Analyze arXiv:2403.12345 metadata and cross-references for explicit mentions of temporal pattern recognition, neural memory systems, or state drift in time-varying inputs; if absent, propose a new research question focused on neural network-based temporal memory mechanisms in reactive agents under environmental fluctuations with observable state transitions
+
+Limits: After two independent reviews, the evidence confirms no explicit mention of temporal memory dynamics, neural systems, or state drift in time-varying inputs. The abstract incorrectly implies a connection to reactive agents and temporal dynamics by title alone, but the actual content pertains to OpenMC's performance on supercomputers. This misalignment validates that the original research question is fundamentally flawed and must be revised to focus on verifiable neural mechanisms in time-series processing. A bounded revision is requested to ensure the new query is grounded in direct textual evidence from metadata and cross-references without overreliance on title inferences. The current evidence gap remains unbounded without further validation of domain alignment in the preprint's actual content.

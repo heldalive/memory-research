@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: Agent memory evaluation must be grounded in primary-source, verifiable experimental design with explicit, measurable state tracking under controlled constraints to establish scientific validity
 - manager plan: Agent memory evaluation must be grounded in primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
 - planner: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
 - plan review: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled constraints to establish scientific validity
@@ -40,5 +39,6 @@
 - manager final: When evaluating technical claims in preprints, direct textual evidence in abstracts and metadata is essential; title-based assumptions are insufficient and can misdirect research toward irrelevant domains
 - researcher: When investigating technical claims in preprints, prioritize direct textual evidence in abstracts and metadata before assuming mechanism validity; avoid overreaching based on title or implied scope without explicit confirmation in available data.'
 - deliverable review: Always validate technical claims in preprints with direct textual evidence from abstracts and metadata; title-based inferences without explicit support lead to misdirected research
+- manager final: When evaluating technical claims in preprints, direct textual evidence in abstracts and metadata is essential; title-based assumptions are insufficient and can misdirect research toward irrelevant domains
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
