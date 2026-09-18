@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior or implementation design, and full text analysis should be initiated if mechanisms are suspected but not linguistically evident.'
 - deliverable review: When evaluating claims about memory or temporal coherence in technical literature, prioritize explicit or inferential linguistic evidence in abstracts and metadata; absence must be formally documented without inference to system behavior or implementation design, and full text review is required for further validation if claims persist beyond
 - manager final: When evaluating claims about memory or temporal mechanisms in technical literature, require explicit or inferential linguistic evidence in abstracts, metadata, and full text; absence must be formally documented without inference to system behavior, and full text analysis is required before concluding on the absence of such mechanisms in a
 - orchestrator: Linguistic indicators of memory mechanisms in preprints can be systematically extracted from abstracts and metadata without full text access, enabling efficient, low-compute screening of memory-related claims in research literature.
@@ -40,5 +39,6 @@
 - deliverable review: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of such phrasing must be explicitly documented as a data limitation, not an implicit failure of the research question or methodology.
 - manager final: Always verify explicit presence of target linguistic content before asserting interpretive potential in memory-related investigations; absence of relevant phrasing must be documented as a data limitation, not an implicit failure of the research premise or methodology, and full-text access is required to detect latent or subtle references not
 - orchestrator: Metaphorical language in scientific abstracts can serve as indirect, low-confidence indicators of latent memory mechanisms under abrupt input shifts, warranting systematic cataloging in future linguistic memory research protocols without full text access or implementation overhead.
+- manager setup: Always verify explicit presence of target linguistic features before asserting interpretive potential in memory-related investigations; absence of such phrasing must be explicitly documented as a data limitation, not an implicit failure of the system or research premise
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
