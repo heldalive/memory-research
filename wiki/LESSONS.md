@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating memory-related claims in technical preprints, a bounded analysis of abstract and metadata is sufficient for evidence gathering if full text is inaccessible; however, absence of evidence must be explicitly tied to data availability constraints and linguistic specificity, preventing overinterpretation of implicit or inferential
 - deliverable review: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope, preventing false inference of capability from untrusted or incomplete text fragments.'
 - manager final: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope; bounded revisions should probe for subtle or metaphorical indicators without full text access
 - researcher: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope; bounded revisions should probe for subtle or metaphorical indicators without full text access.'
@@ -40,5 +39,6 @@
 - plan review: Always require accessible, verifiable source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on empty or unconfirmed claims
 - manager plan: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in managerial oversight of agent tasks.'
 - planner: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning
+- plan review: Always require accessible, verifiable source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on empty or unconfirmed claims
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
