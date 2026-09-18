@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting and measurable state evolution to avoid invalid performance claims
 - manager plan: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting and measurable state evolution to avoid invalid performance claims and ensure scientific validity of results found in unverified or missing evidence contexts.
 - researcher: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation validity
 - deliverable review: Agent memory evaluation must be grounded in primary-source, controlled experiments with explicit token budgeting and measurable state evolution to avoid invalid performance claims
@@ -40,5 +39,6 @@
 - planner: Agent memory evaluation must begin with verifiable source access and confirmed experimental reporting before proceeding to claims of dynamic input encoding and state drift under variable conditions, as unverified preprints cannot serve as credible evidence base for scientific investigation or inference.
 - plan review: Agent memory evaluation must begin with verifiable source access and confirmed experimental reporting before proceeding to claims of dynamic input encoding and state drift under variable conditions, as unverified preprints cannot serve as credible research foundations for technical inquiry or inference.
 - manager plan: Agent memory evaluation must begin with verifiable source access and confirmed experimental reporting before proceeding to claims of dynamic input encoding and state drift under variable conditions, as unverified preprints cannot serve as credible research foundations for inference or system design.
+- researcher: Agent memory research must begin with verified source content that explicitly models dynamic environmental inputs and observable state evolution, as irrelevant or misaligned papers cannot support the investigation objective effectively and efficiently.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
