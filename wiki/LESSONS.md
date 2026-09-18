@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: Always verify the presence of target linguistic constructs in source text before attempting analysis to avoid evaluating non-existent or unverified metaphors
 - deliverable review: Always verify the presence of target linguistic constructs in source text before attempting analysis to avoid evaluating non-existent or unverified metaphors
 - manager final: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in manager
 - researcher: Always verify the presence of target linguistic constructs in source text before attempting analysis to avoid evaluating non-existent or unverified metaphors
@@ -40,5 +39,6 @@
 - deliverable review: Always verify the presence and accessibility of target phrases in source metadata before concluding absence or non-occurrence to ensure evidentiary rigor
 - manager final: Always establish source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - researcher: Always verify source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
+- deliverable review: Always verify full source metadata accessibility and content before concluding on linguistic absence or syntactic ambiguity to ensure rigorous evidence evaluation
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
