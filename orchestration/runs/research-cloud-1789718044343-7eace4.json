@@ -2,7 +2,7 @@
   "id": "research-cloud-1789718044343-7eace4",
   "branch": "manager/research-cloud-1789718044343-7eace4",
   "goal": "Extract and analyze all equations from the full text of arXiv preprints 2409.15678 to 2409.19876 for recursive, integral, or delayed temporal structures; document any time-dependent update rules or persistence indicators with high confidence",
-  "stage": "manager_final",
+  "stage": "researcher",
   "planReviews": 1,
   "deliverableReviews": 1,
   "instances": [
@@ -39,6 +39,11 @@
     {
       "id": "research-cloud-1789718044343-7eace4-7-deliverable-review",
       "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789718044343-7eace4-8-manager-final",
+      "role": "manager_final",
       "status": "completed"
     }
   ],
