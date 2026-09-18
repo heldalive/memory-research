@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory evaluation must anchor in observable, bounded input-output sequences rather than abstract or unverified claims of dynamic behavior in preprints without empirical grounding in time-varying stimuli and state drift detection.
 - manager setup: Always require direct, explicit textual evidence in preprints for claims about memory mechanisms; avoid inference or assumption based on titles or general descriptions without verifiable support in the abstract or metadata text itself.'
 - planner: When evaluating technical claims in preprints, direct textual evidence in abstracts and metadata is essential; title-based assumptions are insufficient and can misdirect research toward irrelevant domains
 - plan review: Always require direct, explicit textual evidence in preprints for claims about memory mechanisms; avoid inference or assumption based on titles or general descriptions without verifiable support in the abstract or metadata text itself.'
@@ -40,5 +39,6 @@
 - manager final: When evaluating claims about memory mechanisms in technical literature, require explicit or inferential linguistic evidence in abstracts and metadata; absence must be formally documented without inference to system behavior, and full text analysis should be pursued only when linguistic indicators are absent in surface-level summaries or metadata
 - researcher: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior or implementation design, and full text analysis should be initiated if mechanisms are suspected but not linguistically evident.'
 - deliverable review: When evaluating claims about memory or temporal coherence in technical literature, prioritize explicit or inferential linguistic evidence in abstracts and metadata; absence must be formally documented without inference to system behavior or implementation design, and full text review is required for further validation if claims persist beyond
+- manager final: When evaluating claims about memory or temporal mechanisms in technical literature, require explicit or inferential linguistic evidence in abstracts, metadata, and full text; absence must be formally documented without inference to system behavior, and full text analysis is required before concluding on the absence of such mechanisms in a
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
