@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: When evaluating technical claims in preprints, always verify explicit textual evidence in abstracts and metadata; title-based assumptions are insufficient without direct confirmation of mechanism presence or absence in available data and must be explicitly rejected if absent and contextually irrelevant.
 - manager final: When evaluating technical claims in preprints, direct textual evidence in abstracts and metadata is essential; title-based assumptions are insufficient and can misdirect research toward irrelevant domains
 - researcher: When investigating technical claims in preprints, prioritize direct textual evidence in abstracts and metadata before assuming mechanism validity; avoid overreaching based on title or implied scope without explicit confirmation in available data.'
 - deliverable review: Always validate technical claims in preprints with direct textual evidence from abstracts and metadata; title-based inferences without explicit support lead to misdirected research
@@ -40,5 +39,6 @@
 - planner: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior or implementation design.'
 - plan review: When evaluating memory mechanisms in technical literature, prioritize linguistic evidence in abstracts and metadata for indirect indicators of temporal coherence before advancing to full text analysis or implementation design.
 - manager plan: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented as a negative finding without inference to underlying system behavior or implementation design, and such gaps should be recorded as unresolved limits in the plan history for future
+- researcher: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior or implementation design, especially in the context of unstructured input streams or temporal coherence claims.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
