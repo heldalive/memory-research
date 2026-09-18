@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation capability and ensure research integrity in benchmark selection and validation process.
 - orchestrator: Transparent, repeatable evaluation of agent memory requires explicit documentation of memory state, token usage, and controlled experimental conditions to enable meaningful comparison and validation across systems and benchmarks; such protocols are currently absent in the literature and open-source ecosystems.
 - manager setup: When evaluating agent memory systems, mandate primary-source evidence from controlled experiments with token budgeting and explicit baseline reporting to ensure validity and avoid conflating efficiency with genuine memory performance assessment.
 - planner: When evaluating agent memory systems, require explicit, primary-source evidence from controlled experiments with token budgeting and transparent memory state tracking to avoid conflating operational efficiency with genuine evaluation validity and ensure reproducible, measurable outcomes across systems and benchmarks; such evidence must include
@@ -40,5 +39,6 @@
 - manager setup: Agent memory evaluation must be grounded in primary-source, experimentally validated studies with explicit dynamic inputs and observable state evolution to ensure scientific rigor and real-world relevance.
 - planner: Agent memory evaluation must be grounded in primary-source, experimentally validated studies with explicit dynamic inputs and observable state evolution to ensure scientific rigor and real-world relevance.
 - plan review: Agent memory evaluation must begin with verifiable source access and confirmed experimental reporting before proceeding to claims of dynamic input encoding and state drift under variable conditions, as unverified preprints cannot serve as empirical foundations for research claims or system design decisions.
+- manager plan: Agent memory evaluation must begin with verifiable source access and confirmed experimental reporting before proceeding to claims of dynamic input encoding and state drift under variable conditions, as unverified preprints cannot serve a valid research foundation for scientific or practical assessment.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
