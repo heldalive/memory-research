@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Linguistic subtlety in scientific abstracts can serve as underappreciated indicators of cognitive mechanisms; targeted, narrow queries for metaphorical phrasing yield higher signal-to-noise ratios than broad or iterative sweeps in memory research contexts, especially when full text is inaccessible or restricted by scope limitations and ethical
 - manager setup: Always require explicit linguistic evidence of target metaphors before inferring scene continuity or memory in scientific texts; absence must be formally documented and bounded to prevent overreach
 - planner: Always require explicit linguistic evidence of target metaphors before inferring scene continuity or memory in scientific texts; absence must be formally documented and bounded to prevent overreach
 - plan review: Always require accessible, verifiable source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on empty or unconfirmed claims
@@ -40,5 +39,6 @@
 - manager setup: Always validate the presence of target linguistic constructs in source text before initiating analysis to prevent false or unfounded inferences in evidence-based evaluations
 - planner: Always verify target linguistic constructs in source text before analysis to prevent unfounded inferences, especially when evaluating plausibility of memory-related indicators
 - plan review: Always validate source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
+- manager plan: Always validate source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
