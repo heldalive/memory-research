@@ -2,7 +2,7 @@
   "id": "research-cloud-1789716808906-bd3038",
   "branch": "manager/research-cloud-1789716808906-bd3038",
   "goal": "Analyze the mathematical formulations of arXiv preprints 2409.15678 to 2409.19876 for equations defining recurrent or time-dependent state updates, such as differential equations with memory terms or recursive update rules; document position, equation structure, and syntactic indicators of persistence with medium confidence; exclude any reference to memory terminology in prior literature or known cognitive models.",
-  "stage": "planner",
+  "stage": "plan_review",
   "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
@@ -29,6 +29,11 @@
     {
       "id": "research-cloud-1789716808906-bd3038-5-manager-plan",
       "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789716808906-bd3038-6-planner",
+      "role": "planner",
       "status": "completed"
     }
   ],
