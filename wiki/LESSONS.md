@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Linguistic metaphors in preprint metadata can serve as indirect indicators of hypothesized memory mechanisms, even when explicit references are absent, warranting systematic attention in future memory research protocols without full text access or implementation overhead.
 - manager setup: When assessing memory-related hypotheses in technical preprints, linguistic metaphors in abstracts and metadata can serve as indirect indicators, but must be evaluated with explicit bounds on evidence and confidence to prevent overreach without full text access or validation grounds.
 - planner: When evaluating memory-related claims in technical preprints, absence of evidence must be explicitly tied to data availability and linguistic scope; bounded revisions should probe for subtle or metaphorical indicators without full text
 - plan review: When evaluating memory-related hypotheses in technical preprints, a plan must first verify data availability and access before attempting linguistic or structural analysis; absence of source content invalidates any downstream interpretation or inference attempts without explicit correction for data gaps.
@@ -40,5 +39,6 @@
 - deliverable review: Always verify the presence of target linguistic constructs in source text before attempting analysis to avoid evaluating non-existent or unverified metaphors
 - manager final: Always require explicit, accessible source text before evaluating subtle linguistic constructs in scientific literature to prevent analysis based on unverified or empty claims and to maintain bounded, evidence-based reasoning in manager
 - researcher: Always verify the presence of target linguistic constructs in source text before attempting analysis to avoid evaluating non-existent or unverified metaphors
+- deliverable review: Always verify the presence of target linguistic constructs in source text before attempting analysis to avoid evaluating non-existent or unverified metaphors
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
