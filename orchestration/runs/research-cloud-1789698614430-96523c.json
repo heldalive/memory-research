@@ -2,7 +2,7 @@
   "id": "research-cloud-1789698614430-96523c",
   "branch": "manager/research-cloud-1789698614430-96523c",
   "goal": "Analyze the abstract and metadata of arXiv preprint 2409.03456 for explicit or inferential references to scene continuity, temporal grounding, or internal state retention during sudden, unstructured visual input shifts; focus exclusively on linguistic cues related to visual or contextual persistence under burst conditions. Avoid full text access or system implementation.",
-  "stage": "manager_final",
+  "stage": "complete",
   "planReviews": 1,
   "deliverableReviews": 2,
   "instances": [
@@ -59,6 +59,11 @@
     {
       "id": "research-cloud-1789698614430-96523c-10-deliverable-review",
       "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789698614430-96523c-11-manager-final",
+      "role": "manager_final",
       "status": "completed"
     }
   ],
