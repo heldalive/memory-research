@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789719361426-954a59](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789719361426-954a59): **planner**. Analyze the linguistic recurrence and thematic continuity in the abstracts and introductions of arXiv preprints 2409.15678 to 2409.19876 for repeated conceptual phrases, syntactic motifs, or domain-specific jargon that may indicate emergent thematic persistence in scientific discourse without relying on mathematical or citation structures. Document frequency, co-occurrence, and semantic clustering using natural language processing techniques on accessible text
+- [research-cloud-1789719361426-954a59](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789719361426-954a59): **plan review**. Analyze the linguistic recurrence and thematic continuity in the abstracts and introductions of arXiv preprints 2409.15678 to 2409.19876 for repeated conceptual phrases, syntactic motifs, or domain-specific jargon that may indicate emergent thematic persistence in scientific discourse without relying on mathematical or citation structures. Document frequency, co-occurrence, and semantic clustering using natural language processing techniques on accessible text
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 

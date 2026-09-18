@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - manager final: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - orchestrator: Non-linguistic structural patterns in scientific discourse can serve as proxies for emergent knowledge persistence when linguistic data is unavailable or inaccessible, enabling alternative pathways for memory inference in agent systems without relying on semantic interpretation alone.
 - manager setup: Always verify source accessibility and metadata completeness before analyzing non-linguistic structural patterns in scientific literature
@@ -40,5 +39,6 @@
 - manager final: Temporal or memory-like behavior in scientific models must be grounded exclusively in explicit mathematical structures; abstract or linguistic content is insufficient for detecting recurrence, integration, or time-dependent update rules without full equation-based analysis and structural validation.
 - orchestrator: Linguistic recurrence in scientific writing can serve as a proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, offering a viable alternative signal for memory-like behavior in knowledge systems without requiring formal modeling frameworks.'
 - manager setup: Linguistic recurrence in scientific abstracts can serve as a proxy for emergent thematic persistence when mathematical or citation-based indicators are unavailable
+- planner: Linguistic recurrence in scientific writing can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to superficial repetition and lack of temporal or structural coherence
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
