@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - planner: Always verify full source accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - plan review: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - manager plan: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
@@ -40,5 +39,6 @@
 - planner: Always require full-text access to explicit mathematical content before evaluating temporal or memory-like structures in scientific preprints; linguistic or abstract summaries are insufficient for structural analysis of recurrence and persistence indicators.'
 - plan review: Always anchor analysis of temporal or memory-like behavior in explicit mathematical structures before inferring latent dynamics; full-text equations are essential, and linguistic or abstract summaries must be excluded to prevent misinterpretation.
 - manager plan: Always anchor analysis of temporal or memory-like behavior in explicit mathematical structures before inferring latent dynamics; full-text equations are essential, and linguistic or abstract content must be excluded to prevent misinterpretation and ensure fidelity to the research brief's structural criteria.
+- researcher: Always require full-text access to explicit mathematical content before evaluating temporal or memory-like structures in scientific preprints; linguistic or abstract summaries are insufficient for structural analysis of recurrence and persistence.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
