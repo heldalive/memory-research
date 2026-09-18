@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: Always validate source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - planner: Always verify source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - plan review: Always validate source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - manager plan: Always validate source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
@@ -40,5 +39,6 @@
 - planner: Always verify full source accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - plan review: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - manager plan: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
+- planner: Always verify full source accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
