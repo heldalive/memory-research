@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior
 - orchestrator: When evaluating memory mechanisms in reactive agents, prioritize linguistic evidence in abstracts and metadata for indirect indicators of temporal coherence before advancing to full text analysis or implementation design.
 - manager setup: When assessing memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented as a negative finding without inference to underlying system behavior or performance outcomes.'
 - planner: When evaluating memory-related claims in technical literature, require explicit linguistic evidence in abstracts and metadata; absence must be formally documented without inference to underlying system behavior or implementation design.'
@@ -40,5 +39,6 @@
 - plan review: When evaluating memory-related hypotheses in technical preprints, a plan must first verify data availability and access before attempting linguistic or structural analysis; absence of source content invalidates any downstream interpretation or inference attempts without explicit correction for data gaps.
 - manager plan: Always verify data availability and access before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content nullifies all downstream interpretive claims and must be explicitly acknowledged as a boundary condition prior to any research phase execution.
 - planner: Always verify data availability and access before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content invalidates all downstream interpretive claims and must be explicitly acknowledged as a prerequisite for valid investigation.
+- plan review: Always verify source data availability before initiating linguistic or structural analysis in memory-related hypotheses; absence of source content renders all downstream analysis invalid and must be explicitly acknowledged
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
