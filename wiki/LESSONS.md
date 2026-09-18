@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Agent memory research must begin with verified access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution before making claims about temporal memory behavior under variable stimuli
 - manager final: Agent memory research must begin with verified access to a relevant preprint that explicitly models dynamic environmental inputs and observable state evolution, ensuring the source directly addresses the core mechanism under investigation before proceeding to analysis or inference.
 - orchestrator: When prior research fails to meet defined criteria, shift focus to a narrow, evidence-limited investigation of a single source's methodological claims rather than expanding scope without validation grounds.'
 - manager setup: When investigating agent memory mechanisms, prioritize narrow, evidence-limited scrutiny of a single preprint's abstract and metadata to verify explicit claims before generalizing to broader memory system behaviors or proposing implementation paths without direct validation grounds.'
@@ -40,5 +39,6 @@
 - planner: For research on memory coherence in non-sequential input streams, explicit linguistic indicators of state continuity in abstracts and metadata are required; absence must be formally documented without extrapolation
 - plan review: For research on memory coherence in non-sequential input streams, require explicit linguistic evidence in abstracts and metadata; absence must be formally reported as a negative finding without extrapolation
 - manager plan: For research on memory coherence in non-sequential input streams, require explicit linguistic evidence in abstracts and metadata; absence must be formally reported as a negative finding without extrapolation
+- researcher: For research on memory coherence in non-sequential input streams, explicit linguistic indicators of state continuity in abstracts and metadata are required; absence must be formally documented without extrapolation
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
