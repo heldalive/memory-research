@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: Always verify target linguistic constructs in source text before analysis to prevent unfounded inferences, especially when evaluating plausibility of memory-related indicators
 - plan review: Always validate source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - manager plan: Always validate source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - planner: Always verify source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
@@ -40,5 +39,6 @@
 - orchestrator: Non-linguistic structural patterns in technical literature can serve as proxies for latent state persistence and should be considered in memory modeling beyond explicit semantic indicators alone, especially when linguistic data is absent or inaccessible.
 - manager setup: Always anchor structural analysis in verifiable, accessible metadata before inferring latent state dynamics to prevent overreach in non-linguistic evidence
 - planner: Always verify full source accessibility and content before initiating any linguistic or evidentiary analysis to prevent futile or unfounded investigations
+- plan review: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
