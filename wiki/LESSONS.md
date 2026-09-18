@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: Always verify source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - deliverable review: Always verify full source metadata accessibility and content before concluding on linguistic absence or syntactic ambiguity to ensure rigorous evidence evaluation
 - manager final: Always establish full source document accessibility and content before initiating linguistic or evidentiary analysis to prevent futile or unfounded investigations
 - orchestrator: Linguistic indicators of memory must be evaluated within bounded, context-specific metadata to avoid false positives and ensure relevance to agent state modeling without overreaching syntactic or semantic assumptions.
@@ -40,5 +39,6 @@
 - deliverable review: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - manager final: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - researcher: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
+- deliverable review: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
