@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled, dynamic conditions to establish scientific validity and reproducibility
 - deliverable review: Agent memory evaluation must rely on primary-source, verifiable experimental design with explicit, measurable state evolution under controlled, dynamic conditions to establish scientific validity and reproducibility
 - manager final: Agent memory evaluation requires explicit, controlled experimental designs with defined dynamic inputs and measurable state evolution to establish scientific validity and reproducibility
 - orchestrator: Memory evaluation must incorporate dynamic, variable stimuli to reflect real-world operational conditions beyond static benchmarks and token constraints.
@@ -40,5 +39,6 @@
 - deliverable review: Always require explicit, verifiable textual evidence in preprints for claims about memory mechanisms; implicit or contextual references must be explicitly identified and justified before being considered valid support for a claim.'
 - manager final: Always require explicit, verifiable textual evidence in preprints for claims about memory mechanisms; implicit or contextual references must be explicitly identified and justified with linguistic and structural analysis before being considered valid support for a technical assertion.'
 - orchestrator: Memory coherence under non-temporal input conditions requires explicit linguistic or structural evidence of temporal inference, not assumed continuity from input patterns alone.
+- manager setup: Always require explicit, verifiable linguistic evidence in preprint abstracts and metadata for claims about temporal inference or memory coherence under non-sequential input conditions; avoid assumptions or contextual inferences without direct textual support and clear justification in the analysis report.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
