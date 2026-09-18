@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789697103657-78502e](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789697103657-78502e): **planner**. Analyze the abstract and metadata of arXiv preprint 2409.01122 for explicit or inferential references to memory persistence, contextual coherence, or internal state retention in response to abrupt, unstructured visual stimuli; focus exclusively on linguistic cues such as 'contextual continuity', 'visual grounding', or 'scene coherence' under sudden input shifts. Avoid any inference beyond direct or contextual language in the document's metadata and abstract
+- [research-cloud-1789697103657-78502e](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789697103657-78502e): **plan review**. Analyze the abstract and metadata of arXiv preprint 2409.01122 for explicit or inferential references to memory persistence, contextual coherence, or internal state retention in response to abrupt, unstructured visual stimuli; focus exclusively on linguistic cues such as 'contextual continuity', 'visual grounding', or 'scene coherence' under sudden input shifts. Avoid any inference beyond direct or contextual language in the document's metadata and abstract
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
