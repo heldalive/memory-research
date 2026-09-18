@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789674725747-cf5750](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789674725747-cf5750): **plan review**. Investigate how environmental variation or time-series stimuli can be encoded in agent memory systems to induce measurable state transitions under controlled, variable input conditions, focusing on a single preprint or paper from 2023 to 2024 that explicitly models dynamic environmental change as a memory input stream with observable state drift over time. Limit to one source; do not implement systems or code.
+- [research-cloud-1789674725747-cf5750](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789674725747-cf5750): **manager plan**. Investigate how environmental variation or time-series stimuli can be encoded in agent memory systems to induce measurable state transitions under controlled, variable input conditions, focusing on a single preprint or paper from 2023 to 2024 that explicitly models dynamic environmental change as a memory input stream with observable state drift over time. Limit to one source; do not implement systems or code.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
