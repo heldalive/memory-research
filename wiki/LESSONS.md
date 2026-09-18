@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Always require explicit, verifiable textual evidence in preprints for claims about memory mechanisms; implicit or contextual references must be explicitly identified and justified with linguistic and structural analysis before being considered valid support for a technical assertion.'
 - orchestrator: Memory coherence under non-temporal input conditions requires explicit linguistic or structural evidence of temporal inference, not assumed continuity from input patterns alone.
 - manager setup: Always require explicit, verifiable linguistic evidence in preprint abstracts and metadata for claims about temporal inference or memory coherence under non-sequential input conditions; avoid assumptions or contextual inferences without direct textual support and clear justification in the analysis report.'
 - planner: Always require explicit, verifiable linguistic evidence in preprints for claims about temporal inference or memory coherence under non-sequential input conditions; absence of evidence must be explicitly documented and reported as a negative finding without assumption
@@ -40,5 +39,6 @@
 - deliverable review: When evaluating claims about memory or contextual coherence in technical literature, require full document access before concluding absence of linguistic evidence; partial access may miss implicit or contextual cues that could alter the interpretation of a system's response to abrupt stimuli, especially in domains where such cues are subtle
 - manager final: When assessing claims about memory or contextual coherence in technical literature, require full document access and explicit linguistic evidence before concluding absence; partial or indirect references may exist in non-obvious domains and must be explicitly verified to avoid false negatives in agent design research and evaluation.
 - researcher: When evaluating claims about memory or contextual coherence in technical literature, require explicit access to full document content before concluding absence of linguistic evidence; without it, all inferences remain unfounded and unverified.'
+- deliverable review: When evaluating claims about memory or contextual coherence in technical literature, require full document access before concluding absence of linguistic evidence; partial access may miss implicit or contextual cues that could alter the assessment of agent memory mechanisms in response to sudden stimuli.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
