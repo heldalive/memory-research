@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1789718044343-7eace4](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789718044343-7eace4): **plan review**. Extract and analyze all equations from the full text of arXiv preprints 2409.15678 to 2409.19876 for recursive, integral, or delayed temporal structures; document any time-dependent update rules or persistence indicators with high confidence
+- [research-cloud-1789718044343-7eace4](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1789718044343-7eace4): **manager plan**. Extract and analyze all equations from the full text of arXiv preprints 2409.15678 to 2409.19876 for recursive, integral, or delayed temporal structures; document any time-dependent update rules or persistence indicators with high confidence
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
