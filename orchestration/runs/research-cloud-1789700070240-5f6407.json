@@ -2,8 +2,8 @@
   "id": "research-cloud-1789700070240-5f6407",
   "branch": "manager/research-cloud-1789700070240-5f6407",
   "goal": "Analyze the abstract and metadata of arXiv preprint 2409.03456 for metaphorical or implicitly structured linguistic phrases that may suggest scene continuity or internal state retention during sudden visual input shifts; assign low-to-medium confidence based on contextual plausibility and linguistic ambiguity; avoid full text access or system inference",
-  "stage": "plan_review",
-  "planReviews": 0,
+  "stage": "manager_plan",
+  "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
     {
@@ -19,6 +19,11 @@
     {
       "id": "research-cloud-1789700070240-5f6407-3-planner",
       "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1789700070240-5f6407-4-plan-review",
+      "role": "plan_review",
       "status": "completed"
     }
   ],
