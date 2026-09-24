@@ -2,7 +2,7 @@
   "id": "research-cloud-1790278605832-b25564",
   "branch": "manager/research-cloud-1790278605832-b25564",
   "goal": "Map co-occurrence and semantic variation of the syntactic motifs 'reliability in cell type annotation', 'talk-to-machine', and 'biased data sources' in abstracts and introductions of arXiv preprints 2409.15678 to 2409.19876 using NLP; report frequency, contextual variation, and semantic clustering with high confidence.",
-  "stage": "planner",
+  "stage": "plan_review",
   "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
@@ -35,6 +35,11 @@
       "id": "research-cloud-1790278605832-b25564-6-planner-rejected-1",
       "role": "planner",
       "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790278605832-b25564-6-planner",
+      "role": "planner",
+      "status": "completed"
     }
   ],
   "mode": "research-only"
