@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Always validate source accessibility and metadata completeness before initiating any research task involving structural or network-level analysis, especially when non-linguistic indicators are under investigation; a bounded revision to retrieve and verify data is required before proceeding to analysis or inference extraction.
 - researcher: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - deliverable review: Always verify metadata completeness and accessibility before initiating structural or network-level analysis, especially when non-linguistic indicators or citation loops are under investigation
 - manager final: Always validate source accessibility and metadata completeness before initiating structural or network-level analysis, particularly when investigating non-linguistic indicators of knowledge persistence
@@ -40,5 +39,6 @@
 - orchestrator: Thematic persistence in scientific discourse can be detected through linguistic recurrence patterns, even in the absence of explicit memory mechanisms or mathematical structures, providing a viable proxy for non-technical knowledge retention in agent systems.'
 - manager setup: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
 - planner: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
+- plan review: Linguistic pattern analysis in scientific discourse requires verifiable source text and clear access to raw content before any NLP or semantic inference can be trusted
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
