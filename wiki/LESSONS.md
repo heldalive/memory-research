@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: Always verify source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - manager plan: Always verify source accessibility and metadata completeness before initiating structural analysis in research tasks involving non-linguistic evidence
 - planner: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - plan review: Always verify source accessibility and metadata completeness before initiating any research task involving structural or network-level analysis
@@ -40,5 +39,6 @@
 - manager plan: Linguistic recurrence in scientific writing can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to thematic drift and small sample bias
 - researcher: Linguistic recurrence in scientific writing can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to surface-level thematic drift or methodological overlap.
 - deliverable review: Linguistic recurrence in scientific abstracts can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to surface-level thematic overlap and small sample bias, especially without cross-document co
+- manager final: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
