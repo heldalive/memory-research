@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1790278605832-b25564](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790278605832-b25564): **manager plan**. Map co-occurrence and semantic variation of the syntactic motifs 'reliability in cell type annotation', 'talk-to-machine', and 'biased data sources' in abstracts and introductions of arXiv preprints 2409.15678 to 2409.19876 using NLP; report frequency, contextual variation, and semantic clustering with high confidence.
+- [research-cloud-1790278605832-b25564](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790278605832-b25564): **researcher**. Map co-occurrence and semantic variation of the syntactic motifs 'reliability in cell type annotation', 'talk-to-machine', and 'biased data sources' in abstracts and introductions of arXiv preprints 2409.15678 to 2409.19876 using NLP; report frequency, contextual variation, and semantic clustering with high confidence.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 

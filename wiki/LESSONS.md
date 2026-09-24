@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Isolate narrow, mathematically grounded indicators of temporal state persistence to avoid overreliance on linguistic or network proxies in memory research design.
 - manager setup: Always isolate a bounded, mathematically grounded research question before analyzing scientific preprints for non-linguistic indicators of temporal state persistence to prevent scope drift and ensure analytical rigor.'
 - planner: Always validate source accessibility and metadata completeness before initiating structural or network-level analysis, particularly when investigating non-linguistic indicators of knowledge persistence
 - plan review: Always validate source availability and content accessibility before analyzing mathematical formulations for structural indicators of temporal persistence
@@ -40,5 +39,6 @@
 - manager plan: Before analyzing linguistic patterns in scientific discourse, raw source text must be accessible and verifiable to prevent inference errors and ensure data integrity
 - planner: Linguistic pattern analysis in scientific discourse requires verifiable source text and clear access to raw content before any NLP or semantic inference can be trusted
 - plan review: NLP-based linguistic analysis in scientific discourse must be grounded in verifiable, accessible source text before any semantic inference can be trusted
+- manager plan: Before analyzing linguistic patterns in scientific discourse, raw source text must be accessible and verifiable to prevent inference errors and ensure data integrity
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
