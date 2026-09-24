@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Always verify metadata completeness and accessibility before initiating structural or network-level analysis, especially when non-linguistic indicators or citation loops are under investigation
 - manager final: Always validate source accessibility and metadata completeness before initiating structural or network-level analysis, particularly when investigating non-linguistic indicators of knowledge persistence
 - orchestrator: Isolate narrow, mathematically grounded indicators of temporal state persistence to avoid overreliance on linguistic or network proxies in memory research design.
 - manager setup: Always isolate a bounded, mathematically grounded research question before analyzing scientific preprints for non-linguistic indicators of temporal state persistence to prevent scope drift and ensure analytical rigor.'
@@ -40,5 +39,6 @@
 - planner: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
 - plan review: Linguistic pattern analysis in scientific discourse requires verifiable source text and clear access to raw content before any NLP or semantic inference can be trusted
 - manager plan: Before analyzing linguistic patterns in scientific discourse, raw source text must be accessible and verifiable to prevent inference errors and ensure data integrity
+- planner: Linguistic pattern analysis in scientific discourse requires verifiable source text and clear access to raw content before any NLP or semantic inference can be trusted
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
