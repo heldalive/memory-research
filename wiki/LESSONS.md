@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: Always verify source accessibility and metadata completeness before initiating any research task involving structural or network-level analysis
 - manager plan: Always verify source accessibility and metadata completeness before initiating structural analysis in research tasks involving non-linguistic evidence
 - researcher: Always validate source accessibility and metadata completeness prior to initiating structural analysis in research tasks involving non-linguistic evidence
 - deliverable review: Always validate source accessibility and metadata completeness before initiating any research task involving structural or network-level analysis
@@ -40,5 +39,6 @@
 - manager final: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
 - researcher: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
 - deliverable review: Linguistic recurrence in scientific abstracts should be validated through cross-preprint co-occurrence and semantic clustering to avoid conflating thematic overlap with emergent memory-like behavior
+- manager final: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
