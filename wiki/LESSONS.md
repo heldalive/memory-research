@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All metadata-based research hypotheses must be grounded in direct, source-verified data before any inference or analysis is conducted
 - deliverable review: All research claims involving preprint metadata or citation chains must be grounded in direct, source-verified data before any inference or analysis is conducted, especially when shared subject tags or temporal patterns are asserted.
 - manager final: All research hypotheses involving preprint metadata or citation structures must be grounded in direct, source-verified data before any inference or analysis is conducted; untrusted or absent evidence invalidates downstream conclusions and must be corrected through bounded verification prior to further investigation or generalization.
 - orchestrator: Memory superiority in agent systems must be empirically validated through controlled state evolution under bounded and perturbed input, not inferred from static data patterns alone.
@@ -40,5 +39,6 @@
 - deliverable review: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
 - manager final: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
 - researcher: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
+- deliverable review: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
