@@ -2,8 +2,8 @@
   "id": "research-cloud-1790315583065-b9812a",
   "branch": "manager/research-cloud-1790315583065-b9812a",
   "goal": "handoff to analyst to formulate a revised research question on the minimum token budget required for memory retention in a tokenized agent under periodic input with known perturbations, anchored solely to experimentally reported retention thresholds in Section 4.1 of 'Stability and Forgetting in Autoregressive Models' by Kumar et al., 2024, and including variation over 50 update intervals with bounded token budgets",
-  "stage": "plan_review",
-  "planReviews": 0,
+  "stage": "manager_plan",
+  "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
     {
@@ -19,6 +19,11 @@
     {
       "id": "research-cloud-1790315583065-b9812a-3-planner",
       "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790315583065-b9812a-4-plan-review",
+      "role": "plan_review",
       "status": "completed"
     }
   ],
