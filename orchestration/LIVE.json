@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790337432394,
+  "updatedAt": 1790337533256,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 725,
+  "completed": 726,
   "loops": [
     {
       "id": "research-cloud-1790337362791-361d91",
       "branch": "manager/research-cloud-1790337362791-361d91",
-      "stage": "manager_setup",
+      "stage": "planner",
       "goal": "handoff to analyst to extract and verify explicitly reported time-dependent memory decay patterns in non-linear form from Kumar et al., 2024, Section 4.1, including any described thresholds, inflection points, or piecewise functions governing persistence over time"
     }
   ]
