@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent untestable extrapolations and maintain empirical integrity in the research program.
 - researcher: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded
 - deliverable review: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent unfounded extrapolation and misallocation of resources.
 - manager final: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent unfounded extrapolation and ensure empirical testability.'
@@ -40,5 +39,6 @@
 - plan review: Always anchor memory research questions to a single, explicitly defined and experimentally verified metric from peer-reviewed sources to ensure empirical grounding and avoid speculative extensions.'
 - manager plan: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - researcher: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
+- deliverable review: All memory research questions must be grounded in explicitly reported, verifiable metrics from peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or system design claims.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
