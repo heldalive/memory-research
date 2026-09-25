@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: When no explicit mechanisms are present in the source, the research must be revised to acknowledge the absence of foundational data and pivot to a null or exploratory inquiry grounded solely in verifiable source content
 - manager plan: All memory research must begin with direct, verifiable evidence of time-bound state dynamics in primary sources; absence of such evidence mandates a bounded, source-anchored inquiry that does not extrapolate or assume underlying mechanisms beyond explicit textual reporting.'
 - planner: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream hypothesis can be formed; absence of such data mandates a bounded, source-anchored inquiry that does not extrapolate or assume underlying mechanisms.'
 - plan review: When no explicit time-bound state dynamics are present in a source, all memory-related research must be revised to a null or exploratory inquiry grounded solely in directly stated mechanisms, without extrapolation or assumption.'
@@ -40,5 +39,6 @@
 - manager final: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance mechanisms from primary sources; absence of such data must be formally documented as a null result without extrapolation or inference to preserve research integrity and testability.
 - researcher: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance thresholds or conditional update triggers from primary sources to ensure testability and avoid systemic bias
 - deliverable review: Memory retention claims in agent systems must be explicitly tied to observable, time-bound events under perturbation; absence of such temporal or conditional triggers invalidates claims of persistence without direct evidence from primary sources and must be formally documented as unverified in research contexts with observational constraints
+- manager final: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such temporal anchors invalidates persistence assertions without direct evidence from primary sources and must be formally documented as a null result unless verified through bounded revision
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

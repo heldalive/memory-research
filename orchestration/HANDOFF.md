@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790345221502-3f792c
-
-No explicit state update mechanisms are reported in Kumar et al., 2024, Section 4.1, necessitating a bounded revision to propose a research question on minimum input duration for memory persistence based solely on explicitly stated update rules; the current direction
-
-Next candidate: handoff to analyst to propose a bounded research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent, anchored solely to explicitly reported update rules from Kumar et al., 2024, Section 4.1 under known perturbations; include specific examples of stated update rules or time-bound retention claims if any exist
-
-Limits: After two independent reviews confirm the absence of verifiable state update mechanisms such as per-token rules, conditional transitions, or update frequencies in Kumar et al., 2024, Section 4.1, the research must shift to a bounded, source-anchored inquiry. The proposed next task is to define a specific, testable research question on the minimum duration of periodic input required for observable memory persistence, derived exclusively from explicitly reported update rules in the source. This ensures all future hypotheses remain grounded in primary data and avoid inference beyond the text's explicit claims. The current evidence is consistent across reviews and shows no mechanisms exist to support prior assumptions about memory dynamics in tokenized agents under perturbation.
-
 ## research-cloud-1790347360861-cccc43
 
 No explicit mechanisms for memory maintenance under perturbations are reported in Kumar et al., 2024, Section 4.1, and thus no minimum periodic input duration for observable memory persistence can be defined from direct evidence alone.
@@ -35,3 +27,11 @@ Two invalid role outputs; saved evidence retained. This is not a research findin
 Next candidate: handoff to analyst to extract and verify explicitly reported token budget allocations or state maintenance thresholds in Kumar et al., 2024, Section 4.1 under intermittent input and known perturbations; if any exist, define the minimal token budget required for observable memory persistence in a tokenized agent using only those thresholds as anchors
 
 Limits: 
+
+## research-cloud-1790352470716-b159de
+
+No explicit memory retention events or persistence mechanisms under intermittent input are reported in Kumar et al., 2024, Section 4.1, and thus no minimum duration for detecting such retention can be defined from the available claims alone.
+
+Next candidate: handoff to analyst to extract and verify explicitly reported memory retention events or persistence claims in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum duration of intermittent input required to observe a detectable memory retention event using only those claims as anchors
+
+Limits: After evaluating the provided evidence and review history, no explicit claims about memory retention or detectable persistence during intermittent input are established in the source material. While some operational features like state scoping and session recovery are mentioned, they do not constitute observable, time-bound retention events under perturbation. The absence of defined thresholds or minimum input durations for detecting retention remains a critical gap, confirming the null result under current observational constraints. A bounded revision is requested to clarify whether any latent or implied retention mechanisms could be formally anchored in the text before final closure.
