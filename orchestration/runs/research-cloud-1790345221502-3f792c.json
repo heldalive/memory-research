@@ -2,7 +2,7 @@
   "id": "research-cloud-1790345221502-3f792c",
   "branch": "manager/research-cloud-1790345221502-3f792c",
   "goal": "handoff to analyst to extract and verify explicitly reported state update mechanisms (e.g., per-token update rules, conditional transitions, or update frequencies) in Kumar et al., 2024, Section 4.1 under known perturbations; if none exist, propose a bounded research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent, anchored solely to explicitly reported update rules from the source",
-  "stage": "planner",
+  "stage": "plan_review",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
@@ -14,6 +14,11 @@
     {
       "id": "research-cloud-1790345221502-3f792c-2-manager-setup",
       "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790345221502-3f792c-3-planner",
+      "role": "planner",
       "status": "completed"
     }
   ],
