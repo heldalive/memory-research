@@ -4,6 +4,6 @@ handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for e
 
 Next role: researcher.
 
-handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory retrieval mechanisms under contextual perturbations such as session interruption or noise; if any exist, define the conditions (e.g., perturbation type, magnitude, timing) and associated metrics (e.g., fidelity, latency) that trigger a detectable retrieval response; if none exist, propose a minimal operational definition of retrieval-based memory integrity
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
