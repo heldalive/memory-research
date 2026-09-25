@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: All memory research must begin with direct access to and inspection of primary source text before any claims about time-bound mechanisms or input duration can be formed; absence of source data precludes any conclusions regardless of question formulation quality or precision.
 - manager plan: All memory research must begin with direct, explicit evidence from primary source text before any claims about time-bound mechanisms or input duration can be formed; absence of such data mandates a bounded, evidence-based revision prior to further investigation or inference.
 - planner: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about persistence or input duration can be formed; absence of such data mandates a bounded, evidence-based revision prior to analysis or inference.'
 - plan review: All memory research must begin with direct inspection of primary source text to verify explicit time-bound mechanisms before any claims about persistence or input duration can be made; absence of source data precludes all conclusions regardless of question formulation or theoretical appeal.
@@ -40,5 +39,6 @@
 - manager final: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates assertions and necessitates a shift to retention or resilience metrics when decay is not empirically observed in source material.
 - orchestrator: Memory mechanisms must be anchored in explicitly reported temporal response rules, not inferred from implicit state behavior or absence of decay signals.
 - manager setup: All assertions about memory dynamics in tokenized agents must be strictly tied to explicitly reported, time-bound events under defined perturbations; absence of such data nullifies claims and mandates reliance on verifiable, directly cited temporal rules only.
+- planner: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates assertions and necessitates a shift to retention or resili
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
