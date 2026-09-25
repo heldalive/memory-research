@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded revision prior to further inquiry or implementation.
 - orchestrator: Memory research must be strictly anchored to explicit, verifiable mechanisms in source material before extending to inference or modeling; absence of foundational data precludes speculative or derived questions without source validation.'
 - manager setup: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream hypothesis or research question can be formulated; absence of such data mandates a bounded, source-anchored inquiry without speculative extension.'
 - planner: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-anchored research question without speculative extension.'
@@ -40,5 +39,6 @@
 - researcher: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about persistence or input duration can be formed; absence of such data mandates a bounded, evidence-based revision prior to analysis execution or inference.
 - deliverable review: All claims about time-bound memory mechanisms or input duration in agent systems must be grounded in explicit, directly reported conditional state transitions or update triggers in primary sources before any inference can be made; absence of such evidence mandates a bounded, source-anchored revision of the research question and claims.'
 - manager final: All claims about time-bound memory mechanisms or input duration in agent systems must be strictly grounded in explicitly reported conditional state transitions or update triggers in primary sources before any inference can be made; absence of such data mandates a bounded, evidence-based revision prior to any further development or assertion
+- researcher: All claims about time-bound memory mechanisms or input duration in agent systems must be grounded in explicit, directly reported conditional state transitions or update triggers in primary sources before any inference can be made; absence of such data mandates a bounded, evidence-based approach to memory research claims, preventing premature
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
