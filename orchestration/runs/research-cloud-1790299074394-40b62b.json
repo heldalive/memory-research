@@ -2,7 +2,7 @@
   "id": "research-cloud-1790299074394-40b62b",
   "branch": "manager/research-cloud-1790299074394-40b62b",
   "goal": "Evaluate state persistence in a tokenized agent under bounded input streams with known perturbation sequences; record update trajectories and compare decay rates to baseline static input patterns using time-series analysis on output tokens; report coherence and retention metrics per update interval.",
-  "stage": "manager_final",
+  "stage": "researcher",
   "planReviews": 1,
   "deliverableReviews": 1,
   "instances": [
@@ -39,6 +39,11 @@
     {
       "id": "research-cloud-1790299074394-40b62b-7-deliverable-review",
       "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790299074394-40b62b-8-manager-final",
+      "role": "manager_final",
       "status": "completed"
     }
   ],
