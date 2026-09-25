@@ -2,8 +2,8 @@
   "id": "research-cloud-1790295113519-e8323b",
   "branch": "manager/research-cloud-1790295113519-e8323b",
   "goal": "Analyze citation and metadata propagation patterns in the preprint series 2409.15678 to 2409.19876 for inter-document linkages and inherited thematic indicators using graph-based NLP on accessible metadata fields; report clusters and structural persistence metrics with medium confidence.",
-  "stage": "plan_review",
-  "planReviews": 0,
+  "stage": "manager_plan",
+  "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
     {
@@ -19,6 +19,11 @@
     {
       "id": "research-cloud-1790295113519-e8323b-3-planner",
       "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790295113519-e8323b-4-plan-review",
+      "role": "plan_review",
       "status": "completed"
     }
   ],
