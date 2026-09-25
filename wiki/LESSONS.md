@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined and experimentally reported metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds
 - deliverable review: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined and experimentally reported metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds
 - manager final: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined and experimentally reported metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds
 - researcher: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined and experimentally reported metric from the primary source with confirmed experimental conditions before any comparative or implementation
@@ -40,5 +39,6 @@
 - manager setup: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - planner: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - plan review: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
+- manager plan: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
