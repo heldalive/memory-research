@@ -1,0 +1,66 @@
+{
+  "id": "research-cloud-1790355748645-4612cc",
+  "branch": "manager/research-cloud-1790355748645-4612cc",
+  "goal": "handoff to analyst to extract and verify explicitly reported memory update policies that activate upon specific temporal patterns of input in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the shortest observed interval between inputs that triggers a detectable memory update event as an anchor for persistence claims",
+  "stage": "failed",
+  "planReviews": 1,
+  "deliverableReviews": 1,
+  "instances": [
+    {
+      "id": "research-cloud-1790355748645-4612cc-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790355748645-4612cc-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790355748645-4612cc-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790355748645-4612cc-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790355748645-4612cc-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790355748645-4612cc-6-researcher-rejected-1",
+      "role": "researcher",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790355748645-4612cc-6-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790355748645-4612cc-7-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790355748645-4612cc-8-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790355748645-4612cc-9-researcher-rejected-1",
+      "role": "researcher",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790355748645-4612cc-9-researcher-rejected-2",
+      "role": "researcher",
+      "status": "rejected"
+    }
+  ],
+  "mode": "research-only"
+}
