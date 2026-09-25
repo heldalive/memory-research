@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1790303384964-995156](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790303384964-995156): **plan review**. Evaluate output token coherence and semantic drift in a tokenized agent under intermittent input streams with known perturbations using time-series linguistic embedding models; record per-interval drift scores and compare to static input baseline over 50 update cycles with bounded token budgets; report decay rate and coherence metrics in structured format for downstream validation.
+- [research-cloud-1790303384964-995156](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790303384964-995156): **manager plan**. Evaluate output token coherence and semantic drift in a tokenized agent under intermittent input streams with known perturbations using time-series linguistic embedding models; record per-interval drift scores and compare to static input baseline over 50 update cycles with bounded token budgets; report decay rate and coherence metrics in structured format for downstream validation.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 

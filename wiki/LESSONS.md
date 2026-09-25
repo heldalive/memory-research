@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: All metadata-based research hypotheses must be grounded in direct, source-verified data before any inference or analysis is conducted
 - plan review: Always require direct empirical validation from source data before asserting the existence or structure of any metadata-based research hypothesis
 - manager plan: Always require direct empirical validation from source data before asserting the existence or structure of any metadata-based research hypothesis
 - researcher: All metadata-based research hypotheses must be grounded in direct, source-verified data before any inference or analysis is conducted
@@ -40,5 +39,6 @@
 - plan review: Avoid proposing complex, multi-layered research questions without clear empirical anchors from peer-reviewed literature; simplify to isolate one verifiable metric
 - manager plan: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.
 - planner: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
+- plan review: Avoid proposing multi-dimensional, ungrounded research questions about agent memory without at least one verifiable metric from peer-reviewed literature; simplify to isolate a single, measurable outcome before comparative analysis
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
