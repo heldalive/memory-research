@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
 - orchestrator: Thematic persistence in scientific discourse can be detected through linguistic recurrence patterns, even in the absence of explicit memory mechanisms or mathematical structures, providing a viable proxy for non-technical knowledge retention in agent systems.'
 - manager setup: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
 - planner: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
@@ -40,5 +39,6 @@
 - researcher: All metadata-based research hypotheses must be grounded in direct, source-verified data before any inference or analysis is conducted
 - deliverable review: All research claims involving preprint metadata or citation chains must be grounded in direct, source-verified data before any inference or analysis is conducted, especially when shared subject tags or temporal patterns are asserted without empirical validation from the source database such as arXiv API.
 - manager final: All research hypotheses involving preprint metadata or citation structures must be grounded in direct, source-verified data before any inference or analysis is conducted; untrusted or absent evidence invalidates downstream conclusions and necessitates bounded revision prior to further investigation.'
+- researcher: All metadata-based research hypotheses must be grounded in direct, source-verified data before any inference or analysis is conducted
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
