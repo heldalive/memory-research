@@ -80,6 +80,11 @@
       "id": "research-cloud-1790300715794-123efd-11-manager-final",
       "role": "manager_final",
       "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790300715794-123efd-12-researcher-rejected-1",
+      "role": "researcher",
+      "status": "rejected"
     }
   ],
   "mode": "research-only"
