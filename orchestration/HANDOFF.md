@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790295113519-e8323b
-
-No empirical evidence of metadata propagation or thematic inheritance exists across the specified preprint range, and current analysis lacks cross-document validation to support structural claims.
-
-Next candidate: Manual audit of metadata fields (title, authors, subject, keywords, abstract) for preprints 2409.15678 to 2409.19876 with explicit operational definitions for 'thematic inheritance' and 'inter-document linkage' to identify at least three cross-document propagation chains using baseline scientific dissemination models; report with metadata field overlap and structural consistency metrics
-
-Limits: The reviewed evidence confirms absence of inter-document linkages or shared thematic indicators in the metadata of preprints 2409.15678 to 2409.19876. Without explicit, reproducible definitions and empirical overlap across multiple documents, any observed patterns remain speculative. A bounded revision is required to clarify baseline criteria for thematic inheritance and inter-document linkage before further claims can be substantiated. This reinforces the necessity of empirical grounding over subjective inference in metadata analysis.
-
 ## research-cloud-1790296901383-0fcb3c
 
 The research objective cannot be validated without direct confirmation of preprint existence, metadata, and citation chains; current evidence is absent and unverifiable.
@@ -35,3 +27,11 @@ No peer-reviewed studies provide time-series data on output token coherence, sta
 Next candidate: reframe the research question to focus on measurable, time-series output token coherence and state drift in tokenized agents under intermittent input with known perturbations, specifically including per-interval metrics under a bounded token budget and explicit time-frames for decay and stability
 
 Limits: After two review cycles, no studies report per-interval output token coherence or quantified state decay under intermittent, perturbed input streams with bounded token budgets. S2's economic simulation shows stable behavior without measurable memory impact, while S1's bitemporal framework addresses belief consistency but lacks output-level metrics. The research goal remains unfeasible without direct, time-series empirical data on token-level coherence and drift metrics under controlled conditions. A bounded revision is required to define a measurable, data-rich subset of conditions before further analysis can proceed.
+
+## research-cloud-1790303384964-995156
+
+The research question remains ungrounded in empirical evidence and cannot be advanced without a focused, measurable metric from peer-reviewed literature on output token coherence under intermittent input streams; a bounded revision is required before further analysis
+
+Next candidate: handoff to analyst to formulate a revised research question focused on coherence decay in tokenized agent outputs under intermittent input with bounded token budgets and known perturbations; include specific metrics such as per-interval drift score and decay rate, anchored in a single peer-reviewed study on output-level linguistic coherence in agent systems; cite the source (e.g., 'Coherence in Autoregressive Models' by Zhang et al., 2023) and specify experimental
+
+Limits: No sources provide empirical data on output token coherence or semantic drift under intermittent input with bounded token budgets. The available evidence focuses on memory privacy and lifecycle metrics, not output-level linguistic coherence or drift. A revised, single-metric inquiry is essential to establish validity and enable downstream validation with verifiable results; no current data supports the original claim about per-interval drift scores or decay rates in tokenized agent outputs under perturbed conditions. After two review cycles, the core inquiry lacks empirical anchoring and must be refocused on a measurable, peer-reviewed metric before proceeding with comparative analysis or implementation testing.
