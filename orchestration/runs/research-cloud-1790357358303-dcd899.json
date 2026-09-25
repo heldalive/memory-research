@@ -2,7 +2,7 @@
   "id": "research-cloud-1790357358303-dcd899",
   "branch": "manager/research-cloud-1790357358303-dcd899",
   "goal": "handoff to analyst to extract and verify explicitly reported memory encoding mechanisms in Kumar et al., 2024, Section 4.1 in response to structured temporal input patterns under known perturbations; if any exist, define the minimal sequence length or temporal pattern that triggers a detectable memory encoding event as an anchor for state coherence claims",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
@@ -35,6 +35,11 @@
       "id": "research-cloud-1790357358303-dcd899-6-researcher-rejected-1",
       "role": "researcher",
       "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790357358303-dcd899-6-researcher",
+      "role": "researcher",
+      "status": "completed"
     }
   ],
   "mode": "research-only"
