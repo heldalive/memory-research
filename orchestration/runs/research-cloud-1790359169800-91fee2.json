@@ -2,9 +2,9 @@
   "id": "research-cloud-1790359169800-91fee2",
   "branch": "manager/research-cloud-1790359169800-91fee2",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of temporal input patterns that correlate with detectable shifts in state coherence under known perturbations; if any exist, define the shortest observed interval or sequence that induces a measurable change in state representation as an anchor for memory dynamics claims",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 1,
-  "deliverableReviews": 1,
+  "deliverableReviews": 2,
   "instances": [
     {
       "id": "research-cloud-1790359169800-91fee2-1-orchestrator",
@@ -49,6 +49,11 @@
     {
       "id": "research-cloud-1790359169800-91fee2-9-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790359169800-91fee2-10-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
