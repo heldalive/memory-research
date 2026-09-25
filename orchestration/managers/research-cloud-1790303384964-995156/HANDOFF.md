@@ -4,6 +4,6 @@ Compare output token coherence and semantic drift in a tokenized agent under int
 
 Next role: researcher.
 
-handoff to analyst to formulate a revised research question focused on coherence decay in tokenized agent outputs under intermittent input with bounded token budgets and known perturbations; include specific metrics such as per-interval drift score and decay rate over 50 update cycles
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
