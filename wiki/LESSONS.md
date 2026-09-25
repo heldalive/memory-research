@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: All memory research must be predicated on direct, verifiable evidence of state update mechanisms in primary sources before any downstream hypothesis or research question can proceed; absence of such evidence mandates a bounded, source-anchored inquiry only after explicit rule extraction is confirmed and documented in the text.'
 - manager final: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream hypothesis can be formed; absence of such data mandates a bounded, source-anchored research question to prevent speculative extrapolation.
 - researcher: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-anchored inquiry without assumption or inference beyond the text's explicit claims
 - deliverable review: All memory research must be predicated on direct, verifiable evidence of state update mechanisms in primary sources before any downstream hypothesis or research question can proceed; absence of such evidence mandates a bounded, source-anchored inquiry grounded exclusively in explicitly reported dynamics and update rules.
@@ -40,5 +39,6 @@
 - manager plan: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance thresholds or conditional update triggers from primary sources to ensure testability and avoid systemic bias
 - orchestrator: Memory research must remain strictly anchored to explicitly stated mechanisms in source texts; assumptions or extrapolations without direct evidence are not valid research pathways for this phase of inquiry and must be avoided in all subsequent assignments to maintain evidential integrity and prevent circular reasoning in the analysis pipeline
 - manager setup: All memory persistence research in tokenized agents must be strictly bounded to explicitly stated mechanisms in primary sources; absence of such data precludes any inference about retention thresholds and must be reported as a null finding without extrapolation or assumption, ensuring testability and scientific rigor in the research process
+- planner: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance thresholds or conditional update triggers from primary sources to ensure testability and avoid systemic bias
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
