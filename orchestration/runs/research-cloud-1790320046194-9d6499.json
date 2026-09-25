@@ -2,7 +2,7 @@
   "id": "research-cloud-1790320046194-9d6499",
   "branch": "manager/research-cloud-1790320046194-9d6499",
   "goal": "handoff to analyst to formulate a revised research question on the minimum update interval required for memory persistence in a tokenized agent under periodic input with known perturbations, anchored solely to the per-interval retention rate metric explicitly reported in Section 4.1 of 'Stability and Forgetting in Autoregressive Models' by Kumar et al., 2024, and including its variation over 50 update intervals under a bounded token budget of 100",
-  "stage": "planner",
+  "stage": "plan_review",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
@@ -14,6 +14,11 @@
     {
       "id": "research-cloud-1790320046194-9d6499-2-manager-setup",
       "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790320046194-9d6499-3-planner",
+      "role": "planner",
       "status": "completed"
     }
   ],
