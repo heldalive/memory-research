@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about persistence or input duration can be formed; absence of such data mandates a bounded, evidence-based investigation only.
 - planner: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about persistence or input duration can be formed; absence of such data mandates a bounded, evidence-based investigation approach.'
 - plan review: All memory research must begin with direct access to and inspection of primary source text before any claims about time-bound mechanisms or input duration can be formed; absence of source data precludes any conclusions regardless of question formulation quality or precision.
 - manager plan: All memory research must begin with direct, explicit evidence from primary source text before any claims about time-bound mechanisms or input duration can be formed; absence of such data mandates a bounded, evidence-based revision prior to further investigation or inference.
@@ -40,5 +39,6 @@
 - researcher: All claims about memory decay in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such temporal data invalidates assertions without direct empirical support from source text and evidence.'
 - deliverable review: All claims about memory decay in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates any assertion without direct source support and empirical validation from the provided excerpts and metadata only, regardless of system design or privacy implications found
 - manager final: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates assertions and necessitates a shift to retention or resilience metrics when decay is not empirically observed in source material.
+- orchestrator: Memory mechanisms must be anchored in explicitly reported temporal response rules, not inferred from implicit state behavior or absence of decay signals.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
