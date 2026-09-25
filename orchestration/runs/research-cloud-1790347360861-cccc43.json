@@ -2,9 +2,9 @@
   "id": "research-cloud-1790347360861-cccc43",
   "branch": "manager/research-cloud-1790347360861-cccc43",
   "goal": "handoff to analyst to extract and verify explicitly reported mechanisms (e.g., update rules, retention conditions, or state transitions) in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum periodic input duration required for observable memory persistence in a tokenized agent, using only those mechanisms as anchors",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 2,
-  "deliverableReviews": 1,
+  "deliverableReviews": 2,
   "instances": [
     {
       "id": "research-cloud-1790347360861-cccc43-1-orchestrator",
@@ -69,6 +69,11 @@
     {
       "id": "research-cloud-1790347360861-cccc43-12-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790347360861-cccc43-13-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
