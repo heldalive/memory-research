@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability.'
 - deliverable review: All memory research must be grounded in explicitly reported, numerically specified retention metrics from source material; without such data, no empirical investigation into memory persistence can be valid or testable.'
 - manager final: All memory research must include at least one verifiable, numerically specified retention metric from the source before any relationship or inference can be considered testable or grounded in empirical evidence; absence of such data renders the research untestable and requires immediate revision prior to further analysis or execution of downstream
 - researcher: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability.'
@@ -40,5 +39,6 @@
 - manager plan: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and requires immediate revision of the inquiry scope and source validation prior to further work.
 - planner: All memory research must first verify explicit, numerically specified, and time-bound decay patterns in primary sources before proceeding; absence of such data invalidates the entire inquiry and necessitates a bounded revision of the research premise.'
 - plan review: All memory research must first confirm explicit, numerically specified, and time-bound decay patterns in primary sources before any further analysis can begin; absence of such data invalidates the research premise and necessitates a bounded revision of the inquiry.
+- manager plan: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a bounded revision of the plan prior to further investigation.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
