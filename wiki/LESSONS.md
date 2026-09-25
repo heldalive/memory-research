@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: All memory research must first confirm explicit, numerically specified, and time-bound decay patterns in primary sources before any further analysis can begin; absence of such data invalidates the research premise and necessitates a bounded revision of the inquiry.
 - manager plan: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a bounded revision of the plan prior to further investigation.'
 - researcher: All memory research must first verify explicit, numerically specified, and time-bound decay patterns in primary sources before proceeding; absence of such data invalidates the entire inquiry and necessitates a bounded revision of the research plan.
 - deliverable review: All memory research must first confirm explicit, numerically specified, and time-bound decay patterns in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a bounded revision of the inquiry prior to further investigation or implementation planning
@@ -40,5 +39,6 @@
 - manager plan: All memory research must first verify the explicit presence of numerically defined, time-bound retention or update rules in primary sources before any further analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-anchored research question with no extrapolation beyond explicitly reported parameters
 - planner: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-anchored approach to question formulation and investigation.'
 - plan review: All memory research must first establish explicit, numerically specified retention or update rules in primary sources before any downstream inference or hypothesis can proceed; absence of such data mandates a bounded, source-anchored revision of the research question.'
+- manager plan: All memory research must first verify the explicit presence of numerically defined, time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-anchored revision to preserve methodological integrity and rigor.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
