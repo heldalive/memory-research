@@ -1,0 +1,7 @@
+# Research manager
+
+Goal: handoff to analyst to extract and verify explicitly reported memory retention thresholds (e.g., minimum input duration for detectable state persistence) in Kumar et al., 2024, Section 4.1; if none exist, formulate a distinct research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported thresholds from Kumar et al., 2024, Section 4
+
+Stage: manager_setup. Plan reviews 0/2; evidence reviews 0/2.
+
+- research-cloud-1790339097476-6d7423-1-orchestrator: orchestrator — completed
