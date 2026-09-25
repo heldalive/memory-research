@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 - researcher: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 - deliverable review: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 - manager final: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
@@ -40,5 +39,6 @@
 - researcher: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis is valid.
 - deliverable review: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis is validated and reported.
 - manager final: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed, and no such evidence exists in current literature
+- researcher: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
