@@ -2,8 +2,8 @@
   "id": "research-cloud-1790335199707-96f6ed",
   "branch": "manager/research-cloud-1790335199707-96f6ed",
   "goal": "handoff to analyst to formulate a revised research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1",
-  "stage": "plan_review",
-  "planReviews": 0,
+  "stage": "manager_plan",
+  "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
     {
@@ -19,6 +19,11 @@
     {
       "id": "research-cloud-1790335199707-96f6ed-3-planner",
       "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790335199707-96f6ed-4-plan-review",
+      "role": "plan_review",
       "status": "completed"
     }
   ],

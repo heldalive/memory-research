@@ -2,8 +2,8 @@
 
 handoff to analyst to formulate a revised research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1
 
-Next role: plan_review.
+Next role: manager_plan.
 
-handoff to analyst to formulate a revised research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1
+handoff to analyst to verify the presence and content of decay rates or time-based retention percentages in Kumar et al., 2024, Section 4.1 before formulating a testable research question
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
