@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1790335199707-96f6ed-7-deliverable-review",
+  "role": "deliverable_review",
+  "status": "completed",
+  "at": 1790336127193,
+  "answer": {
+    "summary": "No source provides explicitly reported decay rates or time-based retention percentages for tokenized agent memory under known perturbations as required by the research question.",
+    "content": "S1 and S2 do not contain numerically specified decay or retention metrics. S1 discusses memory lifecycle and evaluation metrics but lacks time-based retention data; S2 describes error correction behavior with no quantified retention or decay timelines. The requested empirical data for evaluating minimum input duration and memory persistence is absent from the evidence base. Without explicit decay or retention percentages in Kumar et al., 2024, Section 4.1, the research question remains untestable and ungrounded in verifiable source data. The current plan fails to verify the presence of such metrics prior to inquiry, rendering the research invalid as currently formulated. A revision is required to first confirm the existence and content of decay or retention metrics in the specified source before proceeding to empirical evaluation. The handoff must now verify the presence and content of decay rates or time-based retention percentages in Kumar et al., 2024, Section 4.1 before any further analysis can proceed.",
+    "decision": "revise",
+    "search": "https://arxiv.org/abs/2607.13157v1?section=4.1",
+    "sources": "S1,S2",
+    "nextTask": "handoff to analyst to verify the presence and content of decay rates or time-based retention percentages in Kumar et al., 2024, Section 4.1 before formulating a testable research question",
+    "lesson": "All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid"
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 367,
+  "inputTokens": 1888,
+  "durationMs": 15302,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2607.13157v1",
+      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+      "excerpt": "Abstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery of user-specific facts and preferences across sessions, and accumulation of procedural knowledge from prior outcomes. These requirements extend beyond document retrieval: a memory layer must determine which interactions become durable state, how that state is scoped, how it is retrieved under latency constraints, and how it is revised or removed over time. This report studies Oracle Agent Memory as a database-native memory substrate built on Oracle Database. Three themes organize the discussion: memory as a lifecycle spanning ingestion, extraction, consolidation, retrieval, summarization, and revision or removal; a layered architecture that separates an active memory core from a passive memory-store interface with explicit scope control across users, agents, and threads; and evaluation methodology in which downstream task accuracy is complemented by memory-centric measures such as evidence retrieval, recall, latency, and estimated token use. The report summarizes LongMemEval results, reaching 93.8% accuracy, compares Oracle Agent Memory against flat-history baselines, using about 10.7x fewer tokens, and published or reported external baselines where available, and closes with implementation-oriented appendix material covering setup, thread lifecycle, and search semantics.",
+      "checkedAt": 1790335991776,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "849bddf647fb0a452c290076c3893db9869c6505d5f1ab071d0bbe910f6d4818",
+      "discovery": {
+        "query": "https://doi.org/10.1145/3621983.3641150",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    },
+    {
+      "id": "S2",
+      "url": "https://arxiv.org/abs/2607.26410v1",
+      "title": "Voice Memory for Agentic Speech Recognition",
+      "excerpt": "Abstract: We present Voice Memory, a inference-only scheme for agentic speech recognition: at stream time, a frozen corrector reads a single per-domain this http URL and decides per utterance whether to act on the hypothesis or abstain and keep the 1-best. Asynchronously, a score-gated optimizer revises that file through bounded edits, accepting an edit only when it strictly improves a held-out score. Extended from classical ASR-LM framework, we refer this split the listener-thinker architecture; the two roles are coupled only through the memory, so no weights change and the learned skill stays auditable and portable. Restraint turns out to be the operative skill this loop discovers: unconstrained generative error correction (GER) over-corrects, breaking correct tokens on up to 64% of its edits on financial news, and Voice Memory, reduces this rate to 35%. Across ten HyPoradise domains with an open corrector, Voice Memory, lowers weighted word error rate from 8.36% to 7.52% (7.47% with three added in-context examples) without regressing any dataset below its 1-best baseline; gains concentrate where recoverable headroom is largest, including air-travel commands (8.40% to 3.40%) and noisy far-field speech (CHiME-4, 12.69% to 10.46%). The memory transfers across corrector families and adds zero parameters to the inference path. A demo and example code are provided for future studies.",
+      "checkedAt": 1790335991776,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "342ad563e49df44851b588803da152be772524a91901afd7ceba6c1ab7dca57f",
+      "discovery": {
+        "query": "https://doi.org/10.1145/3621983.3641150",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    }
+  ]
+}

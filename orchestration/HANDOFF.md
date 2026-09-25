@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790327962491-bd62df
-
-The original research question cannot be answered due to absence of the per-interval retention rate metric in the source material, necessitating a bounded revision to a measurable, observable memory persistence metric explicitly reported in the literature.
-
-Next candidate: handoff to analyst to formulate a revised research question on the minimum update interval required for observable memory persistence in a tokenized agent under periodic input with known perturbations, anchored solely to an explicitly reported, observable per-interval retention rate or equivalent metric from Kumar et al., 2024, Section 4.1
-
-Limits: After two independent reviews confirm the absence of the per-interval retention rate metric in Kumar et al., 2024, Section 4.1, the research must shift to a question grounded solely in explicitly reported, observable memory persistence data. The focus now must be on metrics directly accessible and verifiable in the source, such as recall rates, retention curves, or time-based accuracy under periodic input with known perturbations. This revision ensures empirical grounding and alignment with available data, preserving the research program's integrity without theoretical overreach.
-
 ## research-cloud-1790329995229-f1108d
 
 The per-interval retention rate metric is not explicitly reported in Section 4.1 of Kumar et al., 2024, and no verifiable evidence of its presence exists in the source material despite explicit requirements in the brief.
@@ -35,3 +27,11 @@ The research question cannot be empirically evaluated due to the absence of expl
 Next candidate: handoff to analyst to formulate a revised research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported time-based retention or stability metrics from Kumar et al., 2024, Section 4.1
 
 Limits: After two independent reviews confirm the lack of numerically specified time-based retention or stability metrics for memory persistence in tokenized agents under known perturbations, the current research question remains untestable. The evidence shows no explicit duration thresholds or temporal decay rates reported in Kumar et al., 2024, Section 4.1. A bounded revision is required to restrict the inquiry to only those metrics directly and numerically stated in the source before further analysis can proceed. Without such anchoring, the research lacks empirical grounding and falsifiability as required by the objective to test superiority through observable, time-bound memory persistence claims. A different, testable research question must now be formulated based exclusively on explicitly reported time-based metrics from the same source section.
+
+## research-cloud-1790335199707-96f6ed
+
+No sources provide explicitly reported decay rates or time-based retention percentages for tokenized agent memory under known perturbations, rendering the current research question untestable and invalid without empirical anchors.
+
+Next candidate: handoff to analyst to extract and verify explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1; if none exist, formulate a distinct research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1
+
+Limits: The evidence base contains no numerically specified decay or retention metrics in Kumar et al., 2024, Section 4.1, confirming the absence of time-based memory persistence data. Without such metrics, any inquiry into minimum input duration for observable memory persistence cannot proceed empirically. A bounded revision is required to first verify the presence of these metrics before formulating a valid, testable research question. After two review cycles, the lack of verifiable data remains unresolved and the current direction is invalid without empirical grounding. A distinct, data-anchored research question must be proposed based on confirmed retention values.
