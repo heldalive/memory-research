@@ -6,3 +6,4 @@ Stage: planner. Plan reviews 0/2; evidence reviews 0/2.
 
 - research-cloud-1790300715794-123efd-1-orchestrator: orchestrator — completed
 - research-cloud-1790300715794-123efd-2-manager-setup: manager_setup — completed
+- research-cloud-1790300715794-123efd-3-planner-rejected-1: planner — rejected
