@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790317467725-71e69d
-
-The research question cannot be sustained due to absence of the reported coherence score and its variation over 50 update intervals in available sources, necessitating a bounded revision to align with empirically reported metrics only.','content
-
-Next candidate: handoff to analyst to formulate a revised research question on memory retention or token efficiency in tokenized agents, using only metrics explicitly reported in available sources such as token use or recall rates
-
-Limits: No source provides the 'coherence score' metric or its variation under specified conditions, including periodic input, known perturbations, and a 100-token budget. The required empirical data is missing, and all referenced sources discuss token efficiency, memory lifecycle, or performance gains without reporting the specific coherence metric. A bounded revision is required to maintain scientific rigor and ensure alignment with explicitly reported, measurable outcomes. The current research question lacks verifiable grounding and must be rephrased to use only metrics directly observed and reported in the literature, such as token use or recall rates, without introducing unverified claims about coherence dynamics.
-
 ## research-cloud-1790319143557-3d3d51
 
 Two invalid role outputs; saved evidence retained. This is not a research finding.
@@ -35,3 +27,11 @@ The research question cannot be answered due to absence of reported per-interval
 Next candidate: handoff to analyst to formulate a revised research question on the minimum token budget required for memory retention in a tokenized agent under periodic input with known perturbations, anchored solely to the per-interval retention rate metric explicitly reported in Section 4.1 of 'Stability and Forgetting in Autoregressive Models' by Kumar et al., 2024, with a fixed update interval of 50 and a token budget of 100 tokens,
 
 Limits: No source provides explicit per-interval retention rates for a 50-token update interval and 100-token budget, as required by the original question. Both S1 and S2 lack direct quantification of retention in tokenized intervals under these conditions. Thus, the original query is empirically unsupported and must be revised to a testable, source-anchored alternative. After two reviews confirm the absence of data, a different, verifiable research question is proposed in the next task without implementation or inference beyond the evidence base.
+
+## research-cloud-1790323748783-ca4f31
+
+The research question on memory coherence under periodic input and bounded tokens cannot be answered due to absence of reported coherence score trajectories in available sources, necessitating a bounded revision to focus on empirically grounded mechanisms instead
+
+Next candidate: handoff to analyst to formulate a revised research question on token efficiency and error correction mechanisms in Voice Memory, using only explicitly reported metrics from S2 and contextual data from S1, without invoking unreported coherence scores
+
+Limits: No source provides explicit data on coherence score variation over 30 update intervals under an 80-token budget. Source S1 reports token efficiency and task accuracy, while S2 details error correction in speech recognition without coherence metrics. The inquiry lacks empirical grounding and must be redirected to directly observable, reported mechanisms to ensure validity and data fidelity. After two reviews confirm absence of required data, the direction is unverifiable and requires a shift to feasible, explicitly reported phenomena without speculative inference. A new research question must be formulated strictly from available, directly reported metrics and conditions only.
