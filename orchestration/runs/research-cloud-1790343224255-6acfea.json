@@ -2,7 +2,7 @@
   "id": "research-cloud-1790343224255-6acfea",
   "branch": "manager/research-cloud-1790343224255-6acfea",
   "goal": "handoff to analyst to extract and verify explicitly reported retention rates or update rules (e.g., per-token persistence probabilities, update frequencies) in Kumar et al., 2024, Section 4.1; if none exist, formulate a distinct research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported retention or update rules from Kumar et al",
-  "stage": "manager_plan",
+  "stage": "researcher",
   "planReviews": 2,
   "deliverableReviews": 0,
   "instances": [
@@ -39,6 +39,11 @@
     {
       "id": "research-cloud-1790343224255-6acfea-7-plan-review",
       "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790343224255-6acfea-8-manager-plan",
+      "role": "manager_plan",
       "status": "completed"
     }
   ],
