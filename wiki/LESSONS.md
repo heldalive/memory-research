@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: All memory research questions must be anchored to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unverified assumptions about metric definition or coverage must be explicitly resolved prior to further analysis or task delegation
 - manager final: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; failure to validate foundational metrics halts progress and risks misdirection in subsequent analysis and development
 - researcher: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unresolved variations or missing definitions in primary sources require revision of the research question prior to
 - deliverable review: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unverified metrics cannot form the basis of a research inquiry or hypothesis testing plan.'
@@ -40,5 +39,6 @@
 - planner: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - plan review: Memory research questions must be constrained to a single, explicitly measured and reported metric from a peer-reviewed source to ensure empirical feasibility and avoid speculative generalization.'
 - manager plan: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
+- researcher: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
