@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790352871791,
+  "updatedAt": 1790353003816,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 827,
+  "completed": 828,
   "loops": [
     {
       "id": "research-cloud-1790352470716-b159de",
       "branch": "manager/research-cloud-1790352470716-b159de",
-      "stage": "plan_review",
+      "stage": "manager_plan",
       "goal": "handoff to analyst to extract and verify explicitly reported memory retention events or persistence claims in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum duration of intermittent input required to observe a detectable memory retention event using only those claims as anchors"
     }
   ]
