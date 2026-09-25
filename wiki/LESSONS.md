@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: Always validate source accessibility and content integrity before analyzing mathematical or structural features in research preprints
 - manager plan: Always validate source accessibility and content availability before initiating any structural or mathematical analysis, particularly when investigating temporal dynamics or persistence indicators in research preprints, to prevent speculative or ungrounded evaluations of equation structure or recurrence patterns.'
 - researcher: Always verify the presence of target mathematical structures in preprints before concluding on their existence; abstracts alone are insufficient for structural analysis of time-dependent systems or memory terms in recurrent dynamics, even if the topic is relevant to AI or data analysis applications such as cell type annotation.
 - deliverable review: Always validate the presence of target mathematical structures in preprints before concluding on their absence; abstracts are insufficient for structural analysis of time-dependent or memory-related systems
@@ -40,5 +39,6 @@
 - manager final: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 - researcher: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 - deliverable review: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
+- manager final: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

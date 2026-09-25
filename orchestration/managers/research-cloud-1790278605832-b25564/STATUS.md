@@ -1,0 +1,21 @@
+# Research manager
+
+Goal: Map co-occurrence and semantic variation of the syntactic motifs 'reliability in cell type annotation', 'talk-to-machine', and 'biased data sources' in abstracts and introductions of arXiv preprints 2409.15678 to 2409.19876 using NLP; report frequency, contextual variation, and semantic clustering with high confidence.
+
+Stage: complete. Plan reviews 2/2; evidence reviews 2/2.
+
+- research-cloud-1790278605832-b25564-1-orchestrator: orchestrator — completed
+- research-cloud-1790278605832-b25564-2-manager-setup: manager_setup — completed
+- research-cloud-1790278605832-b25564-3-planner: planner — completed
+- research-cloud-1790278605832-b25564-4-plan-review: plan_review — completed
+- research-cloud-1790278605832-b25564-5-manager-plan: manager_plan — completed
+- research-cloud-1790278605832-b25564-6-planner-rejected-1: planner — rejected
+- research-cloud-1790278605832-b25564-6-planner: planner — completed
+- research-cloud-1790278605832-b25564-7-plan-review: plan_review — completed
+- research-cloud-1790278605832-b25564-8-manager-plan: manager_plan — completed
+- research-cloud-1790278605832-b25564-9-researcher: researcher — completed
+- research-cloud-1790278605832-b25564-10-deliverable-review: deliverable_review — completed
+- research-cloud-1790278605832-b25564-11-manager-final: manager_final — completed
+- research-cloud-1790278605832-b25564-12-researcher: researcher — completed
+- research-cloud-1790278605832-b25564-13-deliverable-review: deliverable_review — completed
+- research-cloud-1790278605832-b25564-14-manager-final: manager_final — completed
