@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790341531145,
+  "updatedAt": 1790341662793,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 751,
+  "completed": 752,
   "loops": [
     {
       "id": "research-cloud-1790341238280-5bd394",
       "branch": "manager/research-cloud-1790341238280-5bd394",
-      "stage": "planner",
+      "stage": "plan_review",
       "goal": "handoff to analyst to extract and verify explicitly reported decay models (e.g., exponential, polynomial, piecewise) governing memory state evolution over time in Kumar et al., 2024, Section 4.1 under known perturbations"
     }
   ]
