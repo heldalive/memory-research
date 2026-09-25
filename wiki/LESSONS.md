@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Temporal input patterns can serve as empirical anchors for detecting memory-related state dynamics when explicit mechanisms are absent in prior reports, enabling more grounded analysis without assumption of decay or persistence frameworks.
 - manager setup: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to evidence-based, empirically anchored analysis without speculative mechanisms such as decay or persistence
 - planner: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to alternative analytical frameworks without assumed decay or persistence mechanisms.'
 - plan review: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to alternative analytical approaches or hypotheses without temporal anchors.
@@ -40,5 +39,6 @@
 - manager setup: All claims regarding agent memory mechanisms must be anchored in explicit, verifiable, and conditionally defined source descriptions; absence of such data necessitates a bounded revision to establish minimal evidence standards prior to further evaluation or inference.
 - planner: All claims about agent memory persistence must be grounded in explicit, verifiable, and temporally defined source data under specific conditions; absence of such data requires a bounded revision to establish minimal evidence standards
 - plan review: Memory superiority claims must be anchored in explicit, conditionally defined source mechanisms; absence of such data necessitates a minimal, verifiable operational definition to support comparative evaluation without ungrounded assertions.'
+- manager plan: All memory superiority claims must be grounded in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to comparative evaluation claims, ensuring methodological integrity and prevent ungrounded assertions in future work
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
