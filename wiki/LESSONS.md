@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - orchestrator: Memory research must be anchored to directly reported, experimentally verified metrics from peer-reviewed sources to ensure empirical validity and avoid speculative or unsupported premises.
 - manager setup: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - planner: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
@@ -40,5 +39,6 @@
 - manager plan: All memory research questions must be formulated with explicit, direct alignment to reported metrics and experimental conditions in peer-reviewed sources to ensure empirical validity and avoid speculative inference, especially when constraints are bounded and data is limited to exact experimental reporting.'
 - researcher: All memory research questions must be grounded in explicit, direct reporting of core metrics in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative inference
 - deliverable review: Always verify explicit metric reporting in peer-reviewed sources before anchoring a research question to avoid relying on unverified or absent empirical data
+- manager final: All memory research questions must be strictly anchored to explicitly reported metrics and conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with external frameworks.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
