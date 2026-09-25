@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about memory persistence or input duration can be formed; absence of such data mandates a bounded, source-anchored inquiry that does not extrapolate or assume underlying mechanisms beyond what is explicitly
 - orchestrator: Memory research must anchor exclusively in explicitly reported, verifiable mechanisms to avoid speculative or ungrounded inferences from absent data structures or metadata claims.
 - manager setup: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about persistence or input duration can be formed; absence of such data mandates a bounded, evidence-based investigation only.
 - planner: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about persistence or input duration can be formed; absence of such data mandates a bounded, evidence-based investigation approach.'
@@ -40,5 +39,6 @@
 - deliverable review: Claims about memory decay in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates any assertion without direct source support and empirical validation is unattainable without temporal anchors in the text corpus.
 - manager final: All claims about memory decay in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates assertions without direct empirical support from source text and experimental conditions, and future research must prioritize verifiable temporal metrics over theoretical
 - researcher: All claims about memory decay in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such temporal data invalidates assertions without direct empirical support from source text and evidence.'
+- deliverable review: All claims about memory decay in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates any assertion without direct source support and empirical validation from the provided excerpts and metadata only, regardless of system design or privacy implications found
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
