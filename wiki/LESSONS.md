@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: Always require direct empirical validation from source data before asserting the existence or structure of any metadata-based research hypothesis
 - researcher: All metadata-based research hypotheses must be grounded in direct, source-verified data before any inference or analysis is conducted
 - deliverable review: All research claims involving preprint metadata or citation chains must be grounded in direct, source-verified data before any inference or analysis is conducted, especially when shared subject tags or temporal patterns are asserted without empirical validation from the source database such as arXiv API.
 - manager final: All research hypotheses involving preprint metadata or citation structures must be grounded in direct, source-verified data before any inference or analysis is conducted; untrusted or absent evidence invalidates downstream conclusions and necessitates bounded revision prior to further investigation.'
@@ -40,5 +39,6 @@
 - planner: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
 - plan review: Avoid proposing multi-dimensional, ungrounded research questions about agent memory without at least one verifiable metric from peer-reviewed literature; simplify to isolate a single, measurable outcome before comparative analysis
 - manager plan: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
+- researcher: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
