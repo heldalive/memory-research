@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined and experimentally reported metric from the primary source with confirmed experimental conditions before any comparative or implementation
 - deliverable review: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined and experimentally reported metric from the primary source with confirmed experimental conditions before any comparative or implementation
 - manager final: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined and experimentally reported metric from the primary source with confirmed experimental conditions before any comparative or implementation can proceed.
 - orchestrator: Memory research must anchor exclusively to explicitly defined, experimentally verified metrics from peer-reviewed sources to ensure empirical grounding and avoid speculative extensions.
@@ -40,5 +39,6 @@
 - manager plan: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - researcher: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - deliverable review: All memory research questions must be grounded in explicitly reported, verifiable metrics from source materials; absence of a metric in the evidence necessitates revision of the research question prior to further analysis or implementation planning.'
+- manager final: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
