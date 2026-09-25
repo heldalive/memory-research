@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790296102501,
+  "updatedAt": 1790296235142,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 451,
+  "completed": 452,
   "loops": [
     {
       "id": "research-cloud-1790295113519-e8323b",
       "branch": "manager/research-cloud-1790295113519-e8323b",
-      "stage": "researcher",
+      "stage": "deliverable_review",
       "goal": "Analyze citation and metadata propagation patterns in the preprint series 2409.15678 to 2409.19876 for inter-document linkages and inherited thematic indicators using graph-based NLP on accessible metadata fields; report clusters and structural persistence metrics with medium confidence."
     }
   ]
