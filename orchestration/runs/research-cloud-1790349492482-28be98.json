@@ -2,7 +2,7 @@
   "id": "research-cloud-1790349492482-28be98",
   "branch": "manager/research-cloud-1790349492482-28be98",
   "goal": "handoff to analyst to extract and verify explicitly reported conditional state transitions or update triggers in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum duration of periodic input required to observe a detectable state shift using only those triggers as anchors",
-  "stage": "manager_plan",
+  "stage": "planner",
   "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
@@ -24,6 +24,11 @@
     {
       "id": "research-cloud-1790349492482-28be98-4-plan-review",
       "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790349492482-28be98-5-manager-plan",
+      "role": "manager_plan",
       "status": "completed"
     }
   ],
