@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All agent memory research questions must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases and ensure alignment with observable, measurable patterns in existing literature.
 - planner: All agent memory research questions must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases and ensure alignment with primary source data definitions and boundaries.
 - plan review: All memory research questions must anchor in a single, verifiable and independently confirmable metric from peer-reviewed literature before proceeding to comparative analysis; absence of external validation data necessitates revision of scope or source alignment prior to advancement to implementation phase.
 - manager plan: All memory research questions must be anchored in a single, verifiable and independently confirmable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and acknowledged in the plan summary prior to advancement to research phase.
@@ -40,5 +39,6 @@
 - manager final: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unresolved metrics must be revised before further analysis or execution occurs and no assumptions about metric existence
 - orchestrator: Always anchor memory research to a single, explicitly defined and experimentally reported metric from peer-reviewed literature to ensure empirical grounding and avoid unverifiable extensions.
 - manager setup: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds
+- planner: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
