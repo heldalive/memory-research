@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such temporal anchors invalidates persistence assertions without direct evidence
 - planner: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such temporal anchors invalidates persistence assertions without direct evidence
 - plan review: Critical research questions requiring explicit temporal data must be deferred until verifiable source content is available to prevent inference-based claims without empirical grounding.
 - manager plan: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such temporal anchors invalidates persistence assertions without direct evidence and necessitates source-based verification before any inference is drawn or a metric is defined.'
@@ -40,5 +39,6 @@
 - researcher: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to evidence-based, temporally anchored validation protocols.'
 - deliverable review: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to evidence-based, empirically anchored claims before further assertions are made.
 - manager final: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to evidence-based, empirically anchored evaluation frameworks before any conclusions are drawn on memory dynamics
+- orchestrator: Memory dynamics must be anchored in explicitly reported, observable patterns rather than assumed or inferred mechanisms when evaluating temporal behavior in agent systems.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
