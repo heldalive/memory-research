@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-
+- [research-cloud-1790299074394-40b62b](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790299074394-40b62b): **manager setup**. Evaluate state persistence in a tokenized agent under bounded input streams with known perturbation sequences; record update trajectories and compare decay rates to baseline static input patterns using time-series analysis on output tokens; report coherence and retention metrics per update interval.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 

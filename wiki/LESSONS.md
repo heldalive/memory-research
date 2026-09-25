@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
 - plan review: Linguistic pattern analysis in scientific discourse requires verifiable source text and clear access to raw content before any NLP or semantic inference can be trusted
 - manager plan: Before analyzing linguistic patterns in scientific discourse, raw source text must be accessible and verifiable to prevent inference errors and ensure data integrity
 - planner: Linguistic pattern analysis in scientific discourse requires verifiable source text and clear access to raw content before any NLP or semantic inference can be trusted
@@ -40,5 +39,6 @@
 - researcher: All metadata-based research hypotheses must be grounded in direct, source-verified data before any inference or analysis is conducted
 - deliverable review: All research claims involving preprint metadata or citation chains must be grounded in direct, source-verified data before any inference or analysis is conducted, especially when shared subject tags or temporal patterns are asserted.
 - manager final: All research hypotheses involving preprint metadata or citation structures must be grounded in direct, source-verified data before any inference or analysis is conducted; untrusted or absent evidence invalidates downstream conclusions and must be corrected through bounded verification prior to further investigation or generalization.
+- orchestrator: Memory superiority in agent systems must be empirically validated through controlled state evolution under bounded and perturbed input, not inferred from static data patterns alone.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
