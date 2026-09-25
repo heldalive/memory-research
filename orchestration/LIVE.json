@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790303024159,
+  "updatedAt": 1790303221083,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 494,
+  "completed": 495,
   "loops": [
     {
       "id": "research-cloud-1790300715794-123efd",
       "branch": "manager/research-cloud-1790300715794-123efd",
-      "stage": "deliverable_review",
+      "stage": "manager_final",
       "goal": "Evaluate output token coherence and state update stability in a tokenized agent under intermittent input streams with known perturbations; record decay rates and retention metrics over 100 update intervals using a bounded token budget and compare to continuous static input baseline; report with per-interval coherence scores and state drift indicators."
     }
   ]

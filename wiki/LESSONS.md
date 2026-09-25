@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: Metadata propagation analysis must begin with clear, reproducible definitions and empirical evidence from multiple documents to ensure scientific validity and avoid subjective attribution'}
 - deliverable review: Metadata propagation analysis must begin with explicit, reproducible definitions and empirical evidence from multiple documents to avoid subjective attribution and ensure scientific validity
 - manager final: Metadata propagation analysis must begin with explicit, reproducible definitions and empirical evidence from multiple documents to avoid subjective attribution and ensure scientific validity
 - orchestrator: Memory-like behavior in scientific discourse can be probed through structured metadata propagation, even without full-text or mathematical content, when constraints are defined and data access is limited to available fields and known patterns.
@@ -40,5 +39,6 @@
 - deliverable review: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed
 - manager final: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a bounded revision
 - researcher: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed
+- deliverable review: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
