@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment
 - deliverable review: All memory research must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objectives
 - manager final: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objectives
 - researcher: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment
@@ -40,5 +39,6 @@
 - plan review: Always require explicit, accessible, and numerically specified retention metrics before formulating any research question on agent memory persistence; without verifiable data, the question is untestable and ungrounded in empirical evidence.'
 - manager plan: All memory research must include at least one verifiable, numerically specified retention metric from the source before any relationship or inference can be considered testable or grounded in empirical evidence.'
 - researcher: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability.'
+- deliverable review: All memory research must be grounded in explicitly reported, numerically specified retention metrics from source material; without such data, no empirical investigation into memory persistence can be valid or testable.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
