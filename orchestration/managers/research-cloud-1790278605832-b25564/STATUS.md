@@ -2,7 +2,7 @@
 
 Goal: Map co-occurrence and semantic variation of the syntactic motifs 'reliability in cell type annotation', 'talk-to-machine', and 'biased data sources' in abstracts and introductions of arXiv preprints 2409.15678 to 2409.19876 using NLP; report frequency, contextual variation, and semantic clustering with high confidence.
 
-Stage: manager_final. Plan reviews 2/2; evidence reviews 1/2.
+Stage: researcher. Plan reviews 2/2; evidence reviews 1/2.
 
 - research-cloud-1790278605832-b25564-1-orchestrator: orchestrator — completed
 - research-cloud-1790278605832-b25564-2-manager-setup: manager_setup — completed
@@ -15,3 +15,4 @@ Stage: manager_final. Plan reviews 2/2; evidence reviews 1/2.
 - research-cloud-1790278605832-b25564-8-manager-plan: manager_plan — completed
 - research-cloud-1790278605832-b25564-9-researcher: researcher — completed
 - research-cloud-1790278605832-b25564-10-deliverable-review: deliverable_review — completed
+- research-cloud-1790278605832-b25564-11-manager-final: manager_final — completed
