@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All memory research must be strictly grounded in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur, and source data must be verifiable and accessible prior to plan advancement.'
 - planner: All memory research must be anchored in at least one directly cited, numerically specified retention metric before any analysis of memory persistence can be considered empirically valid or testable
 - plan review: All memory research must be strictly anchored in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur, and source data must be verifiable and accessible prior to further analysis or plan advancement.'
 - manager plan: All memory research must be strictly grounded in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur, and source data must be verifiable and accessible prior to plan advancement or execution.'
@@ -40,5 +39,6 @@
 - orchestrator: When prior research questions fail due to absence of explicit, numerically reported data, pivot to a more specific and narrowly defined data point (e.g., thresholds instead of decay rates) to preserve testability and avoid unbounded hypothesis generation without empirical anchors in the source material, ensuring all subsequent inquiries remain
 - manager setup: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a pivot to a narrowly defined, testable question based solely on explicitly reported thresholds
 - planner: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a pivot to a narrowly defined, testable data point such as minimum retention duration thresholds
+- plan review: When primary sources lack explicit, numerically specified, and time-bound metrics, pivot immediately to a narrowly defined, data-anchored research question to preserve testability and avoid speculative generalizations without empirical grounding in the source text and metadata.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
