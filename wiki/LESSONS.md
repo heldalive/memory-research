@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All memory persistence claims in tokenized agents must be strictly grounded in explicitly stated mechanisms from primary sources; absence of such data constitutes a null result and must be formally documented without inference or extrapolation to preserve research integrity and testability.
 - researcher: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance thresholds or conditional update triggers from primary sources to ensure testability and avoid systemic bias
 - deliverable review: Memory research in tokenized agents must remain strictly anchored to explicitly stated mechanisms in primary sources; any inference beyond direct assertions constitutes invalid research under observational constraints and must be excluded.'
 - manager final: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance mechanisms from primary sources; absence of such data must be formally documented as a null result without extrapolation or inference to preserve research integrity and testability.
@@ -40,5 +39,6 @@
 - orchestrator: Temporal input patterns can serve as empirical anchors for detecting memory-related state dynamics when explicit mechanisms are absent in prior reports, enabling more grounded analysis without assumption of decay or persistence frameworks.
 - manager setup: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to evidence-based, empirically anchored analysis without speculative mechanisms such as decay or persistence
 - planner: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to alternative analytical frameworks without assumed decay or persistence mechanisms.'
+- plan review: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to alternative analytical approaches or hypotheses without temporal anchors.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
