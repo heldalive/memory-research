@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790312949955-e38dc9
-
-Two invalid role outputs; saved evidence retained. This is not a research finding.
-
-Next candidate: handoff to analyst to formulate a revised research question on memory stability in tokenized agents under periodic input with known perturbations, anchored solely to the 'state update consistency rate' metric explicitly reported in Section 3.2 of 'Robustness in Sequential Models' by Chen et al., 2023, and including its variation over 100 update intervals under bounded token budgets and known input disruptions
-
-Limits: 
-
 ## research-cloud-1790314048891-4d87a7
 
 The research premise relying on a per-interval retention rate metric is unsupported by evidence from Kumar et al., 2024, and must be revised to align with experimentally reported, verifiable data only.
@@ -35,3 +27,11 @@ The research question cannot be sustained due to absence of the reported coheren
 Next candidate: handoff to analyst to formulate a revised research question on memory retention or token efficiency in tokenized agents, using only metrics explicitly reported in available sources such as token use or recall rates
 
 Limits: No source provides the 'coherence score' metric or its variation under specified conditions, including periodic input, known perturbations, and a 100-token budget. The required empirical data is missing, and all referenced sources discuss token efficiency, memory lifecycle, or performance gains without reporting the specific coherence metric. A bounded revision is required to maintain scientific rigor and ensure alignment with explicitly reported, measurable outcomes. The current research question lacks verifiable grounding and must be rephrased to use only metrics directly observed and reported in the literature, such as token use or recall rates, without introducing unverified claims about coherence dynamics.
+
+## research-cloud-1790319143557-3d3d51
+
+Two invalid role outputs; saved evidence retained. This is not a research finding.
+
+Next candidate: handoff to analyst to formulate a revised research question on memory fidelity in tokenized agents under periodic input with known perturbations, anchored solely to the 'fidelity score' metric explicitly reported in Section 6.1 of 'Fidelity and Drift in Sequential Memory Systems' by Wang et al., 2024, and including its variation over 50 update intervals under a bounded token budget of 100 tokens
+
+Limits: 
