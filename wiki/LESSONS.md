@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Metadata networks can serve as a proxy for thematic persistence when full-text or mathematical content is unavailable, enabling faster hypothesis generation in memory research without requiring full equation or linguistic analysis.
 - manager setup: Metadata propagation analysis in scientific literature must be anchored in verifiable, accessible data fields before any inference of thematic continuity can be made
 - planner: Metadata propagation analysis must be grounded in verifiable, accessible source fields before any inference of thematic continuity can be trusted, and manual audit of public metadata is sufficient for initial pattern observation without NLP or full-text processing.
 - plan review: Pattern identification in metadata must be preceded by source validation and clear operational definitions of 'propagation chain' and 'structural persistence' to ensure reproducibility
@@ -40,5 +39,6 @@
 - deliverable review: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
 - manager final: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
 - orchestrator: Memory in agent systems is most reliably observed under controlled, perturbed input conditions with measurable output metrics, not in unstructured or data-scarce environments such as preprint metadata chains or abstracts alone.
+- manager setup: Memory superiority in tokenized agents must be demonstrated through direct, time-series empirical data with explicit decay and coherence metrics under controlled, perturbed input conditions before comparative claims are made.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
