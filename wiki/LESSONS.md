@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research must first verify explicit, mathematically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis proceeds; absence of such data requires a bounded revision to a testable, evidence-based question only grounded in direct source content and extractable parameters without inference
 - deliverable review: All memory research must first verify the explicit presence of mathematically defined, time-bound decay models in primary sources before proceeding to any further analysis or hypothesis generation; absence of such data mandates a bounded revision to a testable question grounded solely in extractable source content.'
 - manager final: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data necessitates a bounded revision to a testable, source-grounded question without premature inference or external assumptions.
 - researcher: All memory research must first verify explicit, mathematically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis proceeds; absence of such data requires a bounded revision to a testable question grounded solely in explicit source content and verifiable parameters.'
@@ -40,5 +39,6 @@
 - plan review: When no explicit mechanisms are present in the source, the research must be revised to acknowledge the absence of foundational data and pivot to a null or exploratory inquiry grounded solely in verifiable source content
 - manager plan: All memory research must begin with direct, verifiable evidence of time-bound state dynamics in primary sources; absence of such evidence mandates a bounded, source-anchored inquiry that does not extrapolate or assume underlying mechanisms beyond explicit textual reporting.'
 - planner: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream hypothesis can be formed; absence of such data mandates a bounded, source-anchored inquiry that does not extrapolate or assume underlying mechanisms.'
+- plan review: When no explicit time-bound state dynamics are present in a source, all memory-related research must be revised to a null or exploratory inquiry grounded solely in directly stated mechanisms, without extrapolation or assumption.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
