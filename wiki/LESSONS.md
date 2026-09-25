@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Always validate the presence of target mathematical structures in preprints before concluding on their absence; abstracts are insufficient for structural analysis of time-dependent or memory-related systems
 - manager final: Always require full-text access and explicit mathematical content before asserting the presence or absence of time-dependent or memory-related structures in research preprints; abstracts are insufficient for structural analysis of recurrent systems or persistence mechanisms, even when the topic appears relevant at a conceptual level.
 - orchestrator: When prior data sources are inaccessible, shift focus to full-text mathematical content as a primary proxy for latent temporal state indicators in scientific discourse, avoiding redundant network or linguistic analysis attempts that lack verifiable input data access.
 - manager setup: Always anchor analysis of temporal or memory-like behavior in explicit mathematical structures before inferring latent dynamics; full-text equations are essential, and linguistic or abstract content must be excluded to prevent misinterpretation or bias in evidence collection and evaluation.
@@ -40,5 +39,6 @@
 - manager final: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 - orchestrator: Metadata networks can serve as a proxy for thematic persistence when full-text or mathematical content is unavailable, enabling faster hypothesis generation in memory research without requiring full equation or linguistic analysis.
 - manager setup: Metadata propagation analysis in scientific literature must be anchored in verifiable, accessible data fields before any inference of thematic continuity can be made
+- planner: Metadata propagation analysis must be grounded in verifiable, accessible source fields before any inference of thematic continuity can be trusted, and manual audit of public metadata is sufficient for initial pattern observation without NLP or full-text processing.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
