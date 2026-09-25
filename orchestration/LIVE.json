@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790307229499,
+  "updatedAt": 1790307360874,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 523,
+  "completed": 524,
   "loops": [
     {
       "id": "research-cloud-1790306998056-470958",
       "branch": "manager/research-cloud-1790306998056-470958",
-      "stage": "planner",
+      "stage": "plan_review",
       "goal": "handoff to analyst to formulate a revised research question on output token coherence decay in tokenized agents under intermittent input with bounded token budgets and known perturbations, anchored to 'Coherence in Autoregressive Models' by Zhang et al., 2023, and including per-interval drift scores and decay rate metrics over 100 update intervals"
     }
   ]
