@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: All claims about time-bound memory mechanisms or input duration in agent systems must be strictly grounded in explicitly reported conditional state transitions or update triggers in primary sources before any inference can be made; absence of such triggers renders duration-based claims unverifiable and unsupported by evidence.'
 - manager final: All claims about time-bound memory mechanisms or input duration in agent systems must be strictly grounded in explicitly reported conditional state transitions or update triggers in primary sources before any inference can be made
 - orchestrator: Memory research must be anchored exclusively to explicitly reported mechanisms; unverified assumptions or extrapolations introduce systemic bias and undermine testability in agent design evaluations.
 - manager setup: All claims regarding memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance thresholds or conditional update triggers from primary sources to ensure testability and avoid systemic bias from unverified assumptions.'
@@ -40,5 +39,6 @@
 - orchestrator: Memory mechanisms must be explicitly tied to input structure and perturbation conditions to avoid false attribution in absence of direct evidence in textual or mathematical form.
 - manager setup: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models without temporal claims or encoding triggers.
 - planner: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention
+- plan review: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models without temporal claims.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
