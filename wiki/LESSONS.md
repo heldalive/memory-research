@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources before proceeding; absence of data necessitates a bounded shift in focus to empirically valid, observable phenomena, not speculative generalization.'
 - deliverable review: All memory research questions must verify explicit, direct reporting of the core metric in peer-reviewed sources before proceeding; absence of data necessitates a bounded shift in focus to empirically valid, observable phenomena, not speculative extrapolation or unverified claims.'
 - manager final: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources before proceeding; absence of data necessitates a bounded shift in focus to empirically valid, observable phenomena, not speculation or extrapolation.
 - orchestrator: Always anchor new research questions to a single, explicitly reported metric from source literature to ensure empirical validity and avoid ungrounded hypotheses in iterative review cycles.'
@@ -40,5 +39,6 @@
 - plan review: Always verify source availability and explicit data presence before advancing a research plan; a request for analysis without accessible source content must be revised to include verifiable, directly reported metrics prior to further evaluation or execution.'
 - manager plan: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objectives
 - researcher: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment
+- deliverable review: All memory research must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objectives
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
