@@ -4,6 +4,6 @@ handoff to analyst to formulate a revised research question on the minimum token
 
 Next role: researcher.
 
-handoff to analyst to refine research question to focus on a single, directly measurable retention threshold from Kumar et al., 2024, under periodic input and bounded token budgets, with explicit update interval and token budget conditions, and limited to one experimentally reported retention metric only
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
