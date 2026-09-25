@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - planner: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - plan review: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - manager plan: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
@@ -40,5 +39,6 @@
 - deliverable review: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inference.'
 - manager final: All memory research questions must be grounded in explicit, direct reporting of core metrics in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative inference or untestable assumptions.'
 - orchestrator: Always anchor new research questions to explicitly reported, empirically validated metrics from source documents to ensure data integrity and avoid speculative or ungrounded inquiry.
+- manager setup: All memory research questions must be anchored to explicitly reported, empirically validated metrics from peer-reviewed sources under exact experimental conditions to ensure data integrity and avoid speculative inference.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
