@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unresolved variations or missing definitions in primary sources require revision of the research question prior to
 - deliverable review: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unverified metrics cannot form the basis of a research inquiry or hypothesis testing plan.'
 - manager final: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unresolved metrics must be revised before further analysis or execution occurs and no assumptions about metric existence
 - orchestrator: Always anchor memory research to a single, explicitly defined and experimentally reported metric from peer-reviewed literature to ensure empirical grounding and avoid unverifiable extensions.
@@ -40,5 +39,6 @@
 - manager plan: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - researcher: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - deliverable review: All memory research questions must be anchored to a single, explicitly measured and reported metric from peer-reviewed sources to ensure empirical feasibility and avoid speculative generalization.'
+- manager final: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization, with revision required if data gaps exceed one directly measured instance per query cycle.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
