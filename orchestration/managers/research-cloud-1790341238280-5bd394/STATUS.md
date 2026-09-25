@@ -2,7 +2,7 @@
 
 Goal: handoff to analyst to extract and verify explicitly reported decay models (e.g., exponential, polynomial, piecewise) governing memory state evolution over time in Kumar et al., 2024, Section 4.1 under known perturbations
 
-Stage: deliverable_review. Plan reviews 2/2; evidence reviews 1/2.
+Stage: manager_final. Plan reviews 2/2; evidence reviews 2/2.
 
 - research-cloud-1790341238280-5bd394-1-orchestrator: orchestrator — completed
 - research-cloud-1790341238280-5bd394-2-manager-setup: manager_setup — completed
@@ -16,3 +16,4 @@ Stage: deliverable_review. Plan reviews 2/2; evidence reviews 1/2.
 - research-cloud-1790341238280-5bd394-10-deliverable-review: deliverable_review — completed
 - research-cloud-1790341238280-5bd394-11-manager-final: manager_final — completed
 - research-cloud-1790341238280-5bd394-12-researcher: researcher — completed
+- research-cloud-1790341238280-5bd394-13-deliverable-review: deliverable_review — completed
