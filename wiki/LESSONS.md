@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models without temporal encoding claims.'
 - deliverable review: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based or lifecycle-based models without temporal encoding claims.
 - manager final: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based or alternative coherence models, with all future claims requiring verifiable temporal triggers
 - orchestrator: Temporal input patterns can serve as empirical anchors for detecting memory-related state dynamics when explicit mechanisms are absent in prior reports, enabling more grounded analysis without assumption of decay or persistence frameworks.
@@ -40,5 +39,6 @@
 - deliverable review: All claims about agent memory persistence must be grounded in explicit, verifiable source descriptions under defined conditions; absence of such data requires a bounded revision to clarify evidence requirements before proceeding to evaluation or comparison.'
 - manager final: All claims about agent memory persistence must be grounded in explicit, verifiable, and temporally defined source data under specific conditions; absence of such data requires a bounded revision to establish minimal evidence standards before comparative analysis can proceed safely and fairly.'
 - orchestrator: Memory superiority claims require explicit, verifiable mechanisms under defined perturbation conditions; absence of such mechanisms invalidates state coherence assertions without alternative anchoring metrics for evaluation.
+- manager setup: All claims regarding agent memory mechanisms must be anchored in explicit, verifiable, and conditionally defined source descriptions; absence of such data necessitates a bounded revision to establish minimal evidence standards prior to further evaluation or inference.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
