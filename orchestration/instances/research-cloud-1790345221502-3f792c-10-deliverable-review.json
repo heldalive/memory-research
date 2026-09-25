@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1790345221502-3f792c-10-deliverable-review",
+  "role": "deliverable_review",
+  "status": "completed",
+  "at": 1790346592862,
+  "answer": {
+    "summary": "No explicitly reported state update mechanisms such as per-token rules, conditional transitions, or update frequencies exist in Kumar et al., 2024, Section 4.1 as per the provided excerpts.",
+    "content": "Source S1 discusses membership inference attacks on agent memory but does not describe any state update rules, per-token dynamics, or conditional transitions. Source S2 outlines a memory lifecycle including ingestion, retrieval, and revision but fails to specify update frequencies or per-token state evolution. Thus, no verifiable update mechanisms are present to support a research question on minimum input duration for memory persistence. The claim of explicit state update mechanisms is unsupported and must be revised based on actual source content.",
+    "decision": "revise",
+    "search": "https://arxiv.org/abs/2605.27825v1",
+    "sources": "S1,S2",
+    "nextTask": "handoff to analyst to extract and verify explicitly reported state update mechanisms (e.g., per-token update rules, conditional transitions, or update frequencies) in Kumar et al., 2024, Section 4.1 under known perturbations; if none exist, propose a bounded research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent, anchored solely to explicitly reported update rules from the source",
+    "lesson": "All memory research must be predicated on direct, verifiable evidence of state update mechanisms in primary sources before any downstream hypothesis or research question can proceed; absence of such evidence mandates a bounded, source-anchored inquiry only after explicit rule extraction is confirmed and documented in the text.'"
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 336,
+  "inputTokens": 1860,
+  "durationMs": 14432,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2605.27825v1",
+      "title": "MRMMIA: Membership Inference Attacks on Memory in Chat Agents",
+      "excerpt": "Abstract: Membership inference attacks (MIAs) test whether a target data record belongs to a system's private data, and have become a standard tool to measure privacy leakage in machine learning systems. Prior work has primarily focused on training corpora or retrieval databases. However, MIAs against agent memory have received less attention, even though such memory can contain sensitive user-agent interactions, retrieved facts, and user preferences. Therefore, in this work, we focus on chat agent memory MIAs, where an adversary infers whether a candidate memory unit belongs to the chat agent's memory store. We propose Multi-Recall Memory MIA (MRMMIA), a unified attack that utilizes multiple recall probes to the agent to extract the membership signal across black-box, gray-box, and white-box settings. Our experiments demonstrate that MRMMIA consistently outperforms baselines. Our results expose the privacy risk in agents and provide an initial evaluation framework for membership leakage in chat-agent memory systems.",
+      "checkedAt": 1790346428353,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "ddb5034b19d1475bc9be615b95cd92659bddfd0bab1273e92ac6f753d6440c6f",
+      "discovery": {
+        "query": "https://doi.org/10.1145/3612859.3612878",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    },
+    {
+      "id": "S2",
+      "url": "https://arxiv.org/abs/2607.13157v1",
+      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+      "excerpt": "Abstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery of user-specific facts and preferences across sessions, and accumulation of procedural knowledge from prior outcomes. These requirements extend beyond document retrieval: a memory layer must determine which interactions become durable state, how that state is scoped, how it is retrieved under latency constraints, and how it is revised or removed over time. This report studies Oracle Agent Memory as a database-native memory substrate built on Oracle Database. Three themes organize the discussion: memory as a lifecycle spanning ingestion, extraction, consolidation, retrieval, summarization, and revision or removal; a layered architecture that separates an active memory core from a passive memory-store interface with explicit scope control across users, agents, and threads; and evaluation methodology in which downstream task accuracy is complemented by memory-centric measures such as evidence retrieval, recall, latency, and estimated token use. The report summarizes LongMemEval results, reaching 93.8% accuracy, compares Oracle Agent Memory against flat-history baselines, using about 10.7x fewer tokens, and published or reported external baselines where available, and closes with implementation-oriented appendix material covering setup, thread lifecycle, and search semantics.",
+      "checkedAt": 1790346428353,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "849bddf647fb0a452c290076c3893db9869c6505d5f1ab071d0bbe910f6d4818",
+      "discovery": {
+        "query": "https://doi.org/10.1145/3612859.3612878",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    }
+  ]
+}
