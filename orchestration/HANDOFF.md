@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790351467082-a744c5
-
-Two invalid role outputs; saved evidence retained. This is not a research finding.
-
-Next candidate: handoff to analyst to extract and verify explicitly reported token budget allocations or state maintenance thresholds in Kumar et al., 2024, Section 4.1 under intermittent input and known perturbations; if any exist, define the minimal token budget required for observable memory persistence in a tokenized agent using only those thresholds as anchors
-
-Limits: 
-
 ## research-cloud-1790352470716-b159de
 
 No explicit memory retention events or persistence mechanisms under intermittent input are reported in Kumar et al., 2024, Section 4.1, and thus no minimum duration for detecting such retention can be defined from the available claims alone.
@@ -35,3 +27,11 @@ Two invalid role outputs; saved evidence retained. This is not a research findin
 Next candidate: handoff to analyst to extract and verify explicitly reported memory update policies that activate upon specific temporal patterns of input in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the shortest observed interval between inputs that triggers a detectable memory update event as an anchor for persistence claims
 
 Limits: 
+
+## research-cloud-1790357358303-dcd899
+
+No explicit memory encoding mechanisms in response to structured temporal input patterns are reported in Kumar et al., 2024, Section 4.1, and thus claims of time-bound encoding remain unverified and unsupported by evidence.
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory encoding mechanisms in response to structured temporal input patterns under known perturbations; if any exist, define the minimal sequence length or temporal pattern that triggers a detectable encoding event as an anchor for state coherence claims. If no such mechanisms are found, propose a different research question on how memory is maintained across
+
+Limits: After two review cycles and comprehensive inspection of available sources, no textual evidence confirms the existence of detectable memory encoding triggered by structured temporal input or perturbations. The section describes retention and attack vulnerabilities but fails to define a minimal sequence length or temporal pattern that induces encoding. Without such explicit reporting, assertions of state coherence through temporal encoding cannot be validated and must be reframed as retention-based claims. A bounded revision is requested to retrieve and inspect the target section for explicit descriptions of encoding mechanisms under defined perturbations; if any exist, define the minimal sequence length or temporal pattern that triggers a detectable event as an anchor for state coherence claims. This remains a critical gap in the current evidence base for agent memory systems.
