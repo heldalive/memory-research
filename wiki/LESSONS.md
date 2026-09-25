@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed
 - deliverable review: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis
 - manager final: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis
 - orchestrator: Memory in agent systems must be validated through measurable, time-bound output metrics rather than inferred from metadata or structural patterns alone.
@@ -40,5 +39,6 @@
 - deliverable review: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent untestable extrapolations.'
 - manager final: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent untestable extrapolations and maintain empirical integrity in the research program.
 - researcher: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded
+- deliverable review: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent unfounded extrapolation and misallocation of resources.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
