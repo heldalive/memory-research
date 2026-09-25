@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790278605832-b25564
-
-The task remains unfeasible due to lack of accessible full-text preprint data, preventing verification of motif co-occurrence or semantic variation in scientific literature.
-
-Next candidate: Request full text access and inspection of abstracts and introductions for preprints 2409.15678 to 2409.19876; if unavailable, propose a new research question on agent memory in scientific literature focused on metadata patterns or citation networks instead of syntactic motifs
-
-Limits: No full-text access to arXiv preprints 2409.15678 to 2409.19876 was provided, rendering all NLP-based claims about syntactic motifs unverifiable. The absence of source text prevents construction of a cross-preprint consistency matrix or semantic clustering. A bounded revision is required to obtain raw text before any linguistic analysis can proceed with confidence. Without this, the research cannot establish frequency, contextual variation, or co-occurrence patterns of the specified motifs in scientific discourse. A different, data-grounded research question is now proposed to preserve the research program's momentum without unverified inference.
-
 ## research-cloud-1790295113519-e8323b
 
 No empirical evidence of metadata propagation or thematic inheritance exists across the specified preprint range, and current analysis lacks cross-document validation to support structural claims.
@@ -35,3 +27,11 @@ No peer-reviewed studies currently provide empirical evidence of tokenized agent
 Next candidate: Find peer-reviewed studies that analyze time-series output token trajectories and quantify decay rates in tokenized agents under known perturbation sequences versus static input streams; prioritize works with explicit coherence and retention metrics in output tokens; include at least one study with downstream task performance as a proxy for coherence over time
 
 Limits: After reviewing available literature, no studies meet the objective's requirement for time-series analysis of output token trajectories with explicit decay and coherence metrics under known perturbations. The existing works discuss memory lifecycle or privacy risks without demonstrating controlled state evolution or retention dynamics. A bounded revision is necessary to locate primary sources with direct, measurable decay rate comparisons before any comparative analysis can proceed. This confirms the absence of empirical validation for claims of superior memory management in tokenized agents under dynamic input conditions.
+
+## research-cloud-1790300715794-123efd
+
+No peer-reviewed studies provide time-series data on output token coherence, state decay, or drift in tokenized agents under intermittent input with bounded token budgets; current evidence is limited to indirect indicators of stability in economic simulations and
+
+Next candidate: reframe the research question to focus on measurable, time-series output token coherence and state drift in tokenized agents under intermittent input with known perturbations, specifically including per-interval metrics under a bounded token budget and explicit time-frames for decay and stability
+
+Limits: After two review cycles, no studies report per-interval output token coherence or quantified state decay under intermittent, perturbed input streams with bounded token budgets. S2's economic simulation shows stable behavior without measurable memory impact, while S1's bitemporal framework addresses belief consistency but lacks output-level metrics. The research goal remains unfeasible without direct, time-series empirical data on token-level coherence and drift metrics under controlled conditions. A bounded revision is required to define a measurable, data-rich subset of conditions before further analysis can proceed.
