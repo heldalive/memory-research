@@ -2,7 +2,7 @@
 
 Goal: Evaluate output token coherence and state update stability in a tokenized agent under intermittent input streams with known perturbations; record decay rates and retention metrics over 100 update intervals using a bounded token budget and compare to continuous static input baseline; report with per-interval coherence scores and state drift indicators.
 
-Stage: planner. Plan reviews 1/2; evidence reviews 0/2.
+Stage: plan_review. Plan reviews 1/2; evidence reviews 0/2.
 
 - research-cloud-1790300715794-123efd-1-orchestrator: orchestrator — completed
 - research-cloud-1790300715794-123efd-2-manager-setup: manager_setup — completed
@@ -11,3 +11,4 @@ Stage: planner. Plan reviews 1/2; evidence reviews 0/2.
 - research-cloud-1790300715794-123efd-4-plan-review: plan_review — completed
 - research-cloud-1790300715794-123efd-5-manager-plan: manager_plan — completed
 - research-cloud-1790300715794-123efd-6-planner-rejected-1: planner — rejected
+- research-cloud-1790300715794-123efd-6-planner: planner — completed
