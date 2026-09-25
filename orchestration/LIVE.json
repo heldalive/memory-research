@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790349887205,
+  "updatedAt": 1790350019287,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 808,
+  "completed": 809,
   "loops": [
     {
       "id": "research-cloud-1790349492482-28be98",
       "branch": "manager/research-cloud-1790349492482-28be98",
-      "stage": "plan_review",
+      "stage": "manager_plan",
       "goal": "handoff to analyst to extract and verify explicitly reported conditional state transitions or update triggers in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum duration of periodic input required to observe a detectable state shift using only those triggers as anchors"
     }
   ]

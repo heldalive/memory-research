@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-anchored approach to question formulation and investigation.'
 - plan review: All memory research must first establish explicit, numerically specified retention or update rules in primary sources before any downstream inference or hypothesis can proceed; absence of such data mandates a bounded, source-anchored revision of the research question.'
 - manager plan: All memory research must first verify the explicit presence of numerically defined, time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-anchored revision to preserve methodological integrity and rigor.'
 - researcher: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-anchored revision of the research question.'
@@ -40,5 +39,6 @@
 - orchestrator: Memory research must anchor exclusively in explicitly reported, verifiable mechanisms to avoid speculative or ungrounded inferences from absent data structures or metadata claims.
 - manager setup: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about persistence or input duration can be formed; absence of such data mandates a bounded, evidence-based investigation only.
 - planner: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about persistence or input duration can be formed; absence of such data mandates a bounded, evidence-based investigation approach.'
+- plan review: All memory research must begin with direct access to and inspection of primary source text before any claims about time-bound mechanisms or input duration can be formed; absence of source data precludes any conclusions regardless of question formulation quality or precision.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
