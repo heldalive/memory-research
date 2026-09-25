@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis
 - orchestrator: Memory in agent systems must be validated through measurable, time-bound output metrics rather than inferred from metadata or structural patterns alone.
 - manager setup: All claims about agent memory performance must be anchored in time-series linguistic embedding data from peer-reviewed studies under controlled, bounded input conditions before comparative analysis is valid.'
 - planner: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis is valid.'
@@ -40,5 +39,6 @@
 - researcher: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded
 - deliverable review: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent unfounded extrapolation and misallocation of resources.
 - manager final: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent unfounded extrapolation and ensure empirical testability.'
+- orchestrator: Memory research must be anchored to a single, explicitly reported metric from peer-reviewed literature to avoid ungrounded generalizations and ensure empirical validity in time-series analysis of agent behavior.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
