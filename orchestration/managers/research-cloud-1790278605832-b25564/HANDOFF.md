@@ -2,7 +2,7 @@
 
 Map co-occurrence and semantic variation of the syntactic motifs 'reliability in cell type annotation', 'talk-to-machine', and 'biased data sources' in abstracts and introductions of arXiv preprints 2409.15678 to 2409.19876 using NLP; report frequency, contextual variation, and semantic clustering with high confidence. Include a cross-preprint consistency matrix and avoid any
 
-Next role: deliverable_review.
+Next role: manager_final.
 
 Request full text access and inspection of abstracts and introductions for preprints 2409.15678 to 2409.19876 prior to NLP analysis
 
