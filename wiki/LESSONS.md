@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - researcher: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - deliverable review: All memory research questions must verify the presence and explicit reporting of the core metric in peer-reviewed sources before proceeding; absence of data invalidates the empirical foundation of the inquiry.'
 - manager final: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources before proceeding; absence of data necessitates a bounded shift in focus to empirically valid, observable phenomena, not theoretical or implied metrics.'
@@ -40,5 +39,6 @@
 - planner: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objectives.'
 - plan review: Always verify source availability and data presence before advancing a research plan; a request for evidence without source content cannot proceed without revision or halt.
 - manager plan: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objectives and experimental conditions, and must trigger a revision before any advancement occurs.
+- planner: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
