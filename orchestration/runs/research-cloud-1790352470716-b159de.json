@@ -2,9 +2,9 @@
   "id": "research-cloud-1790352470716-b159de",
   "branch": "manager/research-cloud-1790352470716-b159de",
   "goal": "handoff to analyst to extract and verify explicitly reported memory retention events or persistence claims in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum duration of intermittent input required to observe a detectable memory retention event using only those claims as anchors",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 1,
-  "deliverableReviews": 1,
+  "deliverableReviews": 2,
   "instances": [
     {
       "id": "research-cloud-1790352470716-b159de-1-orchestrator",
@@ -49,6 +49,11 @@
     {
       "id": "research-cloud-1790352470716-b159de-9-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790352470716-b159de-10-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
