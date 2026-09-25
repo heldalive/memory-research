@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790309117308-fdb063
-
-The per-interval retention metric from Kumar et al., 2024 lacks definition and empirical validation in the inspected sources, and no source reports its measurement under intermittent input or bounded token budgets. A bounded revision is required to anchor the inquiry
-
-Next candidate: handoff to analyst to formulate a revised research question on memory retention probability in tokenized agents under intermittent input with known perturbations, anchored solely to an explicitly defined and experimentally verified per-interval retention metric measured under bounded token budgets and over 100 update intervals, with direct citation from Kumar et al., 2024
-
-Limits: No source provides a clear definition, measurement protocol, or experimental data for the per-interval retention metric in Section 4.1 under the specified conditions. The metric and its variation over 100 update intervals remain unverified, and all evidence points to a gap in the primary source's reporting. A revised research question must be strictly anchored to an explicitly defined and experimentally verified metric before further analysis can proceed. After two review cycles, the uncertainty persists despite consistent findings across roles and sources. A different, bounded research question is now required to proceed safely and rigorously.
-
 ## research-cloud-1790311363315-831725
 
 The research question cannot proceed due to the absence of a defined and experimentally reported 'semantic drift rate' metric in Patel et al., 2023, necessitating a bounded revision before further evaluation.
@@ -35,3 +27,11 @@ The research premise relying on a per-interval retention rate metric is unsuppor
 Next candidate: handoff to analyst to revise research question to focus on token efficiency and memory lifecycle in Oracle Agent Memory under intermittent input, using only metrics explicitly reported in Kumar et al., 2024, and include variation over 100 update intervals with bounded token budgets and known perturbations; if no such data exists, propose an alternative metric from the paper's experimental evaluation section
 
 Limits: No source provides empirical data on per-interval retention rate variation over 100 update intervals under bounded token budgets and known perturbations. The requested metric is not reported in Section 4.1 or elsewhere in the inspected excerpts, and the research question lacks grounding in verifiable source data. A bounded revision is required to shift focus to a measurable, reported metric such as token efficiency or memory lifecycle performance without speculative generalization. After this revision, a second review will assess fidelity to source evidence before advancing the research program.
+
+## research-cloud-1790315583065-b9812a
+
+The original research question lacks empirical support due to absence of experimentally reported retention thresholds under periodic input and bounded token budgets in the inspected sources. A bounded revision is required before proceeding to the next review stage
+
+Next candidate: handoff to analyst to refine research question to focus on a single, directly measurable retention threshold from Kumar et al., 2024 (Section 4.1) under periodic input and bounded token budgets, with explicit update interval (e.g., 50 intervals) and token budget (e.g., 100 tokens), and limited to one replication, ensuring alignment with experimentally reported metrics only
+
+Limits: No source provides retention thresholds across 50 update intervals with bounded token budgets under periodic input. Kumar et al., 2024 (Section 4.1) only reports static retention under non-periodic conditions. The requested data is absent, making the original query empirically unsupported. A revised, narrowly focused question on a single, directly measured retention metric from the paper is necessary to ensure empirical validity and avoid speculation. The current evidence does not support advancement or completion of the original query; a bounded revision is required prior to the second review stage as mandated by the manager's protocol and lesson learned from prior failures in anchoring to measurable data.
