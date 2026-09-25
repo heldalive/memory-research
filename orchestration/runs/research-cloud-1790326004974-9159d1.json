@@ -1,0 +1,81 @@
+{
+  "id": "research-cloud-1790326004974-9159d1",
+  "branch": "manager/research-cloud-1790326004974-9159d1",
+  "goal": "handoff to analyst to investigate how memory decay manifests in a tokenized agent under periodic input with known perturbations, focusing exclusively on the rate of token reduction per update interval and its correlation with observed state drift, using only explicitly reported token usage and retention trends from Kumar et al., 2024, Section 4.1",
+  "stage": "complete",
+  "planReviews": 2,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1790326004974-9159d1-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-6-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-7-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-8-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-12-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-13-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-14-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}

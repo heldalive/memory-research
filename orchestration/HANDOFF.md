@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790319143557-3d3d51
-
-Two invalid role outputs; saved evidence retained. This is not a research finding.
-
-Next candidate: handoff to analyst to formulate a revised research question on memory fidelity in tokenized agents under periodic input with known perturbations, anchored solely to the 'fidelity score' metric explicitly reported in Section 6.1 of 'Fidelity and Drift in Sequential Memory Systems' by Wang et al., 2024, and including its variation over 50 update intervals under a bounded token budget of 100 tokens
-
-Limits: 
-
 ## research-cloud-1790320046194-9d6499
 
 The research question lacks empirical grounding due to absence of the per-interval retention rate metric in the inspected sources, despite its explicit requirement in the query.
@@ -35,3 +27,11 @@ The research question on memory coherence under periodic input and bounded token
 Next candidate: handoff to analyst to formulate a revised research question on token efficiency and error correction mechanisms in Voice Memory, using only explicitly reported metrics from S2 and contextual data from S1, without invoking unreported coherence scores
 
 Limits: No source provides explicit data on coherence score variation over 30 update intervals under an 80-token budget. Source S1 reports token efficiency and task accuracy, while S2 details error correction in speech recognition without coherence metrics. The inquiry lacks empirical grounding and must be redirected to directly observable, reported mechanisms to ensure validity and data fidelity. After two reviews confirm absence of required data, the direction is unverifiable and requires a shift to feasible, explicitly reported phenomena without speculative inference. A new research question must be formulated strictly from available, directly reported metrics and conditions only.
+
+## research-cloud-1790326004974-9159d1
+
+The research objective cannot be validated due to absence of explicit token reduction metrics or their correlation with state drift in available sources, necessitating a bounded revision to focus only on explicitly reported token usage and retention trends under
+
+Next candidate: handoff to analyst to investigate how memory decay manifests in a tokenized agent under periodic input with known perturbations, focusing exclusively on the rate of token reduction per update interval and its correlation with observed state drift, using only explicitly reported token usage and retention trends from Kumar et al., 2024, Section 4.1
+
+Limits: No source provides quantified data on token reduction per update interval or its correlation with observed state drift. The requested information from Kumar et al., 2024, Section 4.1 is missing, and current evidence only reports general token usage or persistent errors in memoryless agents without metric-level analysis. A bounded revision is required to restrict the investigation to sources that explicitly report token retention trends under periodic input and known perturbations. Without such data, no causal or quantitative inference about memory decay can be drawn from observed behavior alone.
