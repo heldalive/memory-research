@@ -1,0 +1,9 @@
+# MRMMIA: Membership Inference Attacks on Memory in Chat Agents
+
+[Source](https://arxiv.org/abs/2605.27825v1)
+
+abstract only. Checked 2026-09-25T02:46:13.493Z.
+
+Source [S1] investigates membership inference attacks on chat agent memory, highlighting privacy risks and proposing MRMMIA as a detection framework for memory content, but does not evaluate coherence or semantic drift in outputs. Source [S2] discusses Oracle Agent Memory as a structured substrate for long-horizon agents, detailing lifecycle management, retrieval efficiency, and memory retention metrics, including token usage and recall accuracy, yet provides no direct measurement of output token coherence or drift under intermittent input conditions. Neither study reports per-interval coherence metrics or decay rates in response to known perturbations with bounded token budgets as required by the research question.
+
+Agent-authored assessment; consult its evidence review and manager disposition.
