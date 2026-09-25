@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All memory research must begin with direct, verifiable evidence of time-bound state dynamics in primary sources; absence of such evidence mandates a bounded, source-anchored inquiry that does not extrapolate or assume underlying mechanisms beyond explicit reporting in the text.'
 - researcher: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream hypothesis can be formed; absence of such data mandates a bounded, source-anchored inquiry without extrapolation or assumption.'
 - deliverable review: All memory research must begin with direct evidence of time-bound retention or update rules in primary sources; absence of such mechanisms mandates a bounded, source-anchored inquiry without extrapolation to persistence dynamics or input duration thresholds.'
 - manager final: All memory research must begin with direct, verifiable evidence of time-bound state dynamics in primary sources; absence of such evidence mandates a bounded, source-anchored inquiry that does not extrapolate or assume underlying mechanisms, and any downstream claims about persistence must be strictly anchored in explicitly reported dynamics
@@ -40,5 +39,6 @@
 - orchestrator: Memory decay mechanisms must be explicitly modeled and observed under perturbation to establish empirical validity beyond implicit or assumed dynamics.
 - manager setup: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such temporal anchors invalidates persistence assertions without direct evidence
 - planner: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such temporal anchors invalidates persistence assertions without direct evidence
+- plan review: Critical research questions requiring explicit temporal data must be deferred until verifiable source content is available to prevent inference-based claims without empirical grounding.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
