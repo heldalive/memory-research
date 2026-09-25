@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1790295113519-e8323b](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790295113519-e8323b): **deliverable review**. Analyze citation and metadata propagation patterns in the preprint series 2409.15678 to 2409.19876 for inter-document linkages and inherited thematic indicators using graph-based NLP on accessible metadata fields; report clusters and structural persistence metrics with medium confidence.
+- [research-cloud-1790295113519-e8323b](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790295113519-e8323b): **manager final**. Analyze citation and metadata propagation patterns in the preprint series 2409.15678 to 2409.19876 for inter-document linkages and inherited thematic indicators using graph-based NLP on accessible metadata fields; report clusters and structural persistence metrics with medium confidence.
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
