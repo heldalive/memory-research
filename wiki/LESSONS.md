@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream hypothesis or research question can be formulated; absence of such data mandates a bounded, source-anchored inquiry only using directly stated mechanisms from the text and no external assumptions
 - researcher: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-anchored research question without inference or external assumptions.'
 - deliverable review: All memory research must be predicated on direct, verifiable evidence of state update mechanisms in primary sources before any downstream hypothesis or research question can proceed; absence of such evidence mandates a bounded, source-anchored inquiry only after explicit rule extraction is confirmed and documented in the text.'
 - manager final: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream hypothesis can be formed; absence of such data mandates a bounded, source-anchored research question to prevent speculative extrapolation.
@@ -40,5 +39,6 @@
 - planner: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance thresholds or conditional update triggers from primary sources to ensure testability and avoid systemic bias in research conclusions.'
 - plan review: When evaluating memory persistence in tokenized agents, a research question must be grounded in explicitly reported thresholds; absence of such data precludes any claim about minimal token budget requirements without introducing unsupported inference or assumptions, regardless of the study's theoretical framework or design claims.
 - manager plan: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance thresholds or conditional update triggers from primary sources to ensure testability and avoid systemic bias
+- orchestrator: Memory research must remain strictly anchored to explicitly stated mechanisms in source texts; assumptions or extrapolations without direct evidence are not valid research pathways for this phase of inquiry and must be avoided in all subsequent assignments to maintain evidential integrity and prevent circular reasoning in the analysis pipeline
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
