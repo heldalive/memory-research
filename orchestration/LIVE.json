@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790312683249,
+  "updatedAt": 1790312816948,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 558,
+  "completed": 559,
   "loops": [
     {
       "id": "research-cloud-1790311363315-831725",
       "branch": "manager/research-cloud-1790311363315-831725",
-      "stage": "deliverable_review",
+      "stage": "manager_final",
       "goal": "handoff to analyst to formulate a revised research question on memory fidelity in tokenized agents under periodic input with known perturbations, anchored solely to the 'semantic drift rate' metric in Section 5.1 of 'Memory Fidelity in Dynamic Systems' by Patel et al., 2023, and including its variation over 50 update intervals under bounded token budgets"
     }
   ]
