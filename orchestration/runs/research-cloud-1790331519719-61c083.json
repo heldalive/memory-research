@@ -2,7 +2,7 @@
   "id": "research-cloud-1790331519719-61c083",
   "branch": "manager/research-cloud-1790331519719-61c083",
   "goal": "handoff to analyst to formulate a revised research question on the relationship between observed memory persistence and explicitly reported retention rates in a tokenized agent under periodic input with known perturbations, using only directly cited retention metrics from Kumar et al., 2024, Section 4.1",
-  "stage": "manager_final",
+  "stage": "researcher",
   "planReviews": 2,
   "deliverableReviews": 1,
   "instances": [
@@ -54,6 +54,11 @@
     {
       "id": "research-cloud-1790331519719-61c083-10-deliverable-review",
       "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790331519719-61c083-11-manager-final",
+      "role": "manager_final",
       "status": "completed"
     }
   ],
