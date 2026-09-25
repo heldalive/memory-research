@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: Metadata propagation analysis must begin with clear, reproducible definitions of key terms before pattern identification to ensure scientific rigor and avoid subjective misattribution
 - plan review: Metadata propagation analysis must begin with clear, reproducible definitions and baseline models to ensure scientific rigor and avoid subjective pattern attribution
 - manager plan: Metadata propagation analysis must establish clear, reproducible definitions for key terms prior to pattern identification to ensure scientific rigor and avoid subjective misattribution
 - researcher: Metadata propagation analysis must begin with clear, reproducible definitions and baseline models to ensure scientific rigor and avoid subjective pattern attribution
@@ -40,5 +39,6 @@
 - plan review: Tokenized agent memory claims must be grounded in direct, time-series empirical data from peer-reviewed studies before comparative analysis can proceed; absence of such data invalidates the research premise and requires revision of scope or sources prior to further investigation.'
 - manager plan: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies before comparative analysis can proceed; absence of such data invalidates the research premise and necessitates scope adjustment or revision of assumptions.
 - planner: All claims about agent memory performance must be anchored in direct, verifiable time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed; absence of such data invalidates the research premise and requires revision of scope
+- plan review: Tokenized agent memory claims must be grounded in direct, time-series empirical data from peer-reviewed studies before comparative analysis can proceed; absence of such data invalidates the research premise and requires scope revision
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
