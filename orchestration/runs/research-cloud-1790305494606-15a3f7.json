@@ -2,7 +2,7 @@
   "id": "research-cloud-1790305494606-15a3f7",
   "branch": "manager/research-cloud-1790305494606-15a3f7",
   "goal": "handoff to analyst to refine a research question on memory propagation in citation networks using shared semantic fields and temporal structural metrics, citing 'Temporal Dynamics of Academic Influence' by Lee et al., 2023, which analyzes citation persistence and coherence across subject domains",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "planReviews": 1,
   "deliverableReviews": 1,
   "instances": [
@@ -44,6 +44,11 @@
     {
       "id": "research-cloud-1790305494606-15a3f7-8-manager-final",
       "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790305494606-15a3f7-9-researcher",
+      "role": "researcher",
       "status": "completed"
     }
   ],
