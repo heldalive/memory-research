@@ -4,6 +4,6 @@ handoff to analyst to extract and verify explicitly reported memory encoding mec
 
 Next role: researcher.
 
-handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory encoding mechanisms in response to structured temporal input patterns under known perturbations
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
