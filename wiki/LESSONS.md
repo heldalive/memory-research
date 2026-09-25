@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, directly reported evidence from the source material, regardless of theoretical appeal or scope precision
 - deliverable review: All memory research must validate the explicit presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported data on the metric in question, regardless of theoretical appeal or scope.
 - manager final: All memory research must validate the explicit, direct presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported evidence, regardless of theoretical appeal or scope.
 - orchestrator: Memory research must anchor exclusively to explicitly reported metrics; unreported or inferred dynamics introduce unverifiable assumptions and risk invalid conclusions in evidence-limited environments.
@@ -40,5 +39,6 @@
 - deliverable review: All memory research must be strictly anchored in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur, and source data must be verifiable and accessible prior to further development or inference.'
 - manager final: All memory research must be strictly grounded in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur; without such verifiable data, the research remains untestable and must be revised prior to further analysis or implementation.
 - researcher: All memory research must be strictly anchored in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur, and source data must be verifiable and accessible prior to further analysis.
+- deliverable review: All memory research must be strictly anchored in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur; without such data, the research remains untestable and non-falsifiable.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
