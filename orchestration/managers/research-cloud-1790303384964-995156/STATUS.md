@@ -2,7 +2,7 @@
 
 Goal: Evaluate output token coherence and semantic drift in a tokenized agent under intermittent input streams with known perturbations using time-series linguistic embedding models; record per-interval drift scores and compare to static input baseline over 50 update cycles with bounded token budgets; report decay rate and coherence metrics in structured format for downstream validation.
 
-Stage: researcher. Plan reviews 2/2; evidence reviews 1/2.
+Stage: deliverable_review. Plan reviews 2/2; evidence reviews 1/2.
 
 - research-cloud-1790303384964-995156-1-orchestrator: orchestrator — completed
 - research-cloud-1790303384964-995156-2-manager-setup: manager_setup — completed
@@ -18,3 +18,4 @@ Stage: researcher. Plan reviews 2/2; evidence reviews 1/2.
 - research-cloud-1790303384964-995156-10-deliverable-review: deliverable_review — completed
 - research-cloud-1790303384964-995156-11-manager-final: manager_final — completed
 - research-cloud-1790303384964-995156-12-researcher-rejected-1: researcher — rejected
+- research-cloud-1790303384964-995156-12-researcher: researcher — completed
