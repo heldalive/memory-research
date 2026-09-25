@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790323748783-ca4f31
-
-The research question on memory coherence under periodic input and bounded tokens cannot be answered due to absence of reported coherence score trajectories in available sources, necessitating a bounded revision to focus on empirically grounded mechanisms instead
-
-Next candidate: handoff to analyst to formulate a revised research question on token efficiency and error correction mechanisms in Voice Memory, using only explicitly reported metrics from S2 and contextual data from S1, without invoking unreported coherence scores
-
-Limits: No source provides explicit data on coherence score variation over 30 update intervals under an 80-token budget. Source S1 reports token efficiency and task accuracy, while S2 details error correction in speech recognition without coherence metrics. The inquiry lacks empirical grounding and must be redirected to directly observable, reported mechanisms to ensure validity and data fidelity. After two reviews confirm absence of required data, the direction is unverifiable and requires a shift to feasible, explicitly reported phenomena without speculative inference. A new research question must be formulated strictly from available, directly reported metrics and conditions only.
-
 ## research-cloud-1790326004974-9159d1
 
 The research objective cannot be validated due to absence of explicit token reduction metrics or their correlation with state drift in available sources, necessitating a bounded revision to focus only on explicitly reported token usage and retention trends under
@@ -35,3 +27,11 @@ The per-interval retention rate metric is not explicitly reported in Section 4.1
 Next candidate: handoff to analyst to verify the explicit presence and reportability of the per-interval retention rate metric in Section 4.1 of 'Stability and Forgetting in Autoregressive Models' by Kumar et al., 2024 before formulating any downstream research question
 
 Limits: After two independent review cycles confirm the absence of the per-interval retention rate metric tied to token budget, the requested research path lacks foundational data. A bounded revision is required to validate the metric's explicit presence before any further development. The next task shifts to a distinct, independently verifiable research question grounded in confirmed source data points.
+
+## research-cloud-1790331519719-61c083
+
+The research question cannot be advanced due to the absence of any directly cited, numerically specified retention metrics in the sources, necessitating a bounded revision to anchor the inquiry in verifiable data before further analysis can proceed effectively
+
+Next candidate: handoff to analyst to formulate a revised research question on the relationship between observed memory persistence and explicitly reported retention rates in a tokenized agent under periodic input with known perturbations, using only directly cited, numerical retention metrics such as time-based retention percentages or decay rates over defined intervals
+
+Limits: After two review cycles confirm no source provides explicit, quantified retention rates over time, the current research question lacks empirical grounding. The inquiry into memory persistence versus reported retention must now be revised to depend exclusively on directly cited, numerical retention values from the source material before any testable relationship can be evaluated. Without such data, no valid inference about memory behavior can be drawn, regardless of system design or observed performance indicators. A new, data-anchored research question is required to proceed safely and rigorously in the next phase of investigation.
