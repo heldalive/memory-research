@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization, with revision required if data gaps exceed one directly measured instance per query cycle.
 - researcher: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - deliverable review: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - manager final: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization, with revision required before any claim of superiority can be made based on unverified data patterns or extrapolation.
@@ -40,5 +39,6 @@
 - manager plan: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inference.
 - researcher: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before proceeding to ensure empirical validity and prevent speculative or ungrounded inference
 - deliverable review: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inference.'
+- manager final: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inference.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
