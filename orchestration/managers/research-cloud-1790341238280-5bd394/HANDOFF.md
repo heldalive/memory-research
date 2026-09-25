@@ -2,7 +2,7 @@
 
 handoff to analyst to extract and verify explicitly reported decay models (e.g., exponential, polynomial, piecewise) governing memory state evolution over time in Kumar et al., 2024, Section 4.1 under known perturbations
 
-Next role: manager_setup.
+Next role: planner.
 
 handoff to analyst to extract and verify explicitly reported decay models (e.g., exponential, polynomial, piecewise) governing memory state evolution over time in Kumar et al., 2024, Section 4.1 under known perturbations
 
