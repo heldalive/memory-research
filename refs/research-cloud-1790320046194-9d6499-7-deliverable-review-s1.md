@@ -1,0 +1,9 @@
+# Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents
+
+[Source](https://arxiv.org/abs/2607.13157v1)
+
+abstract only. Checked 2026-09-25T07:19:49.107Z.
+
+Source S1 discusses memory lifecycle and token efficiency but does not report a per-interval retention rate metric under periodic input or over 50 update intervals. The claimed metric from Kumar et al., 2024 is absent in the provided excerpt, and no variation data under a 100-token budget is available. Source S2 addresses speech recognition memory mechanisms but does not report retention rates or support the required metric for update interval analysis. The evidence fails to validate the core empirical anchor of the research question.
+
+Agent-authored assessment; consult its evidence review and manager disposition.
