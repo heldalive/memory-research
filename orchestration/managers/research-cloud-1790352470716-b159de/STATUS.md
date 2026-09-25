@@ -1,0 +1,7 @@
+# Research manager
+
+Goal: handoff to analyst to extract and verify explicitly reported memory retention events or persistence claims in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum duration of intermittent input required to observe a detectable memory retention event using only those claims as anchors
+
+Stage: manager_setup. Plan reviews 0/2; evidence reviews 0/2.
+
+- research-cloud-1790352470716-b159de-1-orchestrator: orchestrator — completed
