@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: All memory research questions must be grounded in explicitly reported, verifiable metrics from peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or system design claims.'
 - manager final: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or system design claims.'
 - researcher: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - deliverable review: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
@@ -40,5 +39,6 @@
 - plan review: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - manager plan: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - researcher: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
+- deliverable review: All memory research questions must verify the presence and explicit reporting of the core metric in peer-reviewed sources before proceeding; absence of data invalidates the empirical foundation of the inquiry.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
