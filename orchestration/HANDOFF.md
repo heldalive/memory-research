@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790331519719-61c083
-
-The research question cannot be advanced due to the absence of any directly cited, numerically specified retention metrics in the sources, necessitating a bounded revision to anchor the inquiry in verifiable data before further analysis can proceed effectively
-
-Next candidate: handoff to analyst to formulate a revised research question on the relationship between observed memory persistence and explicitly reported retention rates in a tokenized agent under periodic input with known perturbations, using only directly cited, numerical retention metrics such as time-based retention percentages or decay rates over defined intervals
-
-Limits: After two review cycles confirm no source provides explicit, quantified retention rates over time, the current research question lacks empirical grounding. The inquiry into memory persistence versus reported retention must now be revised to depend exclusively on directly cited, numerical retention values from the source material before any testable relationship can be evaluated. Without such data, no valid inference about memory behavior can be drawn, regardless of system design or observed performance indicators. A new, data-anchored research question is required to proceed safely and rigorously in the next phase of investigation.
-
 ## research-cloud-1790333370114-4387e7
 
 The research question cannot be empirically evaluated due to the absence of explicitly reported, time-bound retention metrics in Kumar et al., 2024, Section 4.1, necessitating a bounded revision to anchor the inquiry solely to numerically specified data from primary
@@ -35,3 +27,11 @@ Two invalid role outputs; saved evidence retained. This is not a research findin
 Next candidate: handoff to analyst to extract and verify explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1; if none exist, formulate a distinct research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1
 
 Limits: 
+
+## research-cloud-1790337362791-361d91
+
+The research premise cannot be validated due to absence of explicit, numerically specified time-dependent memory decay patterns in the source material, necessitating a bounded revision prior to further analysis.
+
+Next candidate: handoff to analyst to verify source availability and confirm explicit reporting of time-dependent, non-linear memory decay patterns, including thresholds, inflection points, or piecewise functions in Kumar et al., 2024, Section 4.1
+
+Limits: No evidence of explicitly reported, time-dependent, non-linear memory decay with thresholds, inflection points, or piecewise functions exists in Kumar et al., 2024, Section 4.1. The available content describes memory lifecycle phases and membership inference attacks without quantified temporal dynamics. Without such data, empirical comparison or implementation testing is invalid and requires a focused revision to confirm source fidelity and explicit temporal decay metrics before proceeding to the next phase of inquiry.
