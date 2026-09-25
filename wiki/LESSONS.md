@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objective
 - plan review: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, reported evidence from the source material, regardless of theoretical appeal or scope precision.'
 - manager plan: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, reported evidence from the source material, regardless of theoretical appeal or scope precision.'
 - planner: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, reported evidence from the source material, regardless of theoretical appeal or scope precision.
@@ -40,5 +39,6 @@
 - orchestrator: Memory research must be anchored in verifiable, explicitly reported metrics from source literature to avoid untestable or speculative hypotheses, especially when foundational data is absent or unreported.
 - manager setup: All memory research must be strictly anchored in explicitly reported, numerically specified retention metrics from primary sources to ensure empirical testability and avoid speculative or unverifiable claims.'
 - planner: All memory research must be anchored in at least one directly cited, numerically specified retention metric before any analysis of memory persistence can be considered empirically valid or testable
+- plan review: All memory research must be grounded in verifiable, explicitly reported metrics from primary sources before any empirical or testable conclusions can be drawn, especially when source data is absent or unverified.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
