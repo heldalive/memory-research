@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid
 - deliverable review: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid
 - manager final: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid
 - researcher: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid
@@ -40,5 +39,6 @@
 - manager plan: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data necessitates a bounded revision to a testable, source-verified inquiry.'
 - planner: All memory research must first verify explicit, mathematically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis proceeds; absence of such data requires a bounded revision to a testable, source-grounded question without assumption
 - plan review: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data necessitates a bounded revision to a testable, source-verified question.'
+- manager plan: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data necessitates a bounded revision to a testable, source-verified question only.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
