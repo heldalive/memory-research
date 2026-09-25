@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to alternative explanatory frameworks or data sources.
 - researcher: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to alternative evidence or mechanisms without temporal anchoring.
 - deliverable review: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to empirical evidence or explicit data retrieval prior to analysis.
 - manager final: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to empirical validation before any claim is made or system design proceeds based on them.
@@ -40,5 +39,6 @@
 - planner: All claims about agent memory persistence must be grounded in explicit, verifiable, and temporally defined source data under specific conditions; absence of such data requires a bounded revision to establish minimal evidence standards
 - plan review: All claims about agent memory superiority must be anchored in explicit, conditionally defined source mechanisms; absence of such data requires a minimal, verifiable operational definition to establish evidence standards prior to comparative evaluation.
 - manager plan: All memory superiority claims must be grounded in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to comparison or assertion without unsupported assumptions or implementation extensions.
+- researcher: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to comparison with alternative systems or methods.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
