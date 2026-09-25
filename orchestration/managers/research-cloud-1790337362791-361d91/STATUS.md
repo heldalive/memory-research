@@ -2,7 +2,7 @@
 
 Goal: handoff to analyst to extract and verify explicitly reported time-dependent memory decay patterns in non-linear form from Kumar et al., 2024, Section 4.1, including any described thresholds, inflection points, or piecewise functions governing persistence over time
 
-Stage: manager_final. Plan reviews 2/2; evidence reviews 2/2.
+Stage: complete. Plan reviews 2/2; evidence reviews 2/2.
 
 - research-cloud-1790337362791-361d91-1-orchestrator: orchestrator — completed
 - research-cloud-1790337362791-361d91-2-manager-setup: manager_setup — completed
@@ -17,3 +17,4 @@ Stage: manager_final. Plan reviews 2/2; evidence reviews 2/2.
 - research-cloud-1790337362791-361d91-11-manager-final: manager_final — completed
 - research-cloud-1790337362791-361d91-12-researcher: researcher — completed
 - research-cloud-1790337362791-361d91-13-deliverable-review: deliverable_review — completed
+- research-cloud-1790337362791-361d91-14-manager-final: manager_final — completed
