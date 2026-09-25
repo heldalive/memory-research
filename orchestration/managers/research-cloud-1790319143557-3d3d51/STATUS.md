@@ -8,3 +8,4 @@ Stage: manager_plan. Plan reviews 1/2; evidence reviews 0/2.
 - research-cloud-1790319143557-3d3d51-2-manager-setup: manager_setup — completed
 - research-cloud-1790319143557-3d3d51-3-planner: planner — completed
 - research-cloud-1790319143557-3d3d51-4-plan-review: plan_review — completed
+- research-cloud-1790319143557-3d3d51-5-manager-plan-rejected-1: manager_plan — rejected
