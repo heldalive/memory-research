@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All memory persistence research in tokenized agents must be strictly bounded to explicitly stated mechanisms in primary sources; absence of such data precludes any inference about retention thresholds and must be reported as a null finding without extrapolation or assumption, ensuring testability and scientific rigor in the research process
 - planner: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance thresholds or conditional update triggers from primary sources to ensure testability and avoid systemic bias
 - plan review: Memory research in tokenized agents must remain strictly anchored to explicitly stated mechanisms in primary sources; any inference beyond direct assertions constitutes invalid research under observational constraints and must be excluded in all phases of inquiry.
 - manager plan: All memory persistence claims in tokenized agents must be strictly grounded in explicitly stated mechanisms from primary sources; absence of such data constitutes a null result and must be formally documented without inference or extrapolation to preserve research integrity and testability.
@@ -40,5 +39,6 @@
 - researcher: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models without temporal encoding claims.'
 - deliverable review: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based or lifecycle-based models without temporal encoding claims.
 - manager final: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based or alternative coherence models, with all future claims requiring verifiable temporal triggers
+- orchestrator: Temporal input patterns can serve as empirical anchors for detecting memory-related state dynamics when explicit mechanisms are absent in prior reports, enabling more grounded analysis without assumption of decay or persistence frameworks.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
