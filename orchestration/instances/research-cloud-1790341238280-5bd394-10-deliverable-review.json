@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1790341238280-5bd394-10-deliverable-review",
+  "role": "deliverable_review",
+  "status": "completed",
+  "at": 1790342593221,
+  "answer": {
+    "summary": "No explicit time-bound memory decay models (e.g., exponential, polynomial, piecewise) are reported in Kumar et al., 2024, Section 4.1 based on available evidence from S1 and S2.",
+    "content": "Source S1 discusses membership inference attacks on agent memory but does not define any time-dependent decay dynamics. Source S2 describes a memory lifecycle with phases like retention, retrieval, and revision, yet provides no mathematical decay functions or time-bound parameters for memory state evolution. Thus, no verifiable evidence supports the claim of explicitly reported decay models under known perturbations as requested in the original query. The inquiry remains ungrounded in empirical data and must be revised to a bounded, testable question rooted solely in explicit source content.",
+    "decision": "revise",
+    "search": "https://arxiv.org/abs/2605.27825v1?highlight=memory+decay",
+    "sources": "S1,S2",
+    "nextTask": "handoff to analyst to investigate whether Kumar et al., 2024, Section 4.1 reports any explicitly defined, time-bound memory decay models (e.g., exponential, polynomial, piecewise) under known perturbations, with verifiable mathematical parameters",
+    "lesson": "All memory research must first verify the explicit presence of mathematically defined, time-bound decay models in primary sources before proceeding to any further analysis or hypothesis generation; absence of such data mandates a bounded revision to a testable question grounded solely in extractable source content.'"
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 322,
+  "inputTokens": 1779,
+  "durationMs": 13938,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2605.27825v1",
+      "title": "MRMMIA: Membership Inference Attacks on Memory in Chat Agents",
+      "excerpt": "Abstract: Membership inference attacks (MIAs) test whether a target data record belongs to a system's private data, and have become a standard tool to measure privacy leakage in machine learning systems. Prior work has primarily focused on training corpora or retrieval databases. However, MIAs against agent memory have received less attention, even though such memory can contain sensitive user-agent interactions, retrieved facts, and user preferences. Therefore, in this work, we focus on chat agent memory MIAs, where an adversary infers whether a candidate memory unit belongs to the chat agent's memory store. We propose Multi-Recall Memory MIA (MRMMIA), a unified attack that utilizes multiple recall probes to the agent to extract the membership signal across black-box, gray-box, and white-box settings. Our experiments demonstrate that MRMMIA consistently outperforms baselines. Our results expose the privacy risk in agents and provide an initial evaluation framework for membership leakage in chat-agent memory systems.",
+      "checkedAt": 1790342429227,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "ddb5034b19d1475bc9be615b95cd92659bddfd0bab1273e92ac6f753d6440c6f",
+      "discovery": {
+        "query": "https://doi.org/10.1016/j.cogcomp.2024.101234",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    },
+    {
+      "id": "S2",
+      "url": "https://arxiv.org/abs/2607.13157v1",
+      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+      "excerpt": "Abstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery of user-specific facts and preferences across sessions, and accumulation of procedural knowledge from prior outcomes. These requirements extend beyond document retrieval: a memory layer must determine which interactions become durable state, how that state is scoped, how it is retrieved under latency constraints, and how it is revised or removed over time. This report studies Oracle Agent Memory as a database-native memory substrate built on Oracle Database. Three themes organize the discussion: memory as a lifecycle spanning ingestion, extraction, consolidation, retrieval, summarization, and revision or removal; a layered architecture that separates an active memory core from a passive memory-store interface with explicit scope control across users, agents, and threads; and evaluation methodology in which downstream task accuracy is complemented by memory-centric measures such as evidence retrieval, recall, latency, and estimated token use. The report summarizes LongMemEval results, reaching 93.8% accuracy, compares Oracle Agent Memory against flat-history baselines, using about 10.7x fewer tokens, and published or reported external baselines where available, and closes with implementation-oriented appendix material covering setup, thread lifecycle, and search semantics.",
+      "checkedAt": 1790342429227,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "849bddf647fb0a452c290076c3893db9869c6505d5f1ab071d0bbe910f6d4818",
+      "discovery": {
+        "query": "https://doi.org/10.1016/j.cogcomp.2024.101234",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    }
+  ]
+}
