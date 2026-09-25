@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: All claims about agent memory performance must be anchored in direct, verifiable time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
 - plan review: Tokenized agent memory claims must be grounded in direct, time-series empirical data from peer-reviewed studies before comparative analysis can proceed; absence of such data invalidates the research premise and requires revision of scope or sources prior to further investigation.'
 - manager plan: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies before comparative analysis can proceed; absence of such data invalidates the research premise and necessitates scope adjustment or revision of assumptions.
 - planner: All claims about agent memory performance must be anchored in direct, verifiable time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed; absence of such data invalidates the research premise and requires revision of scope
@@ -40,5 +39,6 @@
 - orchestrator: Memory research must anchor in single, verifiable peer-reviewed studies with explicit temporal and metric-based outcomes to avoid ungrounded exploration
 - manager setup: All memory research questions must be anchored in a single, verifiable and independently confirmable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded
 - planner: All memory research questions must be anchored in a single, verifiable and independently confirmable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded
+- plan review: All memory research questions must be constrained to metrics explicitly reported and verifiable within a single peer-reviewed source before proceeding to comparative analysis
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
