@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
 - deliverable review: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
 - manager final: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases and ensure each metric has empirical grounding prior to downstream validation or implementation testing.'
 - orchestrator: Memory propagation in academic systems can be studied through verified citation networks with temporal and structural metrics, avoiding ungrounded or data-lacking domains such as preprint metadata or tokenized output decay studies alone.
@@ -40,5 +39,6 @@
 - deliverable review: All memory research questions must be anchored to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unverified assumptions about metric definition or coverage must be explicitly resolved prior to further analysis or task delegation
 - manager final: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; failure to validate foundational metrics halts progress and risks misdirection in subsequent analysis and development
 - researcher: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unresolved variations or missing definitions in primary sources require revision of the research question prior to
+- deliverable review: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unverified metrics cannot form the basis of a research inquiry or hypothesis testing plan.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
