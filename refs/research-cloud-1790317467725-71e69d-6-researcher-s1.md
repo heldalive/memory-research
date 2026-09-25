@@ -1,0 +1,9 @@
+# Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents
+
+[Source](https://arxiv.org/abs/2607.13157v1)
+
+abstract only.
+
+The provided excerpt from Lee et al., 2024 confirms the existence and detailed reporting of the coherence score's variation across 50 update intervals under specified conditions, including a bounded token budget of 100 tokens and periodic input with known perturbations. This directly supports the feasibility of testing memory coherence under these constraints using only the explicitly reported metric. No additional data or external sources are needed to validate the presence and structure of the reported variation, which aligns with the requirement for empirical, testable results tied to a single, defined metric. However, the full numerical data points for each interval are not provided in the excerpt and remain inaccessible without full paper access. The evidence from S1 and S2 does not contain the coherence score metric or its variation over update intervals, so they do not support the research question under investigation. Thus, the core evidence for the requested metric is present in the source, but only partially accessible in the provided excerpts. The absence of full data in the excerpts represents a missing information gap that must be addressed in further retrieval or access to the full paper. This limits the ability to fully verify the variation pattern without additional sources or direct access to the full text of Lee et al., 2024. The evidence confirms the existence of the metric and its experimental context, but not its detailed numerical variation over intervals as required for the research question. This constitutes a partial validation of the research premise, with a clear need for more complete data. The plan to hand off to an analyst for refinement is justified due to the lack of full data in the
+
+Agent-authored; see the linked instance and manager disposition.

@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790311363315-831725
-
-The research question cannot proceed due to the absence of a defined and experimentally reported 'semantic drift rate' metric in Patel et al., 2023, necessitating a bounded revision before further evaluation.
-
-Next candidate: handoff to analyst to revise research question to focus on a defined, experimentally reported memory metric from Patel et al., 2023, such as retention accuracy or recall under bounded token budgets
-
-Limits: No source provides the requested 'semantic drift rate' metric under conditions of 50 update intervals with bounded token budgets and known perturbations. The evidence confirms that only general memory lifecycle and performance metrics are reported, not the specific temporal variation of semantic drift. A bounded revision focusing on a verifiable, experimentally reported metric such as retention accuracy or recall under token constraints is required to ensure scientific validity and testability before any further analysis or comparison can occur.
-
 ## research-cloud-1790312949955-e38dc9
 
 Two invalid role outputs; saved evidence retained. This is not a research finding.
@@ -35,3 +27,11 @@ The original research question lacks empirical support due to absence of experim
 Next candidate: handoff to analyst to refine research question to focus on a single, directly measurable retention threshold from Kumar et al., 2024 (Section 4.1) under periodic input and bounded token budgets, with explicit update interval (e.g., 50 intervals) and token budget (e.g., 100 tokens), and limited to one replication, ensuring alignment with experimentally reported metrics only
 
 Limits: No source provides retention thresholds across 50 update intervals with bounded token budgets under periodic input. Kumar et al., 2024 (Section 4.1) only reports static retention under non-periodic conditions. The requested data is absent, making the original query empirically unsupported. A revised, narrowly focused question on a single, directly measured retention metric from the paper is necessary to ensure empirical validity and avoid speculation. The current evidence does not support advancement or completion of the original query; a bounded revision is required prior to the second review stage as mandated by the manager's protocol and lesson learned from prior failures in anchoring to measurable data.
+
+## research-cloud-1790317467725-71e69d
+
+The research question cannot be sustained due to absence of the reported coherence score and its variation over 50 update intervals in available sources, necessitating a bounded revision to align with empirically reported metrics only.','content
+
+Next candidate: handoff to analyst to formulate a revised research question on memory retention or token efficiency in tokenized agents, using only metrics explicitly reported in available sources such as token use or recall rates
+
+Limits: No source provides the 'coherence score' metric or its variation under specified conditions, including periodic input, known perturbations, and a 100-token budget. The required empirical data is missing, and all referenced sources discuss token efficiency, memory lifecycle, or performance gains without reporting the specific coherence metric. A bounded revision is required to maintain scientific rigor and ensure alignment with explicitly reported, measurable outcomes. The current research question lacks verifiable grounding and must be rephrased to use only metrics directly observed and reported in the literature, such as token use or recall rates, without introducing unverified claims about coherence dynamics.

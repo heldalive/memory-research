@@ -1,0 +1,66 @@
+{
+  "id": "research-cloud-1790317467725-71e69d",
+  "branch": "manager/research-cloud-1790317467725-71e69d",
+  "goal": "handoff to analyst to formulate a revised research question on memory coherence in tokenized agents under periodic input with known perturbations, anchored solely to the 'coherence score' metric explicitly reported in Section 5.3 of 'Temporal Consistency in Sequential Memory Systems' by Lee et al., 2024, and including its variation over 50 update intervals under a bounded token budget of 100 tokens",
+  "stage": "complete",
+  "planReviews": 1,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1790317467725-71e69d-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790317467725-71e69d-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790317467725-71e69d-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790317467725-71e69d-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790317467725-71e69d-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790317467725-71e69d-6-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790317467725-71e69d-7-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790317467725-71e69d-8-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790317467725-71e69d-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790317467725-71e69d-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790317467725-71e69d-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}
