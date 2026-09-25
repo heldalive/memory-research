@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability.'
 - deliverable review: All memory research must be anchored in explicitly reported, numerically specified retention metrics; without such data, no empirical evaluation of memory persistence can proceed regardless of system design or performance claims.'
 - manager final: All memory research must be anchored in at least one directly cited, numerically specified retention metric before any analysis of memory persistence can be considered empirically valid or testable
 - orchestrator: Memory research must be anchored in verifiable, explicitly reported metrics from source literature to avoid untestable or speculative hypotheses, especially when foundational data is absent or unreported.
@@ -40,5 +39,6 @@
 - manager plan: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a bounded revision of the plan prior to further investigation.'
 - researcher: All memory research must first verify explicit, numerically specified, and time-bound decay patterns in primary sources before proceeding; absence of such data invalidates the entire inquiry and necessitates a bounded revision of the research plan.
 - deliverable review: All memory research must first confirm explicit, numerically specified, and time-bound decay patterns in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a bounded revision of the inquiry prior to further investigation or implementation planning
+- manager final: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a bounded revision prior to further investigation or implementation planning.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
