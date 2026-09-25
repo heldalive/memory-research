@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: Temporal or memory-like behavior in scientific models must be grounded exclusively in explicit mathematical structures; abstract or linguistic content is insufficient for detecting recurrence, integration, or time-dependent update rules without full equation-based analysis and structural validation.
 - orchestrator: Linguistic recurrence in scientific writing can serve as a proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, offering a viable alternative signal for memory-like behavior in knowledge systems without requiring formal modeling frameworks.'
 - manager setup: Linguistic recurrence in scientific abstracts can serve as a proxy for emergent thematic persistence when mathematical or citation-based indicators are unavailable
 - planner: Linguistic recurrence in scientific writing can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to superficial repetition and lack of temporal or structural coherence
@@ -40,5 +39,6 @@
 - researcher: Metadata propagation analysis must begin with clear, reproducible definitions and empirical evidence from multiple documents to ensure scientific validity and avoid subjective attribution'}
 - deliverable review: Metadata propagation analysis must begin with explicit, reproducible definitions and empirical evidence from multiple documents to avoid subjective attribution and ensure scientific validity
 - manager final: Metadata propagation analysis must begin with explicit, reproducible definitions and empirical evidence from multiple documents to avoid subjective attribution and ensure scientific validity
+- orchestrator: Memory-like behavior in scientific discourse can be probed through structured metadata propagation, even without full-text or mathematical content, when constraints are defined and data access is limited to available fields and known patterns.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
