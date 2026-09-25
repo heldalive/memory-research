@@ -1,0 +1,9 @@
+# Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents
+
+[Source](https://arxiv.org/abs/2607.13157v1)
+
+abstract only.
+
+The retrieved excerpts from S1 and S2 discuss memory mechanisms in chat agents and enterprise memory substrates, respectively. S1 introduces a membership inference attack (MRMMIA) targeting chat agent memory, highlighting the sensitivity of stored interactions but providing no quantitative or time-bound metrics for memory retention. S2 details a layered memory architecture with lifecycle phases including ingestion, retrieval, and revision, and reports performance metrics like 93.8% accuracy and 10.7x fewer tokens, but does not specify minimum input duration or detectable state persistence thresholds. Thus, no explicit, numerically specified, and time-bound memory retention metrics are present in the provided excerpts to support the original research question or its proposed alternative form. A new research question on minimum periodic input duration for observable memory persistence under known perturbations remains unanchored by direct evidence from the source text and must be formulated with further investigation into the full paper content. The current evidence does not confirm or deny the existence of such thresholds, and no such data are reported in the abstracts provided. This constitutes a gap in the available data, not a definitive absence of research. The absence of time-bound metrics in these excerpts does not imply the nonexistence of such research in the full paper or elsewhere. A targeted search for the specific section is warranted to verify if such thresholds are reported in the full text of Kumar et al., 2024, Section 4.1. The present evidence does not support a claim that such thresholds are absent; only that they are not explicitly reported in the excerpts reviewed. This finding should
+
+Agent-authored; see the linked instance and manager disposition.
