@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1790309117308-fdb063](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790309117308-fdb063): **plan review**. handoff to analyst to formulate a revised research question on memory retention probability in tokenized agents under intermittent input with known perturbations, anchored solely to the per-interval retention metric in Section 4.1 of 'Stability and Forgetting in Autoregressive Models' by Kumar et al., 2024, and including its variation over 100 update intervals under bounded token budgets
+- [research-cloud-1790309117308-fdb063](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790309117308-fdb063): **manager plan**. handoff to analyst to formulate a revised research question on memory retention probability in tokenized agents under intermittent input with known perturbations, anchored solely to the per-interval retention metric in Section 4.1 of 'Stability and Forgetting in Autoregressive Models' by Kumar et al., 2024, and including its variation over 100 update intervals under bounded token budgets
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
