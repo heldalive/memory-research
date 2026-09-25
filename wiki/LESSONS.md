@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objectives and experimental conditions, and must trigger a revision before any advancement occurs.
 - planner: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment
 - plan review: Always verify source availability and explicit data presence before advancing a research plan; a request for analysis without accessible source content must be revised to include verifiable, directly reported metrics prior to further evaluation or execution.'
 - manager plan: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objectives
@@ -40,5 +39,6 @@
 - planner: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability.'
 - plan review: Always require explicit, accessible metric values before formulating a research question on memory persistence in agents; without verifiable data, the question remains untestable and ungrounded in empirical evidence.'
 - manager plan: All memory research must include at least one verifiable, numerically specified retention metric from the source before any relationship or inference can be considered testable or grounded in empirical evidence.'
+- planner: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
