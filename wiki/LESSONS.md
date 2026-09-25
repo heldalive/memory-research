@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Claims about memory decay in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates any assertion without direct source support and empirical validation is unattainable without temporal anchors in the text corpus.
 - manager final: All claims about memory decay in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates assertions without direct empirical support from source text and experimental conditions, and future research must prioritize verifiable temporal metrics over theoretical
 - researcher: All claims about memory decay in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such temporal data invalidates assertions without direct empirical support from source text and evidence.'
 - deliverable review: All claims about memory decay in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates any assertion without direct source support and empirical validation from the provided excerpts and metadata only, regardless of system design or privacy implications found
@@ -40,5 +39,6 @@
 - planner: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to observation-only or alternative evidence
 - plan review: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data invalidates assertions and necessitates a shift to observational or alternative evidence frameworks without inference or assumption.
 - manager plan: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data invalidates assertions and necessitates a shift to observational or empirical validation without extrapolation or inference from unverified patterns or assumptions
+- researcher: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data in current sources necessitates further investigation with direct textual evidence
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
