@@ -2,7 +2,7 @@
 
 handoff to analyst to extract and verify explicitly reported memory decay rates or thresholds in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum time interval between inputs required to observe a measurable degradation in state coherence as an indicator of memory decay in a tokenized agent
 
-Next role: plan_review.
+Next role: manager_plan.
 
 handoff to analyst to extract and verify explicitly reported memory decay rates or thresholds in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum time interval between inputs required to observe a measurable degradation in state coherence as an indicator of memory decay in a tokenized agent
 
