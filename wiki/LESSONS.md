@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All memory research must be strictly anchored in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can proceed; absence of such data renders the inquiry untestable and invalidates downstream analysis regardless of theoretical appeal or framing.
 - planner: All memory research must be strictly grounded in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur; without such verifiable data, the research remains untestable
 - plan review: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed
 - manager plan: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid for evaluation.
@@ -40,5 +39,6 @@
 - orchestrator: Memory research must anchor itself in explicit, mathematically defined patterns from source material before proposing testable hypotheses on persistence or input requirements.
 - manager setup: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data necessitates a bounded revision to a testable, source-anchored question without empirical extrapolation or inference.
 - planner: All memory research must first verify explicit, mathematically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis proceeds; absence of such data requires a bounded revision to a testable, source-anchored inquiry.
+- plan review: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data necessitates a bounded revision to a testable, source-anchored inquiry.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
