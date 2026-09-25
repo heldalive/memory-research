@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All memory research must be strictly anchored in explicitly reported, numerically specified retention metrics from primary sources to ensure empirical testability and avoid speculative or unverifiable claims.'
 - planner: All memory research must be anchored in at least one directly cited, numerically specified retention metric before any analysis of memory persistence can be considered empirically valid or testable
 - plan review: All memory research must be grounded in verifiable, explicitly reported metrics from primary sources before any empirical or testable conclusions can be drawn, especially when source data is absent or unverified.'
 - manager plan: All memory research must be strictly grounded in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur, and source data must be verifiable and accessible prior to plan advancement.'
@@ -40,5 +39,6 @@
 - researcher: All memory research must first verify explicit, numerically specified, and time-bound decay patterns in primary sources before proceeding; absence of such data invalidates the entire inquiry and necessitates a bounded revision of the research premise prior to empirical or comparative analysis.'
 - deliverable review: All memory research must first confirm explicit, numerically specified, and time-bound decay patterns in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a bounded revision of the research question or scope prior to further investigation.'
 - manager final: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and requires a bounded revision to confirm temporal decay patterns prior to further investigation.
+- orchestrator: When prior research questions fail due to absence of explicit, numerically reported data, pivot to a more specific and narrowly defined data point (e.g., thresholds instead of decay rates) to preserve testability and avoid unbounded hypothesis generation without empirical anchors in the source material, ensuring all subsequent inquiries remain
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
