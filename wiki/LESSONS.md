@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: All memory research must validate the explicit, direct presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported evidence, regardless of theoretical
 - manager plan: All memory research must be grounded exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream formulation may proceed without direct, verifiable evidence of metric presence and reportability in the source text prior to any research advancement.
 - researcher: All memory research must validate the explicit, direct presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported evidence, regardless of theoretical
 - deliverable review: All memory research must validate the explicit, direct presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported evidence, regardless of theoretical grounding
@@ -40,5 +39,6 @@
 - manager setup: All memory research must be strictly anchored in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can proceed; absence of such data renders the inquiry untestable and invalidates downstream analysis regardless of theoretical appeal or framing.
 - planner: All memory research must be strictly grounded in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur; without such verifiable data, the research remains untestable
 - plan review: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed
+- manager plan: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid for evaluation.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
