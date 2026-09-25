@@ -2,7 +2,7 @@
 
 handoff to analyst to formulate a revised research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1
 
-Next role: deliverable_review.
+Next role: manager_final.
 
 handoff to analyst to extract and verify explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1; if none exist, formulate a distinct research question on minimum input duration for memory persistence under known perturbations
 
