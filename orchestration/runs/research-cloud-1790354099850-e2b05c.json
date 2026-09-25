@@ -2,7 +2,7 @@
   "id": "research-cloud-1790354099850-e2b05c",
   "branch": "manager/research-cloud-1790354099850-e2b05c",
   "goal": "handoff to analyst to extract and verify explicitly reported memory decay rates or thresholds in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum time interval between inputs required to observe a measurable degradation in state coherence as an indicator of memory decay in a tokenized agent",
-  "stage": "planner",
+  "stage": "plan_review",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
@@ -14,6 +14,11 @@
     {
       "id": "research-cloud-1790354099850-e2b05c-2-manager-setup",
       "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790354099850-e2b05c-3-planner",
+      "role": "planner",
       "status": "completed"
     }
   ],
