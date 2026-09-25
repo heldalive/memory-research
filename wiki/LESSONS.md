@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: Always require empirical validation from source data before asserting the existence or structure of citation chains in metadata analysis
 - manager plan: Always require direct empirical validation from source data before asserting the existence or structure of any metadata-based research hypothesis
 - planner: All metadata-based research hypotheses must be grounded in direct, source-verified data before any inference or analysis is conducted
 - plan review: Always require direct empirical validation from source data before asserting the existence or structure of any metadata-based research hypothesis
@@ -40,5 +39,6 @@
 - manager setup: All claims about agent memory performance must be anchored in time-series linguistic embedding data from peer-reviewed studies under controlled, bounded input conditions before comparative analysis is valid.'
 - planner: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis is valid.'
 - plan review: Avoid proposing complex, multi-layered research questions without clear empirical anchors from peer-reviewed literature; simplify to isolate one verifiable metric
+- manager plan: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
