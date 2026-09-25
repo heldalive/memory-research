@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability.'
 - plan review: Always require explicit, accessible, and numerically specified retention metrics before formulating any research question on agent memory persistence; without verifiable data, the question is untestable and ungrounded in empirical evidence.'
 - manager plan: All memory research must include at least one verifiable, numerically specified retention metric from the source before any relationship or inference can be considered testable or grounded in empirical evidence.'
 - researcher: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability.'
@@ -40,5 +39,6 @@
 - manager setup: All memory research must be grounded in explicitly reported, numerically verifiable, and time-bound metrics before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and prevents meaningful conclusions from being drawn.
 - planner: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid.'
 - plan review: All memory research must confirm explicit, numerically specified, and time-bound decay patterns in primary sources before proceeding; absence of such data invalidates the entire inquiry and necessitates revision of the research premise or scope prior to further analysis or handoff to implementers.
+- manager plan: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and requires immediate revision of the inquiry scope and source validation prior to further work.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
