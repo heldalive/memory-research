@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790335199707-96f6ed
-
-No sources provide explicitly reported decay rates or time-based retention percentages for tokenized agent memory under known perturbations, rendering the current research question untestable and invalid without empirical anchors.
-
-Next candidate: handoff to analyst to extract and verify explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1; if none exist, formulate a distinct research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1
-
-Limits: The evidence base contains no numerically specified decay or retention metrics in Kumar et al., 2024, Section 4.1, confirming the absence of time-based memory persistence data. Without such metrics, any inquiry into minimum input duration for observable memory persistence cannot proceed empirically. A bounded revision is required to first verify the presence of these metrics before formulating a valid, testable research question. After two review cycles, the lack of verifiable data remains unresolved and the current direction is invalid without empirical grounding. A distinct, data-anchored research question must be proposed based on confirmed retention values.
-
 ## research-cloud-1790336755395-84bd23
 
 Two invalid role outputs; saved evidence retained. This is not a research finding.
@@ -35,3 +27,11 @@ No explicit, time-bound memory retention thresholds are reported in Kumar et al.
 Next candidate: handoff to analyst to extract and verify explicitly reported memory retention thresholds (e.g., minimum input duration for detectable state persistence) in Kumar et al., 2024, Section 4.1; if none exist, formulate a distinct research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported thresholds from Kumar et al., 2024, Section 4
 
 Limits: After comprehensive review of Kumar et al., 2024, Section 4.1, no numerically specified or time-bound memory retention thresholds are present. The absence of detectable state persistence metrics prevents validation of the original research premise. A new, bounded research question is now required: 'What is the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported thresholds from Kumar et al., 2024, Section 4?' This question is derived directly from the source and maintains scientific rigor and testability without unverified assumptions. The next step is to hand off this refined question for formal analysis and validation in the next phase of research.
+
+## research-cloud-1790341238280-5bd394
+
+The inquiry into explicitly reported memory decay models in Kumar et al., 2024 fails due to absence of any mathematically defined, time-bound decay functions in the source material, necessitating a bounded revision to a testable and source-grounded alternative
+
+Next candidate: handoff to analyst to investigate whether Kumar et al., 2024, Section 4.1 reports any explicitly defined, time-bound memory decay models (e.g., exponential, polynomial, piecewise) under known perturbations, with verifiable mathematical parameters; if none exists, propose an alternative research question grounded solely in explicitly stated, time-dependent memory evolution mechanisms (e.g., phase transitions, retention rates, update rules) and their mathematical
+
+Limits: After two independent reviews confirm no explicit, time-bound mathematical decay models (e.g., exponential, polynomial, piecewise) are reported in Kumar et al., 2024, Section 4.1 under known perturbations, the original research question lacks empirical and mathematical grounding. The sources describe memory lifecycle phases and membership inference attacks but provide no verifiable decay dynamics. Thus, the inquiry must be revised to a bounded, testable question that only references explicitly defined, time-bound mathematical models in the primary source without assumption or inference. A different research question is now required to maintain scientific rigor and fidelity to the source content's explicit statements and parameters.
