@@ -4,6 +4,6 @@ Compare output token coherence and semantic drift in a tokenized agent under int
 
 Next role: researcher.
 
-handoff to analyst to extract coherence decay metrics and per-interval drift scores from the identified study
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
