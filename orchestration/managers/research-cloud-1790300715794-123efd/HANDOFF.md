@@ -4,6 +4,6 @@ Analyze peer-reviewed studies on tokenized agent memory retention under intermit
 
 Next role: planner.
 
-Identify and retrieve a peer-reviewed study with explicit time-series metrics on tokenized agent memory retention under intermittent input streams and known perturbations, including per-interval coherence scores and state drift indicators under bounded token budgets
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
