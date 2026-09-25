@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1790296901383-0fcb3c-13-deliverable-review",
+  "role": "deliverable_review",
+  "status": "completed",
+  "at": 1790298909010,
+  "answer": {
+    "summary": "No evidence confirms the existence, metadata, or citation chains of preprints 2409.15678 to 2409.19876, and no shared subject tags or temporal patterns are verifiable in the provided sources.",
+    "content": "The inspected sources S1 and S2 discuss general agent memory mechanisms in agentic systems but do not address the specific preprints or any citation chains with shared subject tags. Neither source contains metadata for the target preprints or temporal proximity data required to evaluate field overlap or coherence. The claim that these preprints share subject tags or form distinct citation chains lacks empirical support and cannot be validated from current evidence. A direct query to arXiv is required to confirm existence and structural relationships before further analysis can proceed.",
+    "decision": "revise",
+    "search": "https://arxiv.org/api/query?search_query=AND(subject:2409.15678) AND (subject:2409.19876) AND (all:2409.15678 2409.19876",
+    "sources": "S1,S2",
+    "nextTask": "Verify existence and metadata of preprints 2409.15678 to 2409.19876 via arXiv API; retrieve title, authors, subjects, and citation links for each; confirm at least three distinct citation chains with shared subject tags",
+    "lesson": "All research claims involving preprint metadata or citation chains must be grounded in direct, source-verified data before any inference or analysis is conducted, especially when shared subject tags or temporal patterns are asserted."
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 356,
+  "inputTokens": 2042,
+  "durationMs": 15506,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2602.06052v4",
+      "title": "A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents",
+      "excerpt": "Abstract: Research in artificial intelligence is shifting from model innovations and benchmark scores towards problem definition and rigorous real-world evaluation. As the field enters the &#34;second half,&#34; the central challenge becomes real utility in long-horizon, dynamic, and user-dependent settings such as agentic coding, deep research, and computer use, where LLM-based agents face context explosion beyond fixed context windows and must continuously accumulate, manage, and selectively reuse information across extended interactions. Memory, with hundreds of papers released in 2025, therefore emerges as the critical solution to fill this utility gap. Beyond passive storage, memory is increasingly the substrate through which agents self-evolve: short-term memory gates which experiences are perceived and abstracted during execution, while long-term memory consolidates them into reusable knowledge and skills, forming the loop through which agents improve from their own experience. In this survey, we provide a unified view of foundation agent memory along three dimensions: memory substrate (internal parametric state and external retrieval-augmented stores), cognitive mechanism (sensory, working, episodic, semantic, and procedural), and memory subject (user-centric personalization and agent-centric experience). We then analyze how memory is operated under single- and multi-agent topologies and highlight learning policies over memory operations, showing how memory management itself is becoming a trainable capability spanning reinforcement-learned context curation, experience consolidation at decision time, and the emerging ecosystem of portable, shareable agent skills. Finally, we review evaluation benchmarks and metrics for memory utility, and outline open challenges and future directions.",
+      "checkedAt": 1790298743384,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "0af6d8ebf70c90aea2431b5abe5e71f3c9e1b010a5a45a2e847e81635bf73c2e",
+      "discovery": {
+        "query": "https://export.arxiv.org/api/query?search_query=AND%28%28id%3A240915678%20OR%20id%3A240915679%20OR%20id%3A24",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    },
+    {
+      "id": "S2",
+      "url": "https://arxiv.org/abs/2607.26410v1",
+      "title": "Voice Memory for Agentic Speech Recognition",
+      "excerpt": "Abstract: We present Voice Memory, a inference-only scheme for agentic speech recognition: at stream time, a frozen corrector reads a single per-domain this http URL and decides per utterance whether to act on the hypothesis or abstain and keep the 1-best. Asynchronously, a score-gated optimizer revises that file through bounded edits, accepting an edit only when it strictly improves a held-out score. Extended from classical ASR-LM framework, we refer this split the listener-thinker architecture; the two roles are coupled only through the memory, so no weights change and the learned skill stays auditable and portable. Restraint turns out to be the operative skill this loop discovers: unconstrained generative error correction (GER) over-corrects, breaking correct tokens on up to 64% of its edits on financial news, and Voice Memory, reduces this rate to 35%. Across ten HyPoradise domains with an open corrector, Voice Memory, lowers weighted word error rate from 8.36% to 7.52% (7.47% with three added in-context examples) without regressing any dataset below its 1-best baseline; gains concentrate where recoverable headroom is largest, including air-travel commands (8.40% to 3.40%) and noisy far-field speech (CHiME-4, 12.69% to 10.46%). The memory transfers across corrector families and adds zero parameters to the inference path. A demo and example code are provided for future studies.",
+      "checkedAt": 1790298743384,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "342ad563e49df44851b588803da152be772524a91901afd7ceba6c1ab7dca57f",
+      "discovery": {
+        "query": "https://export.arxiv.org/api/query?search_query=AND%28%28id%3A240915678%20OR%20id%3A240915679%20OR%20id%3A24",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    }
+  ]
+}
