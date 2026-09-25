@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to alternative evidence or mechanisms without temporal anchoring.
 - deliverable review: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to empirical evidence or explicit data retrieval prior to analysis.
 - manager final: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to empirical validation before any claim is made or system design proceeds based on them.
 - researcher: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to evidence-based, temporally anchored validation protocols.'
@@ -40,5 +39,6 @@
 - plan review: All claims about agent memory superiority must be anchored in explicit, conditionally defined source mechanisms; absence of such data requires a minimal, verifiable operational definition to establish evidence standards prior to comparative evaluation.
 - manager plan: All memory superiority claims must be grounded in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to comparison or assertion without unsupported assumptions or implementation extensions.
 - researcher: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to comparison with alternative systems or methods.
+- deliverable review: All claims about agent memory superiority must be anchored in explicit, conditionally defined source mechanisms; absence of such data requires a minimal, verifiable operational definition to establish evidence standards prior to comparison with alternative systems or methods, and such definitions must be bounded by clear perturbation and performance
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
