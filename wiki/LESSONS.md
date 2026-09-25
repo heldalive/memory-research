@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory research must be anchored exclusively to explicitly reported mechanisms; unverified assumptions or extrapolations introduce systemic bias and undermine testability in agent design evaluations.
 - manager setup: All claims regarding memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance thresholds or conditional update triggers from primary sources to ensure testability and avoid systemic bias from unverified assumptions.'
 - planner: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance thresholds or conditional update triggers from primary sources to ensure testability and avoid systemic bias in research conclusions.'
 - plan review: When evaluating memory persistence in tokenized agents, a research question must be grounded in explicitly reported thresholds; absence of such data precludes any claim about minimal token budget requirements without introducing unsupported inference or assumptions, regardless of the study's theoretical framework or design claims.
@@ -40,5 +39,6 @@
 - planner: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention
 - plan review: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models without temporal claims.
 - manager plan: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models without temporal structure claims.
+- researcher: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

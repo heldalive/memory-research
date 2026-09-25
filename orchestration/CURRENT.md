@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1790357358303-dcd899](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790357358303-dcd899): **researcher**. handoff to analyst to extract and verify explicitly reported memory encoding mechanisms in Kumar et al., 2024, Section 4.1 in response to structured temporal input patterns under known perturbations; if any exist, define the minimal sequence length or temporal pattern that triggers a detectable memory encoding event as an anchor for state coherence claims
+- [research-cloud-1790357358303-dcd899](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790357358303-dcd899): **deliverable review**. handoff to analyst to extract and verify explicitly reported memory encoding mechanisms in Kumar et al., 2024, Section 4.1 in response to structured temporal input patterns under known perturbations; if any exist, define the minimal sequence length or temporal pattern that triggers a detectable memory encoding event as an anchor for state coherence claims
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
