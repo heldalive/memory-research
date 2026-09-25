@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1790326004974-9159d1](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790326004974-9159d1): **manager final**. handoff to analyst to investigate how memory decay manifests in a tokenized agent under periodic input with known perturbations, focusing exclusively on the rate of token reduction per update interval and its correlation with observed state drift, using only explicitly reported token usage and retention trends from Kumar et al., 2024, Section 4.1
+- [research-cloud-1790326004974-9159d1](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790326004974-9159d1): **researcher**. handoff to analyst to investigate how memory decay manifests in a tokenized agent under periodic input with known perturbations, focusing exclusively on the rate of token reduction per update interval and its correlation with observed state drift, using only explicitly reported token usage and retention trends from Kumar et al., 2024, Section 4.1
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
