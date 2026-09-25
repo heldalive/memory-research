@@ -2,7 +2,7 @@
   "id": "research-cloud-1790351467082-a744c5",
   "branch": "manager/research-cloud-1790351467082-a744c5",
   "goal": "handoff to analyst to extract and verify explicitly reported token budget allocations or state maintenance thresholds in Kumar et al., 2024, Section 4.1 under intermittent input and known perturbations; if any exist, define the minimal token budget required for observable memory persistence in a tokenized agent using only those thresholds as anchors",
-  "stage": "researcher",
+  "stage": "failed",
   "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
@@ -33,6 +33,11 @@
     },
     {
       "id": "research-cloud-1790351467082-a744c5-6-researcher-rejected-1",
+      "role": "researcher",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790351467082-a744c5-6-researcher-rejected-2",
       "role": "researcher",
       "status": "rejected"
     }
