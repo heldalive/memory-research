@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790305494606-15a3f7
-
-The research question on memory propagation in citation networks lacks empirical grounding due to absence of verifiable data from the cited study or accessible evidence of citation persistence metrics across domains.
-
-Next candidate: handoff to analyst to refine a research question on memory propagation in citation networks using shared semantic fields and temporal structural metrics, citing 'Temporal Dynamics of Academic Influence' by Lee et al., 2023, which analyzes citation persistence
-
-Limits: Multiple review cycles confirm that the provided sources are tool documentation with no connection to academic citation networks, shared semantic fields, or temporal structural metrics. No empirical data or analysis from 'Temporal Dynamics of Academic Influence' by Lee et al., 2023 is available to validate citation persistence as a memory metric. A bounded revision is required to shift focus to a measurable, independently verifiable memory indicator before comparative analysis can proceed. The current path is ungrounded in observable academic memory dynamics.
-
 ## research-cloud-1790306998056-470958
 
 The research question must be strictly bounded to a single, explicitly reported coherence metric from Zhang et al., 2023, as no such metric or related dynamics are present in the evidence, and all proposed extensions lack empirical grounding.
@@ -35,3 +27,11 @@ The research question cannot proceed due to the absence of a defined and experim
 Next candidate: handoff to analyst to revise research question to focus on a defined, experimentally reported memory metric from Patel et al., 2023, such as retention accuracy or recall under bounded token budgets
 
 Limits: No source provides the requested 'semantic drift rate' metric under conditions of 50 update intervals with bounded token budgets and known perturbations. The evidence confirms that only general memory lifecycle and performance metrics are reported, not the specific temporal variation of semantic drift. A bounded revision focusing on a verifiable, experimentally reported metric such as retention accuracy or recall under token constraints is required to ensure scientific validity and testability before any further analysis or comparison can occur.
+
+## research-cloud-1790312949955-e38dc9
+
+Two invalid role outputs; saved evidence retained. This is not a research finding.
+
+Next candidate: handoff to analyst to formulate a revised research question on memory stability in tokenized agents under periodic input with known perturbations, anchored solely to the 'state update consistency rate' metric explicitly reported in Section 3.2 of 'Robustness in Sequential Models' by Chen et al., 2023, and including its variation over 100 update intervals under bounded token budgets and known input disruptions
+
+Limits: 
