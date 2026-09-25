@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory research must anchor in verifiable, time-bound, and non-linear dynamics to avoid circular or untestable hypotheses
 - manager setup: All memory research must be grounded in explicitly reported, numerically verifiable, and time-bound metrics before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and prevents meaningful conclusions from being drawn.
 - planner: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid.'
 - plan review: All memory research must confirm explicit, numerically specified, and time-bound decay patterns in primary sources before proceeding; absence of such data invalidates the entire inquiry and necessitates revision of the research premise or scope prior to further analysis or handoff to implementers.
@@ -40,5 +39,6 @@
 - deliverable review: All memory research must first verify the explicit presence of mathematically defined, time-bound decay models in primary sources before proceeding to any further analysis or hypothesis generation; absence of such data mandates a bounded, testable revision to the research question without assumption of underlying dynamics.'
 - manager final: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-verified revision to a testable and empirically grounded alternative question without assumption or inference
 - orchestrator: Memory research must be strictly grounded in explicitly reported, numerically specified mechanisms before extending to inference or modeling; absence of such data invalidates downstream assumptions and requires iterative refinement of testable questions only on verifiable source content.'
+- manager setup: All memory research must first verify the explicit presence of mathematically defined, time-bound decay models in primary sources before proceeding to any further analysis or hypothesis generation; absence of such data mandates a bounded, source-grounded research question with clear textual anchoring and no extrapolation beyond stated parameters
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
