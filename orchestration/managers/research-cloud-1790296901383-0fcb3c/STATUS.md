@@ -1,0 +1,7 @@
+# Research manager
+
+Goal: Analyze citation and subject field propagation in preprints 2409.15678 to 2409.19876 for three distinct citation chains with shared subject tags or keywords; evaluate persistence using temporal and structural metrics from baseline citation network models; report with field overlap and coherence scores.
+
+Stage: manager_setup. Plan reviews 0/2; evidence reviews 0/2.
+
+- research-cloud-1790296901383-0fcb3c-1-orchestrator: orchestrator — completed
