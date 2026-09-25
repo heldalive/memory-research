@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates assertions and necessitates a shift to retention or resilience metrics when decay is not empirically observed in source material.
 - orchestrator: Memory mechanisms must be anchored in explicitly reported temporal response rules, not inferred from implicit state behavior or absence of decay signals.
 - manager setup: All assertions about memory dynamics in tokenized agents must be strictly tied to explicitly reported, time-bound events under defined perturbations; absence of such data nullifies claims and mandates reliance on verifiable, directly cited temporal rules only.
 - planner: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates assertions and necessitates a shift to retention or resili
@@ -40,5 +39,6 @@
 - deliverable review: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data invalidates assertions and necessitates a shift to observation-based validation if claims are to be substantiated beyond textual reporting.'
 - manager final: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data necessitates a bounded revision to clarify scope before proceeding to observational validation or alternative evidence sources.
 - researcher: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data necessitates a bounded revision to clarify scope before further investigation or assertion.
+- deliverable review: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data necessitates a bounded revision to clarify scope before further investigation.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
