@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790355748645-4612cc
-
-Two invalid role outputs; saved evidence retained. This is not a research finding.
-
-Next candidate: handoff to analyst to extract and verify explicitly reported memory update policies that activate upon specific temporal patterns of input in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the shortest observed interval between inputs that triggers a detectable memory update event as an anchor for persistence claims
-
-Limits: 
-
 ## research-cloud-1790357358303-dcd899
 
 No explicit memory encoding mechanisms in response to structured temporal input patterns are reported in Kumar et al., 2024, Section 4.1, and thus claims of time-bound encoding remain unverified and unsupported by evidence.
@@ -35,3 +27,11 @@ No evidence of temporal dependencies or detectable memory state shifts under per
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of temporal dependencies between input sequences and detectable shifts in memory state transitions under known perturbations; if any exist, define the shortest observed sequence or time interval that induces a measurable change in memory state as an anchor for structured temporal memory dynamics claims; if none exist, redefine the research objective to focus
 
 Limits: After two review cycles and exhaustive inspection of the source material, no explicit descriptions of temporal dependencies between input sequences or measurable shifts in memory state under perturbations were found. The lack of a shortest observed sequence inducing detectable memory transitions invalidates claims of structured temporal memory dynamics. A bounded revision is required to clarify the scope and define acceptable evidence before proceeding to further investigation. The current research objective remains unfulfilled due to absence of temporally bound, perturbation-induced memory changes in the source text.
+
+## research-cloud-1790362484952-9ef9a5
+
+No verifiable evidence exists for memory retention mechanisms or state persistence duration under stable, low-variation input conditions in Kumar et al., 2024, Section 4.1, leaving the claimed baseline for memory superiority ungrounded and unsupported.
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory retention mechanisms and any reported duration of state persistence without detectable decay under stable, low-variation input conditions; if unavailable, define a bounded set of criteria for what constitutes sufficient evidence of memory persistence before proceeding to comparative evaluation
+
+Limits: After two review cycles, the evidence base contains no explicit descriptions of memory retention mechanisms or reported durations of state persistence without decay under stable input. The absence of temporally structured, measurable data prevents any claim of superiority in memory management. A bounded revision is required to define clear, testable criteria for what constitutes sufficient evidence before further evaluation can proceed. The current research question remains unanswerable due to missing temporal and contextual data in the source material.
