@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790320046194-9d6499
-
-The research question lacks empirical grounding due to absence of the per-interval retention rate metric in the inspected sources, despite its explicit requirement in the query.
-
-Next candidate: handoff to analyst to revise the research question to focus on token efficiency and memory lifecycle under bounded budgets, using only explicitly reported metrics from Kumar et al., 2024, Section 4.1, if available; otherwise, anchor to observable memory retention metrics such as token usage per update, memory decay under periodic input, and latency in retrieval; propose a new question: 'What is the optimal token budget allocation for maintaining stable memory
-
-Limits: After two review cycles confirm the missing core metric and lack of variation data under bounded token constraints, the original query fails its empirical anchor. The evidence does not support the claimed retention rate or its variation over 50 intervals, rendering the research question untestable with current data. A bounded revision is required to shift focus to observable, reported metrics without speculative extrapolation.
-
 ## research-cloud-1790321600478-126177
 
 The research question cannot be answered due to absence of reported per-interval retention rates under exact conditions, necessitating a bounded revision to a data-anchored alternative query.
@@ -35,3 +27,11 @@ The research objective cannot be validated due to absence of explicit token redu
 Next candidate: handoff to analyst to investigate how memory decay manifests in a tokenized agent under periodic input with known perturbations, focusing exclusively on the rate of token reduction per update interval and its correlation with observed state drift, using only explicitly reported token usage and retention trends from Kumar et al., 2024, Section 4.1
 
 Limits: No source provides quantified data on token reduction per update interval or its correlation with observed state drift. The requested information from Kumar et al., 2024, Section 4.1 is missing, and current evidence only reports general token usage or persistent errors in memoryless agents without metric-level analysis. A bounded revision is required to restrict the investigation to sources that explicitly report token retention trends under periodic input and known perturbations. Without such data, no causal or quantitative inference about memory decay can be drawn from observed behavior alone.
+
+## research-cloud-1790327962491-bd62df
+
+The original research question cannot be answered due to absence of the per-interval retention rate metric in the source material, necessitating a bounded revision to a measurable, observable memory persistence metric explicitly reported in the literature.
+
+Next candidate: handoff to analyst to formulate a revised research question on the minimum update interval required for observable memory persistence in a tokenized agent under periodic input with known perturbations, anchored solely to an explicitly reported, observable per-interval retention rate or equivalent metric from Kumar et al., 2024, Section 4.1
+
+Limits: After two independent reviews confirm the absence of the per-interval retention rate metric in Kumar et al., 2024, Section 4.1, the research must shift to a question grounded solely in explicitly reported, observable memory persistence data. The focus now must be on metrics directly accessible and verifiable in the source, such as recall rates, retention curves, or time-based accuracy under periodic input with known perturbations. This revision ensures empirical grounding and alignment with available data, preserving the research program's integrity without theoretical overreach.

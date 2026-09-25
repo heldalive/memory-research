@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All memory research questions must be anchored to explicitly reported, empirically validated metrics from peer-reviewed sources under exact experimental conditions to ensure data integrity and avoid speculative inference.'
 - planner: All memory research questions must be grounded in explicit, direct reporting of core metrics in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative inference
 - plan review: Always anchor research questions to explicitly reported, empirically validated metrics from peer-reviewed sources under exact experimental conditions to ensure data integrity and avoid speculative inference.'
 - manager plan: All memory research questions must be formulated with explicit, direct alignment to reported metrics and experimental conditions in peer-reviewed sources to ensure empirical validity and avoid speculative inference, especially when constraints like token budget and update intervals are involved.'
@@ -40,5 +39,6 @@
 - manager final: All memory research must validate data accessibility and explicit metric presence in source material before formulation; a question cannot proceed without verifiable, directly reported evidence, regardless of theoretical appeal or scope precision
 - researcher: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, directly reported evidence from the source material, regardless of theoretical appeal or scope precision
 - deliverable review: All memory research must validate the explicit presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported data on the metric in question, regardless of theoretical appeal or scope.
+- manager final: All memory research must validate the explicit, direct presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported evidence, regardless of theoretical appeal or scope.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
