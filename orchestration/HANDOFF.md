@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1789719361426-954a59
-
-Linguistic recurrence in scientific abstracts can signal potential thematic continuity but requires cross-preprint validation and semantic clustering to avoid false inference of memory-like behavior in discourse.
-
-Next candidate: Identify and map co-occurrence patterns and semantic clusters of at least three syntactic motifs in the abstracts and introductions of arXiv preprints 2409.15678 to 2409.19876 using NLP; focus on phrases like 'reliability in cell type annotation', 'talk-to-machine', and 'biased data sources' and assess their cross-preprint frequency and contextual variation; report
-
-Limits: The initial observation of recurring phrases like 'reliability in cell type annotation' and 'talk-to-machine' strategy is noted, but without co-occurrence analysis or semantic clustering across the full dataset, the claim of emergent thematic persistence remains unverified. A bounded revision is required to expand the analysis to include co-occurrence and semantic clustering of at least three syntactic motifs across all preprints 2409.15678 to 2409.19876 before any conclusion about thematic continuity can be drawn. The current evidence is insufficient to support claims of memory-like behavior in scientific discourse without further validation.
-
 ## research-cloud-1790278605832-b25564
 
 The task remains unfeasible due to lack of accessible full-text preprint data, preventing verification of motif co-occurrence or semantic variation in scientific literature.
@@ -35,3 +27,11 @@ The research objective cannot be validated without direct confirmation of prepri
 Next candidate: Query arXiv API for preprints 2409.15678 to 2409.19876 to confirm existence, metadata, and citation links; identify at least three distinct citation chains sharing a common subject tag or keyword; document all results in structured format for downstream analysis. If no such chains exist, propose an alternative research question focused on memory propagation in agent systems using verified citation networks instead.
 
 Limits: No source-verified data exists for preprints 2409.15678 to 2409.19876 or their citation structures. The absence of metadata and citation links prevents any assessment of field overlap, temporal proximity, or coherence. A bounded revision is required to confirm existence and structural relationships before further analysis can proceed. The current research question lacks empirical grounding and must be corrected to ensure validity and data integrity.
+
+## research-cloud-1790299074394-40b62b
+
+No peer-reviewed studies currently provide empirical evidence of tokenized agent state persistence through measurable output token decay or coherence under bounded, perturbed inputs compared to static streams.
+
+Next candidate: Find peer-reviewed studies that analyze time-series output token trajectories and quantify decay rates in tokenized agents under known perturbation sequences versus static input streams; prioritize works with explicit coherence and retention metrics in output tokens; include at least one study with downstream task performance as a proxy for coherence over time
+
+Limits: After reviewing available literature, no studies meet the objective's requirement for time-series analysis of output token trajectories with explicit decay and coherence metrics under known perturbations. The existing works discuss memory lifecycle or privacy risks without demonstrating controlled state evolution or retention dynamics. A bounded revision is necessary to locate primary sources with direct, measurable decay rate comparisons before any comparative analysis can proceed. This confirms the absence of empirical validation for claims of superior memory management in tokenized agents under dynamic input conditions.

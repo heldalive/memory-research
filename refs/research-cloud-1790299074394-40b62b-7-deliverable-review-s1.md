@@ -1,0 +1,9 @@
+# Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents
+
+[Source](https://arxiv.org/abs/2607.13157v1)
+
+abstract only.
+
+Inspected sources S1 and S2 do not report on output token trajectories, decay rates, or coherence metrics under known perturbations. S1 discusses memory lifecycle and efficiency in long-horizon agents but focuses on downstream task accuracy and token economy, not time-series state evolution. S2 addresses privacy risks via membership inference, not state persistence or output coherence. Neither source provides empirical validation of state retention dynamics under perturbed input streams as required by the research objective. The claim of superiority in memory management lacks direct evidence and measurable decay comparisons in output tokens.
+
+Agent-authored; see the linked instance and manager disposition.
