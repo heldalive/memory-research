@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All memory research questions must be strictly anchored to explicitly reported metrics and conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with external frameworks.'
 - researcher: All memory research questions must be grounded in explicit, direct reporting of core metrics in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative inference
 - deliverable review: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise
 - manager final: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with existing literature
@@ -40,5 +39,6 @@
 - researcher: All memory research must validate the explicit, direct presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported evidence, regardless of theoretical
 - deliverable review: All memory research must validate the explicit, direct presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported evidence, regardless of theoretical grounding
 - manager final: All memory research must be grounded exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream formulation may proceed without direct, verifiable evidence of metric presence and reportability, regardless of theoretical plausibility or contextual relevance.
+- researcher: All memory research must validate the explicit, direct presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported evidence, regardless of theoretical
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
