@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Metadata propagation analysis must begin with explicit, reproducible definitions and cross-document metadata evidence to avoid subjective attribution and ensure scientific validity
 - manager final: Metadata propagation analysis must begin with explicit, reproducible definitions and empirical evidence from multiple documents to avoid subjective attribution and ensure scientific validity
 - researcher: Metadata propagation analysis must begin with clear, reproducible definitions and empirical evidence from multiple documents to ensure scientific validity and avoid subjective attribution'}
 - deliverable review: Metadata propagation analysis must begin with explicit, reproducible definitions and empirical evidence from multiple documents to avoid subjective attribution and ensure scientific validity
@@ -40,5 +39,6 @@
 - manager plan: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies before comparative analysis can proceed; absence of such data invalidates the research premise and necessitates scope revision prior to any further investigation or execution.
 - researcher: Tokenized agent memory claims must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed; absence of such data invalidates the research premise and requires scope revision
 - deliverable review: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed
+- manager final: All claims about tokenized agent memory performance must be grounded in direct, time-series empirical data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a bounded revision
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
