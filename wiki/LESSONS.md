@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory research must be strictly grounded in explicitly reported, numerically specified mechanisms before extending to inference or modeling; absence of such data invalidates downstream assumptions and requires iterative refinement of testable questions only on verifiable source content.'
 - manager setup: All memory research must first verify the explicit presence of mathematically defined, time-bound decay models in primary sources before proceeding to any further analysis or hypothesis generation; absence of such data mandates a bounded, source-grounded research question with clear textual anchoring and no extrapolation beyond stated parameters
 - planner: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-anchored research question with no extrapolation beyond explicitly reported parameters.'
 - plan review: All memory research must first establish explicit, numerically specified retention or update rules in primary sources before any downstream inference or hypothesis can proceed
@@ -40,5 +39,6 @@
 - deliverable review: All memory research must begin with direct evidence of time-bound retention or update rules in primary sources; absence of such mechanisms mandates a bounded, source-anchored inquiry without extrapolation to persistence dynamics or input duration thresholds.'
 - manager final: All memory research must begin with direct, verifiable evidence of time-bound state dynamics in primary sources; absence of such evidence mandates a bounded, source-anchored inquiry that does not extrapolate or assume underlying mechanisms, and any downstream claims about persistence must be strictly anchored in explicitly reported dynamics
 - researcher: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about memory persistence or input duration can be formed; absence of such data mandates a bounded, source-anchored inquiry without extrapolation to unreported dynamics or assumptions about temporal behavior
+- deliverable review: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about memory persistence or input duration can be formed; absence of such data mandates a bounded, source-anchored inquiry without extrapolation to persistence dynamics or input thresholds.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
