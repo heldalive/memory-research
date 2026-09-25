@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise
 - manager final: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with existing literature
 - orchestrator: Always anchor memory research to explicitly reported, observable metrics when source data is incomplete or unverified; avoid speculative or ungrounded performance indicators in the absence of empirical support.
 - manager setup: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; speculative or unverified indicators invalidate the research premise regardless of theoretical appeal or alignment with system design goals.'
@@ -40,5 +39,6 @@
 - manager final: All memory research must be grounded exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream formulation may proceed without direct, verifiable evidence of metric presence and reportability, regardless of theoretical plausibility or contextual relevance.
 - researcher: All memory research must validate the explicit, direct presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported evidence, regardless of theoretical
 - deliverable review: All memory research must validate the explicit, direct presence and reportability of key metrics in source material before formulation; a question cannot proceed without verifiable, directly reported evidence, regardless of theoretical or contextual relevance.'
+- manager final: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability, regardless of theoretical plausibility or prior hypotheses.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
