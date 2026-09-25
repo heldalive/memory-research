@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1790345221502-3f792c](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790345221502-3f792c): **manager setup**. handoff to analyst to extract and verify explicitly reported state update mechanisms (e.g., per-token update rules, conditional transitions, or update frequencies) in Kumar et al., 2024, Section 4.1 under known perturbations; if none exist, propose a bounded research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent, anchored solely to explicitly reported update rules from the source
+- [research-cloud-1790345221502-3f792c](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790345221502-3f792c): **planner**. handoff to analyst to extract and verify explicitly reported state update mechanisms (e.g., per-token update rules, conditional transitions, or update frequencies) in Kumar et al., 2024, Section 4.1 under known perturbations; if none exist, propose a bounded research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent, anchored solely to explicitly reported update rules from the source
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
