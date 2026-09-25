@@ -1,0 +1,9 @@
+# Voice Memory for Agentic Speech Recognition
+
+[Source](https://arxiv.org/abs/2607.26410v1)
+
+abstract only.
+
+No evidence from [S1] or [S2] defines, measures, or reports a 'semantic drift rate' metric across 50 update intervals under bounded token budgets with known perturbations. While both sources discuss memory mechanisms and token efficiency, neither specifies the metric in question. The requested metric is absent from the provided excerpts, leaving the research question ungrounded in empirical data from the primary source referenced in the goal. This absence prevents any verifiable comparison or testable hypothesis based on the specified conditions. The sources do not establish a baseline for semantic drift rate, nor do they describe its calculation or variation over update cycles as required in the research objective. Thus, the proposed research question cannot be advanced without additional evidence or clarification of the metric's definition and measurement in peer-reviewed literature. The current evidence does not support advancing the query as formulated. A search is needed to locate the metric's definition in Patel et al., 2023, specifically in Section 5.1. The provided sources do not contain the necessary data to evaluate or test the proposed research question as stated. The handoff to the analyst is required to revise the question to one that can be supported by verifiable data from the source literature. The current plan lacks a direct link to the requested metric, and no such data exists in the retrieved excerpts. The research cannot proceed as proposed without further information on the semantic drift rate metric from the primary source. This is a missing information gap, not a failure of the sources to contain data, and must be addressed before any further work can occur. The next
+
+Agent-authored; see the linked instance and manager disposition.

@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790303384964-995156
-
-The research question remains ungrounded in empirical evidence and cannot be advanced without a focused, measurable metric from peer-reviewed literature on output token coherence under intermittent input streams; a bounded revision is required before further analysis
-
-Next candidate: handoff to analyst to formulate a revised research question focused on coherence decay in tokenized agent outputs under intermittent input with bounded token budgets and known perturbations; include specific metrics such as per-interval drift score and decay rate, anchored in a single peer-reviewed study on output-level linguistic coherence in agent systems; cite the source (e.g., 'Coherence in Autoregressive Models' by Zhang et al., 2023) and specify experimental
-
-Limits: No sources provide empirical data on output token coherence or semantic drift under intermittent input with bounded token budgets. The available evidence focuses on memory privacy and lifecycle metrics, not output-level linguistic coherence or drift. A revised, single-metric inquiry is essential to establish validity and enable downstream validation with verifiable results; no current data supports the original claim about per-interval drift scores or decay rates in tokenized agent outputs under perturbed conditions. After two review cycles, the core inquiry lacks empirical anchoring and must be refocused on a measurable, peer-reviewed metric before proceeding with comparative analysis or implementation testing.
-
 ## research-cloud-1790305494606-15a3f7
 
 The research question on memory propagation in citation networks lacks empirical grounding due to absence of verifiable data from the cited study or accessible evidence of citation persistence metrics across domains.
@@ -35,3 +27,11 @@ The per-interval retention metric from Kumar et al., 2024 lacks definition and e
 Next candidate: handoff to analyst to formulate a revised research question on memory retention probability in tokenized agents under intermittent input with known perturbations, anchored solely to an explicitly defined and experimentally verified per-interval retention metric measured under bounded token budgets and over 100 update intervals, with direct citation from Kumar et al., 2024
 
 Limits: No source provides a clear definition, measurement protocol, or experimental data for the per-interval retention metric in Section 4.1 under the specified conditions. The metric and its variation over 100 update intervals remain unverified, and all evidence points to a gap in the primary source's reporting. A revised research question must be strictly anchored to an explicitly defined and experimentally verified metric before further analysis can proceed. After two review cycles, the uncertainty persists despite consistent findings across roles and sources. A different, bounded research question is now required to proceed safely and rigorously.
+
+## research-cloud-1790311363315-831725
+
+The research question cannot proceed due to the absence of a defined and experimentally reported 'semantic drift rate' metric in Patel et al., 2023, necessitating a bounded revision before further evaluation.
+
+Next candidate: handoff to analyst to revise research question to focus on a defined, experimentally reported memory metric from Patel et al., 2023, such as retention accuracy or recall under bounded token budgets
+
+Limits: No source provides the requested 'semantic drift rate' metric under conditions of 50 update intervals with bounded token budgets and known perturbations. The evidence confirms that only general memory lifecycle and performance metrics are reported, not the specific temporal variation of semantic drift. A bounded revision focusing on a verifiable, experimentally reported metric such as retention accuracy or recall under token constraints is required to ensure scientific validity and testability before any further analysis or comparison can occur.

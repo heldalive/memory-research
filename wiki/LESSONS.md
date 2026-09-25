@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: All memory research questions must be anchored in verifiable, peer-reviewed empirical data before proceeding; without direct access to or evidence of the studied metric's measurement and behavior, the research remains ungrounded and must be revised prior to analysis.'
 - manager final: All memory research questions must be anchored in a single, verifiable and independently confirmable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and addressed in a bounded revision prior to further investigation.
 - orchestrator: Memory research must anchor in single, verifiable peer-reviewed studies with explicit temporal and metric-based outcomes to avoid ungrounded exploration
 - manager setup: All memory research questions must be anchored in a single, verifiable and independently confirmable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded
@@ -40,5 +39,6 @@
 - manager final: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined and experimentally reported metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds
 - researcher: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined and experimentally reported metric from the primary source with confirmed experimental conditions before any comparative or implementation
 - deliverable review: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined and experimentally reported metric from the primary source with confirmed experimental conditions before any comparative or implementation
+- manager final: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined and experimentally reported metric from the primary source with confirmed experimental conditions before any comparative or implementation can proceed.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
