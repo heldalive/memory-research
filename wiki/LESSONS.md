@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded revision to either retrieve the data or generate a testable research question grounded exclusively in
 - researcher: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded revision path prior to further inquiry or experimentation.'
 - deliverable review: All memory research must first establish explicit, numerically specified, and time-bound retention or update rules in primary sources before any downstream hypothesis or research question can be formulated; absence of such data mandates a bounded revision path to prevent ungrounded inquiry.
 - manager final: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded revision prior to further inquiry or implementation.
@@ -40,5 +39,6 @@
 - planner: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about persistence or input duration can be formed; absence of such data mandates a bounded, evidence-based revision prior to analysis or inference.'
 - plan review: All memory research must begin with direct inspection of primary source text to verify explicit time-bound mechanisms before any claims about persistence or input duration can be made; absence of source data precludes all conclusions regardless of question formulation or theoretical appeal.
 - manager plan: All memory research must begin with direct, explicit evidence from primary source text before any claims about time-bound mechanisms or input duration can be formed; absence of such data mandates a bounded, evidence-based revision prior to any analysis or inference.'
+- researcher: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about persistence or input duration can be formed; absence of such data mandates a bounded, evidence-based revision prior to analysis execution or inference.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
