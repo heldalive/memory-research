@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790314048891-4d87a7
-
-The research premise relying on a per-interval retention rate metric is unsupported by evidence from Kumar et al., 2024, and must be revised to align with experimentally reported, verifiable data only.
-
-Next candidate: handoff to analyst to revise research question to focus on token efficiency and memory lifecycle in Oracle Agent Memory under intermittent input, using only metrics explicitly reported in Kumar et al., 2024, and include variation over 100 update intervals with bounded token budgets and known perturbations; if no such data exists, propose an alternative metric from the paper's experimental evaluation section
-
-Limits: No source provides empirical data on per-interval retention rate variation over 100 update intervals under bounded token budgets and known perturbations. The requested metric is not reported in Section 4.1 or elsewhere in the inspected excerpts, and the research question lacks grounding in verifiable source data. A bounded revision is required to shift focus to a measurable, reported metric such as token efficiency or memory lifecycle performance without speculative generalization. After this revision, a second review will assess fidelity to source evidence before advancing the research program.
-
 ## research-cloud-1790315583065-b9812a
 
 The original research question lacks empirical support due to absence of experimentally reported retention thresholds under periodic input and bounded token budgets in the inspected sources. A bounded revision is required before proceeding to the next review stage
@@ -35,3 +27,11 @@ Two invalid role outputs; saved evidence retained. This is not a research findin
 Next candidate: handoff to analyst to formulate a revised research question on memory fidelity in tokenized agents under periodic input with known perturbations, anchored solely to the 'fidelity score' metric explicitly reported in Section 6.1 of 'Fidelity and Drift in Sequential Memory Systems' by Wang et al., 2024, and including its variation over 50 update intervals under a bounded token budget of 100 tokens
 
 Limits: 
+
+## research-cloud-1790320046194-9d6499
+
+The research question lacks empirical grounding due to absence of the per-interval retention rate metric in the inspected sources, despite its explicit requirement in the query.
+
+Next candidate: handoff to analyst to revise the research question to focus on token efficiency and memory lifecycle under bounded budgets, using only explicitly reported metrics from Kumar et al., 2024, Section 4.1, if available; otherwise, anchor to observable memory retention metrics such as token usage per update, memory decay under periodic input, and latency in retrieval; propose a new question: 'What is the optimal token budget allocation for maintaining stable memory
+
+Limits: After two review cycles confirm the missing core metric and lack of variation data under bounded token constraints, the original query fails its empirical anchor. The evidence does not support the claimed retention rate or its variation over 50 intervals, rendering the research question untestable with current data. A bounded revision is required to shift focus to observable, reported metrics without speculative extrapolation.
