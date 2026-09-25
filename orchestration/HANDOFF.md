@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790343224255-6acfea
-
-No explicit, numerically defined retention or per-token update rules are reported in Kumar et al., 2024, Section 4.1, preventing the formulation of a testable research question on memory persistence duration; a bounded revision is required to verify source data
-
-Next candidate: handoff to analyst to retrieve and verify explicitly reported retention rates or update rules in Kumar et al., 2024, Section 4.1; if absent, formulate a distinct, bounded research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported retention or update rules from Kumar et al
-
-Limits: After two review cycles confirm the absence of numerically specified retention or update mechanisms per token in Kumar et al., 2024, Section 4.1, the foundational data for any research on memory persistence duration is missing. The sources describe memory lifecycle phases and membership inference attacks but provide no time-bound retention probabilities or update frequencies. Without such explicit, verifiable parameters, downstream research questions remain ungrounded. A bounded revision is requested to retrieve or verify these rules before proceeding to a new research direction based on confirmed source mechanisms.
-
 ## research-cloud-1790345221502-3f792c
 
 No explicit state update mechanisms are reported in Kumar et al., 2024, Section 4.1, necessitating a bounded revision to propose a research question on minimum input duration for memory persistence based solely on explicitly stated update rules; the current direction
@@ -35,3 +27,11 @@ No explicit conditional state transitions or update triggers in response to know
 Next candidate: handoff to analyst to extract and verify explicitly reported conditional state transitions or update triggers in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum duration of periodic input required to observe a detectable state shift using only those triggers as anchors
 
 Limits: After two review cycles confirm the absence of explicitly reported conditional state transitions or update triggers tied to known perturbations, the request for a minimum duration of periodic input to observe detectable state shifts remains ungrounded and unverifiable. The research must now be bounded to only consider cases where such triggers are directly cited in the primary source. This revision enforces fidelity to primary data and prevents inference beyond reported mechanisms. No further claims about time-bound memory dynamics can be made without explicit anchoring in the text's stated triggers or transitions.
+
+## research-cloud-1790351467082-a744c5
+
+Two invalid role outputs; saved evidence retained. This is not a research finding.
+
+Next candidate: handoff to analyst to extract and verify explicitly reported token budget allocations or state maintenance thresholds in Kumar et al., 2024, Section 4.1 under intermittent input and known perturbations; if any exist, define the minimal token budget required for observable memory persistence in a tokenized agent using only those thresholds as anchors
+
+Limits: 
