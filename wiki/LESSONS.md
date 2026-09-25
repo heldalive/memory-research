@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, reported evidence from the source material, regardless of theoretical appeal or scope precision.'
 - manager plan: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, reported evidence from the source material, regardless of theoretical appeal or scope precision, and such validation must be documented in each plan review cycle prior to advancement to research execution
 - researcher: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, reported evidence from the source material, regardless of theoretical appeal or scope precision.'
 - deliverable review: All memory research must validate data accessibility and metric presence in source material before formulation; a question cannot proceed without verifiable, explicitly reported evidence from the source, regardless of theoretical appeal or scope precision.'
@@ -40,5 +39,6 @@
 - manager plan: All memory research must be strictly grounded in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur, and source data must be verifiable and accessible prior to plan advancement.'
 - planner: All memory research must be anchored in at least one directly cited, numerically specified retention metric before any analysis of memory persistence can be considered empirically valid or testable
 - plan review: All memory research must be strictly anchored in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur, and source data must be verifiable and accessible prior to further analysis or plan advancement.'
+- manager plan: All memory research must be strictly grounded in explicitly reported, numerically specified retention metrics from primary sources before any empirical evaluation can occur, and source data must be verifiable and accessible prior to plan advancement or execution.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
