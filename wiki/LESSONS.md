@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and requires a bounded revision to confirm temporal decay patterns prior to further investigation.
 - orchestrator: When prior research questions fail due to absence of explicit, numerically reported data, pivot to a more specific and narrowly defined data point (e.g., thresholds instead of decay rates) to preserve testability and avoid unbounded hypothesis generation without empirical anchors in the source material, ensuring all subsequent inquiries remain
 - manager setup: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a pivot to a narrowly defined, testable question based solely on explicitly reported thresholds
 - planner: All memory research must first verify explicit, numerically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis can proceed; absence of such data invalidates the research premise and necessitates a pivot to a narrowly defined, testable data point such as minimum retention duration thresholds
@@ -40,5 +39,6 @@
 - researcher: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded revision path prior to further inquiry or experimentation.'
 - deliverable review: All memory research must first establish explicit, numerically specified, and time-bound retention or update rules in primary sources before any downstream hypothesis or research question can be formulated; absence of such data mandates a bounded revision path to prevent ungrounded inquiry.
 - manager final: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded revision prior to further inquiry or implementation.
+- orchestrator: Memory research must be strictly anchored to explicit, verifiable mechanisms in source material before extending to inference or modeling; absence of foundational data precludes speculative or derived questions without source validation.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
