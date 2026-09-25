@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds
 - planner: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds
 - plan review: Always anchor memory research to a single, explicitly defined and experimentally reported metric from peer-reviewed literature to ensure empirical grounding and avoid unverifiable extensions.'
 - manager plan: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds
@@ -40,5 +39,6 @@
 - researcher: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - deliverable review: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - manager final: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization, with revision required before any claim of superiority can be made based on unverified data patterns or extrapolation.
+- orchestrator: Memory research must anchor exclusively in experimentally reported, verifiable metrics from peer-reviewed sources to ensure empirical validity and avoid speculative or ungrounded hypotheses.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
