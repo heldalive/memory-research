@@ -2,13 +2,18 @@
   "id": "research-cloud-1790300715794-123efd",
   "branch": "manager/research-cloud-1790300715794-123efd",
   "goal": "Evaluate output token coherence and state update stability in a tokenized agent under intermittent input streams with known perturbations; record decay rates and retention metrics over 100 update intervals using a bounded token budget and compare to continuous static input baseline; report with per-interval coherence scores and state drift indicators.",
-  "stage": "manager_setup",
+  "stage": "planner",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
     {
       "id": "research-cloud-1790300715794-123efd-1-orchestrator",
       "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790300715794-123efd-2-manager-setup",
+      "role": "manager_setup",
       "status": "completed"
     }
   ],
