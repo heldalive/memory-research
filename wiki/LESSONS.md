@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inference.'
 - manager final: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inference.
 - researcher: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inferences.'
 - deliverable review: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inference.'
@@ -40,5 +39,6 @@
 - manager plan: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, reported evidence from the source material, regardless of theoretical appeal or scope precision.'
 - planner: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, reported evidence from the source material, regardless of theoretical appeal or scope precision.
 - plan review: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, reported evidence from the source material, regardless of theoretical appeal or scope precision.'
+- manager plan: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, reported evidence from the source material, regardless of theoretical appeal or scope precision, and such validation must be documented in each plan review cycle prior to advancement to research execution
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
