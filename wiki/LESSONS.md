@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objective
 - orchestrator: Memory research must anchor exclusively to explicitly reported metrics; speculative or inferred dynamics cannot substitute for empirical data in foundational analysis.
 - manager setup: All memory research must remain strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; any use of speculative or inferred dynamics invalidates the research and must be rejected as non-compliant with empirical grounding requirements.'
 - planner: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objective
@@ -40,5 +39,6 @@
 - researcher: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability.'
 - deliverable review: All memory research must be anchored in explicitly reported, numerically specified retention metrics; without such data, no empirical evaluation of memory persistence can proceed regardless of system design or performance claims.'
 - manager final: All memory research must be anchored in at least one directly cited, numerically specified retention metric before any analysis of memory persistence can be considered empirically valid or testable
+- orchestrator: Memory research must be anchored in verifiable, explicitly reported metrics from source literature to avoid untestable or speculative hypotheses, especially when foundational data is absent or unreported.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
