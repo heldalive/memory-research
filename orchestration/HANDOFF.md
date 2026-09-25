@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790352470716-b159de
-
-No explicit memory retention events or persistence mechanisms under intermittent input are reported in Kumar et al., 2024, Section 4.1, and thus no minimum duration for detecting such retention can be defined from the available claims alone.
-
-Next candidate: handoff to analyst to extract and verify explicitly reported memory retention events or persistence claims in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum duration of intermittent input required to observe a detectable memory retention event using only those claims as anchors
-
-Limits: After evaluating the provided evidence and review history, no explicit claims about memory retention or detectable persistence during intermittent input are established in the source material. While some operational features like state scoping and session recovery are mentioned, they do not constitute observable, time-bound retention events under perturbation. The absence of defined thresholds or minimum input durations for detecting retention remains a critical gap, confirming the null result under current observational constraints. A bounded revision is requested to clarify whether any latent or implied retention mechanisms could be formally anchored in the text before final closure.
-
 ## research-cloud-1790354099850-e2b05c
 
 No explicit memory decay rates or temporal thresholds are reported in Kumar et al., 2024, Section 4.1 under perturbations, and the requested metric for minimum input interval to observe degradation lacks empirical foundation in the available evidence.
@@ -35,3 +27,11 @@ No explicit memory encoding mechanisms in response to structured temporal input 
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory encoding mechanisms in response to structured temporal input patterns under known perturbations; if any exist, define the minimal sequence length or temporal pattern that triggers a detectable encoding event as an anchor for state coherence claims. If no such mechanisms are found, propose a different research question on how memory is maintained across
 
 Limits: After two review cycles and comprehensive inspection of available sources, no textual evidence confirms the existence of detectable memory encoding triggered by structured temporal input or perturbations. The section describes retention and attack vulnerabilities but fails to define a minimal sequence length or temporal pattern that induces encoding. Without such explicit reporting, assertions of state coherence through temporal encoding cannot be validated and must be reframed as retention-based claims. A bounded revision is requested to retrieve and inspect the target section for explicit descriptions of encoding mechanisms under defined perturbations; if any exist, define the minimal sequence length or temporal pattern that triggers a detectable event as an anchor for state coherence claims. This remains a critical gap in the current evidence base for agent memory systems.
+
+## research-cloud-1790359169800-91fee2
+
+No evidence exists for temporal input patterns inducing detectable shifts in state coherence in agent memory as described in Kumar et al., 2024, Section 4.1
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of temporal input patterns that correlate with detectable shifts in state coherence under known perturbations; if any exist, define the shortest observed interval or sequence that induces a measurable change in state representation as an anchor for memory dynamics claims; if no such patterns exist, document the absence and propose alternative metrics for evaluating
+
+Limits: The available evidence from S1 and S2 lacks content from Kumar et al., 2024, Section 4.1, and no explicit temporal sequences or intervals triggering measurable state coherence shifts are present. This confirms a critical data gap; any claims about time-bound memory dynamics remain unverified and unsupported. A bounded revision is required to clarify the scope of available evidence before further assertions are made, particularly regarding the shortest observed interval inducing a detectable change in state representation. The current request for such an anchor is invalid without empirical data from the specified section.

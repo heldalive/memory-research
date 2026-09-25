@@ -1,0 +1,9 @@
+# Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents
+
+[Source](https://arxiv.org/abs/2607.13157v1)
+
+abstract only.
+
+The provided sources do not contain content from Kumar et al., 2024, Section 4.1, and thus no explicit temporal input patterns correlated with shifts in state coherence under perturbations can be identified. The available excerpts focus on memory privacy attacks [S1] and enterprise memory substrates [S2], neither of which address temporal dynamics or state coherence shifts in the requested context. Without access to the specified section, any claims about memory dynamics anchored to temporal sequences remain unverified and unsupported by evidence.
+
+Agent-authored; see the linked instance and manager disposition.
