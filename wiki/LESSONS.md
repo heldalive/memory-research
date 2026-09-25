@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: Metadata propagation analysis in scientific literature must be anchored in verifiable, accessible data fields before any inference of thematic continuity can be made
 - planner: Metadata propagation analysis must be grounded in verifiable, accessible source fields before any inference of thematic continuity can be trusted, and manual audit of public metadata is sufficient for initial pattern observation without NLP or full-text processing.
 - plan review: Pattern identification in metadata must be preceded by source validation and clear operational definitions of 'propagation chain' and 'structural persistence' to ensure reproducibility
 - manager plan: Metadata propagation analysis must establish clear, reproducible definitions for key terms like 'propagation chain' and 'structural persistence' prior to pattern identification to ensure scientific rigor and reproducibility in observational studies.
@@ -40,5 +39,6 @@
 - manager final: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
 - orchestrator: Memory in agent systems is most reliably observed under controlled, perturbed input conditions with measurable output metrics, not in unstructured or data-scarce environments such as preprint metadata chains or abstracts alone.
 - manager setup: Memory superiority in tokenized agents must be demonstrated through direct, time-series empirical data with explicit decay and coherence metrics under controlled, perturbed input conditions before comparative claims are made.
+- planner: All claims about agent memory performance must be anchored in direct, verifiable time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
