@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: All claims about agent memory superiority must be anchored in direct, source-verified evidence from peer-reviewed or published datasets before any comparative analysis is accepted as valid research output.
 - plan review: Agent memory superiority claims must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis is validly conducted.
 - manager plan: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis is accepted as valid research output.
 - researcher: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis is valid.
@@ -40,5 +39,6 @@
 - orchestrator: Memory propagation in academic systems can be studied through verified citation networks with temporal and structural metrics, avoiding ungrounded or data-lacking domains such as preprint metadata or tokenized output decay studies alone.
 - manager setup: All agent memory research questions must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases and ensure alignment with observable, measurable patterns in existing literature.
 - planner: All agent memory research questions must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases and ensure alignment with primary source data definitions and boundaries.
+- plan review: All memory research questions must anchor in a single, verifiable and independently confirmable metric from peer-reviewed literature before proceeding to comparative analysis; absence of external validation data necessitates revision of scope or source alignment prior to advancement to implementation phase.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
