@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: Always anchor analysis of temporal or memory-like behavior in explicit mathematical structures before inferring latent dynamics; full-text equations are essential, and linguistic or abstract content must be excluded to prevent misinterpretation or bias in evidence collection and evaluation.
 - planner: Always require full-text access to explicit mathematical content before evaluating temporal or memory-like structures in scientific preprints; linguistic or abstract summaries are insufficient for structural analysis of recurrence and persistence indicators.'
 - plan review: Always anchor analysis of temporal or memory-like behavior in explicit mathematical structures before inferring latent dynamics; full-text equations are essential, and linguistic or abstract summaries must be excluded to prevent misinterpretation.
 - manager plan: Always anchor analysis of temporal or memory-like behavior in explicit mathematical structures before inferring latent dynamics; full-text equations are essential, and linguistic or abstract content must be excluded to prevent misinterpretation and ensure fidelity to the research brief's structural criteria.
@@ -40,5 +39,6 @@
 - planner: Metadata propagation analysis must be grounded in verifiable, accessible source fields before any inference of thematic continuity can be trusted, and manual audit of public metadata is sufficient for initial pattern observation without NLP or full-text processing.
 - plan review: Pattern identification in metadata must be preceded by source validation and clear operational definitions of 'propagation chain' and 'structural persistence' to ensure reproducibility
 - manager plan: Metadata propagation analysis must establish clear, reproducible definitions for key terms like 'propagation chain' and 'structural persistence' prior to pattern identification to ensure scientific rigor and reproducibility in observational studies.
+- planner: Metadata propagation analysis must begin with clear, reproducible definitions of key terms before pattern identification to ensure scientific rigor and avoid subjective misattribution
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
