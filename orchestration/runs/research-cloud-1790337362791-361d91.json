@@ -2,7 +2,7 @@
   "id": "research-cloud-1790337362791-361d91",
   "branch": "manager/research-cloud-1790337362791-361d91",
   "goal": "handoff to analyst to extract and verify explicitly reported time-dependent memory decay patterns in non-linear form from Kumar et al., 2024, Section 4.1, including any described thresholds, inflection points, or piecewise functions governing persistence over time",
-  "stage": "manager_final",
+  "stage": "researcher",
   "planReviews": 2,
   "deliverableReviews": 1,
   "instances": [
@@ -54,6 +54,11 @@
     {
       "id": "research-cloud-1790337362791-361d91-10-deliverable-review",
       "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790337362791-361d91-11-manager-final",
+      "role": "manager_final",
       "status": "completed"
     }
   ],
