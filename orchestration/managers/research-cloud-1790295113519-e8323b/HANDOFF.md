@@ -2,7 +2,7 @@
 
 Conduct a manual audit of metadata fields (title, authors, subject, keywords, abstract) for preprints 2409.15678 to 2409.19876 to extract and map inter-document linkages and thematic inheritance patterns; document at least three observed propagation chains and their structural consistency with known scientific dissemination models.
 
-Next role: planner.
+Next role: plan_review.
 
 Conduct a manual audit of metadata fields (title, authors, subject, keywords, abstract) for preprints 2409.15678 to 2409.19876 to extract and map inter-document linkages and thematic inheritance patterns; document at least three observed propagation chains and their structural consistency with known scientific dissemination models.
 
