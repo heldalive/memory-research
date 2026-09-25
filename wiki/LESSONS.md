@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention or resiliency metrics without temporal anchoring.
 - manager plan: All assertions about memory dynamics in tokenized agents must be strictly tied to explicitly reported, time-bound events under defined perturbations; absence of such data nullifies claims and mandates reliance on verifiable, directly cited evidence only.
 - researcher: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention or resiliency-based evaluation
 - deliverable review: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention or verification through direct source evidence only.'
@@ -40,5 +39,6 @@
 - manager final: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data requires a bounded revision to clarify scope and evidence requirements before further claims can be made, preserving scientific rigor in agent memory research and
 - orchestrator: Isolate stability under controlled, unperturbed conditions to evaluate intrinsic memory retention before introducing complexity or external stimuli.
 - manager setup: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data necessitates a bounded revision to clarify scope
+- planner: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data requires a bounded revision to clarify scope and evidence
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
