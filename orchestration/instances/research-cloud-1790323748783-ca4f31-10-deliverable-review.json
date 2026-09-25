@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1790323748783-ca4f31-10-deliverable-review",
+  "role": "deliverable_review",
+  "status": "completed",
+  "at": 1790325227044,
+  "answer": {
+    "summary": "The coherence score variation over 30 update intervals under an 80-token budget is not reported in the provided excerpts, and no evidence supports claims about periodic input or perturbation dynamics affecting memory coherence.",
+    "content": "Source S1 discusses memory lifecycle and token efficiency but does not report a coherence score trajectory over 30 update intervals under an 80-token budget. Source S2 describes Voice Memory's error correction mechanism and performance gains in speech recognition but provides no data on coherence scores or memory coherence under periodic input. The requested metric and experimental conditions are absent from both sources, rendering the research question unanswerable with current evidence. A direct link to Section 5.3 of Lee et al., 2024 is missing in the provided excerpts, and no data on perturbation dynamics or token budget variation is available. The claim of explicit reporting of coherence score variation lacks empirical support in the inspected sources.",
+    "decision": "revise",
+    "search": "https://arxiv.org/abs/2607.13157v1?highlight=coherence",
+    "sources": "S1,S2",
+    "nextTask": "handoff to analyst to revise research question to focus on token efficiency and error correction mechanisms in Voice Memory, using only explicitly reported metrics from S2 and contextual data from S1, without invoking unreported coherence scores",
+    "lesson": "Always verify explicit metric reporting in peer-reviewed sources before anchoring a research question to avoid relying on unverified or absent empirical data"
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 311,
+  "inputTokens": 1919,
+  "durationMs": 13776,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2607.13157v1",
+      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+      "excerpt": "Abstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery of user-specific facts and preferences across sessions, and accumulation of procedural knowledge from prior outcomes. These requirements extend beyond document retrieval: a memory layer must determine which interactions become durable state, how that state is scoped, how it is retrieved under latency constraints, and how it is revised or removed over time. This report studies Oracle Agent Memory as a database-native memory substrate built on Oracle Database. Three themes organize the discussion: memory as a lifecycle spanning ingestion, extraction, consolidation, retrieval, summarization, and revision or removal; a layered architecture that separates an active memory core from a passive memory-store interface with explicit scope control across users, agents, and threads; and evaluation methodology in which downstream task accuracy is complemented by memory-centric measures such as evidence retrieval, recall, latency, and estimated token use. The report summarizes LongMemEval results, reaching 93.8% accuracy, compares Oracle Agent Memory against flat-history baselines, using about 10.7x fewer tokens, and published or reported external baselines where available, and closes with implementation-oriented appendix material covering setup, thread lifecycle, and search semantics.",
+      "checkedAt": 1790325003215,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "849bddf647fb0a452c290076c3893db9869c6505d5f1ab071d0bbe910f6d4818",
+      "discovery": {
+        "query": "https://doi.org/10.1145/3682593.3682612",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    },
+    {
+      "id": "S2",
+      "url": "https://arxiv.org/abs/2607.26410v1",
+      "title": "Voice Memory for Agentic Speech Recognition",
+      "excerpt": "Abstract: We present Voice Memory, a inference-only scheme for agentic speech recognition: at stream time, a frozen corrector reads a single per-domain this http URL and decides per utterance whether to act on the hypothesis or abstain and keep the 1-best. Asynchronously, a score-gated optimizer revises that file through bounded edits, accepting an edit only when it strictly improves a held-out score. Extended from classical ASR-LM framework, we refer this split the listener-thinker architecture; the two roles are coupled only through the memory, so no weights change and the learned skill stays auditable and portable. Restraint turns out to be the operative skill this loop discovers: unconstrained generative error correction (GER) over-corrects, breaking correct tokens on up to 64% of its edits on financial news, and Voice Memory, reduces this rate to 35%. Across ten HyPoradise domains with an open corrector, Voice Memory, lowers weighted word error rate from 8.36% to 7.52% (7.47% with three added in-context examples) without regressing any dataset below its 1-best baseline; gains concentrate where recoverable headroom is largest, including air-travel commands (8.40% to 3.40%) and noisy far-field speech (CHiME-4, 12.69% to 10.46%). The memory transfers across corrector families and adds zero parameters to the inference path. A demo and example code are provided for future studies.",
+      "checkedAt": 1790325003215,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "342ad563e49df44851b588803da152be772524a91901afd7ceba6c1ab7dca57f",
+      "discovery": {
+        "query": "https://doi.org/10.1145/3682593.3682612",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    }
+  ]
+}
