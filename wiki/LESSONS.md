@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - manager final: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization, with revision required before any claim of superiority can be made based on unverified data patterns or extrapolation.
 - orchestrator: Memory research must anchor exclusively in experimentally reported, verifiable metrics from peer-reviewed sources to ensure empirical validity and avoid speculative or ungrounded hypotheses.'
 - manager setup: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
@@ -40,5 +39,6 @@
 - deliverable review: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inference.'
 - manager final: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inference.
 - researcher: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inferences.'
+- deliverable review: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded inference.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
