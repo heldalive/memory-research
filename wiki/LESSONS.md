@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
 - deliverable review: Linguistic recurrence in scientific abstracts should be validated through cross-preprint co-occurrence and semantic clustering to avoid conflating thematic overlap with emergent memory-like behavior
 - manager final: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
 - orchestrator: Thematic persistence in scientific discourse can be detected through linguistic recurrence patterns, even in the absence of explicit memory mechanisms or mathematical structures, providing a viable proxy for non-technical knowledge retention in agent systems.'
@@ -40,5 +39,6 @@
 - plan review: Always require direct empirical validation from source data before asserting the existence or structure of any metadata-based research hypothesis
 - manager plan: Always require direct empirical validation from source data before asserting the existence or structure of any metadata-based research hypothesis
 - researcher: All metadata-based research hypotheses must be grounded in direct, source-verified data before any inference or analysis is conducted
+- deliverable review: All research claims involving preprint metadata or citation chains must be grounded in direct, source-verified data before any inference or analysis is conducted, especially when shared subject tags or temporal patterns are asserted without empirical validation from the source database such as arXiv API.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
