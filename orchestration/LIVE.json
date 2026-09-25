@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790300418352,
+  "updatedAt": 1790300582673,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 480,
+  "completed": 481,
   "loops": [
     {
       "id": "research-cloud-1790299074394-40b62b",
       "branch": "manager/research-cloud-1790299074394-40b62b",
-      "stage": "deliverable_review",
+      "stage": "manager_final",
       "goal": "Evaluate state persistence in a tokenized agent under bounded input streams with known perturbation sequences; record update trajectories and compare decay rates to baseline static input patterns using time-series analysis on output tokens; report coherence and retention metrics per update interval."
     }
   ]

@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 - deliverable review: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 - manager final: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 - orchestrator: Metadata networks can serve as a proxy for thematic persistence when full-text or mathematical content is unavailable, enabling faster hypothesis generation in memory research without requiring full equation or linguistic analysis.
@@ -40,5 +39,6 @@
 - deliverable review: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis is validated and reported.
 - manager final: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed, and no such evidence exists in current literature
 - researcher: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
+- deliverable review: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
