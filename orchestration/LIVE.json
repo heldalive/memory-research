@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790327632698,
+  "updatedAt": 1790327798167,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 656,
+  "completed": 657,
   "loops": [
     {
       "id": "research-cloud-1790326004974-9159d1",
       "branch": "manager/research-cloud-1790326004974-9159d1",
-      "stage": "deliverable_review",
+      "stage": "manager_final",
       "goal": "handoff to analyst to investigate how memory decay manifests in a tokenized agent under periodic input with known perturbations, focusing exclusively on the rate of token reduction per update interval and its correlation with observed state drift, using only explicitly reported token usage and retention trends from Kumar et al., 2024, Section 4.1"
     }
   ]
