@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models
 - deliverable review: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models without temporal encoding claims.'
 - manager final: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models until direct evidence is provided and verified.
 - researcher: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models without temporal encoding claims.'
@@ -40,5 +39,6 @@
 - deliverable review: All claims about agent memory persistence must be grounded in explicit, verifiable source descriptions of retention mechanisms under defined conditions; absence of such data requires revision before evaluation can proceed.'
 - manager final: All claims about agent memory persistence must be grounded in explicit, verifiable source descriptions under defined conditions; absence of such data necessitates a bounded revision to clarify evidence requirements before any evaluation can proceed, regardless of theoretical plausibility or system design claims.'
 - researcher: All claims about agent memory persistence must be grounded in explicit, verifiable source descriptions under defined conditions; absence of such data necessitates a bounded revision to clarify evidence requirements before proceeding to evaluation or comparison.
+- deliverable review: All claims about agent memory persistence must be grounded in explicit, verifiable source descriptions under defined conditions; absence of such data requires a bounded revision to clarify evidence requirements before proceeding to evaluation or comparison.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
