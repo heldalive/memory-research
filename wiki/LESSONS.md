@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory research must anchor exclusively in experimentally verified, quantified metrics from source literature to avoid speculative or unvalidated premises.
 - manager setup: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - planner: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - plan review: Memory research questions must be constrained to a single, explicitly measurable metric from a peer-reviewed source to ensure feasibility and empirical grounding
@@ -40,5 +39,6 @@
 - researcher: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources before proceeding; absence of data necessitates a bounded shift in focus to empirically valid, observable phenomena, not speculative generalization.'
 - deliverable review: All memory research questions must verify explicit, direct reporting of the core metric in peer-reviewed sources before proceeding; absence of data necessitates a bounded shift in focus to empirically valid, observable phenomena, not speculative extrapolation or unverified claims.'
 - manager final: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources before proceeding; absence of data necessitates a bounded shift in focus to empirically valid, observable phenomena, not speculation or extrapolation.
+- orchestrator: Always anchor new research questions to a single, explicitly reported metric from source literature to ensure empirical validity and avoid ungrounded hypotheses in iterative review cycles.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
