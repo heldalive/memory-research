@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790303713264,
+  "updatedAt": 1790303813364,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 499,
+  "completed": 500,
   "loops": [
     {
       "id": "research-cloud-1790303384964-995156",
       "branch": "manager/research-cloud-1790303384964-995156",
-      "stage": "plan_review",
+      "stage": "manager_plan",
       "goal": "Evaluate output token coherence and semantic drift in a tokenized agent under intermittent input streams with known perturbations using time-series linguistic embedding models; record per-interval drift scores and compare to static input baseline over 50 update cycles with bounded token budgets; report decay rate and coherence metrics in structured format for downstream validation."
     }
   ]
