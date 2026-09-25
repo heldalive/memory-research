@@ -50,6 +50,11 @@
       "id": "research-cloud-1790354099850-e2b05c-9-researcher",
       "role": "researcher",
       "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790354099850-e2b05c-10-deliverable-review-rejected-1",
+      "role": "deliverable_review",
+      "status": "rejected"
     }
   ],
   "mode": "research-only"

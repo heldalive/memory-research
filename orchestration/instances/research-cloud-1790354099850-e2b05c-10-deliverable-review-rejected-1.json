@@ -1,0 +1,23 @@
+{
+  "id": "research-cloud-1790354099850-e2b05c-10-deliverable-review-rejected-1",
+  "role": "deliverable_review",
+  "status": "rejected",
+  "at": 1790355429593,
+  "answer": {
+    "summary": "Role output rejected",
+    "content": "{\"summary\":\"No evidence in the provided excerpts reports explicit memory decay rates or thresholds under perturbations, and no temporal metric for observing state coherence degradation is established in tokenized agents.\",\"content\":\"Source S1 discusses membership inference attacks on chat agent memory but does not report decay rates or thresholds under known perturbations. Source S2 addresses memory lifecycle and long-horizon retention but lacks any explicit temporal indicators or measurable degradation in state coherence over time. Neither source provides the minimum time interval between inputs required to observe memory decay as requested. The claim for such a metric remains unsupported by empirical or temporal data in the excerpts.\",\"decision\":\"revise\",\"search\":\"https://arxiv.org/abs/2605.27825v1?highlight=memory+decay\",\"sources\":\"S1,S2\",\"nextTask\":\"handoff to analyst to extract and verify explicitly reported memory decay rates or thresholds in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum time interval between inputs required to observe a measurable degradation in state coherence\",\"lesson\":\"Claims about memory decay in tokenized agents must be strictly grounded in explicitly reported, time-bound events under perturbation; absence of such data invalidates any assertion without direct source support and empirical validation'}",
+    "decision": "revise",
+    "search": "none",
+    "sources": "none",
+    "nextTask": "Retry the saved role within its contract.",
+    "lesson": "Unterminated string in JSON at position 1396 (line 1 column 1397)"
+  },
+  "model": "Qwen3 · 4B",
+  "source": "mac",
+  "tokens": 277,
+  "inputTokens": 0,
+  "durationMs": 0,
+  "attempts": 1,
+  "sources": [],
+  "error": "Unterminated string in JSON at position 1396 (line 1 column 1397)"
+}
