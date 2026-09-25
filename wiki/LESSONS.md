@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data necessitates a bounded revision to a testable, source-anchored question without empirical extrapolation or inference.
 - planner: All memory research must first verify explicit, mathematically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis proceeds; absence of such data requires a bounded revision to a testable, source-anchored inquiry.
 - plan review: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data necessitates a bounded revision to a testable, source-anchored inquiry.'
 - manager plan: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data necessitates a bounded revision to a testable, source-verified inquiry.'
@@ -40,5 +39,6 @@
 - manager final: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream hypothesis can be formed; absence of such data mandates a bounded, source-anchored research question to prevent speculative extrapolation.
 - researcher: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream analysis or hypothesis generation can proceed; absence of such data mandates a bounded, source-anchored inquiry without assumption or inference beyond the text's explicit claims
 - deliverable review: All memory research must be predicated on direct, verifiable evidence of state update mechanisms in primary sources before any downstream hypothesis or research question can proceed; absence of such evidence mandates a bounded, source-anchored inquiry grounded exclusively in explicitly reported dynamics and update rules.
+- manager final: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream hypothesis can be formed; absence of such data mandates a bounded, source-anchored inquiry with clear derivation from stated mechanisms only, preventing speculative generalization beyond
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

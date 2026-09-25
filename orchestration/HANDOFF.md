@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790337362791-361d91
-
-The research premise cannot be validated due to absence of explicit, numerically specified time-dependent memory decay patterns in the source material, necessitating a bounded revision prior to further analysis.
-
-Next candidate: handoff to analyst to verify source availability and confirm explicit reporting of time-dependent, non-linear memory decay patterns, including thresholds, inflection points, or piecewise functions in Kumar et al., 2024, Section 4.1
-
-Limits: No evidence of explicitly reported, time-dependent, non-linear memory decay with thresholds, inflection points, or piecewise functions exists in Kumar et al., 2024, Section 4.1. The available content describes memory lifecycle phases and membership inference attacks without quantified temporal dynamics. Without such data, empirical comparison or implementation testing is invalid and requires a focused revision to confirm source fidelity and explicit temporal decay metrics before proceeding to the next phase of inquiry.
-
 ## research-cloud-1790339097476-6d7423
 
 No explicit, time-bound memory retention thresholds are reported in Kumar et al., 2024, Section 4.1, necessitating a bounded revision to a testable research question on periodic input duration for observable memory persistence in tokenized agents under known pert
@@ -35,3 +27,11 @@ No explicit, numerically defined retention or per-token update rules are reporte
 Next candidate: handoff to analyst to retrieve and verify explicitly reported retention rates or update rules in Kumar et al., 2024, Section 4.1; if absent, formulate a distinct, bounded research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported retention or update rules from Kumar et al
 
 Limits: After two review cycles confirm the absence of numerically specified retention or update mechanisms per token in Kumar et al., 2024, Section 4.1, the foundational data for any research on memory persistence duration is missing. The sources describe memory lifecycle phases and membership inference attacks but provide no time-bound retention probabilities or update frequencies. Without such explicit, verifiable parameters, downstream research questions remain ungrounded. A bounded revision is requested to retrieve or verify these rules before proceeding to a new research direction based on confirmed source mechanisms.
+
+## research-cloud-1790345221502-3f792c
+
+No explicit state update mechanisms are reported in Kumar et al., 2024, Section 4.1, necessitating a bounded revision to propose a research question on minimum input duration for memory persistence based solely on explicitly stated update rules; the current direction
+
+Next candidate: handoff to analyst to propose a bounded research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent, anchored solely to explicitly reported update rules from Kumar et al., 2024, Section 4.1 under known perturbations; include specific examples of stated update rules or time-bound retention claims if any exist
+
+Limits: After two independent reviews confirm the absence of verifiable state update mechanisms such as per-token rules, conditional transitions, or update frequencies in Kumar et al., 2024, Section 4.1, the research must shift to a bounded, source-anchored inquiry. The proposed next task is to define a specific, testable research question on the minimum duration of periodic input required for observable memory persistence, derived exclusively from explicitly reported update rules in the source. This ensures all future hypotheses remain grounded in primary data and avoid inference beyond the text's explicit claims. The current evidence is consistent across reviews and shows no mechanisms exist to support prior assumptions about memory dynamics in tokenized agents under perturbation.
