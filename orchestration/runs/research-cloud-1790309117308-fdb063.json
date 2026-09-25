@@ -1,0 +1,86 @@
+{
+  "id": "research-cloud-1790309117308-fdb063",
+  "branch": "manager/research-cloud-1790309117308-fdb063",
+  "goal": "handoff to analyst to formulate a revised research question on memory retention probability in tokenized agents under intermittent input with known perturbations, anchored solely to the per-interval retention metric in Section 4.1 of 'Stability and Forgetting in Autoregressive Models' by Kumar et al., 2024, and including its variation over 100 update intervals under bounded token budgets",
+  "stage": "complete",
+  "planReviews": 2,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1790309117308-fdb063-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-6-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-7-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-8-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-12-researcher-rejected-1",
+      "role": "researcher",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-12-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-13-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790309117308-fdb063-14-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}

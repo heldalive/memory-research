@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790300715794-123efd
-
-No peer-reviewed studies provide time-series data on output token coherence, state decay, or drift in tokenized agents under intermittent input with bounded token budgets; current evidence is limited to indirect indicators of stability in economic simulations and
-
-Next candidate: reframe the research question to focus on measurable, time-series output token coherence and state drift in tokenized agents under intermittent input with known perturbations, specifically including per-interval metrics under a bounded token budget and explicit time-frames for decay and stability
-
-Limits: After two review cycles, no studies report per-interval output token coherence or quantified state decay under intermittent, perturbed input streams with bounded token budgets. S2's economic simulation shows stable behavior without measurable memory impact, while S1's bitemporal framework addresses belief consistency but lacks output-level metrics. The research goal remains unfeasible without direct, time-series empirical data on token-level coherence and drift metrics under controlled conditions. A bounded revision is required to define a measurable, data-rich subset of conditions before further analysis can proceed.
-
 ## research-cloud-1790303384964-995156
 
 The research question remains ungrounded in empirical evidence and cannot be advanced without a focused, measurable metric from peer-reviewed literature on output token coherence under intermittent input streams; a bounded revision is required before further analysis
@@ -35,3 +27,11 @@ The research question must be strictly bounded to a single, explicitly reported 
 Next candidate: handoff to analyst to formulate a revised research question on output token coherence over time under continuous or intermittent input, anchored solely to the 'Per-token coherence score' metric explicitly reported in Section 4.2 of Zhang et al., 2023, and including its stability across 100 update intervals under bounded token budgets and known perturbations
 
 Limits: After two plan and deliverable reviews confirm the absence of any reported coherence metric, per-interval drift, or decay rate in Zhang et al., 2023, the direction is invalidated. The current query lacks verifiable data and cannot be tested. A bounded revision is required to focus exclusively on one explicitly reported coherence metric from the paper, without introducing unverified dynamics or assumptions. This ensures alignment with empirical evidence and prevents unfounded extrapolation. The next task must reframe the question to reflect only that single, verifiable metric and its temporal behavior under defined input conditions.
+
+## research-cloud-1790309117308-fdb063
+
+The per-interval retention metric from Kumar et al., 2024 lacks definition and empirical validation in the inspected sources, and no source reports its measurement under intermittent input or bounded token budgets. A bounded revision is required to anchor the inquiry
+
+Next candidate: handoff to analyst to formulate a revised research question on memory retention probability in tokenized agents under intermittent input with known perturbations, anchored solely to an explicitly defined and experimentally verified per-interval retention metric measured under bounded token budgets and over 100 update intervals, with direct citation from Kumar et al., 2024
+
+Limits: No source provides a clear definition, measurement protocol, or experimental data for the per-interval retention metric in Section 4.1 under the specified conditions. The metric and its variation over 100 update intervals remain unverified, and all evidence points to a gap in the primary source's reporting. A revised research question must be strictly anchored to an explicitly defined and experimentally verified metric before further analysis can proceed. After two review cycles, the uncertainty persists despite consistent findings across roles and sources. A different, bounded research question is now required to proceed safely and rigorously.

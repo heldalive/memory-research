@@ -1,0 +1,21 @@
+# Research manager
+
+Goal: handoff to analyst to formulate a revised research question on memory retention probability in tokenized agents under intermittent input with known perturbations, anchored solely to the per-interval retention metric in Section 4.1 of 'Stability and Forgetting in Autoregressive Models' by Kumar et al., 2024, and including its variation over 100 update intervals under bounded token budgets
+
+Stage: complete. Plan reviews 2/2; evidence reviews 2/2.
+
+- research-cloud-1790309117308-fdb063-1-orchestrator: orchestrator — completed
+- research-cloud-1790309117308-fdb063-2-manager-setup: manager_setup — completed
+- research-cloud-1790309117308-fdb063-3-planner: planner — completed
+- research-cloud-1790309117308-fdb063-4-plan-review: plan_review — completed
+- research-cloud-1790309117308-fdb063-5-manager-plan: manager_plan — completed
+- research-cloud-1790309117308-fdb063-6-planner: planner — completed
+- research-cloud-1790309117308-fdb063-7-plan-review: plan_review — completed
+- research-cloud-1790309117308-fdb063-8-manager-plan: manager_plan — completed
+- research-cloud-1790309117308-fdb063-9-researcher: researcher — completed
+- research-cloud-1790309117308-fdb063-10-deliverable-review: deliverable_review — completed
+- research-cloud-1790309117308-fdb063-11-manager-final: manager_final — completed
+- research-cloud-1790309117308-fdb063-12-researcher-rejected-1: researcher — rejected
+- research-cloud-1790309117308-fdb063-12-researcher: researcher — completed
+- research-cloud-1790309117308-fdb063-13-deliverable-review: deliverable_review — completed
+- research-cloud-1790309117308-fdb063-14-manager-final: manager_final — completed
