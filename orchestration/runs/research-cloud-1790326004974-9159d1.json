@@ -2,9 +2,9 @@
   "id": "research-cloud-1790326004974-9159d1",
   "branch": "manager/research-cloud-1790326004974-9159d1",
   "goal": "handoff to analyst to investigate how memory decay manifests in a tokenized agent under periodic input with known perturbations, focusing exclusively on the rate of token reduction per update interval and its correlation with observed state drift, using only explicitly reported token usage and retention trends from Kumar et al., 2024, Section 4.1",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 2,
-  "deliverableReviews": 1,
+  "deliverableReviews": 2,
   "instances": [
     {
       "id": "research-cloud-1790326004974-9159d1-1-orchestrator",
@@ -64,6 +64,11 @@
     {
       "id": "research-cloud-1790326004974-9159d1-12-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790326004974-9159d1-13-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
