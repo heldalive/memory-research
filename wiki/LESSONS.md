@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources before proceeding; absence of data necessitates a bounded shift in focus to empirically valid, observable phenomena, not speculative extensions.'
 - plan review: Always verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulating a research question on memory retention in tokenized agents.
 - manager plan: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative or ungrounded extensions in iterative review cycles.'
 - planner: All memory research questions must verify explicit, direct reporting of a core metric in peer-reviewed sources under exact experimental conditions before proceeding to ensure empirical validity and prevent speculative or ungrounded inferences.'
@@ -40,5 +39,6 @@
 - researcher: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment
 - deliverable review: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objective
 - manager final: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objective
+- orchestrator: Memory research must anchor exclusively to explicitly reported metrics; speculative or inferred dynamics cannot substitute for empirical data in foundational analysis.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
