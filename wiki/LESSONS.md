@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: All memory research questions must be grounded in explicitly reported, verifiable metrics from source materials; absence of a metric in the evidence necessitates revision of the research question prior to further analysis or implementation planning.'
 - manager final: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - researcher: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - deliverable review: All memory research questions must be strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
@@ -40,5 +39,6 @@
 - plan review: Always anchor research questions to explicitly reported, empirically validated metrics from peer-reviewed sources under exact experimental conditions to ensure data integrity and avoid speculative inference.'
 - manager plan: All memory research questions must be formulated with explicit, direct alignment to reported metrics and experimental conditions in peer-reviewed sources to ensure empirical validity and avoid speculative inference, especially when constraints like token budget and update intervals are involved.'
 - planner: All memory research questions must be grounded in explicit, direct reporting of core metrics in peer-reviewed sources under exact experimental conditions before formulation to ensure empirical validity and prevent speculative inference
+- plan review: Always anchor research questions to explicitly reported, empirically validated metrics from peer-reviewed sources under exact experimental conditions to ensure data integrity and avoid speculative inference.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
