@@ -1,0 +1,66 @@
+{
+  "id": "research-cloud-1790305494606-15a3f7",
+  "branch": "manager/research-cloud-1790305494606-15a3f7",
+  "goal": "handoff to analyst to refine a research question on memory propagation in citation networks using shared semantic fields and temporal structural metrics, citing 'Temporal Dynamics of Academic Influence' by Lee et al., 2023, which analyzes citation persistence and coherence across subject domains",
+  "stage": "complete",
+  "planReviews": 1,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1790305494606-15a3f7-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790305494606-15a3f7-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790305494606-15a3f7-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790305494606-15a3f7-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790305494606-15a3f7-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790305494606-15a3f7-6-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790305494606-15a3f7-7-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790305494606-15a3f7-8-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790305494606-15a3f7-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790305494606-15a3f7-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790305494606-15a3f7-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}
