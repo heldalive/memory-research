@@ -2,7 +2,7 @@
   "id": "research-cloud-1790341238280-5bd394",
   "branch": "manager/research-cloud-1790341238280-5bd394",
   "goal": "handoff to analyst to extract and verify explicitly reported decay models (e.g., exponential, polynomial, piecewise) governing memory state evolution over time in Kumar et al., 2024, Section 4.1 under known perturbations",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "planReviews": 2,
   "deliverableReviews": 0,
   "instances": [
@@ -44,6 +44,11 @@
     {
       "id": "research-cloud-1790341238280-5bd394-8-manager-plan",
       "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790341238280-5bd394-9-researcher",
+      "role": "researcher",
       "status": "completed"
     }
   ],
