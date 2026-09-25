@@ -2,7 +2,7 @@
 
 Goal: handoff to analyst to extract and verify explicitly reported memory decay rates or thresholds in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum time interval between inputs required to observe a measurable degradation in state coherence as an indicator of memory decay in a tokenized agent
 
-Stage: researcher. Plan reviews 1/2; evidence reviews 1/2.
+Stage: deliverable_review. Plan reviews 1/2; evidence reviews 1/2.
 
 - research-cloud-1790354099850-e2b05c-1-orchestrator: orchestrator — completed
 - research-cloud-1790354099850-e2b05c-2-manager-setup: manager_setup — completed
@@ -12,3 +12,4 @@ Stage: researcher. Plan reviews 1/2; evidence reviews 1/2.
 - research-cloud-1790354099850-e2b05c-6-researcher: researcher — completed
 - research-cloud-1790354099850-e2b05c-7-deliverable-review: deliverable_review — completed
 - research-cloud-1790354099850-e2b05c-8-manager-final: manager_final — completed
+- research-cloud-1790354099850-e2b05c-9-researcher: researcher — completed
