@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent ungrounded generalizations and ensure empirical validity in time-series analysis of agent
 - planner: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent ungrounded generalizations and ensure empirical validity in time-series analysis of agent
 - plan review: All memory research questions must be validated against the exact metric definition and experimental conditions in the primary source before proceeding to comparative analysis or implementation design.
 - manager plan: All memory research questions must be validated against the exact metric definition and experimental conditions in the primary source before any comparative analysis or implementation design proceeds; unresolved validation gaps must be explicitly recorded and bounded to prevent premature advancement of unverified hypotheses.'
@@ -40,5 +39,6 @@
 - researcher: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - deliverable review: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources to ensure empirical validity and avoid speculative generalization.'
 - manager final: All memory research questions must remain strictly anchored to a single, explicitly defined, and experimentally reported metric from peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or intuitive plausibility, and must trigger a bounded revision before further review or implementation
+- orchestrator: Memory research must anchor exclusively in experimentally verified, quantified metrics from source literature to avoid speculative or unvalidated premises.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
