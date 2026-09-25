@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790341238280-5bd394
-
-The inquiry into explicitly reported memory decay models in Kumar et al., 2024 fails due to absence of any mathematically defined, time-bound decay functions in the source material, necessitating a bounded revision to a testable and source-grounded alternative
-
-Next candidate: handoff to analyst to investigate whether Kumar et al., 2024, Section 4.1 reports any explicitly defined, time-bound memory decay models (e.g., exponential, polynomial, piecewise) under known perturbations, with verifiable mathematical parameters; if none exists, propose an alternative research question grounded solely in explicitly stated, time-dependent memory evolution mechanisms (e.g., phase transitions, retention rates, update rules) and their mathematical
-
-Limits: After two independent reviews confirm no explicit, time-bound mathematical decay models (e.g., exponential, polynomial, piecewise) are reported in Kumar et al., 2024, Section 4.1 under known perturbations, the original research question lacks empirical and mathematical grounding. The sources describe memory lifecycle phases and membership inference attacks but provide no verifiable decay dynamics. Thus, the inquiry must be revised to a bounded, testable question that only references explicitly defined, time-bound mathematical models in the primary source without assumption or inference. A different research question is now required to maintain scientific rigor and fidelity to the source content's explicit statements and parameters.
-
 ## research-cloud-1790343224255-6acfea
 
 No explicit, numerically defined retention or per-token update rules are reported in Kumar et al., 2024, Section 4.1, preventing the formulation of a testable research question on memory persistence duration; a bounded revision is required to verify source data
@@ -35,3 +27,11 @@ No explicit mechanisms for memory maintenance under perturbations are reported i
 Next candidate: handoff to analyst to extract and verify explicitly reported mechanisms (e.g., update rules, retention conditions, or state transitions) in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum periodic input duration required for observable memory persistence in a tokenized agent, using only those mechanisms as anchors
 
 Limits: After two review cycles confirm the absence of update rules, retention conditions, or state transitions during known perturbations, the claim of observable memory persistence in tokenized agents lacks verifiable temporal dynamics. While a structured memory lifecycle is implied, it does not constitute time-bound, input-dependent memory maintenance. A bounded revision is requested to restrict analysis strictly to explicitly reported mechanisms, avoiding any inference beyond stated data points. The current evidence does not support the existence of a minimum periodic input duration for memory persistence under known disturbances in tokenized agents.
+
+## research-cloud-1790349492482-28be98
+
+No explicit conditional state transitions or update triggers in response to known perturbations are reported in Kumar et al., 2024, Section 4.1, and thus claims about minimum input duration for detectable state shifts cannot be supported without direct evidence
+
+Next candidate: handoff to analyst to extract and verify explicitly reported conditional state transitions or update triggers in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the minimum duration of periodic input required to observe a detectable state shift using only those triggers as anchors
+
+Limits: After two review cycles confirm the absence of explicitly reported conditional state transitions or update triggers tied to known perturbations, the request for a minimum duration of periodic input to observe detectable state shifts remains ungrounded and unverifiable. The research must now be bounded to only consider cases where such triggers are directly cited in the primary source. This revision enforces fidelity to primary data and prevents inference beyond reported mechanisms. No further claims about time-bound memory dynamics can be made without explicit anchoring in the text's stated triggers or transitions.
