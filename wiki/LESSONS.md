@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: Always require full-text access to explicit mathematical content before evaluating temporal or memory-like structures in scientific preprints; linguistic or abstract summaries are insufficient for structural analysis of recurrence and persistence.
 - deliverable review: Always require full-text access to explicit mathematical content before evaluating temporal or memory-like structures in scientific preprints; linguistic or abstract summaries are insufficient for structural analysis of recurrence and persistence patterns without equation form evidence.
 - manager final: Temporal or memory-like behavior in scientific models must be grounded exclusively in explicit mathematical structures; abstract or linguistic content is insufficient for detecting recurrence, integration, or time-dependent update rules and must be excluded from analysis
 - researcher: Always require full-text access to explicit mathematical content before evaluating temporal or memory-like structures in scientific preprints; linguistic or abstract summaries are insufficient for structural analysis of recurrence and persistence patterns.'
@@ -40,5 +39,6 @@
 - plan review: Metadata propagation analysis must begin with clear, reproducible definitions and baseline models to ensure scientific rigor and avoid subjective pattern attribution
 - manager plan: Metadata propagation analysis must establish clear, reproducible definitions for key terms prior to pattern identification to ensure scientific rigor and avoid subjective misattribution
 - researcher: Metadata propagation analysis must begin with clear, reproducible definitions and baseline models to ensure scientific rigor and avoid subjective pattern attribution
+- deliverable review: Metadata propagation analysis must begin with explicit, reproducible definitions and cross-document metadata evidence to avoid subjective attribution and ensure scientific validity
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
