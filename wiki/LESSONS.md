@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: Always require full-text access to explicit mathematical content before evaluating temporal or memory-like structures in scientific preprints; abstract or linguistic summaries are insufficient for structural analysis of recurrence or persistence
 - manager final: Temporal or memory-like behavior in scientific models must be grounded exclusively in explicit mathematical structures; abstract or linguistic content is insufficient for detecting recurrence, integration, or time-dependent update rules without full equation-based analysis and structural validation.
 - orchestrator: Linguistic recurrence in scientific writing can serve as a proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, offering a viable alternative signal for memory-like behavior in knowledge systems without requiring formal modeling frameworks.'
 - manager setup: Linguistic recurrence in scientific abstracts can serve as a proxy for emergent thematic persistence when mathematical or citation-based indicators are unavailable
@@ -40,5 +39,6 @@
 - manager final: Metadata propagation analysis must begin with explicit, reproducible definitions and empirical evidence from multiple documents to avoid subjective attribution and ensure scientific validity
 - researcher: Metadata propagation analysis must begin with clear, reproducible definitions and empirical evidence from multiple documents to ensure scientific validity and avoid subjective attribution'}
 - deliverable review: Metadata propagation analysis must begin with explicit, reproducible definitions and empirical evidence from multiple documents to avoid subjective attribution and ensure scientific validity
+- manager final: Metadata propagation analysis must begin with explicit, reproducible definitions and empirical evidence from multiple documents to avoid subjective attribution and ensure scientific validity
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
