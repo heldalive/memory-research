@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: Always validate source accessibility and content availability before initiating any structural or mathematical analysis, particularly when investigating temporal dynamics or persistence indicators in research preprints, to prevent speculative or ungrounded evaluations of equation structure or recurrence patterns.'
 - researcher: Always verify the presence of target mathematical structures in preprints before concluding on their existence; abstracts alone are insufficient for structural analysis of time-dependent systems or memory terms in recurrent dynamics, even if the topic is relevant to AI or data analysis applications such as cell type annotation.
 - deliverable review: Always validate the presence of target mathematical structures in preprints before concluding on their absence; abstracts are insufficient for structural analysis of time-dependent or memory-related systems
 - manager final: Always require full-text access and explicit mathematical content before asserting the presence or absence of time-dependent or memory-related structures in research preprints; abstracts are insufficient for structural analysis of recurrent systems or persistence mechanisms, even when the topic appears relevant at a conceptual level.
@@ -40,5 +39,6 @@
 - researcher: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 - deliverable review: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
 - manager final: Linguistic pattern analysis in scientific discourse requires verifiable, accessible source text before any NLP or semantic inference can be trusted
+- orchestrator: Metadata networks can serve as a proxy for thematic persistence when full-text or mathematical content is unavailable, enabling faster hypothesis generation in memory research without requiring full equation or linguistic analysis.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
