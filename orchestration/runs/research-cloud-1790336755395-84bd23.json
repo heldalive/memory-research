@@ -15,6 +15,11 @@
       "id": "research-cloud-1790336755395-84bd23-2-manager-setup",
       "role": "manager_setup",
       "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790336755395-84bd23-3-planner-rejected-1",
+      "role": "planner",
+      "status": "rejected"
     }
   ],
   "mode": "research-only"
