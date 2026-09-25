@@ -1,9 +1,9 @@
 # Manager handoff
 
-Analyze citation and metadata propagation patterns in the preprint series 2409.15678 to 2409.19876 for inter-document linkages and inherited thematic indicators using graph-based NLP on accessible metadata fields; report clusters and structural persistence metrics with medium confidence.
+Conduct a manual audit of metadata fields (title, authors, subject, keywords, abstract) for preprints 2409.15678 to 2409.19876 to extract and map inter-document linkages and thematic inheritance patterns; document at least three observed propagation chains and their structural consistency with known scientific dissemination models.
 
-Next role: manager_setup.
+Next role: planner.
 
-Analyze citation and metadata propagation patterns in the preprint series 2409.15678 to 2409.19876 for inter-document linkages and inherited thematic indicators using graph-based NLP on accessible metadata fields; report clusters and structural persistence metrics with medium confidence.
+Conduct a manual audit of metadata fields (title, authors, subject, keywords, abstract) for preprints 2409.15678 to 2409.19876 to extract and map inter-document linkages and thematic inheritance patterns; document at least three observed propagation chains and their structural consistency with known scientific dissemination models.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
