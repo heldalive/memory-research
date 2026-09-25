@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models without temporal claims or encoding triggers.
 - planner: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention
 - plan review: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models without temporal claims.
 - manager plan: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention-based models without temporal structure claims.
@@ -40,5 +39,6 @@
 - planner: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data requires a bounded revision to clarify scope and evidence
 - plan review: All claims about agent memory dynamics must be grounded in explicitly accessible and verifiable source content under defined conditions; absence of such data necessitates revision before proceeding to evaluation or inference.'
 - manager plan: All claims about agent memory dynamics must be grounded in explicitly accessible, verifiable source content under defined conditions; absence of such data necessitates a bounded revision to clarify scope and evidence before any evaluation can occur.'
+- researcher: All claims about agent memory dynamics must be grounded in explicitly accessible and verifiable source content under defined conditions; absence of such data necessitates a bounded revision to clarify scope and evidence before proceeding to evaluation or inference.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
