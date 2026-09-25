@@ -2,7 +2,7 @@
 
 Goal: handoff to analyst to formulate a revised research question on the minimum token budget required for memory retention in a tokenized agent under periodic input with known perturbations, anchored solely to experimentally reported retention thresholds in Section 4.1 of 'Stability and Forgetting in Autoregressive Models' by Kumar et al., 2024, and including variation over 50 update intervals with bounded token budgets
 
-Stage: researcher. Plan reviews 2/2; evidence reviews 1/2.
+Stage: deliverable_review. Plan reviews 2/2; evidence reviews 1/2.
 
 - research-cloud-1790315583065-b9812a-1-orchestrator: orchestrator — completed
 - research-cloud-1790315583065-b9812a-2-manager-setup: manager_setup — completed
@@ -16,3 +16,4 @@ Stage: researcher. Plan reviews 2/2; evidence reviews 1/2.
 - research-cloud-1790315583065-b9812a-10-deliverable-review: deliverable_review — completed
 - research-cloud-1790315583065-b9812a-11-manager-final: manager_final — completed
 - research-cloud-1790315583065-b9812a-12-researcher-rejected-1: researcher — rejected
+- research-cloud-1790315583065-b9812a-12-researcher: researcher — completed
