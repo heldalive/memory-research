@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: When foundational data is absent, prioritize narrowing the research question to strictly bound inputs from explicit source statements, avoiding assumptions or external extrapolation that compromise testability and traceability to source material.
 - manager setup: All memory research must be predicated on direct, verifiable evidence of state update mechanisms in primary sources before any downstream hypothesis can proceed; absence of such evidence mandates a bounded, source-anchored inquiry with no external assumptions or implementation steps.'
 - planner: All memory research must first establish explicit, numerically defined, and time-bound retention or update rules in primary sources before any downstream hypothesis can be formed; absence of such data mandates a bounded, source-anchored inquiry with strictly verifiable evidence only.
 - plan review: When no explicit mechanisms are present in the source, the research must be revised to acknowledge the absence of foundational data and pivot to a null or exploratory inquiry grounded solely in verifiable source content
@@ -40,5 +39,6 @@
 - manager plan: All memory persistence claims in tokenized agents must be strictly grounded in explicitly stated mechanisms from primary sources; absence of such data constitutes a null result and must be formally documented without inference or extrapolation to preserve research integrity and testability.
 - researcher: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance thresholds or conditional update triggers from primary sources to ensure testability and avoid systemic bias
 - deliverable review: Memory research in tokenized agents must remain strictly anchored to explicitly stated mechanisms in primary sources; any inference beyond direct assertions constitutes invalid research under observational constraints and must be excluded.'
+- manager final: All claims about memory persistence in tokenized agents must be strictly grounded in explicitly reported state maintenance mechanisms from primary sources; absence of such data must be formally documented as a null result without extrapolation or inference to preserve research integrity and testability.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
