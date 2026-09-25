@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: Linguistic recurrence in scientific writing can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to thematic drift and small sample bias
 - researcher: Linguistic recurrence in scientific writing can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to surface-level thematic drift or methodological overlap.
 - deliverable review: Linguistic recurrence in scientific abstracts can serve as a limited proxy for emergent thematic persistence when mathematical or citation-based indicators are absent, but such patterns must be interpreted with caution due to their susceptibility to surface-level thematic overlap and small sample bias, especially without cross-document co
 - manager final: When evaluating linguistic patterns in scientific discourse, bounded expansion of sample size and cross-document validation are essential to avoid conflating thematic overlap with emergent memory-like behavior
@@ -40,5 +39,6 @@
 - planner: Metadata propagation analysis must begin with explicit, reproducible definitions and empirical evidence from multiple documents to avoid subjective attribution and ensure scientific validity
 - plan review: Always require empirical validation from source data before asserting the existence or structure of citation chains in metadata analysis
 - manager plan: Always require direct empirical validation from source data before asserting the existence or structure of any metadata-based research hypothesis
+- planner: All metadata-based research hypotheses must be grounded in direct, source-verified data before any inference or analysis is conducted
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
