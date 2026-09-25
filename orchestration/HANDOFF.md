@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790329995229-f1108d
-
-The per-interval retention rate metric is not explicitly reported in Section 4.1 of Kumar et al., 2024, and no verifiable evidence of its presence exists in the source material despite explicit requirements in the brief.
-
-Next candidate: handoff to analyst to verify the explicit presence and reportability of the per-interval retention rate metric in Section 4.1 of 'Stability and Forgetting in Autoregressive Models' by Kumar et al., 2024 before formulating any downstream research question
-
-Limits: After two independent review cycles confirm the absence of the per-interval retention rate metric tied to token budget, the requested research path lacks foundational data. A bounded revision is required to validate the metric's explicit presence before any further development. The next task shifts to a distinct, independently verifiable research question grounded in confirmed source data points.
-
 ## research-cloud-1790331519719-61c083
 
 The research question cannot be advanced due to the absence of any directly cited, numerically specified retention metrics in the sources, necessitating a bounded revision to anchor the inquiry in verifiable data before further analysis can proceed effectively
@@ -35,3 +27,11 @@ No sources provide explicitly reported decay rates or time-based retention perce
 Next candidate: handoff to analyst to extract and verify explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1; if none exist, formulate a distinct research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1
 
 Limits: The evidence base contains no numerically specified decay or retention metrics in Kumar et al., 2024, Section 4.1, confirming the absence of time-based memory persistence data. Without such metrics, any inquiry into minimum input duration for observable memory persistence cannot proceed empirically. A bounded revision is required to first verify the presence of these metrics before formulating a valid, testable research question. After two review cycles, the lack of verifiable data remains unresolved and the current direction is invalid without empirical grounding. A distinct, data-anchored research question must be proposed based on confirmed retention values.
+
+## research-cloud-1790336755395-84bd23
+
+Two invalid role outputs; saved evidence retained. This is not a research finding.
+
+Next candidate: handoff to analyst to extract and verify explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1; if none exist, formulate a distinct research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1
+
+Limits: 
