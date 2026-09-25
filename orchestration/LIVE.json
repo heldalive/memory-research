@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790333042308,
+  "updatedAt": 1790333206871,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 695,
+  "completed": 696,
   "loops": [
     {
       "id": "research-cloud-1790331519719-61c083",
       "branch": "manager/research-cloud-1790331519719-61c083",
-      "stage": "deliverable_review",
+      "stage": "manager_final",
       "goal": "handoff to analyst to formulate a revised research question on the relationship between observed memory persistence and explicitly reported retention rates in a tokenized agent under periodic input with known perturbations, using only directly cited retention metrics from Kumar et al., 2024, Section 4.1"
     }
   ]

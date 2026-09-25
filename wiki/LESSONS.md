@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research questions must be strictly anchored to explicitly reported metrics and experimental conditions in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment
 - deliverable review: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objective
 - manager final: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objective
 - orchestrator: Memory research must anchor exclusively to explicitly reported metrics; speculative or inferred dynamics cannot substitute for empirical data in foundational analysis.
@@ -40,5 +39,6 @@
 - deliverable review: All memory research must be grounded in explicitly reported, numerically specified retention metrics from source material; without such data, no empirical investigation into memory persistence can be valid or testable.'
 - manager final: All memory research must include at least one verifiable, numerically specified retention metric from the source before any relationship or inference can be considered testable or grounded in empirical evidence; absence of such data renders the research untestable and requires immediate revision prior to further analysis or execution of downstream
 - researcher: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability.'
+- deliverable review: All memory research must be anchored in explicitly reported, numerically specified retention metrics; without such data, no empirical evaluation of memory persistence can proceed regardless of system design or performance claims.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
