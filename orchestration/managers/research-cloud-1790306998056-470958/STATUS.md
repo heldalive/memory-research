@@ -2,7 +2,7 @@
 
 Goal: handoff to analyst to formulate a revised research question on output token coherence decay in tokenized agents under intermittent input with bounded token budgets and known perturbations, anchored to 'Coherence in Autoregressive Models' by Zhang et al., 2023, and including per-interval drift scores and decay rate metrics over 100 update intervals
 
-Stage: researcher. Plan reviews 2/2; evidence reviews 1/2.
+Stage: deliverable_review. Plan reviews 2/2; evidence reviews 1/2.
 
 - research-cloud-1790306998056-470958-1-orchestrator: orchestrator — completed
 - research-cloud-1790306998056-470958-2-manager-setup: manager_setup — completed
@@ -16,3 +16,4 @@ Stage: researcher. Plan reviews 2/2; evidence reviews 1/2.
 - research-cloud-1790306998056-470958-10-deliverable-review: deliverable_review — completed
 - research-cloud-1790306998056-470958-11-manager-final: manager_final — completed
 - research-cloud-1790306998056-470958-12-researcher-rejected-1: researcher — rejected
+- research-cloud-1790306998056-470958-12-researcher: researcher — completed

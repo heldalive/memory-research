@@ -2,7 +2,7 @@
   "id": "research-cloud-1790306998056-470958",
   "branch": "manager/research-cloud-1790306998056-470958",
   "goal": "handoff to analyst to formulate a revised research question on output token coherence decay in tokenized agents under intermittent input with bounded token budgets and known perturbations, anchored to 'Coherence in Autoregressive Models' by Zhang et al., 2023, and including per-interval drift scores and decay rate metrics over 100 update intervals",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "planReviews": 2,
   "deliverableReviews": 1,
   "instances": [
@@ -65,6 +65,11 @@
       "id": "research-cloud-1790306998056-470958-12-researcher-rejected-1",
       "role": "researcher",
       "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790306998056-470958-12-researcher",
+      "role": "researcher",
+      "status": "completed"
     }
   ],
   "mode": "research-only"
