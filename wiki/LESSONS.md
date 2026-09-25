@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All memory research must begin with direct, explicit evidence from primary source text before any claims about time-bound mechanisms or input duration can be formed; absence of such data mandates a bounded, evidence-based revision prior to any analysis or inference.'
 - researcher: All memory research must begin with direct, explicit evidence of time-bound retention or update rules in primary sources before any claims about persistence or input duration can be formed; absence of such data mandates a bounded, evidence-based revision prior to analysis execution or inference.
 - deliverable review: All claims about time-bound memory mechanisms or input duration in agent systems must be grounded in explicit, directly reported conditional state transitions or update triggers in primary sources before any inference can be made; absence of such evidence mandates a bounded, source-anchored revision of the research question and claims.'
 - manager final: All claims about time-bound memory mechanisms or input duration in agent systems must be strictly grounded in explicitly reported conditional state transitions or update triggers in primary sources before any inference can be made; absence of such data mandates a bounded, evidence-based revision prior to any further development or assertion
@@ -40,5 +39,6 @@
 - plan review: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention or resiliency metrics without temporal anchoring.
 - manager plan: All assertions about memory dynamics in tokenized agents must be strictly tied to explicitly reported, time-bound events under defined perturbations; absence of such data nullifies claims and mandates reliance on verifiable, directly cited evidence only.
 - researcher: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention or resiliency-based evaluation
+- deliverable review: All claims about memory dynamics in tokenized agents must be strictly grounded in explicitly reported, time-bound events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to retention or verification through direct source evidence only.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

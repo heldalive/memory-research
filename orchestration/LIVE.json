@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790356681018,
+  "updatedAt": 1790356846700,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 852,
+  "completed": 853,
   "loops": [
     {
       "id": "research-cloud-1790355748645-4612cc",
       "branch": "manager/research-cloud-1790355748645-4612cc",
-      "stage": "deliverable_review",
+      "stage": "manager_final",
       "goal": "handoff to analyst to extract and verify explicitly reported memory update policies that activate upon specific temporal patterns of input in Kumar et al., 2024, Section 4.1 under known perturbations; if any exist, define the shortest observed interval between inputs that triggers a detectable memory update event as an anchor for persistence claims"
     }
   ]
