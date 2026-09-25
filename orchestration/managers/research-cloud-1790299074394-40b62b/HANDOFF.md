@@ -4,6 +4,6 @@ Conduct a literature review of peer-reviewed studies on tokenized agent state pe
 
 Next role: researcher.
 
-Find peer-reviewed studies that analyze time-series output token trajectories and quantify decay rates in tokenized agents under known perturbation sequences versus static input streams; prioritize works with explicit coherence and retention metrics in output tokens over time intervals; report with full citation of primary data sources and experimental conditions
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
