@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790306667546,
+  "updatedAt": 1790306834905,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 519,
+  "completed": 520,
   "loops": [
     {
       "id": "research-cloud-1790305494606-15a3f7",
       "branch": "manager/research-cloud-1790305494606-15a3f7",
-      "stage": "deliverable_review",
+      "stage": "manager_final",
       "goal": "handoff to analyst to refine a research question on memory propagation in citation networks using shared semantic fields and temporal structural metrics, citing 'Temporal Dynamics of Academic Influence' by Lee et al., 2023, which analyzes citation persistence and coherence across subject domains"
     }
   ]

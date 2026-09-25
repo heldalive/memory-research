@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
 - deliverable review: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
 - manager final: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
 - orchestrator: Memory in agent systems is most reliably observed under controlled, perturbed input conditions with measurable output metrics, not in unstructured or data-scarce environments such as preprint metadata chains or abstracts alone.
@@ -40,5 +39,6 @@
 - deliverable review: All memory research questions must be grounded in verifiable, independently accessible peer-reviewed data before proceeding; absence of source material or empirical validation necessitates revision of the research scope and evidence base prior to comparative analysis or implementation planning.
 - manager final: All memory research questions must be anchored in a single, verifiable and independently confirmable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and addressed in a bounded revision prior to further development or execution of the research program, ensuring
 - researcher: All agent memory research questions must anchor in a single, verifiable and independently confirmable metric from peer-reviewed literature before comparative analysis can proceed; absence of external validation data necessitates revision of the research scope and evidence base prior to further development or implementation.
+- deliverable review: All memory research questions must be anchored in verifiable, peer-reviewed empirical data before proceeding; without direct access to or evidence of the studied metric's measurement and behavior, the research remains ungrounded and must be revised prior to analysis.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
