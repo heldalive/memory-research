@@ -2,7 +2,7 @@
   "id": "research-cloud-1790336755395-84bd23",
   "branch": "manager/research-cloud-1790336755395-84bd23",
   "goal": "handoff to analyst to extract and verify explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1; if none exist, formulate a distinct research question on the minimum duration of periodic input required for observable memory persistence in a tokenized agent under known perturbations, anchored solely to explicitly reported decay rates or time-based retention percentages from Kumar et al., 2024, Section 4.1",
-  "stage": "planner",
+  "stage": "failed",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
@@ -18,6 +18,11 @@
     },
     {
       "id": "research-cloud-1790336755395-84bd23-3-planner-rejected-1",
+      "role": "planner",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790336755395-84bd23-3-planner-rejected-2",
       "role": "planner",
       "status": "rejected"
     }
