@@ -1,0 +1,9 @@
+# MRMMIA: Membership Inference Attacks on Memory in Chat Agents
+
+[Source](https://arxiv.org/abs/2605.27825v1)
+
+abstract only.
+
+Excerpts from S1 and S2 do not contain explicit descriptions of temporal dependencies between input sequences and detectable shifts in memory state transitions under known perturbations. S1 discusses membership inference attacks on chat agent memory without addressing temporal dynamics, while S2 describes a memory lifecycle but lacks specification of time-bound sequences inducing measurable state changes. Neither source reports a shortest observed sequence inducing detectable memory shifts as required by the research objective.
+
+Agent-authored; see the linked instance and manager disposition.
