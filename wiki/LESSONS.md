@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
 - researcher: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
 - deliverable review: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
 - manager final: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
@@ -40,5 +39,6 @@
 - planner: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent premature or unfounded assumptions in subsequent planning stages.'
 - plan review: All memory research questions must be anchored to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unverified assumptions invalidate the query's feasibility and must be corrected in a bounded revision cycle.'
 - manager plan: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any further analysis or implementation proceeds; unresolved validation gaps must be explicitly recorded and bounded to prevent premature inference or system design
+- researcher: All memory research questions must be strictly bounded to a directly verifiable, explicitly defined metric from the primary source with confirmed experimental conditions before any comparative or implementation work proceeds; unresolved validation gaps must be explicitly recorded and bounded to prevent premature inference or system design
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
