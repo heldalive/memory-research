@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All memory research must be anchored exclusively in explicitly reported, verifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability prior to any analysis or hypothesis formation.'
 - planner: All memory research must be anchored exclusively in explicitly reported, quantifiable metrics from source material; no assumptions or downstream questions may proceed without direct, verifiable evidence of metric presence and reportability.'
 - plan review: Always require explicit, accessible metric values before formulating a research question on memory persistence in agents; without verifiable data, the question remains untestable and ungrounded in empirical evidence.'
 - manager plan: All memory research must include at least one verifiable, numerically specified retention metric from the source before any relationship or inference can be considered testable or grounded in empirical evidence.'
@@ -40,5 +39,6 @@
 - manager final: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid
 - orchestrator: Memory research must anchor itself in explicitly reported, numerically verifiable metrics before any empirical or comparative analysis can proceed effectively without introducing bias or false premises.
 - manager setup: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid.
+- orchestrator: Memory research must anchor in verifiable, time-bound, and non-linear dynamics to avoid circular or untestable hypotheses
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
