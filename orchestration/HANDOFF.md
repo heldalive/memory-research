@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790315583065-b9812a
-
-The original research question lacks empirical support due to absence of experimentally reported retention thresholds under periodic input and bounded token budgets in the inspected sources. A bounded revision is required before proceeding to the next review stage
-
-Next candidate: handoff to analyst to refine research question to focus on a single, directly measurable retention threshold from Kumar et al., 2024 (Section 4.1) under periodic input and bounded token budgets, with explicit update interval (e.g., 50 intervals) and token budget (e.g., 100 tokens), and limited to one replication, ensuring alignment with experimentally reported metrics only
-
-Limits: No source provides retention thresholds across 50 update intervals with bounded token budgets under periodic input. Kumar et al., 2024 (Section 4.1) only reports static retention under non-periodic conditions. The requested data is absent, making the original query empirically unsupported. A revised, narrowly focused question on a single, directly measured retention metric from the paper is necessary to ensure empirical validity and avoid speculation. The current evidence does not support advancement or completion of the original query; a bounded revision is required prior to the second review stage as mandated by the manager's protocol and lesson learned from prior failures in anchoring to measurable data.
-
 ## research-cloud-1790317467725-71e69d
 
 The research question cannot be sustained due to absence of the reported coherence score and its variation over 50 update intervals in available sources, necessitating a bounded revision to align with empirically reported metrics only.','content
@@ -35,3 +27,11 @@ The research question lacks empirical grounding due to absence of the per-interv
 Next candidate: handoff to analyst to revise the research question to focus on token efficiency and memory lifecycle under bounded budgets, using only explicitly reported metrics from Kumar et al., 2024, Section 4.1, if available; otherwise, anchor to observable memory retention metrics such as token usage per update, memory decay under periodic input, and latency in retrieval; propose a new question: 'What is the optimal token budget allocation for maintaining stable memory
 
 Limits: After two review cycles confirm the missing core metric and lack of variation data under bounded token constraints, the original query fails its empirical anchor. The evidence does not support the claimed retention rate or its variation over 50 intervals, rendering the research question untestable with current data. A bounded revision is required to shift focus to observable, reported metrics without speculative extrapolation.
+
+## research-cloud-1790321600478-126177
+
+The research question cannot be answered due to absence of reported per-interval retention rates under exact conditions, necessitating a bounded revision to a data-anchored alternative query.
+
+Next candidate: handoff to analyst to formulate a revised research question on the minimum token budget required for memory retention in a tokenized agent under periodic input with known perturbations, anchored solely to the per-interval retention rate metric explicitly reported in Section 4.1 of 'Stability and Forgetting in Autoregressive Models' by Kumar et al., 2024, with a fixed update interval of 50 and a token budget of 100 tokens,
+
+Limits: No source provides explicit per-interval retention rates for a 50-token update interval and 100-token budget, as required by the original question. Both S1 and S2 lack direct quantification of retention in tokenized intervals under these conditions. Thus, the original query is empirically unsupported and must be revised to a testable, source-anchored alternative. After two reviews confirm the absence of data, a different, verifiable research question is proposed in the next task without implementation or inference beyond the evidence base.
