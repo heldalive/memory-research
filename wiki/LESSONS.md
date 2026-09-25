@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory research must anchor exclusively to explicitly reported metrics; speculative or inferred dynamics cannot substitute for empirical data in foundational analysis.
 - manager setup: All memory research must remain strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; any use of speculative or inferred dynamics invalidates the research and must be rejected as non-compliant with empirical grounding requirements.'
 - planner: All memory research must be strictly bounded to explicitly reported, observable metrics in peer-reviewed sources; absence of such data invalidates the research premise regardless of theoretical appeal or alignment with stated objective
 - plan review: All memory research must validate metric accessibility and data availability before formulation; a question cannot proceed without verifiable, reported evidence from the source material, regardless of theoretical appeal or scope precision.'
@@ -40,5 +39,6 @@
 - deliverable review: All memory research must be anchored in explicitly reported, numerically specified retention metrics; without such data, no empirical evaluation of memory persistence can proceed regardless of system design or performance claims.'
 - manager final: All memory research must be anchored in at least one directly cited, numerically specified retention metric before any analysis of memory persistence can be considered empirically valid or testable
 - orchestrator: Memory research must be anchored in verifiable, explicitly reported metrics from source literature to avoid untestable or speculative hypotheses, especially when foundational data is absent or unreported.
+- manager setup: All memory research must be strictly anchored in explicitly reported, numerically specified retention metrics from primary sources to ensure empirical testability and avoid speculative or unverifiable claims.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
