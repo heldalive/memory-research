@@ -1,0 +1,14 @@
+{
+  "id": "S2",
+  "url": "https://arxiv.org/abs/2609.11108v1",
+  "title": "But How Would AI Agents Run a Town's Economy?",
+  "excerpt": "Abstract: We placed 100 memory-equipped large language model (LLM) agents in charge of a closed, money-conserving spatial economy on real Pokhara Lakeside geography (earning wages, running businesses, setting prices) and ran this multi-agent simulation for up to 26 simulated weeks, well past the 1-2 weeks typical of agent-society studies. Across 91 validated runs (2.44M agent decisions, 21.5B tokens), the money stops moving, in a specific and measurable way. A 12x tourist demand shock raises business revenue 4.62x ($p<0.001$), which we decompose exactly into a 1.50x extensive margin (more businesses trading) and a 3.07x intensive margin (more revenue each). Monetary transmission stops there. Wages move 1.03x ($p=0.42$); 0.3% of 3,981 menu items are ever repriced ($p=0.47$). A randomized cash transfer (NPR 5,000 to 20 of 100 agents) shows the same pattern from the opposite direction: 96.7% is still held 311 pulses later, marginal propensity to consume 3-4% by two independent measures, indistinguishable from zero. The wealth distribution is consequently near-frozen at the horizon this literature uses ($\\rho=0.964$ over 2 simulated weeks), but not frozen. $\\rho$ falls to 0.832 at 12 weeks and 0.752 at 26, a horizon-dependence no short study can see. Matched ablations show which knob actually matters. Swapping the backing LLM moves every outcome we measure ($p=0.0039$); deleting agents' memory moves none of them detectably. A purely social tool fails 94-97% of the time across two model families, compared with ~96% success on economic tools, with no measurable shift away from it. Every headline number is verified twice, by a live validator and by an offline recomputation that reconciles each agent's wealth against its own signed transaction history, and we release the full run corpus for reanalysis.",
+  "checkedAt": 1790302026515,
+  "status": "retrieved",
+  "readingLevel": "abstract only",
+  "sha256": "14cd6f50440ce78af5cd5966acede0b35e27ba42b1a9a5f7238297d6b98cd4f5",
+  "discovery": {
+    "query": "none",
+    "method": "planner query; arXiv, GitHub and provider-index discovery"
+  }
+}
