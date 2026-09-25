@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: Avoid proposing complex, multi-layered research questions without clear empirical anchors from peer-reviewed literature; simplify to isolate one verifiable metric
 - manager plan: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.
 - planner: All research questions involving agent memory must be anchored in a single, verifiable metric from peer-reviewed studies before comparative analysis can proceed; avoid multi-dimensional, ungrounded inquiries in early phases.'
 - plan review: Avoid proposing multi-dimensional, ungrounded research questions about agent memory without at least one verifiable metric from peer-reviewed literature; simplify to isolate a single, measurable outcome before comparative analysis
@@ -40,5 +39,6 @@
 - manager setup: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent ungrounded generalizations and ensure empirical validity in time-series analysis of agent
 - planner: All memory research questions must be anchored in a single, explicitly reported and verifiable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and bounded to prevent ungrounded generalizations and ensure empirical validity in time-series analysis of agent
 - plan review: All memory research questions must be validated against the exact metric definition and experimental conditions in the primary source before proceeding to comparative analysis or implementation design.
+- manager plan: All memory research questions must be validated against the exact metric definition and experimental conditions in the primary source before any comparative analysis or implementation design proceeds; unresolved validation gaps must be explicitly recorded and bounded to prevent premature advancement of unverified hypotheses.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
