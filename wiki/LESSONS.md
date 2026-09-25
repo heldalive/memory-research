@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis is valid.
 - deliverable review: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis is validated and reported.
 - manager final: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed, and no such evidence exists in current literature
 - researcher: All claims about agent memory superiority must be grounded in direct, empirically validated time-series data from peer-reviewed studies with explicit decay and coherence metrics under controlled input conditions before comparative analysis can proceed.
@@ -40,5 +39,6 @@
 - plan review: All memory research questions must anchor in a single, verifiable and independently confirmable metric from peer-reviewed literature before proceeding to comparative analysis; absence of external validation data necessitates revision of scope or source alignment prior to advancement to implementation phase.
 - manager plan: All memory research questions must be anchored in a single, verifiable and independently confirmable metric from peer-reviewed literature before comparative analysis can proceed; unresolved validation gaps must be explicitly recorded and acknowledged in the plan summary prior to advancement to research phase.
 - researcher: All agent memory research questions must anchor in a single, verifiable and independently confirmable metric from peer-reviewed literature before proceeding to comparative analysis; absence of external validation data necessitates revision of the research question and explicit documentation of validation gaps prior to advancement to comparative
+- deliverable review: All memory research questions must be grounded in verifiable, independently accessible peer-reviewed data before proceeding; absence of source material or empirical validation necessitates revision of the research scope and evidence base prior to comparative analysis or implementation planning.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
