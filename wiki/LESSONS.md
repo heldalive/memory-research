@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid
 - deliverable review: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid
 - manager final: All memory research must verify the presence of explicitly reported, numerically specified retention metrics in primary sources before any empirical inquiry can proceed; absence of such data renders the research untestable and invalid
 - orchestrator: Memory research must anchor itself in explicitly reported, numerically verifiable metrics before any empirical or comparative analysis can proceed effectively without introducing bias or false premises.
@@ -40,5 +39,6 @@
 - manager plan: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data necessitates a bounded revision to a testable, source-verified question only.
 - researcher: All memory research must first verify explicit, mathematically specified, and time-bound decay metrics in primary sources before any empirical or comparative analysis proceeds; absence of such data requires a bounded revision to a testable, evidence-based question only grounded in direct source content and extractable parameters without inference
 - deliverable review: All memory research must first verify the explicit presence of mathematically defined, time-bound decay models in primary sources before proceeding to any further analysis or hypothesis generation; absence of such data mandates a bounded revision to a testable question grounded solely in extractable source content.'
+- manager final: All memory research must first establish explicit, mathematically defined, and time-bound decay metrics in primary sources before any further analysis or hypothesis generation can proceed; absence of such data necessitates a bounded revision to a testable, source-grounded question without premature inference or external assumptions.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
