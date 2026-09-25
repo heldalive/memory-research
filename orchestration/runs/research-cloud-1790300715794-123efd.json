@@ -45,6 +45,11 @@
       "id": "research-cloud-1790300715794-123efd-6-planner",
       "role": "planner",
       "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790300715794-123efd-7-plan-review-rejected-1",
+      "role": "plan_review",
+      "status": "rejected"
     }
   ],
   "mode": "research-only"
