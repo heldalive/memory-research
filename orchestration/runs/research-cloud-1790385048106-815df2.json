@@ -10,6 +10,11 @@
       "id": "research-cloud-1790385048106-815df2-1-orchestrator",
       "role": "orchestrator",
       "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790385048106-815df2-2-manager-setup-rejected-1",
+      "role": "manager_setup",
+      "status": "rejected"
     }
   ],
   "mode": "research-only"
