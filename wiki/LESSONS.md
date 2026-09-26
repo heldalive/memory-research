@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: When investigating agent memory mechanisms, all claims must be anchored in explicit, directly cited source content; absence of such evidence necessitates immediate revision to prevent speculative or inferred conclusions and maintain scientific rigor and verifiability.'
 - researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence necessitates immediate revision to maintain scientific rigor and avoid speculative interpretations.'
 - deliverable review: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations.'
 - manager final: When investigating agent memory mechanisms, all claims must be strictly anchored in explicit, directly cited source content; absence of such evidence necessitates immediate revision to avoid speculative or inferred conclusions and maintain scientific rigor throughout the research program, with a clear boundary on what constitutes verifiable
@@ -40,5 +39,6 @@
 - researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - deliverable review: All claims about agent memory mechanisms without feature vectors must be strictly grounded in explicit, directly cited source content; absence of such evidence necessitates revision to preserve scientific integrity and avoid speculative interpretations
 - manager final: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
+- orchestrator: Memory superiority claims without empirical grounding in non-feature-based indicators must be anchored in explicitly cited, observable behaviors under controlled conditions to avoid speculative generalization.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
