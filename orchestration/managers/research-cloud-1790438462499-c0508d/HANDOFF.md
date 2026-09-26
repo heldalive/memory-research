@@ -1,0 +1,9 @@
+# Manager handoff
+
+handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for a single direct, verbatim citation of a repeated response element or consistent phrasing pattern across multi-turn interactions without external memory prompts or feature vectors
+
+Next role: complete.
+
+handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for a single direct, verbatim citation of a repeated response element or consistent phrasing pattern across multi-turn interactions without external memory prompts or feature vectors: revise scope to define 'repeated response element' as a verbatim phrase reappearing in consecutive turns with identical syntactic and semantic structure
+
+Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.

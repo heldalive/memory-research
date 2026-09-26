@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790431056838-6908c5
-
-No evidence in Kumar et al., 2024, Section 2.4 supports an observable, non-feature-based indicator of implicit memory inference without explicit training signals; a bounded revision is required to focus on direct textual citation of such behavior alone.
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 2.4 for any direct citation of an observable behavior that persists without explicit training signals or external memory prompts; define one such behavior directly cited and supported by empirical evidence from the text
-
-Limits: After reviewing the specified section and related sources, no explicit or implicit description of implicit memory inference without explicit signals exists. The requested observable behavior is not directly cited or empirically supported. A bounded revision is necessary to require only a direct citation from Kumar et al., 2024, Section 2.4 of a specific, observable behavior that persists without prompts, ensuring alignment with available text and feasibility of verification. This maintains research integrity and avoids overreach beyond the source's content.
-
 ## research-cloud-1790432612828-485584
 
 No direct evidence of a persistent internal state exists in Kumar et al., 2024, Section 1.1 under stable, low-variation input conditions without explicit training or external memory prompts; the query must be revised to require only explicit, direct textual citation
@@ -35,3 +27,11 @@ No direct, verbatim citation of a repeated response element or consistent phrasi
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for a single direct, verbatim citation of a repeated response element or consistent phrasing pattern across multi-turn interactions without external memory prompts or feature vectors
 
 Limits: After two independent reviews confirm the absence of any direct, verbatim citation for a repeated response element or consistent phrasing pattern under the specified conditions, the query is unfeasible as posed. The evidence set is empty, and no such patterns are present in the available excerpts. A bounded revision is required to demand only one explicit, verbatim quote from the source to maintain research integrity and prevent hallucination or overreach. The current query lacks actionable textual support and must be redefined to a minimal, evidence-bound retrieval task without inference or assumption.
+
+## research-cloud-1790438462499-c0508d
+
+No verbatim citation of a repeated response pattern was found in Kumar et al., 2024, Section 3.3 under multi-turn interactions without external memory prompts, confirming the absence of evidence for persistent behavioral phrasing as defined by the objective.
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for a single direct, verbatim citation of a repeated response element or consistent phrasing pattern across multi-turn interactions without external memory prompts or feature vectors: revise scope to define 'repeated response element' as a verbatim phrase reappearing in consecutive turns with identical syntactic and semantic structure
+
+Limits: After two review cycles, no direct, verbatim instance of a repeated or consistent response element across multi-turn interactions exists in the specified section. The evidence remains absent despite thorough inspection of relevant excerpts. This reinforces the need for explicit, verbatim citations in future research to validate claims about agent memory behavior. A bounded revision is requested to clarify the definition of 'repeated response element' before further investigation proceeds. The current inquiry cannot advance without such clarification, and the next task must reflect a different, more testable research question to preserve the integrity of the research program.

@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the provided content alone without inference or external assumptions.'
 - manager final: In research-only investigations, when no textual evidence supports a claimed capability, revise the research question to require only direct, explicit, and unambiguous citation from the source to ensure feasibility, evidence-based rigor, and alignment with the provided data
 - orchestrator: Memory superiority claims require explicit, direct textual citation of persistent internal states under invariant conditions; absence of such evidence invalidates claims of advanced memory mechanisms without empirical grounding in primary sources.
 - manager setup: In research-only investigations, when no empirical evidence supports a claimed capability, revise the question to require only direct, explicit, and unambiguous textual citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with available data
@@ -40,5 +39,6 @@
 - manager final: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - researcher: In research-only investigations, require a single, explicit, verbatim citation from source text to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - deliverable review: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised prior to further action or reporting.'
+- manager final: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised with a bounded scope adjustment to define key terms precisely before proceeding further, preserving scientific
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
