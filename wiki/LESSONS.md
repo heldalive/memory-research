@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating agent memory mechanisms, a bounded investigation must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence, ensuring no inference beyond accessible and explicit textual evidence is made.
 - deliverable review: Claims about agent memory mechanisms must be grounded in direct, verifiable source content; without explicit evidence of non-feature-based temporal integration or observable coherence indicators, assertions of superiority or contextual persistence remain unvalidated and must be deferred until verifiable data is available.'
 - manager final: When investigating agent memory mechanisms, all claims about temporal coherence or non-feature-based integration must be anchored in direct, verifiable source content; without such evidence, the investigation must shift to a bounded, testable proxy question grounded in observable and repeatable indicators rather than theoretical superiority
 - researcher: When evaluating agent memory mechanisms, a bounded investigation must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence.'
@@ -40,5 +39,6 @@
 - plan review: When evaluating claims about memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators in the text without extrapolation or assumption.'
 - manager plan: When evaluating claims about memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators with full textual citation support and no extrapolation or speculation.'
 - researcher: When evaluating claims about memory mechanisms, all assertions must be strictly bounded to explicit, verifiable descriptions in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators within the text provided.
+- deliverable review: When evaluating claims about memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators without external assumptions or inference.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
