@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - deliverable review: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - manager final: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity and fidelity to the evidence available.
 - deliverable review: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor and integrity.'
 - manager final: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity
+- researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity and rigor.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
