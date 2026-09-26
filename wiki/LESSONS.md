@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory dynamics must be anchored in explicitly reported, observable patterns rather than assumed or inferred mechanisms when evaluating temporal behavior in agent systems.
 - manager setup: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data invalidates assertions and necessitates a shift to observational or inferential claims only when supported by direct evidence in the source material.
 - planner: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data renders assertions invalid and necessitates a shift to observation-only or alternative evidence
 - plan review: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data invalidates assertions and necessitates a shift to observational or alternative evidence frameworks without inference or assumption.
@@ -40,5 +39,6 @@
 - deliverable review: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to advancement of the research inquiry.'
 - manager final: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to any comparative assertion of superiority or performance claims.
 - orchestrator: Memory superiority claims must be anchored in explicit, verifiable mechanisms rather than temporal or perturbation-based assumptions; content-based clustering offers a viable alternative path for investigation when temporal dynamics are absent or unsupported.
+- manager setup: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
