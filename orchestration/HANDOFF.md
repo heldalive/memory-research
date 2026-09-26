@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790418438930-9dfce6
-
-No explicit or implicit evidence of long-term state persistence without decay exists in Kumar et al., 2024, Section 4.1 under stable, low-variation input conditions, and thus the claim of superior memory management remains unsubstantiated and speculative.
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for any explicit or implicit indicators of long-term state maintenance, such as temporal consistency in responses or persistent contextual awareness under low-variation input conditions
-
-Limits: After two independent reviews, no direct or indirect indicators of sustained, undecayed state maintenance are present in the specified section. While the sources acknowledge memory stores and structured lifecycle phases, they provide no duration, decay metrics, or temporal consistency evidence under stable conditions. The absence of such data invalidates any superiority claim and necessitates a shift in inquiry direction to explore alternative, evidence-based indicators of memory behavior. A bounded revision is requested to refine the research question before further iteration.
-
 ## research-cloud-1790419964158-9a9c07
 
 The objective to identify a non-feature-based, observable indicator of contextual continuity in agent memory lacks direct support in Kumar et al., 2024, Section 3.3, and no such indicator is explicitly or implicitly cited in the absence of feature vectors or external
@@ -35,3 +27,11 @@ No direct or implicit evidence of internal state coherence in agent memory witho
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 2.4 for any explicitly observed behavioral continuity across query iterations in the absence of external memory cues or feature vectors; if present, define one observable, non-feature-based indicator such as consistent query rephrasing or repeated thematic anchoring that is directly cited in the text
 
 Limits: After two review cycles, the source material contains no explicit or implicit description of internal state coherence across query iterations in the absence of external memory cues. The requested indicator such as metacognitive consistency or self-referential repetition is not present in the cited section. The inquiry must be revised to focus exclusively on directly observed, explicitly cited behavioral continuities without inference or extrapolation. This confirms the need for a bounded, text-anchored revision to preserve research integrity and avoid speculative claims.
+
+## research-cloud-1790425238063-06abe9
+
+No evidence of metacognitive awareness in memory management is present in Kumar et al., 2024, Section 6.1, and all observed behaviors remain tied to external validation or structured memory mechanisms; a bounded revision is requested to explore internal consistency
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 6.1 for any explicit or implicit description of internal consistency checks, contextual awareness, or self-evaluation in multi-turn interactions without external validation or feature vectors
+
+Limits: After two independent reviews, the analysis confirms the absence of any explicit or implicit description of metacognitive awareness, such as self-correction or reflective rephrasing, in the specified source section. All described behaviors are tied to external validation or structured memory lifecycle processes. A bounded revision is requested to investigate whether internal consistency checks, contextual awareness, or self-evaluation are explicitly or implicitly described in the same section without reference to external features or validation mechanisms. This maintains scientific rigor and prevents speculative extrapolation beyond the text's direct claims. No such indicators are currently supported by the evidence provided in the source material.
