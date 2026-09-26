@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data requires a bounded revision to clarify scope and evidence requirements before further claims can be made, preserving scientific rigor in agent memory research and
 - orchestrator: Isolate stability under controlled, unperturbed conditions to evaluate intrinsic memory retention before introducing complexity or external stimuli.
 - manager setup: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data necessitates a bounded revision to clarify scope
 - planner: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data requires a bounded revision to clarify scope and evidence
@@ -40,5 +39,6 @@
 - researcher: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 - deliverable review: All superiority claims in agent memory must be anchored in explicit, verifiable, and conditionally defined mechanisms within a single source; absence of such data requires a bounded, minimal operational definition to establish evidentiary standards and prevent unfounded assertions.'
 - manager final: All superiority claims in agent memory must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
+- researcher: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
