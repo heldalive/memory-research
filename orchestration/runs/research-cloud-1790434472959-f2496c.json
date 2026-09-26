@@ -2,7 +2,7 @@
   "id": "research-cloud-1790434472959-f2496c",
   "branch": "manager/research-cloud-1790434472959-f2496c",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 1.1 for any direct sentence citing a persistent internal state or implicit knowledge retention mechanism under stable, low-variation input without explicit training or external memory prompts",
-  "stage": "manager_final",
+  "stage": "complete",
   "planReviews": 2,
   "deliverableReviews": 2,
   "instances": [
@@ -74,6 +74,11 @@
     {
       "id": "research-cloud-1790434472959-f2496c-13-deliverable-review",
       "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-14-manager-final",
+      "role": "manager_final",
       "status": "completed"
     }
   ],
