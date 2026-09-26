@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim, direct evidence from the source text; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation or inference can proceed, and no claims of emergent memory mechanisms may be made without
 - planner: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed and no inferences about memory dynamics may be made without explicit textual support from the source
 - plan review: In research-only investigations, absence of verbatim source evidence for a claimed memory mechanism precludes any assertion of its existence, regardless of theoretical plausibility
 - manager plan: In research-only investigations, absence of verbatim source evidence for a claimed memory mechanism precludes any assertion of its existence, regardless of theoretical plausibility; all such inquiries must be bounded to direct, explicit textual support from the specified section prior to evaluation or advancement.
@@ -40,5 +39,6 @@
 - manager final: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a concrete, bounded, and structurally constrained input pattern to enable verifiable source inspection
 - orchestrator: When investigating memory mechanisms in AI systems, isolate specific, minimal input sequences to avoid conflating implicit patterns with false positives or data noise in absence of direct, verifiable evidence in source text.
 - manager setup: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a concrete, bounded, and structurally constrained input pattern to enable verifiable source inspection
+- planner: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a concrete, bounded, and structurally constrained input pattern to enable verifiable source inspection
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
