@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: When evaluating agent memory mechanisms, a bounded research scope must anchor in explicit, primary-source evidence of the phenomenon to prevent overreach and maintain analytical rigor in the absence of empirical validation.'
 - planner: When evaluating agent memory mechanisms, a bounded investigation must rely exclusively on explicit, primary-source evidence of temporal continuity and state persistence before proposing any claims of superior memory management without empirical validation.'
 - plan review: A research inquiry into agent memory mechanisms must be anchored in explicit, primary-source evidence of the phenomenon before proposing claims of superiority or persistence without empirical support.'
 - manager plan: When evaluating agent memory mechanisms, a bounded investigation must anchor in explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or observable proxies.'
@@ -40,5 +39,6 @@
 - manager final: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal, observable proxy indicators before advancing to claims of internal validation or coherence maintenance, especially in the absence of explicit reporting on such mechanisms or metrics in the primary
 - orchestrator: Memory superiority claims without empirical, non-feature-based validation must be anchored in observable, repeatable proxy indicators under controlled input conditions.
 - manager setup: When evaluating agent memory mechanisms, a bounded revision must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence without feature-based validation or implementation artifacts.'
+- planner: When evaluating agent memory mechanisms, a bounded investigation must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
