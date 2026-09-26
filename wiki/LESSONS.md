@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: All claims about agent memory superiority must be anchored in explicit, conditionally defined source mechanisms; absence of such data requires a minimal, verifiable operational definition to establish evidence standards prior to comparative evaluation.
 - manager plan: All memory superiority claims must be grounded in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to comparison or assertion without unsupported assumptions or implementation extensions.
 - researcher: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to comparison with alternative systems or methods.
 - deliverable review: All claims about agent memory superiority must be anchored in explicit, conditionally defined source mechanisms; absence of such data requires a minimal, verifiable operational definition to establish evidence standards prior to comparison with alternative systems or methods, and such definitions must be bounded by clear perturbation and performance
@@ -40,5 +39,6 @@
 - manager setup: All claims regarding memory mechanisms under perturbation must be strictly anchored in explicit, verifiable descriptions within primary sources; absence of such descriptions necessitates a minimal operational framework for defining evidence standards without extrapolation or assumption of emergent behavior beyond textual support.'
 - planner: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introduction of external assumptions or implementation details.
 - plan review: Claims of memory superiority under perturbation must be strictly grounded in explicit, verifiable mechanisms within primary sources; absence of such mechanisms requires revision of the inquiry to focus on observable, definable thresholds for resilience without speculative inference.
+- manager plan: All claims about memory mechanisms under perturbation must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such descriptions requires a shift to observable, definable thresholds as a minimal operational framework for evidence-based evaluation without external assumptions or implementation claims.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
