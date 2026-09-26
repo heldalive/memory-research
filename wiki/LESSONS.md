@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, and all claims must be anchored to direct, observable evidence in the source text without inference or external
 - planner: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, and all evidence must be directly observable and conditionally verifiable without external assumptions or
 - plan review: A research request requiring explicit, observable mechanisms in primary sources must be grounded in actual content retrieval before proceeding to avoid futile or speculative handoffs.
 - manager plan: When evaluating agent memory mechanisms, a bounded investigation must be grounded in actual, retrieved source content before advancing to analysis to ensure empirical validity and avoid speculative or unfounded conclusions.'
@@ -40,5 +39,6 @@
 - planner: When investigating non-feature-based memory mechanisms, all claims must be directly supported by explicit, verifiable content in the source; without such evidence, the investigation must be revised to reflect the absence of the proposed mechanisms and avoid speculative or assumed continuities without grounding in primary text claims.'
 - plan review: When investigating non-feature-based memory mechanisms, a plan must be revised if no explicit, verifiable content in the source supports the claimed mechanisms; absence of evidence is not equivalent to absence of possibility but constitutes a factual boundary for research scope and feasibility in research-only phase.
 - manager plan: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a bounded plan revision rather than assumption of plausibility or possibility, regardless of theoretical interest or potential utility in other contexts
+- planner: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a plan revision to avoid overreach and maintain factual accuracy without assumption or inference.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
