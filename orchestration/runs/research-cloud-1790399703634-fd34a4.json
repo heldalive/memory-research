@@ -2,7 +2,7 @@
   "id": "research-cloud-1790399703634-fd34a4",
   "branch": "manager/research-cloud-1790399703634-fd34a4",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory error correction mechanisms and any reported self-consistency checks under stable, low-variation input conditions without predefined feature vectors; if any exist, define the minimal set of observable, non-feature-based indicators that could proxy for internal memory validation and coherence maintenance",
-  "stage": "manager_final",
+  "stage": "researcher",
   "planReviews": 1,
   "deliverableReviews": 1,
   "instances": [
@@ -44,6 +44,11 @@
     {
       "id": "research-cloud-1790399703634-fd34a4-7-deliverable-review",
       "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790399703634-fd34a4-8-manager-final",
+      "role": "manager_final",
       "status": "completed"
     }
   ],
