@@ -2,7 +2,7 @@
 
 handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.1 for any explicit description of memory coherence across adversarial user inputs without external prompts or session restarts
 
-Next role: planner.
+Next role: plan_review.
 
 handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.1 for any explicit description of memory coherence across adversarial user inputs without external prompts or session restarts
 

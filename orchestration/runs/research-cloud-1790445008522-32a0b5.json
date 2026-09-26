@@ -2,7 +2,7 @@
   "id": "research-cloud-1790445008522-32a0b5",
   "branch": "manager/research-cloud-1790445008522-32a0b5",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.1 for any explicit description of memory coherence across adversarial user inputs without external prompts or session restarts",
-  "stage": "planner",
+  "stage": "plan_review",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
@@ -14,6 +14,11 @@
     {
       "id": "research-cloud-1790445008522-32a0b5-2-manager-setup",
       "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790445008522-32a0b5-3-planner",
+      "role": "planner",
       "status": "completed"
     }
   ],
