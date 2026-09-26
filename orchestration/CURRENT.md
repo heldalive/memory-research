@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1790395720456-298d1e](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790395720456-298d1e): **researcher**. handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory persistence duration and any reported absence of state decay under stable, low-variation input conditions without predefined feature vectors; if present, define the minimal set of observable, non-feature-based indicators that could proxy for sustained state continuity without decay
+- [research-cloud-1790395720456-298d1e](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790395720456-298d1e): **deliverable review**. handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory persistence duration and any reported absence of state decay under stable, low-variation input conditions without predefined feature vectors; if present, define the minimal set of observable, non-feature-based indicators that could proxy for sustained state continuity without decay
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 

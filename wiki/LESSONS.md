@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: When evaluating memory mechanisms in agent systems, a bounded inquiry must prioritize direct, non-feature-based, and explicitly stated evidence; absence of such requires immediate revision to maintain source fidelity and avoid unfounded inferences.'
 - researcher: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable, non-feature-based, and observable indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation grounded solely in direct textual evidence from source material without inference or external assumptions
 - deliverable review: When evaluating memory mechanisms in agent systems, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources; absence of such necessitates immediate revision to preserve source fidelity and avoid unfounded inferences without external assumptions or inference chains
 - manager final: When evaluating memory mechanisms in agent systems, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inferences, especially when no such indicators exist in the text.
@@ -40,5 +39,6 @@
 - researcher: When evaluating agent memory mechanisms, a bounded investigation must rely exclusively on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or observable proxies.'
 - deliverable review: A research inquiry into agent memory mechanisms must be anchored in explicit, primary-source evidence before proposing claims of sustained state continuity or superiority without empirical validation or direct textual support.'
 - manager final: When evaluating agent memory mechanisms, a bounded investigation must anchor in explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or direct textual support, and must revise its query when evidence is absent or ambiguous, preserving scientific rigor
+- researcher: When evaluating agent memory mechanisms, a bounded investigation must rely exclusively on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or direct textual support.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
