@@ -1,0 +1,86 @@
+{
+  "id": "research-cloud-1790434472959-f2496c",
+  "branch": "manager/research-cloud-1790434472959-f2496c",
+  "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 1.1 for any direct sentence citing a persistent internal state or implicit knowledge retention mechanism under stable, low-variation input without explicit training or external memory prompts",
+  "stage": "complete",
+  "planReviews": 2,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1790434472959-f2496c-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-6-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-7-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-8-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-9-researcher-rejected-1",
+      "role": "researcher",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-12-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-13-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790434472959-f2496c-14-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}

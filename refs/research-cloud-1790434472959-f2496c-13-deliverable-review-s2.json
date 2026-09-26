@@ -1,0 +1,14 @@
+{
+  "id": "S2",
+  "url": "https://arxiv.org/abs/2607.13157v1",
+  "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+  "excerpt": "Abstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery of user-specific facts and preferences across sessions, and accumulation of procedural knowledge from prior outcomes. These requirements extend beyond document retrieval: a memory layer must determine which interactions become durable state, how that state is scoped, how it is retrieved under latency constraints, and how it is revised or removed over time. This report studies Oracle Agent Memory as a database-native memory substrate built on Oracle Database. Three themes organize the discussion: memory as a lifecycle spanning ingestion, extraction, consolidation, retrieval, summarization, and revision or removal; a layered architecture that separates an active memory core from a passive memory-store interface with explicit scope control across users, agents, and threads; and evaluation methodology in which downstream task accuracy is complemented by memory-centric measures such as evidence retrieval, recall, latency, and estimated token use. The report summarizes LongMemEval results, reaching 93.8% accuracy, compares Oracle Agent Memory against flat-history baselines, using about 10.7x fewer tokens, and published or reported external baselines where available, and closes with implementation-oriented appendix material covering setup, thread lifecycle, and search semantics.",
+  "checkedAt": 1790436248728,
+  "status": "retrieved",
+  "readingLevel": "abstract only",
+  "sha256": "849bddf647fb0a452c290076c3893db9869c6505d5f1ab071d0bbe910f6d4818",
+  "discovery": {
+    "query": "https://doi.org/10.1016/j.cogcomp.2024.101234#sec1.1",
+    "method": "planner query; arXiv, GitHub and provider-index discovery"
+  }
+}

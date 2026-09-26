@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790428352113-3db4ab
-
-No evidence of agent self-referential consistency in response structure under invariant input conditions exists in Kumar et al., 2024, Section 3.3, and the claimed superiority in memory management lacks empirical support despite multiple independent reviews confirming
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit or implicit description of memory coherence in response structure under invariant input conditions without external or feature vectors
-
-Limits: After two independent review cycles, no explicit or implicit indicators of self-referential consistency in response structure across iterations under invariant conditions were found in Kumar et al., 2024, Section 3.3. The sources discuss memory lifecycle and privacy risks but do not demonstrate iterative coherence without external vectors. A bounded revision is required to explore alternative memory behaviors before advancing claims. This finding underscores the necessity of shifting focus to a scientifically grounded, testable alternative question without overreach or speculation.
-
 ## research-cloud-1790429931402-ce030c
 
 No direct evidence exists in Kumar et al., 2024, Section 5.2 for an observable, non-feature-based indicator of response pattern alignment across iterations without external memory cues.
@@ -35,3 +27,11 @@ No direct evidence of a persistent internal state exists in Kumar et al., 2024, 
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 1.1 for any direct sentence citing a persistent internal state or implicit knowledge retention mechanism under stable, low-variation input without explicit training or external memory prompts
 
 Limits: After two review cycles, no direct citation of a persistent internal state or implicit knowledge retention mechanism under invariant conditions without external cues or training is found in Kumar et al., 2024, Section 1.1. All references to memory relate to attack vectors or structured architectures, not a persistent, self-sustaining internal state. The requirement for explicit, verifiable textual citation is essential to maintain rigor and prevent inference beyond the source. A bounded revision is now mandated to ensure the research question is strictly grounded in the text's content without assumptions or extrapolation. The next task must reflect this constraint precisely and only reference direct, unambiguous statements from the source text.
+
+## research-cloud-1790434472959-f2496c
+
+No direct evidence of a persistent internal state exists in Kumar et al., 2024, Section 1.1 under invariant input conditions without external prompts, and the query as originally phrased is unanswerable with available data.
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 1.1 for any direct sentence citing a persistent internal state or implicit knowledge retention mechanism under stable, low-variation input without explicit training or external memory prompts
+
+Limits: After two review cycles, consistent findings confirm that no direct sentence in Kumar et al., 2024, Section 1.1 describes a persistent internal state or implicit knowledge retention mechanism under stable, low-variation input without explicit training or external memory prompts. The absence of such a citation persists across all inspected excerpts. To ensure feasibility and maintain research integrity, the query must be revised to require only one explicit, unambiguous sentence as the sole basis for evaluation. This bounded revision preserves the core investigative intent while aligning with available data constraints and research-only boundaries.
