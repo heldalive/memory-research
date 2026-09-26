@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: When investigating agent memory mechanisms, a bounded, source-grounded inquiry is required; without verifiable content from the specified section, claims of non-feature-based temporal retention must be deferred until direct evidence is available and accessible, preventing premature or unfounded conclusions based on absent data or assumptions
 - manager plan: When evaluating agent memory mechanisms, all claims about non-feature-based temporal retention must be strictly grounded in direct, verifiable content from specified source sections; without such evidence, the investigation must defer to a bounded, data-grounded review before advancing to inference or implementation.'
 - researcher: When investigating agent memory mechanisms, all claims about non-feature-based temporal coherence must be strictly grounded in direct, verifiable source content; without such evidence, the investigation must be deferred to a bounded, source-grounded inquiry with explicit data access prior to evaluation or refinement.'
 - deliverable review: When evaluating agent memory mechanisms, claims about non-feature-based temporal retention must be strictly grounded in direct, verifiable content from specified source sections; without such evidence, the investigation must be deferred to a bounded, source-grounded inquiry with explicit textual support for the proposed mechanisms and indicators
@@ -40,5 +39,6 @@
 - manager setup: When evaluating claims about agent memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators with traceable textual evidence in the source document.'
 - planner: When evaluating claims about agent memory mechanisms, always anchor assertions to explicit, directly cited text; absence of such content requires immediate scope reduction to only verifiable, observable indicators with traceable textual evidence and no external assumptions or extrapolation.'
 - plan review: When evaluating claims about agent memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators without extrapolation or assumption.'
+- manager plan: When evaluating claims about agent memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators with traceable textual evidence.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
