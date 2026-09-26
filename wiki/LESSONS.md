@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - planner: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity
 - plan review: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor and feasibility.
 - manager plan: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
 - deliverable review: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
 - manager final: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
+- orchestrator: Memory coherence without external validation must be empirically anchored in behavior, not assumed through design claims; observable, non-feature-based indicators are essential for validation in multi-turn contexts without external cues or anchoring signals.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
