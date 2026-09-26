@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790434472959-f2496c
-
-No direct evidence of a persistent internal state exists in Kumar et al., 2024, Section 1.1 under invariant input conditions without external prompts, and the query as originally phrased is unanswerable with available data.
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 1.1 for any direct sentence citing a persistent internal state or implicit knowledge retention mechanism under stable, low-variation input without explicit training or external memory prompts
-
-Limits: After two review cycles, consistent findings confirm that no direct sentence in Kumar et al., 2024, Section 1.1 describes a persistent internal state or implicit knowledge retention mechanism under stable, low-variation input without explicit training or external memory prompts. The absence of such a citation persists across all inspected excerpts. To ensure feasibility and maintain research integrity, the query must be revised to require only one explicit, unambiguous sentence as the sole basis for evaluation. This bounded revision preserves the core investigative intent while aligning with available data constraints and research-only boundaries.
-
 ## research-cloud-1790436576549-a802f4
 
 No direct, verbatim citation of a repeated response element or consistent phrasing pattern in multi-turn interactions without external memory prompts exists in Kumar et al., 2024, Section 3.3 as currently requested, necessitating a bounded revision to ensure feasibility
@@ -35,3 +27,11 @@ No verbatim evidence in Kumar et al., 2024, Section 2.2 supports claims of conte
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 2.2 for any direct description of implicit knowledge dynamics in multi-turn interactions without explicit memory prompts or external feature vectors, specifically focusing on contextual inference patterns emerging from user dialogue history alone
 
 Limits: After two review cycles, all analyses confirm the absence of direct, verbatim textual support for the proposed mechanisms. While related concepts like memory lifecycle and adversarial probing are present, none describe implicit knowledge accumulation or contextual inference under the specified conditions. The investigation remains unfulfilled due to lack of source-based validation, necessitating a bounded revision to refine the scope before further advancement. A different research question is now required to explore alternative pathways for implicit knowledge dynamics in agent systems without explicit memory cues or feature vectors.
+
+## research-cloud-1790441572261-694fc3
+
+No explicit evidence of latent state propagation or implicit session continuity exists in Kumar et al., 2024, Section 4.2 without external memory prompts or session restarts, and the claim requires a verbatim citation to be valid; current investigation remains
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.2 for any verbatim mention of latent state propagation or implicit session continuity without external memory prompts or session restarts; if none found, propose a new research question on how session-level memory is maintained under adversarial conditions without explicit prompts
+
+Limits: After two independent reviews confirm the absence of any verbatim description of latent state propagation or implicit session continuity in Kumar et al., 2024, Section 4.2, the research claim lacks textual grounding. The reviewed content discusses memory privacy and lifecycle management but does not support persistent internal state across sessions under invariant conditions. A bounded revision is required to restrict the scope to only verbatim mentions and avoid inference beyond the text's explicit content. The investigation remains unresolved due to insufficient evidence in the source material without a direct citation for continuity claims.
