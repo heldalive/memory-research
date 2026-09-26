@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Avoid overreliance on verbatim or explicit evidence when investigating implicit memory; expand scope to include contextual and inferential patterns as potential indicators of emergent knowledge retention mechanisms in agent behavior without explicit training or external memory prompts or feature vectors, especially in low-variation input environments
 - manager setup: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised immediately upon completion of review and absence of such evidence in the source material, regardless of
 - planner: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - plan review: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
@@ -40,5 +39,6 @@
 - manager setup: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; any assertion of superiority without explicit, direct support must be deferred until definitive textual confirmation is obtained and documented prior to further evaluation or inference.
 - planner: In research-only investigations, all claims about agent memory behavior must be strictly grounded in verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed without unsupported assertions or extrapolation.
 - plan review: In research-only investigations, claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed without risking unsupported assertions or overreach in the absence of direct textual support, regardless of prior
+- manager plan: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed without overreach or unsupported inference.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
