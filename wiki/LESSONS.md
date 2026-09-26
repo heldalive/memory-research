@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: In research-only investigations, claims about memory behavior must be strictly anchored to verbatim source content; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed, regardless of related discussions in adjacent sections or abstracts.'
 - deliverable review: In research-only investigations, claims about memory behavior must be strictly anchored to verbatim source content; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed, regardless of related contextual discussions in adjacent sections or abstracts.'
 - manager final: In research-only investigations, claims about agent memory behavior must be strictly grounded in verbatim source content; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed, and no inferences should be drawn beyond the explicit text provided in the source section being reviewed
 - orchestrator: Memory superiority in agent systems cannot be established without verifiable, direct evidence of contextual continuity under unstructured or adversarial input conditions; all claims require explicit, source-cited support prior to being considered valid empirical findings.'
@@ -40,5 +39,6 @@
 - deliverable review: In research-only investigations, absence of verbatim evidence for a specific mechanism necessitates a focused revision to narrow the query to the most constrained and explicitly defined sub-patterns (e.g., temporal sequence) to preserve scientific rigor and avoid unfounded claims.
 - manager final: In research-only investigations, when a mechanism is not explicitly described in source text, immediate, bounded revision must narrow the query to the most specific and verifiable sub-patterns (e.g., temporal or non-sequential input) to preserve scientific rigor and prevent false generalization without empirical grounding
 - orchestrator: When evaluating memory systems, prioritize explicit, verbatim evidence in source text over implied or contextual interpretations to avoid false claims of coherence or persistence.
+- manager setup: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a more specific and structurally constrained input pattern (e.g., syntactic or temporal non-sequentiality) to preserve fidelity to source text and avoid false claims of functionality or coherence, ensuring all
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
