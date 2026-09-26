@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing speculative inferences or assumptions about internal state dynamics or memory encoding mechanisms without
 - researcher: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions beyond the evidence base.'
 - deliverable review: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introduction of speculative or inferred mechanisms.'
 - manager final: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions or inference
@@ -40,5 +39,6 @@
 - orchestrator: Memory coherence under stable conditions cannot be inferred from featureless sequence analysis; direct evidence of temporal smoothing or interpolation is required to establish implicit continuity mechanisms in agent memory systems without predefined structure or vectors.
 - manager setup: When evaluating memory mechanisms in agent systems, prioritize direct, non-feature-based, and explicitly stated evidence of temporal continuity; absence of such requires a shift to bounded, threshold-based validation without inference from structural assumptions or external models.'
 - planner: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable, non-feature-based, and observable indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation without inference
+- plan review: When evaluating memory mechanisms in agent systems, a bounded, source-restricted inquiry must prioritize direct, non-feature-based, and explicitly stated evidence; absence of such requires immediate revision to avoid unfounded inferences or overreach in the absence of verifiable data points in primary sources.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
