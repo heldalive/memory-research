@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When investigating agent memory mechanisms, prioritize bounded, directly observable indicators grounded in explicit source citations; absence of such evidence necessitates reframing the research question to focus on verifiable, traceable, and directly cited phenomena in the source text without speculative extrapolation or inference beyond
 - orchestrator: Memory persistence without vectorization or supervision requires explicit documentation of implicit signal propagation mechanisms, not assumed continuity from prior sections or inference alone.'
 - manager setup: When investigating agent memory mechanisms, restrict the research to a single, directly observable, and explicitly cited indicator in source text to ensure verifiability and avoid reliance on inference or assumed continuity beyond documented evidence.'
 - planner: When investigating agent memory mechanisms, prioritize bounded, directly observable indicators grounded in explicit source citations; absence of such evidence necessitates reframing the research question to focus on verifiable, traceable mechanisms without inference or assumption beyond the text's direct claims.'
@@ -40,5 +39,6 @@
 - researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - deliverable review: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - manager final: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
+- orchestrator: Memory persistence without feature vectors or external validation cannot be empirically validated in current literature; all claims must be grounded in explicitly cited, observable indicators or risk being speculative extrapolations from absent data.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
