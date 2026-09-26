@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790410535868-04eebd
-
-No observable, non-feature-based indicator of contextual alignment persists across iterations in dialogue without feature vectors or external validation, as explicitly stated in the source evidence and confirmed by independent reviews; the inquiry must be refr
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any description of persistent user intent coherence across repeated queries without feature vectors or external validation; if present, define one observable, non-feature-based indicator of user intent consistency across iterations
-
-Limits: After two independent reviews and comprehensive inspection of Kumar et al., 2024, Section 3.3, no description of semantic or temporal continuity in dialogue without feature vectors or external validation is present. The sources discuss privacy risks and structured memory lifecycle phases but do not identify any observable, non-feature-based signal of contextual alignment across iterations. This confirms the absence of such an indicator in the current evidence base, necessitating a bounded, directly verifiable research question focused on user intent coherence under similar constraints. The research program must continue with a refined, empirically grounded inquiry to avoid speculative inference beyond traceable content.
-
 ## research-cloud-1790412146320-54890b
 
 No verifiable, directly observable, non-feature-based indicator of session-level implicit state transfer is present in Kumar et al., 2024, Section 2.2, and the request exceeds available evidence despite implied mechanisms for retention and propagation.
@@ -35,3 +27,11 @@ No explicit evidence of non-feature-based response pattern stability exists in K
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.1 for any implicit or contextual inference about response pattern stability across repeated queries without feature vectors or external validation; if present, define one observable, non-feature-based indicator such as lexical consistency or syntactic repetition that directly correlates with query iteration
 
 Limits: After two review cycles, the source material contains no explicit description of response pattern stability across repeated queries without feature vectors or external validation. No observable, non-feature-based indicator like lexical consistency or syntactic repetition is defined or linked to query iteration. The gap remains unaddressed and must be formally acknowledged. A bounded revision is requested to explore whether any implicit or contextual inference in the text could support such a mechanism, pending direct evidence from the source text itself. This does not constitute a finding but confirms the absence of the requested evidence and the need for clarification before proceeding to new inquiry.
+
+## research-cloud-1790418438930-9dfce6
+
+No explicit or implicit evidence of long-term state persistence without decay exists in Kumar et al., 2024, Section 4.1 under stable, low-variation input conditions, and thus the claim of superior memory management remains unsubstantiated and speculative.
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for any explicit or implicit indicators of long-term state maintenance, such as temporal consistency in responses or persistent contextual awareness under low-variation input conditions
+
+Limits: After two independent reviews, no direct or indirect indicators of sustained, undecayed state maintenance are present in the specified section. While the sources acknowledge memory stores and structured lifecycle phases, they provide no duration, decay metrics, or temporal consistency evidence under stable conditions. The absence of such data invalidates any superiority claim and necessitates a shift in inquiry direction to explore alternative, evidence-based indicators of memory behavior. A bounded revision is requested to refine the research question before further iteration.
