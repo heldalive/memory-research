@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 - orchestrator: Memory superiority claims require empirical grounding in emergent behavior under constrained conditions, not prior-defined structures or perturbation responses.
 - manager setup: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational definition to establish evidence standards without introducing unverified assumptions or external inference chains.'
 - planner: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
@@ -40,5 +39,6 @@
 - orchestrator: Memory claims without empirical grounding in low-variation inputs must be anchored to observable, bounded sequence-level metrics before being considered valid proxies for internal mechanisms or coherence claims.
 - manager setup: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation of temporal coherence without structural assumptions or external inference mechanisms.'
 - planner: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such requires a shift to bounded, threshold-based validation of temporal coherence without inferential or structural assumptions.'
+- plan review: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation of temporal coherence without relying on inference or external assumptions.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
