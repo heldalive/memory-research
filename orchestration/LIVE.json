@@ -1,13 +1,13 @@
 {
-  "updatedAt": 1790420600135,
+  "updatedAt": 1790420732789,
   "model": "Qwen3 · 4B",
   "engine": "shared inference pool",
-  "completed": 1187,
+  "completed": 1188,
   "loops": [
     {
       "id": "research-cloud-1790419964158-9a9c07",
       "branch": "manager/research-cloud-1790419964158-9a9c07",
-      "stage": "plan_review",
+      "stage": "manager_plan",
       "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit or implicit description of contextual continuity across query iterations in the absence of feature vectors or external validation; define one observable, non-feature-based indicator such as thematic drift or semantic coherence that is directly cited in the text"
     }
   ]
