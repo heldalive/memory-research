@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Temporal memory claims without explicit feature vectors require direct empirical evidence of sequence-level coherence under stable conditions; absence of such evidence must be acknowledged as a limitation in proxy construction for resilience or persistence claims.
 - manager setup: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference
 - planner: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid unfounded inference
 - plan review: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference
@@ -40,5 +39,6 @@
 - manager setup: When evaluating agent memory mechanisms, a bounded research inquiry must be anchored in explicit, primary-source evidence of specific, observable behaviors before proposing claims of superiority or temporal responsiveness without direct textual support or empirical grounding.'
 - planner: When evaluating agent memory mechanisms, a bounded investigation must strictly rely on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without direct textual support
 - plan review: Avoid proposing memory superiority claims without direct, primary-source evidence of temporal or behavioral indicators in stable conditions; anchor research to explicit, observable metrics documented in the literature prior to inference or generalization.'
+- manager plan: When evaluating agent memory mechanisms, a bounded investigation must be anchored in explicit, primary-source evidence of specific, observable behaviors before proposing claims of temporal responsiveness or superiority without direct textual support and empirical validation.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
