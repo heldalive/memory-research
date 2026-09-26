@@ -2,13 +2,18 @@
   "id": "research-cloud-1790446434505-6ec1f3",
   "branch": "manager/research-cloud-1790446434505-6ec1f3",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit description of implicit memory updating patterns in response to user feedback loops without external memory prompts or session restarts",
-  "stage": "manager_setup",
+  "stage": "planner",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
     {
       "id": "research-cloud-1790446434505-6ec1f3-1-orchestrator",
       "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790446434505-6ec1f3-2-manager-setup",
+      "role": "manager_setup",
       "status": "completed"
     }
   ],
