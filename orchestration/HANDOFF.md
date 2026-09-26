@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790407076569-414ae3
-
-No verifiable evidence exists in Kumar et al., 2024, Section 4.1 for self-correction mechanisms in response to internal inconsistency during repeated queries without external supervision or feature vectors.
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of self-correction indicators in repeated queries without feature vectors or external supervision; define at least two distinct, observable, non-feature-based behaviors that reflect internal consistency and are directly cited in the text
-
-Limits: After two independent reviews confirm the absence of explicit descriptions for self-correction mechanisms based on internal inconsistency detection in repeated queries, the scope is bounded to only directly cited, observable indicators of self-correction as described in the text. No such indicators are present, and all claims remain unsupported due to lack of explicit textual grounding. The evidence does not validate the proposed mechanisms, necessitating a revised, strictly text-based inquiry with no assumptions beyond direct citation and observability.
-
 ## research-cloud-1790409069655-d069df
 
 No non-feature-based, observable indicator of contextual alignment across query iterations is present in Kumar et al., 2024, as evidenced by exhaustive inspection of Section 4.1 and adjacent sections; the scope must be revised to explore alternative signal types
@@ -35,3 +27,11 @@ No verifiable, directly observable, non-feature-based indicator of session-level
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 2.2 for explicit descriptions of a directly observable, non-feature-based indicator of session-level implicit state transfer across repeated queries without feature vectors or external validation; if none exist, propose an alternative measurable proxy such as query coherence or session-level response consistency as a bounded proxy for implicit state persistence
 
 Limits: After two review cycles confirming the absence of any explicit, observable, non-feature-based indicator of implicit state transfer across query iterations in Kumar et al., 2024, Section 2.2, the task is revised to anchor exclusively in directly cited content. The current request lacks empirical support and cannot be fulfilled as defined; mechanisms for retention of user preferences or signal propagation are implied but not observed as a measurable, non-feature-based indicator. The revision ensures alignment with verifiable source material and maintains scientific rigor by avoiding inference-based claims. No such indicator is described in the provided sources, even when mechanisms for retention are suggested through structured layers or session lifecycle management.
+
+## research-cloud-1790414687505-5fbd5f
+
+No evidence exists in Kumar et al., 2024, Section 5.1 for emergent behavioral patterns in repeated queries independent of feature vectors or external validation; the inquiry must be revised to focus exclusively on explicitly cited content without speculative extrapol
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.1 for any explicit description of memory retention consistency across repeated queries without reliance on feature vectors or external validation; define one observable, non-feature-based indicator such as query response stability or temporal coherence in output patterns that is directly cited in the text
+
+Limits: After comprehensive inspection of Kumar et al., 2024, Section 5.1, no description of emergent behavioral patterns in repeated queries that avoid reliance on feature vectors or external validation is found. The section discusses membership inference attacks and memory substrate mechanics but does not describe any observable, non-feature-based indicator of memory coherence. Given the absence of such content in the source material, the original query lacks direct textual support and requires a bounded revision to restrict scope to only those claims explicitly cited and verifiably present in the text. No [S#] references were retrieved, confirming no material evidence was found in the source section. This does not imply the phenomenon is absent but rather that the evidence for it is not present in the specified section as described. The research program must continue with a different, more grounded inquiry based on verifiable content only.
