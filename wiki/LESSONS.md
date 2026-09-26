@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed, and the next research question must reflect a different, testable hypothesis grounded in available
 - orchestrator: Memory superiority in multi-turn interactions cannot be inferred from absence of explicit prompts; empirical evidence of implicit state evolution is required before claiming emergent behavior exists in the system design space, regardless of theoretical appeal or surface-level plausibility.
 - manager setup: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim, direct evidence from the source text; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation or inference can proceed, and no claims of emergent memory mechanisms may be made without
 - planner: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed and no inferences about memory dynamics may be made without explicit textual support from the source
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a concrete, bounded, and structurally constrained input pattern to enable verifiable source inspection
 - deliverable review: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a concrete, bounded, and structurally constrained input pattern to enable verifiable source inspection
 - manager final: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a concrete, bounded, and structurally constrained input pattern to enable verifiable source inspection
+- orchestrator: When investigating memory mechanisms in AI systems, isolate specific, minimal input sequences to avoid conflating implicit patterns with false positives or data noise in absence of direct, verifiable evidence in source text.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
