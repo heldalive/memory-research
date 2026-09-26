@@ -1,0 +1,7 @@
+# Research manager
+
+Goal: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for a single direct, verbatim citation of a repeated response element or consistent phrasing pattern across multi-turn interactions without external memory prompts or feature vectors
+
+Stage: manager_setup. Plan reviews 0/2; evidence reviews 0/2.
+
+- research-cloud-1790438462499-c0508d-1-orchestrator: orchestrator — completed
