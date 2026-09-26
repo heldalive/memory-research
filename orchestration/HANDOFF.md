@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790436576549-a802f4
-
-No direct, verbatim citation of a repeated response element or consistent phrasing pattern in multi-turn interactions without external memory prompts exists in Kumar et al., 2024, Section 3.3 as currently requested, necessitating a bounded revision to ensure feasibility
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for a single direct, verbatim citation of a repeated response element or consistent phrasing pattern across multi-turn interactions without external memory prompts or feature vectors
-
-Limits: After two independent reviews confirm the absence of any direct, verbatim citation for a repeated response element or consistent phrasing pattern under the specified conditions, the query is unfeasible as posed. The evidence set is empty, and no such patterns are present in the available excerpts. A bounded revision is required to demand only one explicit, verbatim quote from the source to maintain research integrity and prevent hallucination or overreach. The current query lacks actionable textual support and must be redefined to a minimal, evidence-bound retrieval task without inference or assumption.
-
 ## research-cloud-1790438462499-c0508d
 
 No verbatim citation of a repeated response pattern was found in Kumar et al., 2024, Section 3.3 under multi-turn interactions without external memory prompts, confirming the absence of evidence for persistent behavioral phrasing as defined by the objective.
@@ -35,3 +27,11 @@ No explicit evidence of latent state propagation or implicit session continuity 
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.2 for any verbatim mention of latent state propagation or implicit session continuity without external memory prompts or session restarts; if none found, propose a new research question on how session-level memory is maintained under adversarial conditions without explicit prompts
 
 Limits: After two independent reviews confirm the absence of any verbatim description of latent state propagation or implicit session continuity in Kumar et al., 2024, Section 4.2, the research claim lacks textual grounding. The reviewed content discusses memory privacy and lifecycle management but does not support persistent internal state across sessions under invariant conditions. A bounded revision is required to restrict the scope to only verbatim mentions and avoid inference beyond the text's explicit content. The investigation remains unresolved due to insufficient evidence in the source material without a direct citation for continuity claims.
+
+## research-cloud-1790443514862-0558e0
+
+The investigation into memory retention mechanisms in Kumar et al., 2024, Section 4.1 remains unresolved due to absence of verbatim source evidence for reported duration of state persistence without detectable decay under stable input conditions.
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for any explicit description of memory retention mechanisms and reported duration of state persistence without detectable decay under stable, low-variation input conditions
+
+Limits: No verbatim evidence exists in the provided sources to support claims about memory retention mechanisms or the duration of state persistence without decay under low-variation input. Despite relevant architectural descriptions and attack analyses, the specific query regarding persistence duration and decay resistance lacks explicit documentation in Section 4.1. A bounded revision is required to retrieve and inspect the section directly before any evaluation can proceed. The current evidence set is insufficient to validate or refute the claim of no detectable decay in memory state under stable conditions.
