@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid unfounded inference
 - deliverable review: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference
 - manager final: When investigating agent memory mechanisms, a bounded revision must be requested to refine the scope to only those elements explicitly described in primary sources, preserving fidelity and avoiding speculative or inferred patterns without empirical support from the text itself
 - researcher: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid unfounded inference
@@ -40,5 +39,6 @@
 - plan review: Avoid proposing claims of temporal responsiveness in agent memory without direct, primary-source evidence of observable, non-feature-based indicators in stable conditions; anchor all research to explicitly documented metrics in the source material prior to inference or comparison.
 - manager plan: When evaluating agent memory mechanisms, a bounded investigation must be anchored in explicit, primary-source evidence of specific, observable behaviors before proposing claims of temporal responsiveness or superiority without direct textual support and empirical grounding in stable conditions without feature dependencies.
 - researcher: When evaluating agent memory mechanisms, a bounded investigation must strictly rely on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without direct textual support
+- deliverable review: Avoid inferring temporal responsiveness in agent memory without direct primary-source evidence of observable, non-feature-based indicators under stable input conditions; anchor claims to explicitly documented metrics in the source material without contextual extrapolation or assumption of applicability to untested scenarios.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
