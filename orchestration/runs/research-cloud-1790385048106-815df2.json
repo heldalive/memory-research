@@ -2,7 +2,7 @@
   "id": "research-cloud-1790385048106-815df2",
   "branch": "manager/research-cloud-1790385048106-815df2",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory coherence mechanisms under subtle temporal or sequential perturbations without predefined feature vectors; if any exist, define the minimal set of observable sequence disruptions that trigger detectable state recovery as a proxy for contextual resilience claims",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
@@ -40,6 +40,11 @@
       "id": "research-cloud-1790385048106-815df2-6-researcher-rejected-1",
       "role": "researcher",
       "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790385048106-815df2-6-researcher",
+      "role": "researcher",
+      "status": "completed"
     }
   ],
   "mode": "research-only"
