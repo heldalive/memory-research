@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-- [research-cloud-1790426982380-02be9d](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790426982380-02be9d): **orchestrator**. Discover how to manage an agent's memory better than a pile of skills and Markdown files. Test superiority as a question, not a premise. Research-only phase: read, compare and document evidence; do not implement systems or execute code.
+- [research-cloud-1790426982380-02be9d](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790426982380-02be9d): **manager setup**. handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.2 for any explicit or implicit description of memory decay or persistence under stable input conditions without external validation or feature vectors; define one observable, non-feature-based indicator such as temporal stability or state inertia that is directly cited in the text
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 

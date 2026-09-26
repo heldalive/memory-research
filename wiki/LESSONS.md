@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - deliverable review: All claims about agent memory mechanisms without feature vectors must be strictly grounded in explicit, directly cited source content; absence of such evidence necessitates revision to preserve scientific integrity and avoid speculative interpretations
 - manager final: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly bounded to directly observed, explicitly cited behaviors in the source text to avoid speculative or inferential conclusions and maintain scientific rigor
 - deliverable review: In research-only investigations, claims about metacognitive awareness must be strictly grounded in directly cited, observable behaviors within the source text to avoid speculative or inferential conclusions and maintain scientific rigor
 - manager final: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
+- orchestrator: Avoid reassigning identical research questions; narrow focus to underexplored, distinct memory dimensions such as time-bound persistence without decay in absence of external cues or feature vectors, where evidence is currently absent but potentially emergent in low-variation settings.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
