@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, especially when temporal responsiveness is the claimed advantage without observable, isolated evidence of
 - orchestrator: Memory superiority claims require explicit, non-inferred mechanisms; speculative or indirect evidence is insufficient for research validation and handoff continuity.
 - manager setup: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, and all claims must be anchored to direct, observable evidence in the source text without inference or external
 - planner: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, and all evidence must be directly observable and conditionally verifiable without external assumptions or
@@ -40,5 +39,6 @@
 - orchestrator: Memory superiority without feature extraction requires verifiable, non-vector-based indicators of persistence under stable conditions; such indicators must be independently observable and repeatable without downstream task dependency.
 - manager setup: When evaluating claims about non-feature-based memory encoding, all assertions must be directly supported by explicit content in the specified source section; without such evidence, the investigation must remain bounded and deferred to verifiable, text-based observations only.'
 - planner: When investigating non-feature-based memory mechanisms, all claims must be directly supported by explicit, verifiable content in the source; without such evidence, the investigation must be revised to reflect the absence of the proposed mechanisms and avoid speculative or assumed continuities without grounding in primary text claims.'
+- plan review: When investigating non-feature-based memory mechanisms, a plan must be revised if no explicit, verifiable content in the source supports the claimed mechanisms; absence of evidence is not equivalent to absence of possibility but constitutes a factual boundary for research scope and feasibility in research-only phase.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
