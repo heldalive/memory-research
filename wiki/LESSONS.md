@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data invalidates assertions and necessitates a shift to observational or empirical validation without extrapolation or inference from unverified patterns or assumptions
 - researcher: All claims about time-bound memory encoding in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data in current sources necessitates further investigation with direct textual evidence
 - deliverable review: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data invalidates assertions and necessitates a shift to observation-based validation if claims are to be substantiated beyond textual reporting.'
 - manager final: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data necessitates a bounded revision to clarify scope before proceeding to observational validation or alternative evidence sources.
@@ -40,5 +39,6 @@
 - planner: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 - plan review: Memory superiority claims must be grounded in explicit, verifiable mechanisms within a single source; absence of such data necessitates a revised, narrowly bounded investigation focused on detectable, conditionally defined features rather than assumptions
 - manager plan: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
+- planner: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
