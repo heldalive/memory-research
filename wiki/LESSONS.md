@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: A research inquiry into agent memory mechanisms must be anchored in explicit, primary-source evidence before proposing claims of sustained state continuity or superiority without empirical validation or direct textual support.'
 - manager final: When evaluating agent memory mechanisms, a bounded investigation must anchor in explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or direct textual support, and must revise its query when evidence is absent or ambiguous, preserving scientific rigor
 - researcher: When evaluating agent memory mechanisms, a bounded investigation must rely exclusively on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or direct textual support.'
 - deliverable review: A research inquiry into agent memory mechanisms must be anchored in explicit, primary-source evidence before proposing claims of sustained state continuity or superiority without empirical validation or direct textual support.'
@@ -40,5 +39,6 @@
 - manager plan: When evaluating agent memory mechanisms, all claims of superiority or coherence must be grounded in direct, accessible source content before any analysis or inference can be validly conducted, and unverified assertions must be deferred until empirical evidence is available.'
 - researcher: When evaluating agent memory mechanisms, a bounded investigation must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence, ensuring no inference beyond accessible and explicit textual evidence is made.
 - deliverable review: Claims about agent memory mechanisms must be grounded in direct, verifiable source content; without explicit evidence of non-feature-based temporal integration or observable coherence indicators, assertions of superiority or contextual persistence remain unvalidated and must be deferred until verifiable data is available.'
+- manager final: When investigating agent memory mechanisms, all claims about temporal coherence or non-feature-based integration must be anchored in direct, verifiable source content; without such evidence, the investigation must shift to a bounded, testable proxy question grounded in observable and repeatable indicators rather than theoretical superiority
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
