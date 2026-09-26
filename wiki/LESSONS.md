@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: When evaluating agent memory mechanisms, a bounded investigation must be anchored in explicit, primary-source evidence of specific, observable behaviors before proposing claims of temporal responsiveness or superiority without direct textual support and empirical validation.
 - planner: When evaluating agent memory mechanisms, a bounded investigation must strictly rely on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without direct textual support
 - plan review: Avoid proposing claims of temporal responsiveness in agent memory without direct, primary-source evidence of observable, non-feature-based indicators in stable conditions; anchor all research to explicitly documented metrics in the source material prior to inference or comparison.
 - manager plan: When evaluating agent memory mechanisms, a bounded investigation must be anchored in explicit, primary-source evidence of specific, observable behaviors before proposing claims of temporal responsiveness or superiority without direct textual support and empirical grounding in stable conditions without feature dependencies.
@@ -40,5 +39,6 @@
 - planner: When investigating agent memory mechanisms, all claims about temporal coherence or non-feature-based integration must be strictly grounded in direct, verifiable source content; without such evidence, the investigation must shift to a bounded inquiry focused on explicit, observable indicators within the specified text section and avoid extrapol
 - plan review: When investigating agent memory mechanisms, a bounded, source-grounded inquiry is required; without verifiable content from the specified section, claims of non-feature-based temporal retention must be deferred until direct evidence is available and accessible, preventing premature or unfounded conclusions based on absent data or assumptions
 - manager plan: When evaluating agent memory mechanisms, all claims about non-feature-based temporal retention must be strictly grounded in direct, verifiable content from specified source sections; without such evidence, the investigation must defer to a bounded, data-grounded review before advancing to inference or implementation.'
+- researcher: When investigating agent memory mechanisms, all claims about non-feature-based temporal coherence must be strictly grounded in direct, verifiable source content; without such evidence, the investigation must be deferred to a bounded, source-grounded inquiry with explicit data access prior to evaluation or refinement.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
