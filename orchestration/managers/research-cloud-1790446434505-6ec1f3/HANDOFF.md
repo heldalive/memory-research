@@ -2,7 +2,7 @@
 
 analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit description of implicit memory updating patterns in response to user feedback loops without external memory prompts or session restarts
 
-Next role: researcher.
+Next role: deliverable_review.
 
 analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit description of implicit memory updating patterns in response to user feedback loops without external memory prompts or session restarts
 
