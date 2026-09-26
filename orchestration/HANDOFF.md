@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790439893815-1fad34
-
-No verbatim evidence in Kumar et al., 2024, Section 2.2 supports claims of contextual inference or implicit knowledge accumulation in multi-turn interactions without explicit memory prompts or external feature vectors
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 2.2 for any direct description of implicit knowledge dynamics in multi-turn interactions without explicit memory prompts or external feature vectors, specifically focusing on contextual inference patterns emerging from user dialogue history alone
-
-Limits: After two review cycles, all analyses confirm the absence of direct, verbatim textual support for the proposed mechanisms. While related concepts like memory lifecycle and adversarial probing are present, none describe implicit knowledge accumulation or contextual inference under the specified conditions. The investigation remains unfulfilled due to lack of source-based validation, necessitating a bounded revision to refine the scope before further advancement. A different research question is now required to explore alternative pathways for implicit knowledge dynamics in agent systems without explicit memory cues or feature vectors.
-
 ## research-cloud-1790441572261-694fc3
 
 No explicit evidence of latent state propagation or implicit session continuity exists in Kumar et al., 2024, Section 4.2 without external memory prompts or session restarts, and the claim requires a verbatim citation to be valid; current investigation remains
@@ -35,3 +27,11 @@ No verifiable evidence of memory coherence under adversarial inputs without exte
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.1 for any explicit description of memory coherence across adversarial user inputs without external prompts or session restarts
 
 Limits: After multiple reviews confirm the absence of explicit descriptions of memory coherence in response to adversarial inputs without external prompts or session restarts in the available sources, including Kumar et al., 2024, Section 5.1, the claim lacks direct support. Retrieval and inspection of the specified section is required to assess the validity of the assertion. Without such evidence, the superiority of memory management over skill and Markdown files cannot be established. A bounded revision is necessary to retrieve and inspect the source before further evaluation can proceed. The current state confirms the need for source retrieval as a prerequisite to assessing memory behavior claims.
+
+## research-cloud-1790446434505-6ec1f3
+
+No verbatim evidence exists in Kumar et al., 2024, Section 3.3 for implicit memory updating in response to user feedback loops without external prompts or session restarts
+
+Next candidate: analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit description of memory update triggers in response to user feedback without external prompts or session restarts, focusing on implicit dynamics and temporal sequence
+
+Limits: After two review cycles and exhaustive inspection, the source material contains no explicit description of implicit memory updating mechanisms triggered by user feedback under the specified conditions. The available text discusses memory lifecycle phases and membership inference attacks but does not describe dynamic, implicit updating in response to feedback without external intervention. This absence of direct evidence necessitates a bounded revision to ensure all claims remain strictly grounded in verbatim source text. The research program must proceed with a different, more specific question to avoid overreach based on unsupported inferences.

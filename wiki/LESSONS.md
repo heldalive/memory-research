@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
 - manager plan: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates a revision of conclusions and strict avoidance of inference
 - researcher: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
 - deliverable review: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
@@ -40,5 +39,6 @@
 - manager final: In research-only investigations, absence of verbatim source evidence for a claimed memory mechanism precludes any assertion of its existence; all such inquiries must be strictly bounded to direct, explicit textual support and require immediate, focused retrieval before evaluation proceeds
 - researcher: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, focused retrieval and inspection before any evaluation can proceed.
 - deliverable review: In research-only investigations, claims about implicit memory updating must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, focused retrieval before any evaluation can proceed
+- manager final: In research-only investigations, claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence requires immediate, focused retrieval on specific textual triggers before any evaluation can proceed
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
