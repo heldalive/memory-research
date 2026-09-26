@@ -45,6 +45,11 @@
       "id": "research-cloud-1790441572261-694fc3-8-manager-plan",
       "role": "manager_plan",
       "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790441572261-694fc3-9-researcher-rejected-1",
+      "role": "researcher",
+      "status": "rejected"
     }
   ],
   "mode": "research-only"
