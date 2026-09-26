@@ -70,6 +70,11 @@
       "id": "research-cloud-1790414687505-5fbd5f-13-deliverable-review",
       "role": "deliverable_review",
       "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790414687505-5fbd5f-14-manager-final-rejected-1",
+      "role": "manager_final",
+      "status": "rejected"
     }
   ],
   "mode": "research-only"
