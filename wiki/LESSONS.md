@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material exclusively without inference or assumption beyond what is explicitly stated or cited
 - planner: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material alone.
 - plan review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility and empirical grounding without inference
 - manager plan: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the available data
@@ -40,5 +39,6 @@
 - manager final: In research-only investigations, when no direct evidence exists, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
 - orchestrator: Direct textual citation is required for evidence of persistent behavior; interpretive or inferential claims must be bounded by explicit, verbatim support in source material to prevent false attribution and maintain research integrity in memory research contexts with limited empirical grounding.
 - manager setup: In research-only investigations, require a single, explicit, verbatim citation from source text to validate claims of persistent behavior; avoid interpretive or inferential assertions without direct textual support to maintain accuracy and prevent hallucination.'
+- planner: In research-only investigations, require a single, explicit, verbatim citation from source text to validate claims of persistent behavior; avoid interpretive or inferential assertions without direct textual support to maintain accuracy
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
