@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When investigating agent memory mechanisms, all claims about non-feature-based temporal retention must be strictly grounded in direct, verifiable content from specified source sections; without such evidence, the investigation must be bounded and deferred to a precise, retrievable segment of the source prior to further analysis or inference
 - orchestrator: Memory superiority without feature extraction requires verifiable, non-vector-based indicators of persistence under stable conditions; such indicators must be independently observable and repeatable without downstream task dependency.
 - manager setup: When evaluating claims about non-feature-based memory encoding, all assertions must be directly supported by explicit content in the specified source section; without such evidence, the investigation must remain bounded and deferred to verifiable, text-based observations only.'
 - planner: When investigating non-feature-based memory mechanisms, all claims must be directly supported by explicit, verifiable content in the source; without such evidence, the investigation must be revised to reflect the absence of the proposed mechanisms and avoid speculative or assumed continuities without grounding in primary text claims.'
@@ -40,5 +39,6 @@
 - researcher: When evaluating claims about agent memory mechanisms, always anchor assertions to explicit, directly cited text; absence of such content requires immediate scope reduction to only verifiable, observable indicators with traceable textual evidence in the source material.'
 - deliverable review: When evaluating claims about agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope reduction to directly cited and observable indicators with traceable textual evidence and clear persistence across query iterations, avoiding assumptions based on architectural
 - manager final: When evaluating claims about agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope reduction to directly cited, observable, and traceable indicators with clear textual grounding
+- orchestrator: Memory mechanisms without feature vectors must be probed through dialogue-level continuity signals rather than abstract or vector-based proxies when empirical evidence is absent in primary sources.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
