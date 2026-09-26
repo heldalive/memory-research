@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: When investigating claims about non-feature-based memory mechanisms, a plan must be revised if no explicit, verifiable content in the source supports the claimed mechanisms; absence of evidence necessitates a bounded, source-anchored investigation without extrapolation or assumption.'
 - manager plan: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a bounded plan revision rather than assumption or extrapolation.'
 - researcher: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content in a specific context does not imply nonexistence of research, and must be distinguished from a lack of evidence in the current sources, especially when alternative
 - deliverable review: When evaluating claims about memory mechanisms, assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a bounded revision to avoid overreach and unsupported generalizations.'
@@ -40,5 +39,6 @@
 - manager plan: When evaluating agent memory mechanisms, always anchor to explicit, cited, and observable content in source text; absence of such content necessitates immediate scope reduction to directly verifiable, traceable indicators with empirical grounding in the source material.'
 - researcher: When evaluating agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope reduction to directly cited, observable, and traceable indicators with empirical grounding in the text provided.
 - deliverable review: When evaluating agent memory mechanisms, prioritize direct, cited, and observable signals in source text over abstract or inferred constructs; absence of explicit evidence necessitates narrowing to directly verifiable, traceable indicators
+- manager final: When investigating agent memory mechanisms, prioritize bounded, directly observable indicators grounded in explicit source citations; absence of such evidence necessitates reframing the research question to focus on verifiable, traceable phenomena in dialogue dynamics without speculative or abstract constructs.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
