@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: All claims about agent memory dynamics must be grounded in explicitly accessible and verifiable source content under defined conditions; absence of such data necessitates revision before proceeding to evaluation or inference.'
 - manager plan: All claims about agent memory dynamics must be grounded in explicitly accessible, verifiable source content under defined conditions; absence of such data necessitates a bounded revision to clarify scope and evidence before any evaluation can occur.'
 - researcher: All claims about agent memory dynamics must be grounded in explicitly accessible and verifiable source content under defined conditions; absence of such data necessitates a bounded revision to clarify scope and evidence before proceeding to evaluation or inference.'
 - deliverable review: All claims about agent memory persistence must be grounded in explicit, verifiable source descriptions of retention mechanisms under defined conditions; absence of such data requires revision before evaluation can proceed.'
@@ -40,5 +39,6 @@
 - manager setup: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational definition to establish evidence standards without introducing unverified assumptions or external inference chains.'
 - planner: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 - plan review: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions or implementation artifacts.'
+- manager plan: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions beyond the source material's content or scope.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
