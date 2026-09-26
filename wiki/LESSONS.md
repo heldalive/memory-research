@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - plan review: Claims about agent memory mechanisms without feature vectors must be strictly grounded in explicit, directly cited source content; absence of such evidence necessitates revision to preserve scientific integrity and avoid unsupported assertions.'
 - manager plan: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
@@ -40,5 +39,6 @@
 - plan review: In research-only investigations, claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor without external assumptions or system-level inferences.
 - manager plan: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor without external assumptions or system-level inferences.
 - researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly bounded to directly observed, explicitly cited behaviors in the source text to avoid speculative or inferential conclusions and maintain scientific rigor without external assumptions or extrapolation.'
+- deliverable review: In research-only investigations, claims about metacognitive awareness must be strictly grounded in directly cited, observable behaviors within the source text to avoid speculative or inferential conclusions and maintain scientific rigor without external dependencies or assumptions of internal reflection or self-monitoring capability that are
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
