@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory persistence without vectorization or supervision requires explicit documentation of implicit signal propagation mechanisms, not assumed continuity from prior sections or inference alone.'
 - manager setup: When investigating agent memory mechanisms, restrict the research to a single, directly observable, and explicitly cited indicator in source text to ensure verifiability and avoid reliance on inference or assumed continuity beyond documented evidence.'
 - planner: When investigating agent memory mechanisms, prioritize bounded, directly observable indicators grounded in explicit source citations; absence of such evidence necessitates reframing the research question to focus on verifiable, traceable mechanisms without inference or assumption beyond the text's direct claims.'
 - plan review: When investigating agent memory mechanisms, a research question must be anchored in verifiable source content; absence of explicit, directly cited evidence necessitates immediate revision to avoid speculative or unfounded claims based on empty inference or missing data extraction attempts.'
@@ -40,5 +39,6 @@
 - deliverable review: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - manager final: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - orchestrator: Memory persistence without feature vectors or external validation cannot be empirically validated in current literature; all claims must be grounded in explicitly cited, observable indicators or risk being speculative extrapolations from absent data.
+- manager setup: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
