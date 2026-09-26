@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: In research-only investigations, claims about metacognitive awareness must be strictly grounded in directly cited, observable behaviors within the source text to avoid speculative or inferential conclusions and maintain scientific rigor
 - manager final: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - orchestrator: Avoid reassigning identical research questions; narrow focus to underexplored, distinct memory dimensions such as time-bound persistence without decay in absence of external cues or feature vectors, where evidence is currently absent but potentially emergent in low-variation settings.
 - manager setup: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, when no textual evidence supports a claimed capability, shift to a bounded, alternative question requiring only direct citation from a specific source to ensure feasibility and evidence-based rigor without speculative generalization about intrinsic mechanisms.'
 - deliverable review: In research-only investigations, when no textual evidence supports a claimed capability, revise the research question to require only direct citation from a specific source to ensure feasibility and evidence-based rigor without speculative generalization about intrinsic mechanisms beyond the text's scope and data boundaries.'
 - manager final: In research-only investigations, when no textual evidence supports a claimed capability, shift to a bounded, alternative question requiring only direct citation from a specific source to ensure feasibility, evidence-based rigor, and avoid speculative generalization beyond the text's content.'
+- orchestrator: Memory superiority claims require direct, empirical citation in source text; avoid inference or assumption without explicit textual support for non-feature-based indicators under invariant conditions.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
