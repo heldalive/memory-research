@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: In research-only investigations, when no empirical evidence supports a claimed capability, revise the question to require only direct, explicit, and unambiguous textual citation from a specific source to ensure feasibility and evidentiary grounding without overreach or inference.'
 - manager plan: In research-only investigations, when no empirical evidence supports a claimed capability, revise the question to require only direct, explicit, and unambiguous textual citation from a specific source to ensure feasibility and alignment with available data limits.
 - planner: In research-only investigations, when no empirical evidence supports a claimed capability, revise the research question to require only a single, direct, and explicit textual citation from the source to ensure feasibility and alignment with available data
 - plan review: In research-only investigations, when no direct evidence exists in a source, revise the question to require only a single, explicit textual citation to ensure feasibility and alignment with available data
@@ -40,5 +39,6 @@
 - manager setup: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised immediately upon completion of review and absence of such evidence in the source material, regardless of
 - planner: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - plan review: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
+- manager plan: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised prior to advancement, regardless of perceived plausibility or indirect patterns found in related sections
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
