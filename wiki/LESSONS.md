@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: In research-only investigations, require only a single, explicit, and unambiguous textual citation to ensure feasibility, data alignment, and avoidance of hallucinated or inferential outcomes.'
 - plan review: In research-only investigations, when no direct evidence is available in the source, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
 - manager plan: In research-only investigations, when no direct evidence exists, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
 - researcher: In research-only investigations, require only a single, explicit, and unambiguous textual citation to ensure feasibility, data alignment, and avoidance of hallucinated or inferential outcomes.'
@@ -40,5 +39,6 @@
 - plan review: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
 - manager plan: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates a revision of conclusions and strict avoidance of inference
 - researcher: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
+- deliverable review: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
