@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: A research inquiry into agent memory mechanisms must be anchored in explicit, primary-source evidence before proposing claims of superiority or sustained state continuity without empirical validation.'
 - manager plan: manager plan: When evaluating agent memory mechanisms, a bounded investigation must anchor in explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or observable proxies, and must cease when no such evidence exists in the source text.'
 - researcher: When evaluating agent memory mechanisms, a bounded investigation must rely exclusively on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or observable proxies.'
 - deliverable review: A research inquiry into agent memory mechanisms must be anchored in explicit, primary-source evidence before proposing claims of sustained state continuity or superiority without empirical validation or direct textual support.'
@@ -40,5 +39,6 @@
 - manager plan: When evaluating agent memory mechanisms, a bounded revision must ensure all claims are anchored in direct, accessible source content before proceeding to analysis or inference of contextual coherence or superiority without empirical grounding.
 - planner: When evaluating agent memory mechanisms, a bounded investigation must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence, ensuring no inference exceeds stated evidence.
 - plan review: A request for evidence of non-feature-based memory mechanisms must be grounded in direct, accessible source content before any analysis or claim of superiority can be evaluated; without verifiable source access, the investigation remains unexecutable and must be revised to include retrieval as a prerequisite step.'
+- manager plan: When evaluating agent memory mechanisms, all claims of superiority or coherence must be grounded in direct, accessible source content before any analysis or inference can be validly conducted, and unverified assertions must be deferred until empirical evidence is available.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
