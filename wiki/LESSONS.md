@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: A bounded inquiry into agent memory mechanisms must restrict analysis to direct, explicit textual evidence from primary sources to avoid unfounded inferences and ensure source fidelity in research-phase evaluations.'
 - manager final: When investigating agent memory mechanisms, a bounded inquiry must first establish explicit, primary-source evidence of the phenomenon before extending conclusions or proposing alternative interpretations to preserve research integrity
 - orchestrator: Temporal memory claims without empirical, non-feature-based evidence must be grounded in explicit, directly observed persistence metrics under controlled conditions prior to being considered valid research candidates.'
 - manager setup: When evaluating agent memory mechanisms, a bounded research scope must anchor in explicit, primary-source evidence of the phenomenon to prevent overreach and maintain analytical rigor in the absence of empirical validation.'
@@ -40,5 +39,6 @@
 - manager final: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal proxy indicators before advancing to claims of internal validation or coherence maintenance under specific conditions, ensuring empirical rigor and avoiding speculative inference from indirect or inferred
 - researcher: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal proxy indicators before advancing to claims of internal validation or coherence maintenance.'
 - deliverable review: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal proxy indicators before advancing to claims of internal validation or coherence maintenance
+- manager final: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal, observable proxy indicators before advancing to claims of internal validation or coherence maintenance, especially in the absence of explicit reporting on such mechanisms or metrics in the primary
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
