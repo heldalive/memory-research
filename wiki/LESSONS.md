@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: When evaluating agent memory mechanisms, always anchor to explicit, cited, and observable content in source text; absence of such content necessitates immediate scope reduction to directly verifiable, traceable indicators with empirical grounding in the source material.'
 - researcher: When evaluating agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope reduction to directly cited, observable, and traceable indicators with empirical grounding in the text provided.
 - deliverable review: When evaluating agent memory mechanisms, prioritize direct, cited, and observable signals in source text over abstract or inferred constructs; absence of explicit evidence necessitates narrowing to directly verifiable, traceable indicators
 - manager final: When investigating agent memory mechanisms, prioritize bounded, directly observable indicators grounded in explicit source citations; absence of such evidence necessitates reframing the research question to focus on verifiable, traceable phenomena in dialogue dynamics without speculative or abstract constructs.
@@ -40,5 +39,6 @@
 - planner: When investigating agent memory mechanisms, all claims must be strictly anchored in explicit, directly cited source content; absence of such evidence necessitates immediate revision to avoid speculative or inferred conclusions and maintain scientific rigor.
 - plan review: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - manager plan: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
+- researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
