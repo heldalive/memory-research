@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: When evaluating agent memory mechanisms, a bounded revision must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence without feature-based validation or implementation artifacts.'
 - planner: When evaluating agent memory mechanisms, a bounded investigation must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence
 - plan review: A request for evidence of non-feature-based memory mechanisms must be anchored in accessible, verifiable source content before proceeding to analysis; without direct access to the source, claims of superiority or coherence remain untestable and ungrounded in empirical data.'
 - manager plan: When evaluating agent memory mechanisms, a bounded revision must ensure all claims are anchored in direct, accessible source content before proceeding to analysis or inference of contextual coherence or superiority without empirical grounding.
@@ -40,5 +39,6 @@
 - manager final: When evaluating non-feature-based memory mechanisms, all claims must be strictly bounded to explicit, verifiable descriptions in the source; absence of defined indicators necessitates a revision to only include what is directly and explicitly stated, without inference or generalization beyond the text's content and scope.
 - orchestrator: Memory coherence without feature vectors remains unobserved; future research must prioritize behavioral or temporal consistency as proxy indicators over vector-based claims.'
 - manager setup: When evaluating claims about non-feature-based memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires a revision to only include directly observable and cited indicators, preventing speculative or inferred conclusions.'
+- planner: When evaluating non-feature-based memory mechanisms, all claims must be strictly bounded to explicit, verifiable descriptions in the source; absence of such content necessitates a revision to only include directly observable and textually supported indicators without inference or assumption beyond the provided material.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
