@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory superiority in agent systems cannot be established without verifiable, direct evidence of contextual continuity under unstructured or adversarial input conditions; all claims require explicit, source-cited support prior to being considered valid empirical findings.'
 - manager setup: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; any assertion of superiority without explicit, direct support must be deferred until definitive textual confirmation is obtained and documented prior to further evaluation or inference.
 - planner: In research-only investigations, all claims about agent memory behavior must be strictly grounded in verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed without unsupported assertions or extrapolation.
 - plan review: In research-only investigations, claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed without risking unsupported assertions or overreach in the absence of direct textual support, regardless of prior
@@ -40,5 +39,6 @@
 - manager setup: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a more specific and structurally constrained input pattern (e.g., syntactic or temporal non-sequentiality) to preserve fidelity to source text and avoid false claims of functionality or coherence, ensuring all
 - planner: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a more specific and structurally constrained input pattern (e.g., syntactic or temporal non-sequential) to ensure verifiability and alignment with source text boundaries.
 - plan review: In research-only investigations, when no source material is available to verify a claimed mechanism, immediately revise the query to a more concrete and retrievable input pattern before proceeding to analysis or inference.'
+- manager plan: In research-only investigations, when no explicit verbatim evidence exists and source material is unavailable, immediately revise the query to a more concrete, retrievable, and structurally constrained input pattern to enable verifiable analysis and prevent speculative inference.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
