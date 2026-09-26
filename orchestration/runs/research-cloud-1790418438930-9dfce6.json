@@ -2,7 +2,7 @@
   "id": "research-cloud-1790418438930-9dfce6",
   "branch": "manager/research-cloud-1790418438930-9dfce6",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for any explicit description of memory retention mechanisms and any reported duration of state persistence without detectable decay under stable, low-variation input conditions",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "planReviews": 1,
   "deliverableReviews": 1,
   "instances": [
@@ -44,6 +44,11 @@
     {
       "id": "research-cloud-1790418438930-9dfce6-8-manager-final",
       "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790418438930-9dfce6-9-researcher",
+      "role": "researcher",
       "status": "completed"
     }
   ],
