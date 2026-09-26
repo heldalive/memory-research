@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1790401337552-81db64-9-researcher",
+  "role": "researcher",
+  "status": "completed",
+  "at": 1790402511632,
+  "answer": {
+    "summary": "No evidence is provided of memory binding mechanisms integrating temporal context without feature extraction in Kumar et al., 2024, Section 4.1.",
+    "content": "The available excerpts do not contain explicit descriptions of memory binding mechanisms that integrate temporal context without feature extraction. The provided sources [S1] and [S2] discuss privacy risks in agent memory and a database-native memory substrate for long-horizon agents, respectively, but neither details non-feature-based temporal context integration or observable indicators of contextual coherence across repeated queries. Thus, the requested evidence for such mechanisms and proxy indicators remains absent from the retrieved content. The investigation into Kumar et al., 2024, Section 4.1 is currently unaddressed due to lack of accessible source material with relevant content. No inference beyond stated excerpts is possible without direct access to the specified section. The request for observable, non-feature-based indicators of contextual coherence cannot be fulfilled based on current evidence. A search is required to retrieve and inspect the target section prior to any further analysis. This confirms the necessity of direct source access to evaluate claims about memory mechanisms and contextual coherence. The current investigation lacks verifiable content and cannot proceed without it. As such, the request for a minimal set of observable, non-feature-based indicators remains unmet and unverifiable in the provided data. The evidence does not support any claim of superiority in memory management through such mechanisms. The investigation must be deferred until the source section is accessible and inspected directly. No proxy indicators for contextual coherence can be defined from the current data. The research remains unexecutable in its current form without access to Kumar et al., 2024, Section 4.1. This highlights",
+    "decision": "advance",
+    "search": "https://arxiv.org/abs/2605.27825v1",
+    "sources": "S1,S2",
+    "nextTask": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory binding mechanisms and any reported integration of temporal context without feature extraction; if present, define the minimal set of observable, non-feature-based indicators that could proxy for contextual coherence across repeated queries",
+    "lesson": "When evaluating agent memory mechanisms, a bounded investigation must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence, ensuring no inference beyond accessible and explicit textual evidence is made."
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 508,
+  "inputTokens": 1854,
+  "durationMs": 19501,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2605.27825v1",
+      "title": "MRMMIA: Membership Inference Attacks on Memory in Chat Agents",
+      "excerpt": "Abstract: Membership inference attacks (MIAs) test whether a target data record belongs to a system's private data, and have become a standard tool to measure privacy leakage in machine learning systems. Prior work has primarily focused on training corpora or retrieval databases. However, MIAs against agent memory have received less attention, even though such memory can contain sensitive user-agent interactions, retrieved facts, and user preferences. Therefore, in this work, we focus on chat agent memory MIAs, where an adversary infers whether a candidate memory unit belongs to the chat agent's memory store. We propose Multi-Recall Memory MIA (MRMMIA), a unified attack that utilizes multiple recall probes to the agent to extract the membership signal across black-box, gray-box, and white-box settings. Our experiments demonstrate that MRMMIA consistently outperforms baselines. Our results expose the privacy risk in agents and provide an initial evaluation framework for membership leakage in chat-agent memory systems.",
+      "checkedAt": 1790402372114,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "ddb5034b19d1475bc9be615b95cd92659bddfd0bab1273e92ac6f753d6440c6f",
+      "discovery": {
+        "query": "https://doi.org/10.1145/3621983.3621998#section4.1",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    },
+    {
+      "id": "S2",
+      "url": "https://arxiv.org/abs/2607.13157v1",
+      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+      "excerpt": "Abstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery of user-specific facts and preferences across sessions, and accumulation of procedural knowledge from prior outcomes. These requirements extend beyond document retrieval: a memory layer must determine which interactions become durable state, how that state is scoped, how it is retrieved under latency constraints, and how it is revised or removed over time. This report studies Oracle Agent Memory as a database-native memory substrate built on Oracle Database. Three themes organize the discussion: memory as a lifecycle spanning ingestion, extraction, consolidation, retrieval, summarization, and revision or removal; a layered architecture that separates an active memory core from a passive memory-store interface with explicit scope control across users, agents, and threads; and evaluation methodology in which downstream task accuracy is complemented by memory-centric measures such as evidence retrieval, recall, latency, and estimated token use. The report summarizes LongMemEval results, reaching 93.8% accuracy, compares Oracle Agent Memory against flat-history baselines, using about 10.7x fewer tokens, and published or reported external baselines where available, and closes with implementation-oriented appendix material covering setup, thread lifecycle, and search semantics.",
+      "checkedAt": 1790402372114,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "849bddf647fb0a452c290076c3893db9869c6505d5f1ab071d0bbe910f6d4818",
+      "discovery": {
+        "query": "https://doi.org/10.1145/3621983.3621998#section4.1",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    }
+  ]
+}
