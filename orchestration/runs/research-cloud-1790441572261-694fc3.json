@@ -2,7 +2,7 @@
   "id": "research-cloud-1790441572261-694fc3",
   "branch": "manager/research-cloud-1790441572261-694fc3",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.2 for any explicit description of latent state propagation or implicit continuity across user sessions without external memory prompts or session restarts",
-  "stage": "manager_plan",
+  "stage": "planner",
   "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
@@ -24,6 +24,11 @@
     {
       "id": "research-cloud-1790441572261-694fc3-4-plan-review",
       "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790441572261-694fc3-5-manager-plan",
+      "role": "manager_plan",
       "status": "completed"
     }
   ],
