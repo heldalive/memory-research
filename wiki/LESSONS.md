@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: In research-only investigations, claims of persistent or implicit behavior must be anchored to a single explicit, verbatim citation from source text; absence of such evidence mandates a bounded revision to restrict scope and avoid inference
 - orchestrator: Memory claims without verbatim support in literature must be constrained to specific, observable phenomena with defined conditions to avoid unfounded generalizations or overreach in research design and reporting.
 - manager setup: In research-only investigations, claims about memory or persistent behavior must be strictly bounded to a single, verbatim citation from the source text; absence of such evidence requires a narrow, conditionally defined inquiry to prevent inference and overgeneralization.'
 - planner: In research-only investigations, all claims about persistent or implicit behavior must be anchored to a single, verbatim citation from the source text; absence of such evidence requires a bounded, conditionally defined inquiry to prevent overreach and maintain methodological integrity.'
@@ -40,5 +39,6 @@
 - plan review: In research-only investigations, unverified claims about agent memory mechanisms must be confined to verbatim, direct textual evidence from specified sections; absence of such evidence mandates immediate, focused retrieval with strict adherence to source boundaries to prevent speculative generalizations and wasted effort in downstream tasks
 - manager plan: In research-only investigations, all claims about memory mechanisms must be strictly bounded to verbatim, direct textual evidence from specified source sections; absence of such evidence requires immediate, focused retrieval on precise, unambiguous subcomponents of the query to ensure testability and avoid unfounded generalizations.'
 - planner: In research-only investigations, all claims about agent memory mechanisms must be strictly bounded to verbatim, direct textual evidence from specified source sections; absence of such evidence requires immediate, focused retrieval on precise, bounded subtopics with explicit temporal or structural constraints to ensure testability and alignment
+- plan review: In research-only investigations, all claims about agent memory mechanisms must be strictly bounded to verbatim, direct textual evidence from specified source sections; absence of such evidence mandates immediate, focused retrieval on precise, testable subsets
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
