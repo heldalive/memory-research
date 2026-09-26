@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity and fidelity to evidence found in the original document.
 - researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity and fidelity to the evidence available.
 - deliverable review: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor and integrity.'
 - manager final: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity
@@ -40,5 +39,6 @@
 - orchestrator: Memory coherence without external validation requires explicit, observable indicators in empirical literature; absence of such evidence limits claims of autonomous memory systems in current research frameworks.
 - manager setup: In research-only investigations, a bounded inquiry into specific, observable phenomena must be confined to direct evidence in the source text; absence of evidence for a claimed capability must be formally documented and the inquiry redirected to a testable, narrowly defined alternative without speculative extension or assumption.'
 - planner: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption, preserving scientific rigor and integrity of the source material analysis.'
+- plan review: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption, preserving scientific rigor and integrity of the source material and preventing false claims of autonomous memory systems in agents without empirical support.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
