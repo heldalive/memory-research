@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: When evaluating memory mechanisms in agent systems, a bounded, source-restricted inquiry must prioritize direct, non-feature-based, and explicitly stated evidence; absence of such requires immediate revision to avoid unfounded inferences or overreach in the absence of verifiable data points in primary sources.
 - manager plan: When evaluating memory mechanisms in agent systems, a bounded inquiry must prioritize direct, non-feature-based, and explicitly stated evidence; absence of such requires immediate revision to maintain source fidelity and avoid unfounded inferences without external assumptions or inference chains.'
 - planner: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable, non-feature-based, and observable indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation grounded solely in direct textual evidence without inference or external assumptions.'
 - plan review: When evaluating memory mechanisms in agent systems, a bounded, source-restricted inquiry must prioritize direct, non-feature-based, and explicitly stated evidence; absence of such requires immediate revision to avoid unfounded inferences and maintain source fidelity
@@ -40,5 +39,6 @@
 - manager plan: When evaluating agent memory mechanisms, a bounded investigation must anchor in explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or observable proxies.'
 - planner: When evaluating agent memory mechanisms, a bounded investigation must rely exclusively on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or observable indicators.'
 - plan review: A research inquiry into agent memory mechanisms must be anchored in explicit, primary-source evidence before proposing claims of superiority or sustained state continuity without empirical validation.'
+- manager plan: manager plan: When evaluating agent memory mechanisms, a bounded investigation must anchor in explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or observable proxies, and must cease when no such evidence exists in the source text.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
