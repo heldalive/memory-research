@@ -2,9 +2,9 @@
   "id": "research-cloud-1790386910369-be94e6",
   "branch": "manager/research-cloud-1790386910369-be94e6",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory state persistence under gradual, non-disruptive input drift without predefined feature vectors; if any exist, define the minimal set of observable sequence characteristics that indicate sustained state continuity as a proxy for implicit temporal memory retention",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 1,
-  "deliverableReviews": 0,
+  "deliverableReviews": 1,
   "instances": [
     {
       "id": "research-cloud-1790386910369-be94e6-1-orchestrator",
@@ -39,6 +39,11 @@
     {
       "id": "research-cloud-1790386910369-be94e6-6-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790386910369-be94e6-7-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
