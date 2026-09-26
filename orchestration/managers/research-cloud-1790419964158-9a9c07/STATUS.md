@@ -6,3 +6,4 @@ Stage: manager_setup. Plan reviews 0/2; evidence reviews 0/2.
 
 - research-cloud-1790419964158-9a9c07-1-orchestrator-rejected-1: orchestrator — rejected
 - research-cloud-1790419964158-9a9c07-1-orchestrator: orchestrator — completed
+- research-cloud-1790419964158-9a9c07-2-manager-setup-rejected-1: manager_setup — rejected
