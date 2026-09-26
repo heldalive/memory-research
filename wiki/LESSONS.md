@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When evaluating memory mechanisms in agent systems, all claims of temporal continuity must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such requires a shift to observable, threshold-based validation grounded in empirical, data-driven traits from the source material only, without inference
 - researcher: All claims about memory mechanisms in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such necessitates a shift to observable, threshold-based validation of temporal continuity as a proxy for memory retention without presuming implicit mechanisms beyond source evidence
 - deliverable review: Claims of implicit temporal memory in agent systems must be strictly grounded in explicit, verifiable sequence-level indicators from primary sources; absence of such necessitates a shift to observable, threshold-based validation of temporal coherence without assumptions of internal state persistence or feature vectors found in the data chain
 - manager final: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such requires a shift to bounded, threshold-based validation of temporal coherence as a proxy for memory retention without presuming implicit mechanisms beyond source support.
@@ -40,5 +39,6 @@
 - researcher: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid unfounded inference
 - deliverable review: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference.'
 - manager final: When investigating agent memory mechanisms, a bounded revision must be requested to restrict inquiry to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid speculative or inferred patterns
+- orchestrator: Temporal memory claims without observable, non-feature-based indicators must be anchored to explicit behavioral or metric-level evidence before being considered valid proxy signals for continuity or persistence in agent systems.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
