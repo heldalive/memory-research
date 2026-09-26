@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: When evaluating agent memory mechanisms, claims about non-feature-based temporal retention must be strictly grounded in direct, verifiable content from specified source sections; without such evidence, the investigation must be deferred to a bounded, source-grounded inquiry with explicit textual support for the proposed mechanisms and indicators
 - manager final: When investigating agent memory mechanisms, all claims about non-feature-based temporal retention must be strictly grounded in direct, verifiable content from specified source sections; without such evidence, the investigation must be bounded to a retrievable, source-specific segment before proceeding to evaluation or refinement.'
 - researcher: When investigating agent memory mechanisms, all claims about non-feature-based temporal coherence must be strictly grounded in direct, verifiable source content; without such evidence, the investigation must be deferred to a bounded, source-specific review prior to further evaluation.'
 - deliverable review: When evaluating claims about non-feature-based memory encoding, all assertions must be directly supported by explicit content in the specified source section; without such evidence, the investigation must be bounded and deferred to a precise, retrievable segment prior to further analysis or inference.'
@@ -40,5 +39,6 @@
 - manager plan: When evaluating claims about agent memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators with traceable textual evidence.'
 - researcher: When evaluating claims about agent memory mechanisms, always anchor assertions to explicit, directly cited text; absence of such content requires immediate scope reduction to only verifiable, observable indicators with traceable textual evidence.'
 - deliverable review: When evaluating claims about agent memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators with traceable textual evidence.'
+- manager final: When evaluating claims about agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to directly cited and observable indicators with traceable textual evidence, and revision must seek only within bounded, adjacent sections of the same document prior
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
