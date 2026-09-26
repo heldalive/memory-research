@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: When evaluating agent memory mechanisms, a bounded investigation must rely exclusively on explicit, primary-source evidence of temporal continuity and state persistence before proposing any claims of superior memory management without empirical validation.'
 - plan review: A research inquiry into agent memory mechanisms must be anchored in explicit, primary-source evidence of the phenomenon before proposing claims of superiority or persistence without empirical support.'
 - manager plan: When evaluating agent memory mechanisms, a bounded investigation must anchor in explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or observable proxies.'
 - planner: When evaluating agent memory mechanisms, a bounded investigation must rely exclusively on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without empirical validation or observable indicators.'
@@ -40,5 +39,6 @@
 - orchestrator: Memory superiority claims without empirical, non-feature-based validation must be anchored in observable, repeatable proxy indicators under controlled input conditions.
 - manager setup: When evaluating agent memory mechanisms, a bounded revision must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence without feature-based validation or implementation artifacts.'
 - planner: When evaluating agent memory mechanisms, a bounded investigation must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence
+- plan review: A request for evidence of non-feature-based memory mechanisms must be anchored in accessible, verifiable source content before proceeding to analysis; without direct access to the source, claims of superiority or coherence remain untestable and ungrounded in empirical data.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
