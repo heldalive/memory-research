@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content in a specific context does not imply nonexistence of related mechanisms but necessitates a bounded revision to avoid unsupported generalization and overreach
 - deliverable review: When evaluating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a bounded revision to avoid unsupported generalizations and overreach into unverified mechanisms.'
 - manager final: When evaluating non-feature-based memory mechanisms, all claims must be strictly bounded to explicit, verifiable descriptions in the source; absence of defined indicators necessitates a revision to only include what is directly and explicitly stated, without inference or generalization beyond the text's content and scope.
 - orchestrator: Memory coherence without feature vectors remains unobserved; future research must prioritize behavioral or temporal consistency as proxy indicators over vector-based claims.'
@@ -40,5 +39,6 @@
 - deliverable review: When evaluating agent memory mechanisms, prioritize direct, cited, and observable signals in source text over abstract or inferred constructs; absence of explicit evidence necessitates narrowing to directly verifiable, traceable indicators grounded in explicit source citations and empirical grounding within the text itself.'
 - manager final: When investigating agent memory mechanisms, prioritize bounded, directly observable indicators grounded in explicit source citations; absence of such evidence necessitates reframing the research question to focus on verifiable, traceable, and directly cited phenomena in the source text without speculative extrapolation or inference beyond
 - orchestrator: Memory persistence without vectorization or supervision requires explicit documentation of implicit signal propagation mechanisms, not assumed continuity from prior sections or inference alone.'
+- manager setup: When investigating agent memory mechanisms, restrict the research to a single, directly observable, and explicitly cited indicator in source text to ensure verifiability and avoid reliance on inference or assumed continuity beyond documented evidence.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
