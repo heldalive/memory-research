@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions beyond the source text and without implementation or inference beyond the provided content
 - manager plan: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions beyond the source content.
 - researcher: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions beyond the source content.'
 - deliverable review: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing speculative inferences or external assumptions.
@@ -40,5 +39,6 @@
 - manager final: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation of temporal coherence without reliance on unobserved structural assumptions or feature-based proxies
 - researcher: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such in current excerpts necessitates a shift to bounded, threshold-based validation of temporal coherence without assuming structural preconditions.
 - deliverable review: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation of temporal coherence without structural assumptions.'
+- manager final: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable, non-feature-based, and observable indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation of temporal coherence, and future research must prioritize empirical, measurable proxies over theoretical
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
