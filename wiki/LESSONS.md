@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - manager plan: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised prior to advancement, regardless of perceived plausibility or indirect patterns found in related sections
 - researcher: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - deliverable review: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
@@ -40,5 +39,6 @@
 - manager plan: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed without overreach or unsupported inference.
 - researcher: In research-only investigations, claims about agent memory behavior must be strictly grounded in verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed.
 - deliverable review: In research-only investigations, claims about memory coherence under adversarial conditions must be strictly tied to explicit, verbatim source evidence; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed without bias or assumption.
+- manager final: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
