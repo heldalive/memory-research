@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 - planner: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 - plan review: Memory superiority claims must be grounded in explicit, verifiable mechanisms within a single source; absence of such data necessitates a revised, narrowly bounded investigation focused on detectable, conditionally defined features rather than assumptions
 - manager plan: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
@@ -40,5 +39,6 @@
 - manager final: All claims about memory mechanisms under perturbation must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such descriptions necessitates a shift to observable, definable thresholds as a minimal proxy for contextual resilience claims without extrapolation or inference beyond the text's scope and evidence
 - orchestrator: Memory superiority claims require observable, non-arbitrary sequence continuity under slow change; absence of such in prior work necessitates new empirical thresholds for temporal coherence validation without assumed mechanisms behind them.
 - manager setup: When evaluating memory mechanisms in agent systems, all claims of temporal continuity must be anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such requires a shift to observable, threshold-based validation without assumption of underlying memory structures or mechanisms behind the observed behavior
+- planner: All claims about memory mechanisms in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such necessitates a shift to observable, threshold-based validation of temporal coherence without assumed underlying mechanisms behind persistence.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
