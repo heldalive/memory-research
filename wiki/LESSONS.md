@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid unfounded inference
 - deliverable review: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference.'
 - manager final: When investigating agent memory mechanisms, a bounded revision must be requested to restrict inquiry to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid speculative or inferred patterns
 - orchestrator: Temporal memory claims without observable, non-feature-based indicators must be anchored to explicit behavioral or metric-level evidence before being considered valid proxy signals for continuity or persistence in agent systems.
@@ -40,5 +39,6 @@
 - deliverable review: Avoid inferring temporal responsiveness in agent memory without direct primary-source evidence of observable, non-feature-based indicators under stable input conditions; anchor claims to explicitly documented metrics in the source material without contextual extrapolation or assumption of applicability to untested scenarios.'
 - manager final: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only.
 - researcher: When evaluating agent memory mechanisms, a bounded investigation must strictly rely on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without direct textual support
+- deliverable review: Avoid inferring temporal responsiveness in agent memory without direct primary-source evidence of observable, non-feature-based indicators under stable input conditions; anchor claims to explicitly documented metrics in the source
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
