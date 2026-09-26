@@ -2,8 +2,8 @@
   "id": "research-cloud-1790401337552-81db64",
   "branch": "manager/research-cloud-1790401337552-81db64",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory binding mechanisms and any reported integration of temporal context without feature extraction; if present, define the minimal set of observable, non-feature-based indicators that could proxy for contextual coherence across repeated queries",
-  "stage": "plan_review",
-  "planReviews": 0,
+  "stage": "manager_plan",
+  "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
     {
@@ -19,6 +19,11 @@
     {
       "id": "research-cloud-1790401337552-81db64-3-planner",
       "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790401337552-81db64-4-plan-review",
+      "role": "plan_review",
       "status": "completed"
     }
   ],
