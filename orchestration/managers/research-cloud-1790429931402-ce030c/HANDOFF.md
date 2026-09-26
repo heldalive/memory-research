@@ -2,7 +2,7 @@
 
 handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.2 for any explicit or implicit description of response pattern alignment across iterations in the absence of external memory cues or feature vectors; if present, define one observable, non-feature-based indicator such as consistent syntactic structure or thematic continuity that is directly cited in the text
 
-Next role: manager_setup.
+Next role: planner.
 
 handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.2 for any explicit or implicit description of response pattern alignment across iterations in the absence of external memory cues or feature vectors; if present, define one observable, non-feature-based indicator such as consistent syntactic structure or thematic continuity that is directly cited in the text
 
