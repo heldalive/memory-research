@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: All claims about memory mechanisms in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such necessitates a shift to observable, threshold-based validation of temporal coherence without assumed underlying mechanisms behind persistence.
 - plan review: Claims of implicit temporal memory in agent systems must be strictly grounded in explicit, verifiable sequence-level indicators from primary sources; absence of such necessitates a shift to threshold-based validation of temporal coherence under slow drifts without assumed mechanisms
 - manager plan: When evaluating memory mechanisms in agent systems, all claims of temporal continuity must be anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such requires a shift to observable, threshold-based validation of temporal coherence and strict avoidance of inference beyond documented evidence.'
 - researcher: All claims about memory mechanisms in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such necessitates a shift to observable, threshold-based validation of temporal coherence without assuming implicit retention mechanisms unverified by data evidence.
@@ -40,5 +39,6 @@
 - plan review: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference
 - manager plan: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference
 - researcher: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid unfounded inference
+- deliverable review: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
