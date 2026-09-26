@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When investigating agent memory mechanisms, always anchor the research in explicit, directly cited source content; absence of such evidence necessitates immediate revision to ensure verifiability and avoid speculative claims based on inference alone.'
 - deliverable review: When investigating agent memory mechanisms, anchor the research in explicit, directly cited source content; absence of such evidence necessitates immediate revision to ensure verifiability and avoid speculative claims based on inference
 - manager final: When investigating agent memory mechanisms, always anchor the research in explicit, directly cited source content; absence of such evidence mandates immediate revision to ensure verifiability and avoid speculative claims based on inference
 - orchestrator: Memory coherence without explicit feature vectors or external validation cannot be substantiated in current literature; future research must prioritize emergent behavioral patterns over declared mechanisms for detection and validation in repeated query contexts without supervision or feature input, ensuring alignment with observable, non-
@@ -40,5 +39,6 @@
 - deliverable review: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of evidence for sustained state persistence without decay under stable conditions invalidates superiority assertions and necessitates a shift to evaluating implicit or contextual indicators of memory continuity instead of
 - manager final: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - orchestrator: Memory mechanisms without feature vectors must be explicitly documented in empirical text to be considered valid; absence of evidence in primary sources does not imply absence of possibility, but must be grounded in directly cited content for research validity and reproducibility in future inquiries.
+- manager setup: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
