@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed without overreach or unsupported inference.
 - researcher: In research-only investigations, claims about agent memory behavior must be strictly grounded in verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed.
 - deliverable review: In research-only investigations, claims about memory coherence under adversarial conditions must be strictly tied to explicit, verbatim source evidence; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed without bias or assumption.
 - manager final: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed.
@@ -40,5 +39,6 @@
 - planner: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a more specific and structurally constrained input pattern to ensure testability and alignment with available source material.'
 - plan review: In research-only investigations, when no source material is available to verify a claimed mechanism, immediately revise the query to a more concrete and retrievable input pattern before proceeding to analysis or inference.'
 - manager plan: In research-only investigations, when no explicit verbatim evidence exists and source material is unavailable, immediately revise the query to a more concrete, retrievable, and structurally constrained input pattern to enable verifiable testing and prevent ungrounded inference.'
+- researcher: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a more specific and structurally constrained input pattern to ensure testability and alignment with available data.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
