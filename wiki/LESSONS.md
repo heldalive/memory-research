@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: When evaluating agent memory mechanisms, all claims about temporal coherence or non-feature-based retention must be strictly grounded in direct, verifiable content from specified source sections; without explicit evidence, the investigation must pivot to observable, proxy-based indicators without inference or external assumptions.'
 - planner: When investigating agent memory mechanisms, all claims about temporal coherence or non-feature-based integration must be strictly grounded in direct, verifiable source content; without such evidence, the investigation must shift to a bounded inquiry focused on explicit, observable indicators within the specified text section and avoid extrapol
 - plan review: When investigating agent memory mechanisms, a bounded, source-grounded inquiry is required; without verifiable content from the specified section, claims of non-feature-based temporal retention must be deferred until direct evidence is available and accessible, preventing premature or unfounded conclusions based on absent data or assumptions
 - manager plan: When evaluating agent memory mechanisms, all claims about non-feature-based temporal retention must be strictly grounded in direct, verifiable content from specified source sections; without such evidence, the investigation must defer to a bounded, data-grounded review before advancing to inference or implementation.'
@@ -40,5 +39,6 @@
 - manager final: When evaluating claims about agent memory mechanisms, always anchor assertions to explicit, directly cited text; absence of such content requires immediate scope reduction to only verifiable, observable indicators with traceable textual support and no external assumptions.'
 - orchestrator: Memory coherence without feature vectors remains unverified; future research must isolate and observe minimal, observable indicators of internal consistency in isolated systems without external supervision or vector-based support.
 - manager setup: When evaluating claims about agent memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators with traceable textual evidence in the source document.'
+- planner: When evaluating claims about agent memory mechanisms, always anchor assertions to explicit, directly cited text; absence of such content requires immediate scope reduction to only verifiable, observable indicators with traceable textual evidence and no external assumptions or extrapolation.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
