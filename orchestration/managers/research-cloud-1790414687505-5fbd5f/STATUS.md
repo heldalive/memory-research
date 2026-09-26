@@ -2,7 +2,7 @@
 
 Goal: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.1 for any description of emergent behavioral patterns in repeated queries that do not rely on feature vectors or external validation; define one observable, non-feature-based indicator of
 
-Stage: researcher. Plan reviews 2/2; evidence reviews 0/2.
+Stage: deliverable_review. Plan reviews 2/2; evidence reviews 0/2.
 
 - research-cloud-1790414687505-5fbd5f-1-orchestrator: orchestrator — completed
 - research-cloud-1790414687505-5fbd5f-2-manager-setup: manager_setup — completed
@@ -12,3 +12,4 @@ Stage: researcher. Plan reviews 2/2; evidence reviews 0/2.
 - research-cloud-1790414687505-5fbd5f-6-planner: planner — completed
 - research-cloud-1790414687505-5fbd5f-7-plan-review: plan_review — completed
 - research-cloud-1790414687505-5fbd5f-8-manager-plan: manager_plan — completed
+- research-cloud-1790414687505-5fbd5f-9-researcher: researcher — completed
