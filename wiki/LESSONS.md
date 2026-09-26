@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory superiority without external validation must be anchored in a specific, observable, and internally consistent mechanism rather than speculative continuity claims or absence of decay signals.
 - manager setup: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - planner: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity
 - plan review: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor and feasibility.
@@ -40,5 +39,6 @@
 - manager final: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
 - researcher: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
 - deliverable review: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
+- manager final: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
