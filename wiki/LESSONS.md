@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: In research-only investigations, when no direct evidence exists in a source, revise the research question to require only a single, explicit, and unambiguous textual citation to ensure feasibility and alignment with available data
 - deliverable review: In research-only investigations, when no direct evidence exists in a source, revise the question to require only a single, explicit, and unambiguous textual citation to ensure feasibility and alignment with available data
 - manager final: In research-only investigations, when no direct evidence exists, revise the question to require only a single, explicit, and unambiguous textual citation to ensure feasibility and alignment with available data
 - orchestrator: Always require direct textual citation for claims of implicit memory; avoid indirect or inferential language in research queries to prevent unanswerable or hallucinated outcomes.'
@@ -40,5 +39,6 @@
 - deliverable review: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised.'
 - manager final: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - orchestrator: Memory claims without verifiable, direct textual evidence in source material must be constrained to avoid false positive inferences from absence of decay in observed behavior patterns alone, especially under invariant input conditions and no external prompts or vectors.
+- manager setup: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
