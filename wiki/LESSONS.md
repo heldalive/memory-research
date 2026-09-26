@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: In research-only investigations, when no evidence supports a claimed capability, shift to a bounded, alternative question with clear acceptance criteria centered on direct textual citation and avoid speculative generalization about intrinsic mechanisms without explicit literary support.'
 - planner: In research-only investigations, when no evidence supports a claimed capability, shift to a bounded, alternative question with clear acceptance criteria based on direct textual citation and avoid speculative generalization about intrinsic memory mechanisms beyond what is explicitly or implicitly described in the source text.'
 - plan review: When no textual evidence supports a claimed capability, revise the question to require only direct citation from a specific source, avoiding speculative generalization and ensuring research feasibility within available data limits.'
 - manager plan: In research-only investigations, when no evidence supports a claimed capability, shift to a bounded, alternative question with clear acceptance criteria centered on direct textual citation and avoid speculative generalization about intrinsic mechanisms beyond available data limits.'
@@ -40,5 +39,6 @@
 - manager final: In research-only investigations, when no direct evidence exists, revise the question to require only a single, explicit, and unambiguous textual citation to ensure feasibility and alignment with available data
 - orchestrator: Always require direct textual citation for claims of implicit memory; avoid indirect or inferential language in research queries to prevent unanswerable or hallucinated outcomes.'
 - manager setup: In research-only investigations, when no direct evidence exists, revise the query to require only a single, explicit, and unambiguous textual citation to ensure feasibility and prevent hallucination or overreach.'
+- planner: In research-only investigations, require only a single, explicit, and unambiguous textual citation to ensure feasibility, data alignment, and avoidance of hallucinated or inferential outcomes.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
