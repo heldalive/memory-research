@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - planner: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - plan review: In research-only investigations, avoid reassigning identical questions without narrowing scope to underexplored, distinct memory dimensions where evidence is explicitly absent and must be directly cited to maintain scientific rigor and prevent speculative inference.
 - manager plan: In research-only investigations, when no evidence exists for a proposed memory property, the absence must be formally documented and the investigation must advance to a new, bounded dimension of inquiry without speculative extension or reiteration of prior claims to preserve scientific rigor and prevent cognitive bias in agent design evaluation
@@ -40,5 +39,6 @@
 - orchestrator: Memory superiority claims require direct, empirical citation in source text; avoid inference or assumption without explicit textual support for non-feature-based indicators under invariant conditions.'
 - manager setup: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with available data
 - planner: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material's actual content.'
+- plan review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility and empirical grounding without inference or assumption beyond the text's explicit claims.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
