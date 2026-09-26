@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates a revision of conclusions and strict avoidance of inference
 - researcher: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
 - deliverable review: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
 - manager final: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates a bounded revision to restrict scope and avoid inference
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, focused retrieval and inspection before any evaluation can proceed.
 - deliverable review: In research-only investigations, claims about implicit memory updating must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, focused retrieval before any evaluation can proceed
 - manager final: In research-only investigations, claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence requires immediate, focused retrieval on specific textual triggers before any evaluation can proceed
+- orchestrator: Memory claims without verbatim source support must be constrained to explicit, directly cited mechanisms to prevent unfounded generalizations in research handoffs and system design assumptions.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
