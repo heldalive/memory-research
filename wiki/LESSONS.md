@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: In research-only investigations, require a single, explicit, verbatim citation from source text to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - deliverable review: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - manager final: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - researcher: In research-only investigations, require a single, explicit, verbatim citation from source text to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
@@ -40,5 +39,6 @@
 - deliverable review: In research-only investigations, claims about memory behavior must be strictly anchored to verbatim source content; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed, regardless of the theoretical plausibility of the mechanism being studied and the availability of related work in adjacent
 - manager final: In research-only investigations, claims about agent memory behavior must be strictly grounded in verbatim source content; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed, and the inquiry must remain bounded to prevent unfounded assertions about memory persistence or decay under controlled
 - researcher: In research-only investigations, claims about memory behavior must be strictly anchored to verbatim source content; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed, regardless of related discussions in adjacent sections or abstracts.'
+- deliverable review: In research-only investigations, claims about memory behavior must be strictly anchored to verbatim source content; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed, regardless of related contextual discussions in adjacent sections or abstracts.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
