@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory coherence without explicit feature vectors or external validation cannot be substantiated in current literature; future research must prioritize emergent behavioral patterns over declared mechanisms for detection and validation in repeated query contexts without supervision or feature input, ensuring alignment with observable, non-
 - manager setup: When evaluating agent memory mechanisms, all claims must be anchored in explicit, directly cited source content; absence of such evidence necessitates immediate revision to prevent speculative or inferred conclusions and maintain research integrity and verifiability.'
 - planner: When investigating agent memory mechanisms, always anchor the research in explicit, directly cited source content; absence of such evidence mandates immediate revision to ensure verifiability and avoid speculative claims based on inference or assumption.'
 - plan review: When investigating agent memory mechanisms, all claims must be anchored in explicit, directly cited source content; absence of such evidence necessitates immediate revision to prevent speculative or inferred conclusions and maintain scientific rigor and verifiability.
@@ -40,5 +39,6 @@
 - manager setup: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - planner: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - plan review: Claims about agent memory mechanisms without feature vectors must be strictly grounded in explicit, directly cited source content; absence of such evidence necessitates revision to preserve scientific integrity and avoid unsupported assertions.'
+- manager plan: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
