@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1790436576549-a802f4-9-researcher",
+  "role": "researcher",
+  "status": "completed",
+  "at": 1790437701840,
+  "answer": {
+    "summary": "No direct citation of a repeated response element or consistent phrasing pattern in multi-turn interactions without external memory prompts is provided in the available excerpts.",
+    "content": "The retrieved sources [S1] and [S2] discuss agent memory systems and their role in long-horizon, dynamic interactions, emphasizing memory's function in knowledge consolidation and self-evolution. However, neither source contains a direct, verbatim citation of a repeated response element or consistent phrasing pattern under the specified conditions of no external memory prompts or feature vectors. The evidence does not support the existence of such a pattern as requested in the query.",
+    "decision": "revise",
+    "search": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for a single direct, verbatim citation of a repeated response element or consistent phrasing pattern across multi-turn interactions without external memory prompts or feature vectors",
+    "sources": "S1,S2",
+    "nextTask": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for a single direct, verbatim citation of a repeated response element or consistent phrasing pattern across multi-turn interactions without external memory prompts or feature vectors",
+    "lesson": "In research-only investigations, require only a single, explicit, and unambiguous textual citation to ensure feasibility, data alignment, and avoidance of hallucinated or inferential outcomes.'"
+  },
+  "source": "mac",
+  "model": "Qwen3 · 4B",
+  "tokens": 294,
+  "inputTokens": 1957,
+  "durationMs": 13557,
+  "attempts": 1,
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://arxiv.org/abs/2606.24775v1",
+      "title": "Are We Ready For An Agent-Native Memory System?",
+      "excerpt": "Abstract: Memory for large language model (LLM) agents has rapidly evolved from simple retrieval-augmented mechanisms into a data management system that supports persistent information storage, retrieval, update, consolidation, and dynamic lifecycle governance throughout agent execution. Despite this evolution, existing evaluations still benchmark agent memory mainly through end-to-end task success metrics (e.g., F1, BLEU), while treating the underlying system as a monolithic black box. As a result, critical system-level concerns, including operational costs, architectural trade-offs across memory modules, and robustness under dynamic knowledge updates, remain insufficiently explored. In this paper, we present a systematic experimental study of agent memory from a data management perspective. We propose an analytical framework that decomposes agent memory into four core modules: memory representation and storage, extraction, retrieval and routing, and maintenance. Under this framework, we evaluate 12 representative memory systems and two reference baselines across five benchmark workloads spanning 11 datasets. Our extensive end-to-end evaluation shows that no single architecture dominates across all scenarios; instead, effectiveness depends heavily on how well the memory structure aligns with the workload bottleneck. Furthermore, through fine-grained ablation studies, we quantify their individual effects on representation fidelity, retrieval precision, update correctness, and long-horizon stability. Finally, we reveal cost-performance trade-offs under realistic workloads, showing localized maintenance is more cost-efficient than global reorganization. Based on these findings, we identify promising directions towards building truly agent-native memory systems. The code is publicly available at this https URL .",
+      "checkedAt": 1790437568173,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "780a736d0afc17dacd1d1bb13489f362cf0fc8d2a606e67b9af42356fea006e0",
+      "discovery": {
+        "query": "Find a single direct, verbatim citation in Kumar et al., 2024, Section 3.3 that describes a repeated response element or consistent phrasing pattern across multi-turn interactions without external memory prompts or feature vectors",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    },
+    {
+      "id": "S2",
+      "url": "https://arxiv.org/abs/2602.06052v4",
+      "title": "A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents",
+      "excerpt": "Abstract: Research in artificial intelligence is shifting from model innovations and benchmark scores towards problem definition and rigorous real-world evaluation. As the field enters the &#34;second half,&#34; the central challenge becomes real utility in long-horizon, dynamic, and user-dependent settings such as agentic coding, deep research, and computer use, where LLM-based agents face context explosion beyond fixed context windows and must continuously accumulate, manage, and selectively reuse information across extended interactions. Memory, with hundreds of papers released in 2025, therefore emerges as the critical solution to fill this utility gap. Beyond passive storage, memory is increasingly the substrate through which agents self-evolve: short-term memory gates which experiences are perceived and abstracted during execution, while long-term memory consolidates them into reusable knowledge and skills, forming the loop through which agents improve from their own experience. In this survey, we provide a unified view of foundation agent memory along three dimensions: memory substrate (internal parametric state and external retrieval-augmented stores), cognitive mechanism (sensory, working, episodic, semantic, and procedural), and memory subject (user-centric personalization and agent-centric experience). We then analyze how memory is operated under single- and multi-agent topologies and highlight learning policies over memory operations, showing how memory management itself is becoming a trainable capability spanning reinforcement-learned context curation, experience consolidation at decision time, and the emerging ecosystem of portable, shareable agent skills. Finally, we review evaluation benchmarks and metrics for memory utility, and outline open challenges and future directions.",
+      "checkedAt": 1790437568173,
+      "status": "retrieved",
+      "readingLevel": "abstract only",
+      "sha256": "0af6d8ebf70c90aea2431b5abe5e71f3c9e1b010a5a45a2e847e81635bf73c2e",
+      "discovery": {
+        "query": "Find a single direct, verbatim citation in Kumar et al., 2024, Section 3.3 that describes a repeated response element or consistent phrasing pattern across multi-turn interactions without external memory prompts or feature vectors",
+        "method": "planner query; arXiv, GitHub and provider-index discovery"
+      }
+    }
+  ]
+}
