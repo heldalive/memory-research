@@ -1,0 +1,9 @@
+# Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents
+
+[Source](https://arxiv.org/abs/2607.13157v1)
+
+abstract only.
+
+The available excerpts do not contain explicit descriptions of memory binding mechanisms that integrate temporal context without feature extraction. The provided sources [S1] and [S2] discuss privacy risks in agent memory and a database-native memory substrate for long-horizon agents, respectively, but neither details non-feature-based temporal context integration or observable indicators of contextual coherence across repeated queries. Thus, the requested evidence for such mechanisms and proxy indicators remains absent from the retrieved content. The investigation into Kumar et al., 2024, Section 4.1 is currently unaddressed due to lack of accessible source material with relevant content. No inference beyond stated excerpts is possible without direct access to the specified section. The request for observable, non-feature-based indicators of contextual coherence cannot be fulfilled based on current evidence. A search is required to retrieve and inspect the target section prior to any further analysis. This confirms the necessity of direct source access to evaluate claims about memory mechanisms and contextual coherence. The current investigation lacks verifiable content and cannot proceed without it. As such, the request for a minimal set of observable, non-feature-based indicators remains unmet and unverifiable in the provided data. The evidence does not support any claim of superiority in memory management through such mechanisms. The investigation must be deferred until the source section is accessible and inspected directly. No proxy indicators for contextual coherence can be defined from the current data. The research remains unexecutable in its current form without access to Kumar et al., 2024, Section 4.1. This highlights
+
+Agent-authored; see the linked instance and manager disposition.
