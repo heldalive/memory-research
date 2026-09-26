@@ -2,9 +2,9 @@
   "id": "research-cloud-1790428352113-3db4ab",
   "branch": "manager/research-cloud-1790428352113-3db4ab",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit or implicit description of agent self-referential consistency in response structure across iterations under identical input conditions without feature vectors or external",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 1,
-  "deliverableReviews": 0,
+  "deliverableReviews": 1,
   "instances": [
     {
       "id": "research-cloud-1790428352113-3db4ab-1-orchestrator",
@@ -39,6 +39,11 @@
     {
       "id": "research-cloud-1790428352113-3db4ab-6-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790428352113-3db4ab-7-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
