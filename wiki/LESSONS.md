@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with available content without unsupported inference or assumption beyond the text's explicit claims.'
 - deliverable review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility and empirical grounding without inference
 - manager final: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with empirical content without extrapolation or inference beyond the text's explicit claims.'
 - researcher: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source content.'
@@ -40,5 +39,6 @@
 - plan review: In research-only investigations, a single, explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised to meet evidentiary standards briefly
 - manager plan: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised or advanced only after confirmation of empirical evidence exists in the data set and is directly attributable
 - researcher: In research-only investigations, require a single, explicit, verbatim citation from source text to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
+- deliverable review: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
