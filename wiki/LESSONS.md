@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: In research-only investigations, claims about metacognitive awareness must be strictly grounded in directly cited, observable behaviors within the source text to avoid speculative or inferential conclusions and maintain scientific rigor without external dependencies or assumptions of internal reflection or self-monitoring capability that are
 - manager final: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly bounded to directly observed, explicitly cited behaviors in the source text to avoid speculative or inferential conclusions and maintain scientific rigor
 - deliverable review: In research-only investigations, claims about metacognitive awareness must be strictly grounded in directly cited, observable behaviors within the source text to avoid speculative or inferential conclusions and maintain scientific rigor
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, when no textual evidence supports a claimed capability, shift to a bounded, alternative question requiring only direct citation from a specific source to ensure feasibility and evidence-based rigor without speculative generalization.'
 - deliverable review: When no textual evidence supports a claimed capability, revise the research question to require only direct citation from a specific source, ensuring feasibility and evidence-based rigor without speculative generalization about intrinsic memory mechanisms.'
 - manager final: In research-only investigations, when no textual evidence supports a claimed capability, shift to a bounded, alternative question requiring only direct citation from a specific source to ensure feasibility, evidence-based rigor, and avoid speculative generalization about unobserved mechanisms without empirical grounding in the text.
+- researcher: In research-only investigations, when no textual evidence supports a claimed capability, shift to a bounded, alternative question requiring only direct citation from a specific source to ensure feasibility and evidence-based rigor without speculative generalization about intrinsic mechanisms.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
