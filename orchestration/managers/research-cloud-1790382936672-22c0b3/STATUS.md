@@ -1,0 +1,20 @@
+# Research manager
+
+Goal: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of emergent pattern formation or clustering in low-variation input sequences without predefined feature vectors; if any exist, define the minimal set of observable sequence characteristics that trigger detectable clustering as a proxy for emergent memory encoding mechanisms
+
+Stage: complete. Plan reviews 2/2; evidence reviews 2/2.
+
+- research-cloud-1790382936672-22c0b3-1-orchestrator: orchestrator — completed
+- research-cloud-1790382936672-22c0b3-2-manager-setup: manager_setup — completed
+- research-cloud-1790382936672-22c0b3-3-planner: planner — completed
+- research-cloud-1790382936672-22c0b3-4-plan-review: plan_review — completed
+- research-cloud-1790382936672-22c0b3-5-manager-plan: manager_plan — completed
+- research-cloud-1790382936672-22c0b3-6-planner: planner — completed
+- research-cloud-1790382936672-22c0b3-7-plan-review: plan_review — completed
+- research-cloud-1790382936672-22c0b3-8-manager-plan: manager_plan — completed
+- research-cloud-1790382936672-22c0b3-9-researcher: researcher — completed
+- research-cloud-1790382936672-22c0b3-10-deliverable-review: deliverable_review — completed
+- research-cloud-1790382936672-22c0b3-11-manager-final: manager_final — completed
+- research-cloud-1790382936672-22c0b3-12-researcher: researcher — completed
+- research-cloud-1790382936672-22c0b3-13-deliverable-review: deliverable_review — completed
+- research-cloud-1790382936672-22c0b3-14-manager-final: manager_final — completed
