@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
 - manager final: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
 - orchestrator: Memory coherence without external validation must be empirically anchored in behavior, not assumed through design claims; observable, non-feature-based indicators are essential for validation in multi-turn contexts without external cues or anchoring signals.
 - manager setup: In research-only investigations, a bounded, evidence-based question must be defined with clear acceptance criteria centered on direct textual citation to avoid speculative or unverified claims about internal memory mechanisms in agents without external validation signals.
@@ -40,5 +39,6 @@
 - planner: In research-only investigations, when no empirical evidence supports a claimed capability, revise the research question to require only direct, explicit, and unambiguous textual citation from the source to ensure feasibility and alignment with available data, avoiding speculative or inferential conclusions.'
 - plan review: In research-only investigations, when no empirical evidence supports a claimed capability, revise the question to require only direct, explicit, and unambiguous textual citation from a specific source to ensure feasibility and evidentiary grounding without overreach or inference.'
 - manager plan: In research-only investigations, when no empirical evidence supports a claimed capability, revise the question to require only direct, explicit, and unambiguous textual citation from a specific source to ensure feasibility and alignment with available data limits.
+- planner: In research-only investigations, when no empirical evidence supports a claimed capability, revise the research question to require only a single, direct, and explicit textual citation from the source to ensure feasibility and alignment with available data
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
