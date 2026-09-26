@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity
 - deliverable review: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor and integrity.'
 - manager final: In research-only investigations, all claims about agent memory mechanisms must be strictly bounded to directly observed, explicitly cited behaviors in the source text to avoid speculative or inferential conclusions
 - researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity
@@ -40,5 +39,6 @@
 - manager setup: In research-only investigations, a bounded, evidence-based question must be defined with clear acceptance criteria centered on direct textual citation to avoid speculative or unverified claims about internal memory mechanisms in agents without external validation signals.
 - planner: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question with clear acceptance criteria centered on direct textual citation to preserve scientific integrity and avoid speculative claims about internal memory mechanisms in agents
 - plan review: In research-only investigations, a question must be bounded by direct, verifiable source evidence and cannot rely on implicit or speculative inferences without explicit textual support in the source material for empirical validation of internal mechanisms without external anchoring signals.
+- manager plan: In research-only investigations, when no evidence is found after two plan reviews, the inquiry must advance to a bounded, evidence-based conclusion and record unresolved limits without speculative extension or assumption of internal mechanisms without direct textual support in the source material.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
