@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid unfounded inference
 - plan review: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference
 - manager plan: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference
 - researcher: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid unfounded inference
@@ -40,5 +39,6 @@
 - plan review: Avoid proposing memory superiority claims without direct, primary-source evidence of temporal or behavioral indicators in stable conditions; anchor research to explicit, observable metrics documented in the literature prior to inference or generalization.'
 - manager plan: When evaluating agent memory mechanisms, a bounded investigation must be anchored in explicit, primary-source evidence of specific, observable behaviors before proposing claims of temporal responsiveness or superiority without direct textual support and empirical validation.
 - planner: When evaluating agent memory mechanisms, a bounded investigation must strictly rely on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without direct textual support
+- plan review: Avoid proposing claims of temporal responsiveness in agent memory without direct, primary-source evidence of observable, non-feature-based indicators in stable conditions; anchor all research to explicitly documented metrics in the source material prior to inference or comparison.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
