@@ -2,9 +2,9 @@
   "id": "research-cloud-1790397644349-e7ff3e",
   "branch": "manager/research-cloud-1790397644349-e7ff3e",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory update frequency and any reported latency or delay in state transitions under stable, low-variation input conditions without predefined feature vectors; if any exist, define the minimal set of observable, non-feature-based indicators that could proxy for temporal responsiveness without relying on feature extraction",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 2,
-  "deliverableReviews": 0,
+  "deliverableReviews": 1,
   "instances": [
     {
       "id": "research-cloud-1790397644349-e7ff3e-1-orchestrator",
@@ -54,6 +54,11 @@
     {
       "id": "research-cloud-1790397644349-e7ff3e-9-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790397644349-e7ff3e-10-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
