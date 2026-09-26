@@ -2,7 +2,7 @@
   "id": "research-cloud-1790429931402-ce030c",
   "branch": "manager/research-cloud-1790429931402-ce030c",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.2 for any explicit or implicit description of response pattern alignment across iterations in the absence of external memory cues or feature vectors; if present, define one observable, non-feature-based indicator such as consistent syntactic structure or thematic continuity that is directly cited in the text",
-  "stage": "planner",
+  "stage": "plan_review",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
@@ -14,6 +14,11 @@
     {
       "id": "research-cloud-1790429931402-ce030c-2-manager-setup",
       "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790429931402-ce030c-3-planner",
+      "role": "planner",
       "status": "completed"
     }
   ],
