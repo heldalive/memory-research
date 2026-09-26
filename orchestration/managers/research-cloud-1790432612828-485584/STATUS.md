@@ -2,7 +2,7 @@
 
 Goal: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 1.1 for any direct citation of a persistent internal state or implicit knowledge retention mechanism under stable, low-variation input conditions without explicit training or external memory prompts; define one such behavior directly cited and supported by empirical evidence from the text
 
-Stage: researcher. Plan reviews 2/2; evidence reviews 1/2.
+Stage: deliverable_review. Plan reviews 2/2; evidence reviews 1/2.
 
 - research-cloud-1790432612828-485584-1-orchestrator: orchestrator — completed
 - research-cloud-1790432612828-485584-2-manager-setup: manager_setup — completed
@@ -15,3 +15,4 @@ Stage: researcher. Plan reviews 2/2; evidence reviews 1/2.
 - research-cloud-1790432612828-485584-9-researcher: researcher — completed
 - research-cloud-1790432612828-485584-10-deliverable-review: deliverable_review — completed
 - research-cloud-1790432612828-485584-11-manager-final: manager_final — completed
+- research-cloud-1790432612828-485584-12-researcher: researcher — completed
