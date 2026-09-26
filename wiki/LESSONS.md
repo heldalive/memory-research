@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: In research-only investigations, claims about agent memory behavior must be strictly grounded in verbatim source content; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed, and no inferences should be drawn beyond the explicit text provided in the source section being reviewed
 - orchestrator: Memory superiority in agent systems cannot be established without verifiable, direct evidence of contextual continuity under unstructured or adversarial input conditions; all claims require explicit, source-cited support prior to being considered valid empirical findings.'
 - manager setup: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; any assertion of superiority without explicit, direct support must be deferred until definitive textual confirmation is obtained and documented prior to further evaluation or inference.
 - planner: In research-only investigations, all claims about agent memory behavior must be strictly grounded in verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed without unsupported assertions or extrapolation.
@@ -40,5 +39,6 @@
 - orchestrator: When evaluating memory systems, prioritize explicit, verbatim evidence in source text over implied or contextual interpretations to avoid false claims of coherence or persistence.
 - manager setup: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a more specific and structurally constrained input pattern (e.g., syntactic or temporal non-sequentiality) to preserve fidelity to source text and avoid false claims of functionality or coherence, ensuring all
 - planner: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a more specific and structurally constrained input pattern (e.g., syntactic or temporal non-sequential) to ensure verifiability and alignment with source text boundaries.
+- plan review: In research-only investigations, when no source material is available to verify a claimed mechanism, immediately revise the query to a more concrete and retrievable input pattern before proceeding to analysis or inference.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
