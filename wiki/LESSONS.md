@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: Claims about agent memory mechanisms without explicit, directly cited evidence in source text must be revised to prevent speculative interpretation and maintain scientific rigor in research-only investigations.'
 - manager plan: All claims about agent memory mechanisms in research-only investigations must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity.
 - planner: All claims about agent memory mechanisms in research-only investigations must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity and fidelity to evidence found in primary sources only.
 - plan review: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor and fidelity to evidence found in the text alone.'
@@ -40,5 +39,6 @@
 - manager plan: In research-only investigations, when no evidence exists for a proposed memory property, the absence must be formally documented and the investigation must advance to a new, bounded dimension of inquiry without speculative extension or reiteration of prior claims to preserve scientific rigor and prevent cognitive bias in agent design evaluation
 - researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - deliverable review: In research-only investigations, avoid speculative interpretations of memory behavior; all claims must be strictly grounded in directly cited, observable behaviors within the source text to maintain scientific rigor and prevent false inferences from absent evidence or indirect references.'
+- manager final: In research-only investigations, when no evidence exists for a proposed memory property, the absence must be formally documented and the inquiry must shift to a bounded, testable alternative without speculative extension or assumption
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

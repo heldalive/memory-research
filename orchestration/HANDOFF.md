@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790419964158-9a9c07
-
-The objective to identify a non-feature-based, observable indicator of contextual continuity in agent memory lacks direct support in Kumar et al., 2024, Section 3.3, and no such indicator is explicitly or implicitly cited in the absence of feature vectors or external
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit or implicit description of contextual continuity across query iterations in the absence of feature vectors or external validation; define one observable, non-feature-based indicator such as thematic drift or semantic coherence that is directly cited in the text
-
-Limits: After exhaustive inspection of Kumar et al., 2024, Section 3.3, no evidence exists for contextual continuity via thematic drift or semantic coherence. The text focuses on privacy risks and memory lifecycle efficiency but does not describe or imply any observable, non-feature-based indicator of continuity across query iterations. The current formulation of the research question is ungrounded in source content and requires refinement to a testable, directly cited inquiry without speculative extrapolation. A bounded revision is necessary to preserve scientific rigor and alignment with available evidence. The absence of such indicators underscores the need for tighter source-based constraints in future iterations of the query.
-
 ## research-cloud-1790421762964-731a60
 
 No direct evidence of query response coherence or non-feature-based indicators exists in Kumar et al., 2024, Section 5.2 under controlled conditions
@@ -35,3 +27,11 @@ No evidence of metacognitive awareness in memory management is present in Kumar 
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 6.1 for any explicit or implicit description of internal consistency checks, contextual awareness, or self-evaluation in multi-turn interactions without external validation or feature vectors
 
 Limits: After two independent reviews, the analysis confirms the absence of any explicit or implicit description of metacognitive awareness, such as self-correction or reflective rephrasing, in the specified source section. All described behaviors are tied to external validation or structured memory lifecycle processes. A bounded revision is requested to investigate whether internal consistency checks, contextual awareness, or self-evaluation are explicitly or implicitly described in the same section without reference to external features or validation mechanisms. This maintains scientific rigor and prevents speculative extrapolation beyond the text's direct claims. No such indicators are currently supported by the evidence provided in the source material.
+
+## research-cloud-1790426982380-02be9d
+
+No evidence of a non-feature-based memory indicator such as temporal stability or state inertia exists in Kumar et al., 2024, Section 4.2 under invariant input conditions without external validation or feature vectors. All reported memory behaviors are tied to
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.2 for any explicit or implicit description of memory decay or persistence under stable input conditions without external validation or feature vectors; define one observable, non-feature-based indicator such as temporal stability or state inertia that is directly cited in the text
+
+Limits: After two independent review cycles, the absence of any explicit or implicit description of an observable, non-feature-based memory indicator under stable input conditions remains confirmed. All cited memory mechanisms depend on structured feature vectors or external validation, ruling out emergent, behavior-based persistence independent of data representation. The investigation is bounded by the source material and cannot establish superiority of agent memory without additional evidence of such behavior. A new, bounded research question is required to explore alternative dimensions of memory observation beyond feature-dependent representations.
