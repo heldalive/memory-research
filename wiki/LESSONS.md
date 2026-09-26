@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - manager final: In research-only investigations, all claims about agent memory mechanisms must be strictly bounded to directly observed, explicitly cited behaviors in the source text to avoid speculative or inferential conclusions and maintain scientific rigor and reproducibility.'
 - orchestrator: Memory superiority claims without empirical, non-feature-based evidence in controlled conditions must be treated as speculative until directly substantiated in primary sources and independently verifiable metrics are established in the literature or experiments.
 - manager setup: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question with clear acceptance criteria centered on direct textual citation to preclude speculative inferences without empirical support in the source material.'
 - deliverable review: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question with clear acceptance criteria centered on direct textual citation to avoid speculative or unverifiable claims about internal mechanisms or response patterns.'
 - manager final: In research-only investigations, when no evidence supports a claimed capability, shift to a bounded, alternative question with clear acceptance criteria based on direct textual citation and avoid speculative generalization about internal mechanisms or response patterns without explicit support in the source material.
+- orchestrator: Memory superiority without external validation must be grounded in observable, non-feature-based indicators directly cited in empirical literature prior to being considered valid evidence of intrinsic capability.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
