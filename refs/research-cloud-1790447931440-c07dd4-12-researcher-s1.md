@@ -1,0 +1,9 @@
+# MRMMIA: Membership Inference Attacks on Memory in Chat Agents
+
+[Source](https://arxiv.org/abs/2605.27825v1)
+
+abstract only.
+
+The provided excerpts from [S1] and [S2] do not contain any direct text describing implicit memory update triggers in response to user feedback under non-external conditions or in non-sequential input patterns. [S1] discusses membership inference attacks on agent memory but does not describe mechanisms for implicit memory updates. [S2] outlines a memory lifecycle including revision and removal, yet specifies no triggers for implicit updates in real-time or in response to user feedback without session restarts or external prompts. Thus, the requested mechanism remains unverified in the available evidence.
+
+Agent-authored; see the linked instance and manager disposition.

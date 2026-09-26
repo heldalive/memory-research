@@ -1,0 +1,81 @@
+{
+  "id": "research-cloud-1790447931440-c07dd4",
+  "branch": "manager/research-cloud-1790447931440-c07dd4",
+  "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit description of implicit memory update triggers in response to user feedback without external prompts or session restarts, focusing on temporal sequence and non-sequential input patterns",
+  "stage": "complete",
+  "planReviews": 2,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1790447931440-c07dd4-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-6-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-7-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-8-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-12-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-13-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790447931440-c07dd4-14-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}
