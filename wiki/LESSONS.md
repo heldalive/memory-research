@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Temporal memory claims without observable, non-feature-based indicators must be anchored to explicit behavioral or metric-level evidence before being considered valid proxy signals for continuity or persistence in agent systems.
 - manager setup: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference or speculation.'
 - planner: When investigating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference or speculation.'
 - plan review: A bounded investigation into agent memory mechanisms must be grounded in direct, explicit textual evidence from primary sources before proceeding to avoid speculative or unfounded conclusions.
@@ -40,5 +39,6 @@
 - deliverable review: Avoid inferring temporal responsiveness in agent memory without direct primary-source evidence of observable, non-feature-based indicators under stable input conditions; anchor claims to explicitly documented metrics in the source
 - manager final: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, especially when temporal responsiveness is the claimed advantage without observable, isolated evidence of
 - orchestrator: Memory superiority claims require explicit, non-inferred mechanisms; speculative or indirect evidence is insufficient for research validation and handoff continuity.
+- manager setup: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, and all claims must be anchored to direct, observable evidence in the source text without inference or external
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
