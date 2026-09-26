@@ -2,7 +2,7 @@
   "id": "research-cloud-1790449856132-396ae4",
   "branch": "manager/research-cloud-1790449856132-396ae4",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit, verbatim description of implicit memory update triggers in response to user feedback without external prompts or session restarts, focusing exclusively on non-sequential input patterns",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "planReviews": 2,
   "deliverableReviews": 1,
   "instances": [
@@ -65,6 +65,11 @@
       "id": "research-cloud-1790449856132-396ae4-12-researcher-rejected-1",
       "role": "researcher",
       "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790449856132-396ae4-12-researcher",
+      "role": "researcher",
+      "status": "completed"
     }
   ],
   "mode": "research-only"
