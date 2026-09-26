@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: A request for evidence of non-feature-based memory mechanisms must be grounded in direct, accessible source content before any analysis or claim of superiority can be evaluated; without verifiable source access, the investigation remains unexecutable and must be revised to include retrieval as a prerequisite step.'
 - manager plan: When evaluating agent memory mechanisms, all claims of superiority or coherence must be grounded in direct, accessible source content before any analysis or inference can be validly conducted, and unverified assertions must be deferred until empirical evidence is available.'
 - researcher: When evaluating agent memory mechanisms, a bounded investigation must anchor claims in direct, verifiable source content and define minimal, observable proxy indicators before asserting superiority in contextual coherence or persistence, ensuring no inference beyond accessible and explicit textual evidence is made.
 - deliverable review: Claims about agent memory mechanisms must be grounded in direct, verifiable source content; without explicit evidence of non-feature-based temporal integration or observable coherence indicators, assertions of superiority or contextual persistence remain unvalidated and must be deferred until verifiable data is available.'
@@ -40,5 +39,6 @@
 - manager plan: When evaluating claims about memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators without extrapolation or assumption.
 - planner: When evaluating claims about memory mechanisms, all assertions must be strictly bounded to explicit, verifiable descriptions in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators in the text without extrapolation or assumption.
 - plan review: When evaluating claims about memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators in the text without extrapolation or assumption.'
+- manager plan: When evaluating claims about memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators with full textual citation support and no extrapolation or speculation.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
