@@ -2,9 +2,9 @@
   "id": "research-cloud-1790403336484-afaafa",
   "branch": "manager/research-cloud-1790403336484-afaafa",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory encoding mechanisms that utilize only temporal sequence patterns and environmental cues without feature extraction or vector representation; if present, define the minimal set of observable, non-feature-based indicators that could proxy for implicit temporal pattern recognition and retention across repeated, low-variation inputs",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 1,
-  "deliverableReviews": 0,
+  "deliverableReviews": 1,
   "instances": [
     {
       "id": "research-cloud-1790403336484-afaafa-1-orchestrator",
@@ -34,6 +34,11 @@
     {
       "id": "research-cloud-1790403336484-afaafa-6-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790403336484-afaafa-7-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
