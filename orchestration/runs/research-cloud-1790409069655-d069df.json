@@ -2,7 +2,7 @@
   "id": "research-cloud-1790409069655-d069df",
   "branch": "manager/research-cloud-1790409069655-d069df",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory coherence mechanisms that maintain consistency across repeated queries without feature vectors or external validation; if present, define one observable, non-feature-based indicator of contextual alignment that persists across query iterations",
-  "stage": "planner",
+  "stage": "plan_review",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
@@ -14,6 +14,11 @@
     {
       "id": "research-cloud-1790409069655-d069df-2-manager-setup",
       "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790409069655-d069df-3-planner",
+      "role": "planner",
       "status": "completed"
     }
   ],
