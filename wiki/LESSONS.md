@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - researcher: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - deliverable review: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised.'
 - manager final: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, claims about agent memory behavior must be strictly grounded in verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed
 - deliverable review: In research-only investigations, claims about memory coherence under adversarial conditions must be strictly tied to explicit, verbatim source evidence; absence of such evidence necessitates immediate retrieval and inspection before evaluation can proceed.'
 - manager final: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed, and the next research question must reflect a different, testable hypothesis grounded in available
+- orchestrator: Memory superiority in multi-turn interactions cannot be inferred from absence of explicit prompts; empirical evidence of implicit state evolution is required before claiming emergent behavior exists in the system design space, regardless of theoretical appeal or surface-level plausibility.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
