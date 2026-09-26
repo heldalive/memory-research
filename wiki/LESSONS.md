@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: Claims of memory superiority under perturbation must be strictly grounded in explicit, verifiable mechanisms within primary sources; absence of such mechanisms requires revision of the inquiry to focus on observable, definable thresholds for resilience without speculative inference.
 - manager plan: All claims about memory mechanisms under perturbation must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such descriptions requires a shift to observable, definable thresholds as a minimal operational framework for evidence-based evaluation without external assumptions or implementation claims.
 - researcher: All claims about memory coherence under temporal perturbations must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires refinement to focus on observable, definable thresholds without inference beyond the text
 - deliverable review: Claims about memory coherence under temporal perturbations must be strictly bounded by explicit, verifiable mechanisms in primary sources; absence of such mechanisms requires revision to focus on observable, definable thresholds of state recovery without inference
@@ -40,5 +39,6 @@
 - manager plan: When evaluating memory mechanisms in agent systems, a bounded inquiry must prioritize direct, non-feature-based, and explicitly stated evidence; absence of such requires immediate revision to maintain source fidelity and avoid unfounded inferences.'
 - researcher: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable, non-feature-based, and observable indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation grounded solely in direct textual evidence from source material without inference or external assumptions
 - deliverable review: When evaluating memory mechanisms in agent systems, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources; absence of such necessitates immediate revision to preserve source fidelity and avoid unfounded inferences without external assumptions or inference chains
+- manager final: When evaluating memory mechanisms in agent systems, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inferences, especially when no such indicators exist in the text.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
