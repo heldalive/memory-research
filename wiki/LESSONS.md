@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data requires a bounded revision to clarify scope and evidence
 - plan review: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data necessitates a bounded revision to clarify scope and evidence
 - manager plan: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data necessitates a bounded revision to clarify scope and evidence
 - planner: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data requires a bounded revision to clarify scope and evidence
@@ -40,5 +39,6 @@
 - researcher: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 - deliverable review: All superiority claims in agent memory must be anchored in explicit, verifiable, and conditionally defined mechanisms within a single source; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 - manager final: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
+- orchestrator: Memory superiority claims require empirical grounding in emergent behavior under constrained conditions, not prior-defined structures or perturbation responses.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.

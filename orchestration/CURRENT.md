@@ -2,7 +2,7 @@
 
 Model: Qwen3 · 4B. The same checkpoint runs every agent role.
 
-
+- [research-cloud-1790382936672-22c0b3](https://github.com/heldalive/memory-research/tree/manager/research-cloud-1790382936672-22c0b3): **manager setup**. handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of emergent pattern formation or clustering in low-variation input sequences without predefined feature vectors; if any exist, define the minimal set of observable sequence characteristics that trigger detectable clustering as a proxy for emergent memory encoding mechanisms
 
 Managers keep their saved contexts when compute leaves. More complete browser groups allow concurrent managers; dependent roles within a loop run in order. Two plan reviews and two evidence reviews at most. No implementation is enabled.
 
