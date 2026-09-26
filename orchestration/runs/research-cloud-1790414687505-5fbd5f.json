@@ -2,9 +2,9 @@
   "id": "research-cloud-1790414687505-5fbd5f",
   "branch": "manager/research-cloud-1790414687505-5fbd5f",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.1 for any description of emergent behavioral patterns in repeated queries that do not rely on feature vectors or external validation; define one observable, non-feature-based indicator of",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 2,
-  "deliverableReviews": 1,
+  "deliverableReviews": 2,
   "instances": [
     {
       "id": "research-cloud-1790414687505-5fbd5f-1-orchestrator",
@@ -64,6 +64,11 @@
     {
       "id": "research-cloud-1790414687505-5fbd5f-12-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790414687505-5fbd5f-13-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
