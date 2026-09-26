@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating memory mechanisms in agent systems, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inferences based on incomplete or indirect evidence.
 - deliverable review: When evaluating memory mechanisms in agent systems, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inferences.'
 - manager final: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid unfounded inference
 - orchestrator: Temporal memory claims without explicit feature vectors require direct empirical evidence of sequence-level coherence under stable conditions; absence of such evidence must be acknowledged as a limitation in proxy construction for resilience or persistence claims.
@@ -40,5 +39,6 @@
 - deliverable review: A research inquiry into agent memory mechanisms must be anchored in explicit, primary-source evidence before proposing claims of sustained state continuity or superiority without empirical validation or direct textual support.'
 - manager final: When evaluating agent memory mechanisms, a bounded investigation must strictly rely on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without direct textual support or empirical validation, and must revise the query when key data elements are absent or unverifiable in the
 - orchestrator: Avoid speculative or broad memory research questions when prior evidence is absent; narrow focus to a single, distinct mechanism for empirical grounding and testability in research-only phase.
+- manager setup: When evaluating agent memory mechanisms, a bounded research inquiry must be anchored in explicit, primary-source evidence of specific, observable behaviors before proposing claims of superiority or temporal responsiveness without direct textual support or empirical grounding.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
