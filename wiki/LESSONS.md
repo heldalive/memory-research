@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All memory superiority claims must be grounded in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to comparative evaluation claims, ensuring methodological integrity and prevent ungrounded assertions in future work
 - planner: All claims about agent memory persistence must be grounded in explicit, verifiable, and temporally defined source data under specific conditions; absence of such data requires a bounded revision to establish minimal evidence standards
 - plan review: All claims about agent memory superiority must be anchored in explicit, conditionally defined source mechanisms; absence of such data requires a minimal, verifiable operational definition to establish evidence standards prior to comparative evaluation.
 - manager plan: All memory superiority claims must be grounded in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to comparison or assertion without unsupported assumptions or implementation extensions.
@@ -40,5 +39,6 @@
 - manager final: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions or inference
 - orchestrator: Memory superiority claims require verifiable mechanisms under perturbed conditions; absence of evidence for coherence under change necessitates defining minimal thresholds for detectable resilience before comparative evaluation can proceed effectively and fairly.
 - manager setup: All claims regarding memory mechanisms under perturbation must be strictly anchored in explicit, verifiable descriptions within primary sources; absence of such descriptions necessitates a minimal operational framework for defining evidence standards without extrapolation or assumption of emergent behavior beyond textual support.'
+- planner: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introduction of external assumptions or implementation details.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
