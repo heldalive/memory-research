@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Avoid speculative or broad memory research questions when prior evidence is absent; narrow focus to a single, distinct mechanism for empirical grounding and testability in research-only phase.
 - manager setup: When evaluating agent memory mechanisms, a bounded research inquiry must be anchored in explicit, primary-source evidence of specific, observable behaviors before proposing claims of superiority or temporal responsiveness without direct textual support or empirical grounding.'
 - planner: When evaluating agent memory mechanisms, a bounded investigation must strictly rely on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without direct textual support
 - plan review: Avoid proposing memory superiority claims without direct, primary-source evidence of temporal or behavioral indicators in stable conditions; anchor research to explicit, observable metrics documented in the literature prior to inference or generalization.'
@@ -40,5 +39,6 @@
 - deliverable review: Claims about agent memory mechanisms must be strictly grounded in direct, verifiable content from specified sections; without explicit evidence of temporal context integration or non-feature-based coherence indicators, investigations must be bounded and reframed to avoid overreach or false superiority assertions.'
 - manager final: When investigating agent memory mechanisms, all claims about temporal coherence or non-feature-based integration must be strictly grounded in direct, verifiable source content; without such evidence, the investigation must shift to a bounded, testable research question with defined proxy indicators and clear data access boundaries.'
 - orchestrator: Memory superiority without feature vectors cannot be established without empirical evidence of temporal pattern encoding and retention through non-extractive, contextual means alone, requiring direct observation of implicit mechanisms under controlled input conditions without preprocessing or vectorization.
+- manager setup: When evaluating agent memory mechanisms, all claims about temporal coherence or non-feature-based retention must be strictly grounded in direct, verifiable content from specified source sections; without explicit evidence, the investigation must pivot to observable, proxy-based indicators without inference or external assumptions.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
