@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity
 - researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity and rigor.'
 - deliverable review: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - manager final: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity
@@ -40,5 +39,6 @@
 - plan review: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption, preserving scientific rigor and integrity of the source material and preventing false claims of autonomous memory systems in agents without empirical support.
 - manager plan: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension to preserve scientific integrity and prevent false claims of agent memory superiority.
 - researcher: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption, preserving scientific rigor and integrity of the source material
+- deliverable review: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption to preserve scientific rigor and integrity of the source
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
