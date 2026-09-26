@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When investigating agent memory mechanisms, a bounded inquiry must first establish explicit, primary-source evidence of the phenomenon before extending conclusions or proposing alternative interpretations to preserve research integrity and avoid unfounded inference.'
 - researcher: When investigating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference or overreach.'
 - deliverable review: A bounded inquiry into agent memory mechanisms must restrict analysis to direct, explicit textual evidence from primary sources to avoid unfounded inferences and ensure source fidelity in research-phase evaluations.'
 - manager final: When investigating agent memory mechanisms, a bounded inquiry must first establish explicit, primary-source evidence of the phenomenon before extending conclusions or proposing alternative interpretations to preserve research integrity
@@ -40,5 +39,6 @@
 - researcher: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, and al
 - deliverable review: A request for explicit, observable memory validation mechanisms must be anchored in direct source content; absence of such indicators in primary literature necessitates revision of the investigation scope to avoid overreaching on unverified claims without empirical grounding in the target section of the specified paper.'
 - manager final: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal proxy indicators before advancing to claims of internal validation or coherence maintenance under specific conditions, ensuring empirical rigor and avoiding speculative inference from indirect or inferred
+- researcher: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal proxy indicators before advancing to claims of internal validation or coherence maintenance.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
