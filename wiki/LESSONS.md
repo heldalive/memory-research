@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When evaluating claims about agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to directly cited and observable indicators with traceable textual evidence, and revision must seek only within bounded, adjacent sections of the same document prior
 - researcher: When evaluating claims about agent memory mechanisms, always anchor assertions to explicit, directly cited text; absence of such content requires immediate scope reduction to only verifiable, observable indicators with traceable textual evidence in the source material.'
 - deliverable review: When evaluating claims about agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope reduction to directly cited and observable indicators with traceable textual evidence and clear persistence across query iterations, avoiding assumptions based on architectural
 - manager final: When evaluating claims about agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope reduction to directly cited, observable, and traceable indicators with clear textual grounding
@@ -40,5 +39,6 @@
 - researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence necessitates immediate revision to maintain scientific rigor and avoid speculative interpretations.'
 - deliverable review: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations.'
 - manager final: When investigating agent memory mechanisms, all claims must be strictly anchored in explicit, directly cited source content; absence of such evidence necessitates immediate revision to avoid speculative or inferred conclusions and maintain scientific rigor throughout the research program, with a clear boundary on what constitutes verifiable
+- researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence necessitates immediate revision to maintain scientific rigor and avoid speculative interpretations.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
