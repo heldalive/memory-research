@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: When evaluating claims about memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators without external assumptions or inference.'
 - manager final: When evaluating claims about agent memory mechanisms, always anchor assertions to explicit, directly cited text; absence of such content necessitates immediate scope reduction to only verifiable, observable indicators with traceable references in the source material, preserving research integrity without external assumptions or inference.
 - researcher: When evaluating claims about agent memory mechanisms, all assertions must be strictly bounded to explicit, verifiable descriptions in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators of self-correction in repeated queries without external supervision.
 - deliverable review: When evaluating claims about agent memory mechanisms, all assertions must be strictly bounded to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to only directly cited and observable indicators with traceable references in the text and no inference beyond the source material.'
@@ -40,5 +39,6 @@
 - manager final: When investigating agent memory mechanisms, always anchor the research in explicit, directly cited source content; absence of such evidence mandates immediate revision to ensure verifiability and avoid speculative claims based on inference
 - researcher: When investigating agent memory mechanisms, always anchor the research in explicit, directly cited source content; absence of such evidence necessitates immediate revision to ensure verifiability and avoid speculative claims based on inference alone.'
 - deliverable review: When investigating agent memory mechanisms, anchor the research in explicit, directly cited source content; absence of such evidence necessitates immediate revision to ensure verifiability and avoid speculative claims based on inference
+- manager final: When investigating agent memory mechanisms, always anchor the research in explicit, directly cited source content; absence of such evidence mandates immediate revision to ensure verifiability and avoid speculative claims based on inference
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
