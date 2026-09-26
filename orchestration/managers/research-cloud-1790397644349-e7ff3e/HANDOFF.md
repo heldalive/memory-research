@@ -2,7 +2,7 @@
 
 handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory update frequency and any reported latency or delay in state transitions under stable, low-variation input conditions without predefined feature vectors; if any exist, define the minimal set of observable, non-feature-based indicators that could proxy for temporal responsiveness without relying on feature extraction
 
-Next role: deliverable_review.
+Next role: manager_final.
 
 handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory update frequency and any reported latency or delay in state transitions under stable, low-variation input conditions without predefined feature vectors
 
