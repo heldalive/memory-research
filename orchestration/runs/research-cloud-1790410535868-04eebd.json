@@ -1,0 +1,71 @@
+{
+  "id": "research-cloud-1790410535868-04eebd",
+  "branch": "manager/research-cloud-1790410535868-04eebd",
+  "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any description of semantic or temporal continuity in dialogue that persists across repeated queries without feature vectors or external validation; if present, define one observable, non-feature-based indicator of contextual alignment that persists across iterations",
+  "stage": "complete",
+  "planReviews": 1,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1790410535868-04eebd-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-3-planner-rejected-1",
+      "role": "planner",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-6-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-7-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-8-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}
