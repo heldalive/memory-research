@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with available data
 - planner: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material's actual content.'
 - plan review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility and empirical grounding without inference or assumption beyond the text's explicit claims.'
 - manager plan: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material exclusively without inference or assumption beyond what is explicitly stated or cited
@@ -40,5 +39,6 @@
 - manager final: In research-only investigations, when no direct evidence exists, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
 - researcher: In research-only investigations, require only a single, explicit, and unambiguous textual citation to ensure feasibility, data alignment, and avoidance of hallucinated or inferential outcomes.'
 - deliverable review: In research-only investigations, when no direct evidence exists, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
+- manager final: In research-only investigations, when no direct evidence exists, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
