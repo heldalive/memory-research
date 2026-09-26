@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such in current excerpts necessitates a shift to bounded, threshold-based validation of temporal coherence without assuming structural preconditions.
 - deliverable review: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation of temporal coherence without structural assumptions.'
 - manager final: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable, non-feature-based, and observable indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation of temporal coherence, and future research must prioritize empirical, measurable proxies over theoretical
 - orchestrator: Memory coherence under stable conditions cannot be inferred from featureless sequence analysis; direct evidence of temporal smoothing or interpolation is required to establish implicit continuity mechanisms in agent memory systems without predefined structure or vectors.
@@ -40,5 +39,6 @@
 - deliverable review: A bounded inquiry into agent memory mechanisms must restrict analysis to direct, explicit textual evidence from primary sources to avoid unfounded inferences and ensure source fidelity in research-phase evaluations.'
 - manager final: When investigating agent memory mechanisms, a bounded inquiry must first establish explicit, primary-source evidence of the phenomenon before extending conclusions or proposing alternative interpretations to preserve research integrity
 - orchestrator: Temporal memory claims without empirical, non-feature-based evidence must be grounded in explicit, directly observed persistence metrics under controlled conditions prior to being considered valid research candidates.'
+- manager setup: When evaluating agent memory mechanisms, a bounded research scope must anchor in explicit, primary-source evidence of the phenomenon to prevent overreach and maintain analytical rigor in the absence of empirical validation.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
