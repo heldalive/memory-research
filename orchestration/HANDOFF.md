@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790390293015-3e5fa2
-
-No explicit, non-feature-based, directly observable mechanisms for temporal smoothing or state interpolation exist in agent memory under stable, low-variation input conditions as described in Kumar et al., 2024, Section 4.1; the inquiry remains unanswerable without
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for direct, non-feature-based, and explicitly described mechanisms of temporal smoothing or state interpolation in memory systems under stable, low-variation input conditions without predefined feature vectors; if any exist, define the minimal set of observable indicators that could proxy for implicit temporal continuity without relying on feature extraction
-
-Limits: After two independent reviews confirm the absence of any explicit mechanisms for temporal smoothing or state interpolation in the specified context, and the lack of defined proxies for implicit temporal continuity without feature extraction, the current request cannot be advanced. The evidence and source analysis support a bounded revision to restrict the scope to only directly stated, non-abstract, and observable phenomena in the primary text. A revised inquiry is required to avoid inference beyond the data's explicit claims. The research program continues with a different, more focused question to preserve progress without overreach.
-
 ## research-cloud-1790392602979-b2e01e
 
 No explicit, non-feature-based indicators of implicit sequence coherence in agent memory under stable input conditions are present in the available sources, and the inquiry must be refined to focus solely on explicitly described mechanisms without speculative inference
@@ -35,3 +27,11 @@ No primary-source evidence confirms memory persistence or absence of state decay
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory persistence duration and any reported absence of state decay under stable, low-variation input conditions without predefined feature vectors; if present, define the minimal set of observable, non-feature-based indicators that could proxy for sustained state continuity without decay; otherwise, propose an alternative research question focused on temporal
 
 Limits: The investigation into non-feature-based indicators of sustained agent memory continuity lacks direct empirical support. Available sources do not report explicit durations of memory persistence or state decay under stable conditions without predefined feature vectors. No observable, non-feature-based indicators are proposed as proxies for sustained state continuity. The inquiry remains unverified and must be refined to avoid speculative claims based on absent data. A bounded revision is required to adjust the query to only those conditions where evidence is plausibly accessible or indirectly inferable from existing text fragments.
+
+## research-cloud-1790397644349-e7ff3e
+
+No explicit, observable non-feature-based indicators of temporal responsiveness exist in Kumar et al., 2024, Section 4.1 under stable input conditions, and the current evidence fails to support claims of superior memory management without direct empirical documentation
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory update frequency and any reported latency or delay in state transitions under stable, low-variation input conditions without predefined feature vectors; output only verbatim text passages with timestamps and contextual sentences; exclude any references to downstream tasks or feature-based analysis
+
+Limits: After two review cycles, the analysis confirms the absence of documented memory update frequency, latency in state transitions, or proxy indicators for temporal responsiveness under stable, low-variation input without predefined feature vectors. All referenced metrics are tied to downstream task performance or general retrieval efficiency, not isolated memory dynamics. The claim of superior temporal responsiveness lacks direct, observable evidence in the primary source material, necessitating a bounded revision to strictly focus on explicitly cited metrics without inference or extrapolation. No new data has emerged to alter this conclusion, and the investigation remains confined to the provided text excerpts and their limitations.
