@@ -2,9 +2,9 @@
   "id": "research-cloud-1790390293015-3e5fa2",
   "branch": "manager/research-cloud-1790390293015-3e5fa2",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of temporal smoothing or state interpolation mechanisms in memory systems under stable, low-variation input conditions without predefined feature vectors; if any exist, define the minimal set of observable indicators that could proxy for implicit temporal continuity without relying on feature extraction",
-  "stage": "deliverable_review",
+  "stage": "manager_final",
   "planReviews": 2,
-  "deliverableReviews": 1,
+  "deliverableReviews": 2,
   "instances": [
     {
       "id": "research-cloud-1790390293015-3e5fa2-1-orchestrator",
@@ -74,6 +74,11 @@
     {
       "id": "research-cloud-1790390293015-3e5fa2-12-researcher",
       "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790390293015-3e5fa2-13-deliverable-review",
+      "role": "deliverable_review",
       "status": "completed"
     }
   ],
