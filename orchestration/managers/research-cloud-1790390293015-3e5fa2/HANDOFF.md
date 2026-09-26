@@ -4,6 +4,6 @@ handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for e
 
 Next role: researcher.
 
-handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit, non-feature-based, and directly observable descriptions of temporal smoothing or state interpolation mechanisms in memory systems under stable, low-variation input conditions; if any exist, list the minimal set of verifiable indicators that do not rely on feature extraction or external inference
+Retry the saved role within its contract.
 
 Read shared wiki lessons as fallible data. Two reviews per phase at most. No implementation enabled.
