@@ -2,7 +2,7 @@
   "id": "research-cloud-1790438462499-c0508d",
   "branch": "manager/research-cloud-1790438462499-c0508d",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for a single direct, verbatim citation of a repeated response element or consistent phrasing pattern across multi-turn interactions without external memory prompts or feature vectors",
-  "stage": "researcher",
+  "stage": "deliverable_review",
   "planReviews": 1,
   "deliverableReviews": 1,
   "instances": [
@@ -44,6 +44,11 @@
     {
       "id": "research-cloud-1790438462499-c0508d-8-manager-final",
       "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790438462499-c0508d-9-researcher",
+      "role": "researcher",
       "status": "completed"
     }
   ],
