@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: In research-only investigations, when no evidence supports a claimed capability, shift to a bounded, alternative question with clear acceptance criteria based on direct textual citation and avoid speculative generalization about internal mechanisms or response patterns without explicit support in the source material.
 - orchestrator: Memory superiority without external validation must be grounded in observable, non-feature-based indicators directly cited in empirical literature prior to being considered valid evidence of intrinsic capability.'
 - manager setup: In research-only investigations, when no evidence supports a claimed capability, shift to a bounded, alternative question with clear acceptance criteria centered on direct textual citation and avoid speculative generalization about intrinsic mechanisms without explicit literary support.'
 - planner: In research-only investigations, when no evidence supports a claimed capability, shift to a bounded, alternative question with clear acceptance criteria based on direct textual citation and avoid speculative generalization about intrinsic memory mechanisms beyond what is explicitly or implicitly described in the source text.'
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, when no direct evidence exists in a source, revise the research question to require only a single, explicit, and unambiguous textual citation to ensure feasibility and alignment with available data
 - deliverable review: In research-only investigations, when no direct evidence exists in a source, revise the question to require only a single, explicit, and unambiguous textual citation to ensure feasibility and alignment with available data
 - manager final: In research-only investigations, when no direct evidence exists, revise the question to require only a single, explicit, and unambiguous textual citation to ensure feasibility and alignment with available data
+- orchestrator: Always require direct textual citation for claims of implicit memory; avoid indirect or inferential language in research queries to prevent unanswerable or hallucinated outcomes.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
