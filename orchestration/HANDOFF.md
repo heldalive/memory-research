@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790416703217-52a1de
-
-No explicit evidence of non-feature-based response pattern stability exists in Kumar et al., 2024, Section 5.1, and no observable indicator such as lexical or syntactic repetition is defined or correlated with query iteration beyond the absence of such claims in
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.1 for any implicit or contextual inference about response pattern stability across repeated queries without feature vectors or external validation; if present, define one observable, non-feature-based indicator such as lexical consistency or syntactic repetition that directly correlates with query iteration
-
-Limits: After two review cycles, the source material contains no explicit description of response pattern stability across repeated queries without feature vectors or external validation. No observable, non-feature-based indicator like lexical consistency or syntactic repetition is defined or linked to query iteration. The gap remains unaddressed and must be formally acknowledged. A bounded revision is requested to explore whether any implicit or contextual inference in the text could support such a mechanism, pending direct evidence from the source text itself. This does not constitute a finding but confirms the absence of the requested evidence and the need for clarification before proceeding to new inquiry.
-
 ## research-cloud-1790418438930-9dfce6
 
 No explicit or implicit evidence of long-term state persistence without decay exists in Kumar et al., 2024, Section 4.1 under stable, low-variation input conditions, and thus the claim of superior memory management remains unsubstantiated and speculative.
@@ -35,3 +27,11 @@ No direct evidence of query response coherence or non-feature-based indicators e
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.2 for any explicit or implicit description of user-perceived response consistency across iterations under identical input conditions without feature vectors or external validation; define one observable, non-feature-based indicator such as temporal alignment or narrative flow that is directly cited in the text
 
 Limits: After two independent reviews confirm the absence of any explicit or implicit description of response coherence, semantic continuity, or factual consistency in agent memory across iterations without feature vectors or external validation, the objective cannot be met with current evidence. The research remains bounded by the lack of directly cited, observable indicators in the source text. A revised, bounded inquiry is required to avoid speculative extrapolation beyond the source's explicit claims and to maintain scientific integrity in research-only investigations. The next task must reframe the question to focus on a distinct, observable behavior not previously considered in the literature context.
+
+## research-cloud-1790423681674-4edf14
+
+No direct or implicit evidence of internal state coherence in agent memory without external cues exists in Kumar et al., 2024, Section 2.4, and no observable, non-feature-based indicator is cited in the text.
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 2.4 for any explicitly observed behavioral continuity across query iterations in the absence of external memory cues or feature vectors; if present, define one observable, non-feature-based indicator such as consistent query rephrasing or repeated thematic anchoring that is directly cited in the text
+
+Limits: After two review cycles, the source material contains no explicit or implicit description of internal state coherence across query iterations in the absence of external memory cues. The requested indicator such as metacognitive consistency or self-referential repetition is not present in the cited section. The inquiry must be revised to focus exclusively on directly observed, explicitly cited behavioral continuities without inference or extrapolation. This confirms the need for a bounded, text-anchored revision to preserve research integrity and avoid speculative claims.
