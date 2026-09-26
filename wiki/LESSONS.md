@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence necessitates immediate revision to maintain scientific rigor and avoid speculative interpretations.'
 - deliverable review: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - manager final: When investigating agent memory mechanisms, all claims must be strictly anchored in explicit, directly cited source content; absence of such evidence necessitates immediate revision to avoid speculative or inferred conclusions and maintain scientific rigor, regardless of the perceived plausibility of the phenomenon being studied.
 - orchestrator: Memory mechanisms without feature vectors must be grounded in explicitly cited, observable response patterns rather than assumed continuity or implicit state propagation.
@@ -40,5 +39,6 @@
 - manager setup: All claims about agent memory mechanisms without empirical support must be strictly confined to explicitly cited, observable behaviors in source text to preserve scientific integrity and prevent speculative interpretation.
 - planner: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - plan review: Claims about agent memory mechanisms without explicit, directly cited evidence in source text must be revised to prevent speculative interpretation and maintain scientific rigor in research-only investigations.'
+- manager plan: All claims about agent memory mechanisms in research-only investigations must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
