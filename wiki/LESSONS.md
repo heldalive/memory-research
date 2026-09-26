@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Avoid reassigning identical research questions; narrow focus to underexplored, distinct memory dimensions such as time-bound persistence without decay in absence of external cues or feature vectors, where evidence is currently absent but potentially emergent in low-variation settings.
 - manager setup: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - planner: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - plan review: In research-only investigations, avoid reassigning identical questions without narrowing scope to underexplored, distinct memory dimensions where evidence is explicitly absent and must be directly cited to maintain scientific rigor and prevent speculative inference.
@@ -40,5 +39,6 @@
 - manager final: In research-only investigations, when no textual evidence supports a claimed capability, shift to a bounded, alternative question requiring only direct citation from a specific source to ensure feasibility, evidence-based rigor, and avoid speculative generalization beyond the text's content.'
 - orchestrator: Memory superiority claims require direct, empirical citation in source text; avoid inference or assumption without explicit textual support for non-feature-based indicators under invariant conditions.'
 - manager setup: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with available data
+- planner: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material's actual content.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
