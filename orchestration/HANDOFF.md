@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790399703634-fd34a4
-
-No explicit or observable proxy indicators for internal memory validation and coherence maintenance are reported in Kumar et al., 2024, Section 4.1 under stable, low-variation input conditions without predefined feature vectors.
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of observable, non-feature-based proxy indicators of internal memory validation and coherence maintenance under stable, low-variation input conditions without predefined feature vectors; define at least three distinct, measurable, and non-feature-based indicators that could reflect internal memory consistency or error detection in repeated, stable queries
-
-Limits: After evaluating the provided evidence and review cycles, no direct descriptions of observable, non-feature-based proxy indicators for internal memory validation or coherence maintenance exist in the specified source. The request for self-correction mechanisms under stable input remains unfulfilled due to absence of empirical content. A bounded revision is required to shift focus from assumed mechanisms to verifiable, observable proxy indicators without overreach or speculation. This maintains scientific rigor and aligns with the need for direct source validation before claiming internal memory coherence claims. After two review cycles, the evidence remains insufficient to advance further claims without additional data retrieval or contextual clarification.
-
 ## research-cloud-1790401337552-81db64
 
 No verifiable evidence exists for memory binding mechanisms that integrate temporal context without feature extraction, and no non-feature-based indicators of contextual coherence are reported in Kumar et al., 2024, Section 4.1.
@@ -35,3 +27,11 @@ No explicit, measurable, non-feature-based indicators of memory persistence unde
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory persistence mechanisms under stable, low-variation input conditions without predefined feature vectors or vector-based representations; define at least three distinct, measurable, and non-feature-based indicators that could proxy for state continuity across repeated queries without decay, limited to only those explicitly described in the text and directly
 
 Limits: The evidence confirms that Kumar et al., 2024, Section 4.1 does not define distinct, measurable, non-feature-based indicators for state continuity under stable input conditions. While it describes Oracle Agent Memory's lifecycle and recovery of user facts, these are not presented as independent, testable proxies for persistence without feature vectors. The absence of such indicators constitutes a gap in the source, and no verifiable, non-feature-based metrics are available to proxy state continuity across repeated queries under low variation and stable conditions as requested. A bounded revision is necessary to restrict claims to only those explicitly described and measurable in the text.
+
+## research-cloud-1790407076569-414ae3
+
+No verifiable evidence exists in Kumar et al., 2024, Section 4.1 for self-correction mechanisms in response to internal inconsistency during repeated queries without external supervision or feature vectors.
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of self-correction indicators in repeated queries without feature vectors or external supervision; define at least two distinct, observable, non-feature-based behaviors that reflect internal consistency and are directly cited in the text
+
+Limits: After two independent reviews confirm the absence of explicit descriptions for self-correction mechanisms based on internal inconsistency detection in repeated queries, the scope is bounded to only directly cited, observable indicators of self-correction as described in the text. No such indicators are present, and all claims remain unsupported due to lack of explicit textual grounding. The evidence does not validate the proposed mechanisms, necessitating a revised, strictly text-based inquiry with no assumptions beyond direct citation and observability.
