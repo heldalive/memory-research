@@ -2,7 +2,7 @@
   "id": "research-cloud-1790380981287-584000",
   "branch": "manager/research-cloud-1790380981287-584000",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of semantic or content-based similarity mechanisms in memory encoding under low-variation input conditions; if any exist, define the minimal set of features or feature vectors that trigger a detectable clustering response as an anchor for content-driven memory organization claims",
-  "stage": "planner",
+  "stage": "plan_review",
   "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
@@ -29,6 +29,11 @@
     {
       "id": "research-cloud-1790380981287-584000-5-manager-plan",
       "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790380981287-584000-6-planner",
+      "role": "planner",
       "status": "completed"
     }
   ],
