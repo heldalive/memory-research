@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal proxy indicators before advancing to claims of internal validation or coherence maintenance under specific conditions, ensuring empirical rigor and avoiding speculative inference from indirect or inferred
 - researcher: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal proxy indicators before advancing to claims of internal validation or coherence maintenance.'
 - deliverable review: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal proxy indicators before advancing to claims of internal validation or coherence maintenance
 - manager final: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal, observable proxy indicators before advancing to claims of internal validation or coherence maintenance, especially in the absence of explicit reporting on such mechanisms or metrics in the primary
@@ -40,5 +39,6 @@
 - researcher: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content in a specific context does not imply nonexistence of research, and must be distinguished from a lack of evidence in the current sources, especially when alternative
 - deliverable review: When evaluating claims about memory mechanisms, assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a bounded revision to avoid overreach and unsupported generalizations.'
 - manager final: When evaluating memory mechanisms without feature vectors, all claims must be strictly anchored in explicit, step-by-step, verifiable source descriptions; absence of such descriptions necessitates a bounded revision to prevent overreach and maintain evidentiary integrity without assumption
+- researcher: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content in a specific context does not imply nonexistence of related mechanisms but necessitates a bounded revision to avoid unsupported generalization and overreach
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
