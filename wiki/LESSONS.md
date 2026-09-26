@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised.'
 - manager final: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - orchestrator: Memory claims without verifiable, direct textual evidence in source material must be constrained to avoid false positive inferences from absence of decay in observed behavior patterns alone, especially under invariant input conditions and no external prompts or vectors.
 - manager setup: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
@@ -40,5 +39,6 @@
 - manager final: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed, and the next research question must reflect a different, testable hypothesis grounded in available
 - orchestrator: Memory superiority in multi-turn interactions cannot be inferred from absence of explicit prompts; empirical evidence of implicit state evolution is required before claiming emergent behavior exists in the system design space, regardless of theoretical appeal or surface-level plausibility.
 - manager setup: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim, direct evidence from the source text; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation or inference can proceed, and no claims of emergent memory mechanisms may be made without
+- planner: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed and no inferences about memory dynamics may be made without explicit textual support from the source
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
