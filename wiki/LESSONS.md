@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: In research-only investigations, when no evidence exists for a proposed memory property, the absence must be formally documented and the investigation must advance to a new, bounded dimension of inquiry without speculative extension or reiteration of prior claims to preserve scientific rigor and prevent cognitive bias in agent design evaluation
 - researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - deliverable review: In research-only investigations, avoid speculative interpretations of memory behavior; all claims must be strictly grounded in directly cited, observable behaviors within the source text to maintain scientific rigor and prevent false inferences from absent evidence or indirect references.'
 - manager final: In research-only investigations, when no evidence exists for a proposed memory property, the absence must be formally documented and the inquiry must shift to a bounded, testable alternative without speculative extension or assumption
@@ -40,5 +39,6 @@
 - plan review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility and empirical grounding without inference or assumption beyond the text's explicit claims.'
 - manager plan: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material exclusively without inference or assumption beyond what is explicitly stated or cited
 - planner: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material alone.
+- plan review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility and empirical grounding without inference
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
