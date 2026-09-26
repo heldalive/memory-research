@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790443514862-0558e0
-
-The investigation into memory retention mechanisms in Kumar et al., 2024, Section 4.1 remains unresolved due to absence of verbatim source evidence for reported duration of state persistence without detectable decay under stable input conditions.
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for any explicit description of memory retention mechanisms and reported duration of state persistence without detectable decay under stable, low-variation input conditions
-
-Limits: No verbatim evidence exists in the provided sources to support claims about memory retention mechanisms or the duration of state persistence without decay under low-variation input. Despite relevant architectural descriptions and attack analyses, the specific query regarding persistence duration and decay resistance lacks explicit documentation in Section 4.1. A bounded revision is required to retrieve and inspect the section directly before any evaluation can proceed. The current evidence set is insufficient to validate or refute the claim of no detectable decay in memory state under stable conditions.
-
 ## research-cloud-1790445008522-32a0b5
 
 No verifiable evidence of memory coherence under adversarial inputs without external prompts or session restarts exists in Kumar et al., 2024, Section 5.1, and the claim remains unverified due to lack of direct textual inspection.
@@ -35,3 +27,11 @@ No explicit verbatim evidence exists for implicit memory update triggers in resp
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit, verbatim description of implicit memory update triggers in response to user feedback without external prompts or session restarts, focusing exclusively on non-sequential input patterns
 
 Limits: After two reviews confirm the absence of any explicit, direct textual description of implicit memory update triggers in Kumar et al., 2024 Section 3.3 under non-external conditions, including temporal input patterns, the query must be bounded to a single, verifiable sub-pattern. The current request lacks foundation in the source text, and no mechanism is described in real-time or in response to user feedback without intervention. A focused revision is required to avoid further failure in identifying verifiable triggers in the provided document.
+
+## research-cloud-1790449856132-396ae4
+
+No explicit, verbatim evidence exists in Kumar et al., 2024, Section 3.3 for implicit memory update triggers in response to non-sequential input patterns without external prompts or session restarts; the query must be bounded and concretized for ver
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit, verbatim description of implicit memory update triggers in response to a user input pattern consisting of two disjointed messages: 'I forgot my password' followed by 'I need help resetting it' without external prompts or session restarts
+
+Limits: After two review cycles confirm the absence of explicit, verbatim descriptions of implicit memory update triggers in response to syntactically or temporally non-sequential user input patterns without external prompts or session restarts, the investigation remains unvalidated. The source material does not specify such triggers, and no mechanism is described in direct alignment with the requested conditions. A bounded revision is required to isolate a concrete, testable input pattern for retrieval and inspection without inference or assumption. The current query lacks structural specificity and fails to enable verifiable source inspection under research-only constraints.
