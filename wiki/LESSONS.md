@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption to preserve scientific rigor and integrity of the source
 - manager final: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
 - researcher: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
 - deliverable review: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
@@ -40,5 +39,6 @@
 - manager final: In research-only investigations, when no textual evidence supports a claimed capability, revise the research question to require only direct, explicit, and unambiguous citation from the source to ensure feasibility, evidence-based rigor, and alignment with the provided data
 - orchestrator: Memory superiority claims require explicit, direct textual citation of persistent internal states under invariant conditions; absence of such evidence invalidates claims of advanced memory mechanisms without empirical grounding in primary sources.
 - manager setup: In research-only investigations, when no empirical evidence supports a claimed capability, revise the question to require only direct, explicit, and unambiguous textual citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with available data
+- planner: In research-only investigations, when no empirical evidence supports a claimed capability, revise the research question to require only direct, explicit, and unambiguous textual citation from the source to ensure feasibility and alignment with available data, avoiding speculative or inferential conclusions.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
