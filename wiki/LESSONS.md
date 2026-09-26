@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: In research-only investigations, a question must be bounded by direct, verifiable source evidence and cannot rely on implicit or speculative inferences without explicit textual support in the source material for empirical validation of internal mechanisms without external anchoring signals.
 - manager plan: In research-only investigations, when no evidence is found after two plan reviews, the inquiry must advance to a bounded, evidence-based conclusion and record unresolved limits without speculative extension or assumption of internal mechanisms without direct textual support in the source material.
 - researcher: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question with clear acceptance criteria centered on direct textual citation to preclude speculative inferences without empirical support in the source material.'
 - deliverable review: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question with clear acceptance criteria centered on direct textual citation to avoid speculative or unverifiable claims about internal mechanisms or response patterns.'
@@ -40,5 +39,6 @@
 - manager plan: In research-only investigations, when no direct evidence exists in a source, revise the question to require only a single, explicit, and unambiguous textual citation to ensure feasibility and alignment with available data
 - researcher: In research-only investigations, when no direct evidence exists in a source, revise the research question to require only a single, explicit, and unambiguous textual citation to ensure feasibility and alignment with available data
 - deliverable review: In research-only investigations, when no direct evidence exists in a source, revise the question to require only a single, explicit, and unambiguous textual citation to ensure feasibility and alignment with available data
+- manager final: In research-only investigations, when no direct evidence exists, revise the question to require only a single, explicit, and unambiguous textual citation to ensure feasibility and alignment with available data
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
