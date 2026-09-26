@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790357358303-dcd899
-
-No explicit memory encoding mechanisms in response to structured temporal input patterns are reported in Kumar et al., 2024, Section 4.1, and thus claims of time-bound encoding remain unverified and unsupported by evidence.
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory encoding mechanisms in response to structured temporal input patterns under known perturbations; if any exist, define the minimal sequence length or temporal pattern that triggers a detectable encoding event as an anchor for state coherence claims. If no such mechanisms are found, propose a different research question on how memory is maintained across
-
-Limits: After two review cycles and comprehensive inspection of available sources, no textual evidence confirms the existence of detectable memory encoding triggered by structured temporal input or perturbations. The section describes retention and attack vulnerabilities but fails to define a minimal sequence length or temporal pattern that induces encoding. Without such explicit reporting, assertions of state coherence through temporal encoding cannot be validated and must be reframed as retention-based claims. A bounded revision is requested to retrieve and inspect the target section for explicit descriptions of encoding mechanisms under defined perturbations; if any exist, define the minimal sequence length or temporal pattern that triggers a detectable event as an anchor for state coherence claims. This remains a critical gap in the current evidence base for agent memory systems.
-
 ## research-cloud-1790359169800-91fee2
 
 No evidence exists for temporal input patterns inducing detectable shifts in state coherence in agent memory as described in Kumar et al., 2024, Section 4.1
@@ -35,3 +27,11 @@ No verifiable evidence exists for memory retention mechanisms or state persisten
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory retention mechanisms and any reported duration of state persistence without detectable decay under stable, low-variation input conditions; if unavailable, define a bounded set of criteria for what constitutes sufficient evidence of memory persistence before proceeding to comparative evaluation
 
 Limits: After two review cycles, the evidence base contains no explicit descriptions of memory retention mechanisms or reported durations of state persistence without decay under stable input. The absence of temporally structured, measurable data prevents any claim of superiority in memory management. A bounded revision is required to define clear, testable criteria for what constitutes sufficient evidence before further evaluation can proceed. The current research question remains unanswerable due to missing temporal and contextual data in the source material.
+
+## research-cloud-1790364432024-d68c68
+
+No explicit memory retrieval mechanisms under contextual perturbations are reported in Kumar et al., 2024, Section 4.1, and thus a bounded minimal operational definition of retrieval-based memory integrity is necessary to proceed with credible claims of superiority
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory retrieval mechanisms under contextual perturbations such as session interruption or environmental noise; if any exist, define the conditions (e.g., perturbation type, magnitude, timing) and associated metrics (e.g., fidelity, latency) that trigger a detectable retrieval response as an anchor for memory robustness claims; if none exist, propose a
+
+Limits: After two review cycles, the evidence confirms the absence of any described memory retrieval mechanisms triggered by contextual perturbations such as session interruption or noise. While retrieval is acknowledged in the memory lifecycle with associated metrics like latency and recall, no conditions (perturbation type, magnitude, timing) or performance indicators are linked to detectable retrieval events. This absence necessitates a minimal, bounded operational definition for memory robustness claims, anchored in observable recall performance under defined perturbation conditions. The current data does not support superiority claims without such anchoring criteria. A different, more focused research question is now required to advance the inquiry meaningfully without overreaching the available evidence.
