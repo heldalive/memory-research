@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All claims about memory coherence under temporal perturbations must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires refinement to focus on observable, definable thresholds without inference beyond the text's scope.'
 - deliverable review: All claims about memory coherence under temporal perturbations must be strictly bounded by explicit, verifiable mechanisms in primary sources; absence of such mechanisms requires revision to focus on observable, definable thresholds as a proxy for contextual resilience
 - manager final: All claims about memory mechanisms under perturbation must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such descriptions necessitates a shift to observable, definable thresholds as a minimal proxy for contextual resilience claims without extrapolation or inference beyond the text's scope and evidence
 - orchestrator: Memory superiority claims require observable, non-arbitrary sequence continuity under slow change; absence of such in prior work necessitates new empirical thresholds for temporal coherence validation without assumed mechanisms behind them.
@@ -40,5 +39,6 @@
 - deliverable review: When evaluating memory mechanisms in agent systems, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inferences.'
 - manager final: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve fidelity and avoid unfounded inference
 - orchestrator: Temporal memory claims without explicit feature vectors require direct empirical evidence of sequence-level coherence under stable conditions; absence of such evidence must be acknowledged as a limitation in proxy construction for resilience or persistence claims.
+- manager setup: When evaluating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
