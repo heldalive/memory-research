@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption, preserving scientific rigor and integrity of the source material analysis.'
 - plan review: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption, preserving scientific rigor and integrity of the source material and preventing false claims of autonomous memory systems in agents without empirical support.
 - manager plan: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension to preserve scientific integrity and prevent false claims of agent memory superiority.
 - researcher: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption, preserving scientific rigor and integrity of the source material
@@ -40,5 +39,6 @@
 - deliverable review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility and empirical grounding without inference
 - manager final: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with empirical content without extrapolation or inference beyond the text's explicit claims.'
 - researcher: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source content.'
+- deliverable review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the provided content alone without inference or external assumptions.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
