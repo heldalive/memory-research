@@ -2,8 +2,8 @@
   "id": "research-cloud-1790416703217-52a1de",
   "branch": "manager/research-cloud-1790416703217-52a1de",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.1 for any explicit description of response pattern stability across repeated queries without feature vectors or external validation; if present, define one observable, non-feature-based indicator such as lexical consistency or syntactic repetition that directly correlates with query iteration",
-  "stage": "plan_review",
-  "planReviews": 0,
+  "stage": "manager_plan",
+  "planReviews": 1,
   "deliverableReviews": 0,
   "instances": [
     {
@@ -24,6 +24,11 @@
     {
       "id": "research-cloud-1790416703217-52a1de-3-planner",
       "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790416703217-52a1de-4-plan-review",
+      "role": "plan_review",
       "status": "completed"
     }
   ],
