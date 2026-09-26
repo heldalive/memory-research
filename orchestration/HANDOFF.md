@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790362484952-9ef9a5
-
-No verifiable evidence exists for memory retention mechanisms or state persistence duration under stable, low-variation input conditions in Kumar et al., 2024, Section 4.1, leaving the claimed baseline for memory superiority ungrounded and unsupported.
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory retention mechanisms and any reported duration of state persistence without detectable decay under stable, low-variation input conditions; if unavailable, define a bounded set of criteria for what constitutes sufficient evidence of memory persistence before proceeding to comparative evaluation
-
-Limits: After two review cycles, the evidence base contains no explicit descriptions of memory retention mechanisms or reported durations of state persistence without decay under stable input. The absence of temporally structured, measurable data prevents any claim of superiority in memory management. A bounded revision is required to define clear, testable criteria for what constitutes sufficient evidence before further evaluation can proceed. The current research question remains unanswerable due to missing temporal and contextual data in the source material.
-
 ## research-cloud-1790364432024-d68c68
 
 No explicit memory retrieval mechanisms under contextual perturbations are reported in Kumar et al., 2024, Section 4.1, and thus a bounded minimal operational definition of retrieval-based memory integrity is necessary to proceed with credible claims of superiority
@@ -35,3 +27,11 @@ No verifiable evidence exists for emergent pattern formation or clustering in lo
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of emergent pattern formation or clustering in low-variation input sequences without predefined feature vectors; if any exist, define the minimal set of observable sequence characteristics that trigger detectable clustering as a proxy for emergent memory encoding mechanisms
 
 Limits: After two review cycles confirming absence of evidence in available sources, the task remains unanswerable without retrieval of the primary text. The minimal set of observable sequence characteristics that could trigger detectable clustering in such settings must be defined as a bounded operational proxy for emergent memory encoding. A focused search is required to retrieve and inspect the specified section of Kumar et al., 2024, to establish empirical grounding for the investigation. The current evidence standard is insufficient to support claims of emergent memory mechanisms without explicit, verifiable descriptions in primary sources.
+
+## research-cloud-1790385048106-815df2
+
+The inquiry into memory coherence under temporal perturbations lacks explicit support in Kumar et al., 2024, Section 4.1 and must be reframed to focus on observable, definable thresholds as a proxy for contextual resilience without inferring mechanisms beyond the
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of observable sequence disruptions that trigger detectable state recovery in the absence of predefined feature vectors; if any exist, define the minimal set of such disruptions as a proxy for contextual resilience without inference
+
+Limits: After two review cycles confirm the absence of explicit descriptions of memory coherence mechanisms or defined sequence disruptions in Kumar et al., 2024, Section 4.1, the original question cannot be answered with evidence-based rigor. The evidence shows no account of how memory maintains coherence under subtle input alterations or identifies minimal disruptions triggering detectable state recovery. A bounded revision is required to shift focus to observable, definable thresholds as a proxy for contextual resilience, strictly grounded in explicit textual claims and avoiding inference beyond the text's scope. This ensures the inquiry remains evidence-based and defensible under strict source constraints.
