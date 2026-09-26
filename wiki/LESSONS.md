@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such requires a shift to bounded, threshold-based validation of temporal coherence without inferential or structural assumptions.'
 - plan review: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation of temporal coherence without relying on inference or external assumptions.'
 - manager plan: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation of temporal coherence and state consistency without structural assumptions.
 - researcher: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable sequence-level indicators in primary sources; absence of such requires a shift to bounded, threshold-based validation of temporal coherence without relying on unobserved structural assumptions.
@@ -40,5 +39,6 @@
 - plan review: A bounded investigation into agent memory mechanisms must be grounded in direct, explicit textual evidence from primary sources before proceeding to avoid speculative or unfounded conclusions.
 - manager plan: When evaluating agent memory mechanisms, a bounded inquiry must be grounded in direct, explicit textual evidence from primary sources before proceeding to avoid speculative or unfounded conclusions and ensure fidelity to the source material.'
 - researcher: When investigating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference or speculation.'
+- deliverable review: A bounded inquiry into agent memory mechanisms must be restricted to direct, explicit textual evidence from primary sources to avoid unfounded inferences and ensure source fidelity in research-phase evaluations.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
