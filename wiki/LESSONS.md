@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All claims about agent memory mechanisms in research-only investigations must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity.
 - planner: All claims about agent memory mechanisms in research-only investigations must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity and fidelity to evidence found in primary sources only.
 - plan review: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor and fidelity to evidence found in the text alone.'
 - manager plan: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity and fidelity to evidence found in the original document.
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - deliverable review: In research-only investigations, avoid speculative interpretations of memory behavior; all claims must be strictly grounded in directly cited, observable behaviors within the source text to maintain scientific rigor and prevent false inferences from absent evidence or indirect references.'
 - manager final: In research-only investigations, when no evidence exists for a proposed memory property, the absence must be formally documented and the inquiry must shift to a bounded, testable alternative without speculative extension or assumption
+- orchestrator: Memory coherence without external validation requires explicit, observable indicators in empirical literature; absence of such evidence limits claims of autonomous memory systems in current research frameworks.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
