@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: In research-only investigations, require a single, explicit, verbatim citation from source text to validate claims of persistent behavior; avoid interpretive or inferential assertions without direct textual support to maintain accuracy and prevent hallucination.'
 - planner: In research-only investigations, require a single, explicit, verbatim citation from source text to validate claims of persistent behavior; avoid interpretive or inferential assertions without direct textual support to maintain accuracy
 - plan review: In research-only investigations, a single, explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised to meet evidentiary standards briefly
 - manager plan: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised or advanced only after confirmation of empirical evidence exists in the data set and is directly attributable
@@ -40,5 +39,6 @@
 - planner: In research-only investigations, all claims about persistent or implicit behavior must be anchored to a single, verbatim citation from the source text; absence of such evidence requires a bounded, conditionally defined inquiry to prevent overreach and maintain methodological integrity.'
 - plan review: In research-only investigations, a narrow, verbatim-bound inquiry is essential; absence of source content or evidence requires immediate retrieval and inspection before any claims about memory or persistence can be evaluated or reported responsibly.'
 - manager plan: In research-only investigations, a bounded, verbatim-based inquiry is essential; absence of source content invalidates claims about memory or persistence, requiring immediate retrieval before any evaluation can occur and preventing unsupported inferences or generalizations.
+- researcher: In research-only investigations, claims about memory behavior must be strictly anchored to verbatim source content; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed, regardless of the specificity or feasibility of the inquiry.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
