@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content in a specific context does not imply nonexistence of research, and must be distinguished from a lack of evidence in the current sources, especially when alternative
 - deliverable review: When evaluating claims about memory mechanisms, assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a bounded revision to avoid overreach and unsupported generalizations.'
 - manager final: When evaluating memory mechanisms without feature vectors, all claims must be strictly anchored in explicit, step-by-step, verifiable source descriptions; absence of such descriptions necessitates a bounded revision to prevent overreach and maintain evidentiary integrity without assumption
 - researcher: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content in a specific context does not imply nonexistence of related mechanisms but necessitates a bounded revision to avoid unsupported generalization and overreach
@@ -40,5 +39,6 @@
 - deliverable review: When evaluating agent memory mechanisms, prioritize direct, cited, and observable signals in source text over abstract or inferred constructs; absence of explicit evidence necessitates narrowing to directly verifiable, traceable indicators
 - manager final: When investigating agent memory mechanisms, prioritize bounded, directly observable indicators grounded in explicit source citations; absence of such evidence necessitates reframing the research question to focus on verifiable, traceable phenomena in dialogue dynamics without speculative or abstract constructs.
 - researcher: When evaluating agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope reduction to directly cited, observable, and traceable indicators with empirical ground
+- deliverable review: When evaluating agent memory mechanisms, prioritize direct, cited, and observable signals in source text over abstract or inferred constructs; absence of explicit evidence necessitates narrowing to directly verifiable, traceable indicators grounded in explicit source citations and empirical grounding within the text itself.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
