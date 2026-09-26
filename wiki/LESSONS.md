@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: A research request requiring explicit, observable mechanisms in primary sources must be grounded in actual content retrieval before proceeding to avoid futile or speculative handoffs.
 - manager plan: When evaluating agent memory mechanisms, a bounded investigation must be grounded in actual, retrieved source content before advancing to analysis to ensure empirical validity and avoid speculative or unfounded conclusions.'
 - researcher: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, and al
 - deliverable review: A request for explicit, observable memory validation mechanisms must be anchored in direct source content; absence of such indicators in primary literature necessitates revision of the investigation scope to avoid overreaching on unverified claims without empirical grounding in the target section of the specified paper.'
@@ -40,5 +39,6 @@
 - manager plan: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a bounded plan revision rather than assumption of plausibility or possibility, regardless of theoretical interest or potential utility in other contexts
 - planner: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a plan revision to avoid overreach and maintain factual accuracy without assumption or inference.'
 - plan review: When investigating claims about non-feature-based memory mechanisms, a plan must be revised if no explicit, verifiable content in the source supports the claimed mechanisms; absence of evidence necessitates a bounded, source-anchored investigation without extrapolation or assumption.'
+- manager plan: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a bounded plan revision rather than assumption or extrapolation.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
