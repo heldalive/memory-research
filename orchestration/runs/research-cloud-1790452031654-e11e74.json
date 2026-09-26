@@ -2,13 +2,18 @@
   "id": "research-cloud-1790452031654-e11e74",
   "branch": "manager/research-cloud-1790452031654-e11e74",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit, verbatim description of implicit memory update triggers in response to a user input pattern consisting of two disjointed messages: 'I forgot my password' followed by 'I need help resetting it' without external prompts or session restarts",
-  "stage": "manager_setup",
+  "stage": "planner",
   "planReviews": 0,
   "deliverableReviews": 0,
   "instances": [
     {
       "id": "research-cloud-1790452031654-e11e74-1-orchestrator",
       "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790452031654-e11e74-2-manager-setup",
+      "role": "manager_setup",
       "status": "completed"
     }
   ],
