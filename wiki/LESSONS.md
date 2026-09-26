@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Memory superiority without feature extraction requires verifiable, non-vector-based indicators of persistence under stable conditions; such indicators must be independently observable and repeatable without downstream task dependency.
 - manager setup: When evaluating claims about non-feature-based memory encoding, all assertions must be directly supported by explicit content in the specified source section; without such evidence, the investigation must remain bounded and deferred to verifiable, text-based observations only.'
 - planner: When investigating non-feature-based memory mechanisms, all claims must be directly supported by explicit, verifiable content in the source; without such evidence, the investigation must be revised to reflect the absence of the proposed mechanisms and avoid speculative or assumed continuities without grounding in primary text claims.'
 - plan review: When investigating non-feature-based memory mechanisms, a plan must be revised if no explicit, verifiable content in the source supports the claimed mechanisms; absence of evidence is not equivalent to absence of possibility but constitutes a factual boundary for research scope and feasibility in research-only phase.
@@ -40,5 +39,6 @@
 - deliverable review: When evaluating claims about agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope reduction to directly cited and observable indicators with traceable textual evidence and clear persistence across query iterations, avoiding assumptions based on architectural
 - manager final: When evaluating claims about agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope reduction to directly cited, observable, and traceable indicators with clear textual grounding
 - orchestrator: Memory mechanisms without feature vectors must be probed through dialogue-level continuity signals rather than abstract or vector-based proxies when empirical evidence is absent in primary sources.
+- manager setup: When evaluating agent memory mechanisms, prioritize direct, cited, and observable signals in source text over abstract or inferred constructs; absence of explicit evidence necessitates narrowing to traceable, contextually grounded indicators with clear temporal or semantic continuity claims in primary literature.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
