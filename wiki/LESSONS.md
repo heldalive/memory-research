@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data necessitates a bounded revision to clarify scope and evidence
 - planner: All claims about temporal memory dynamics in agents must be strictly grounded in explicitly reported, temporally structured events under defined perturbations; absence of such data requires a bounded revision to clarify scope and evidence
 - plan review: All claims about agent memory dynamics must be grounded in explicitly accessible and verifiable source content under defined conditions; absence of such data necessitates revision before proceeding to evaluation or inference.'
 - manager plan: All claims about agent memory dynamics must be grounded in explicitly accessible, verifiable source content under defined conditions; absence of such data necessitates a bounded revision to clarify scope and evidence before any evaluation can occur.'
@@ -40,5 +39,6 @@
 - manager final: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 - orchestrator: Memory superiority claims require empirical grounding in emergent behavior under constrained conditions, not prior-defined structures or perturbation responses.
 - manager setup: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational definition to establish evidence standards without introducing unverified assumptions or external inference chains.'
+- planner: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
