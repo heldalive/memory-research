@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: All claims about agent memory persistence must be grounded in explicit, verifiable source descriptions of retention mechanisms under defined conditions; absence of such data requires revision before evaluation can proceed.'
 - manager final: All claims about agent memory persistence must be grounded in explicit, verifiable source descriptions under defined conditions; absence of such data necessitates a bounded revision to clarify evidence requirements before any evaluation can proceed, regardless of theoretical plausibility or system design claims.'
 - researcher: All claims about agent memory persistence must be grounded in explicit, verifiable source descriptions under defined conditions; absence of such data necessitates a bounded revision to clarify evidence requirements before proceeding to evaluation or comparison.
 - deliverable review: All claims about agent memory persistence must be grounded in explicit, verifiable source descriptions under defined conditions; absence of such data requires a bounded revision to clarify evidence requirements before proceeding to evaluation or comparison.'
@@ -40,5 +39,6 @@
 - manager plan: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions beyond the source material's content or scope.
 - planner: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions
 - plan review: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions beyond the source text and without implementation or inference beyond the provided content
+- manager plan: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions beyond the source content.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
