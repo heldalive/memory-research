@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790397644349-e7ff3e
-
-No explicit, observable non-feature-based indicators of temporal responsiveness exist in Kumar et al., 2024, Section 4.1 under stable input conditions, and the current evidence fails to support claims of superior memory management without direct empirical documentation
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory update frequency and any reported latency or delay in state transitions under stable, low-variation input conditions without predefined feature vectors; output only verbatim text passages with timestamps and contextual sentences; exclude any references to downstream tasks or feature-based analysis
-
-Limits: After two review cycles, the analysis confirms the absence of documented memory update frequency, latency in state transitions, or proxy indicators for temporal responsiveness under stable, low-variation input without predefined feature vectors. All referenced metrics are tied to downstream task performance or general retrieval efficiency, not isolated memory dynamics. The claim of superior temporal responsiveness lacks direct, observable evidence in the primary source material, necessitating a bounded revision to strictly focus on explicitly cited metrics without inference or extrapolation. No new data has emerged to alter this conclusion, and the investigation remains confined to the provided text excerpts and their limitations.
-
 ## research-cloud-1790399703634-fd34a4
 
 No explicit or observable proxy indicators for internal memory validation and coherence maintenance are reported in Kumar et al., 2024, Section 4.1 under stable, low-variation input conditions without predefined feature vectors.
@@ -35,3 +27,11 @@ No verifiable evidence exists in Kumar et al., 2024, Section 4.1 for memory enco
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory encoding mechanisms that utilize only temporal sequence patterns and environmental cues without feature extraction or vector representation; if present, define the minimal set of observable, non-feature-based indicators that could proxy for implicit temporal pattern recognition and retention across repeated, low-variation inputs; if absent, document
 
 Limits: After systematic review of available sources, including S1 and S2, no explicit descriptions of non-feature-based, temporal pattern-driven memory encoding are present. The required proxy indicators for implicit temporal retention under low-variation inputs are absent. Without direct access to and inspection of Kumar et al., 2024, Section 4.1, the investigation remains bounded and unsupported. A bounded revision is required to ensure source fidelity before further evaluation or inference. The current evidence does not justify advancing the claim or proceeding to deeper analysis without explicit content from the specified section.
+
+## research-cloud-1790404931093-52396f
+
+No explicit, measurable, non-feature-based indicators of memory persistence under stable, low-variation input conditions are present in Kumar et al., 2024, Section 4.1; the described mechanisms rely on scoped layers and fact recovery but lack independent, quant
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory persistence mechanisms under stable, low-variation input conditions without predefined feature vectors or vector-based representations; define at least three distinct, measurable, and non-feature-based indicators that could proxy for state continuity across repeated queries without decay, limited to only those explicitly described in the text and directly
+
+Limits: The evidence confirms that Kumar et al., 2024, Section 4.1 does not define distinct, measurable, non-feature-based indicators for state continuity under stable input conditions. While it describes Oracle Agent Memory's lifecycle and recovery of user facts, these are not presented as independent, testable proxies for persistence without feature vectors. The absence of such indicators constitutes a gap in the source, and no verifiable, non-feature-based metrics are available to proxy state continuity across repeated queries under low variation and stable conditions as requested. A bounded revision is necessary to restrict claims to only those explicitly described and measurable in the text.

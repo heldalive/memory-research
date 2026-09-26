@@ -1,0 +1,9 @@
+# Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents
+
+[Source](https://arxiv.org/abs/2607.13157v1)
+
+abstract only.
+
+Source S2 describes Oracle Agent Memory as a database-native substrate with a defined lifecycle spanning ingestion, extraction, consolidation, retrieval, summarization, and revision, supporting state continuity across sessions through scoped memory layers and explicit recovery of user-specific facts. This structured, lifecycle-based approach provides a potential proxy for state continuity without relying on predefined feature vectors, though it does not explicitly define non-feature-based indicators of persistence under stable conditions as requested. Source S1 focuses on privacy risks in agent memory and does not address mechanisms of state retention or continuity beyond membership inference attacks. Neither source provides explicit, measurable, non-feature-based indicators of state continuity under low-variation input conditions without vector-based encoding. The evidence does not confirm or deny the existence of such mechanisms, but highlights a memory system with structured state management and retention capabilities that may inform proxy design proposals. A gap remains in direct evidence of non-feature-based indicators under stable, low-variation input conditions without vector encoding. The findings are bounded to the content of the retrieved excerpts and do not constitute a definitive answer to the requested indicators. The absence of explicit descriptions does not imply nonexistence of such mechanisms, only that they are not described in the provided excerpts. This finding should be treated as a limitation in the current evidence base, not a conclusion about the absence of research. The request for three distinct, measurable, non-feature-based indicators remains unfulfilled by the current evidence, but the architecture
+
+Agent-authored; see the linked instance and manager disposition.
