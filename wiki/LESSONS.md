@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
 - manager final: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates a bounded revision to restrict scope and avoid inference
 - researcher: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
 - deliverable review: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
@@ -40,5 +39,6 @@
 - manager final: In research-only investigations, claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence requires immediate, focused retrieval on specific textual triggers before any evaluation can proceed
 - orchestrator: Memory claims without verbatim source support must be constrained to explicit, directly cited mechanisms to prevent unfounded generalizations in research handoffs and system design assumptions.
 - manager setup: In research-only investigations, all claims about memory mechanisms must be strictly bounded to verbatim, direct textual evidence from specified source sections; absence of such evidence requires immediate, focused retrieval on precise linguistic triggers before any further evaluation or generalization can occur.'
+- planner: In research-only investigations, all claims about agent memory mechanisms must be strictly bounded to verbatim, direct textual evidence from specified source sections; absence of such evidence requires immediate, focused retrieval on precise, testable triggers before any evaluation
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
