@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed.
 - researcher: In research-only investigations, claims about agent memory behavior must be strictly grounded in verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed
 - deliverable review: In research-only investigations, claims about memory coherence under adversarial conditions must be strictly tied to explicit, verbatim source evidence; absence of such evidence necessitates immediate retrieval and inspection before evaluation can proceed.'
 - manager final: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed, and the next research question must reflect a different, testable hypothesis grounded in available
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a more specific and structurally constrained input pattern to ensure testability and alignment with available data.'
 - deliverable review: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a more specific and structurally constrained input pattern to ensure testability and alignment with available data.'
 - manager final: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a concrete, bounded, and structurally constrained input pattern to enable verifiable source inspection without assumptions or inference, ensuring testability and alignment with available text data only.
+- researcher: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a concrete, bounded, and structurally constrained input pattern to enable verifiable source inspection
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
