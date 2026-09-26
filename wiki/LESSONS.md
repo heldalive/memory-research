@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager plan: When evaluating agent memory mechanisms, a bounded inquiry must be grounded in direct, explicit textual evidence from primary sources before proceeding to avoid speculative or unfounded conclusions and ensure fidelity to the source material.'
 - researcher: When investigating agent memory mechanisms, a bounded inquiry must restrict analysis to explicitly stated, non-feature-based, and directly observable phenomena in primary sources to preserve source fidelity and avoid unfounded inference or speculation.'
 - deliverable review: A bounded inquiry into agent memory mechanisms must be restricted to direct, explicit textual evidence from primary sources to avoid unfounded inferences and ensure source fidelity in research-phase evaluations.'
 - manager final: When investigating agent memory mechanisms, a bounded inquiry must first establish explicit, primary-source evidence of the phenomenon before extending conclusions or proposing alternative interpretations to preserve research integrity and avoid unfounded inference.'
@@ -40,5 +39,6 @@
 - planner: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, and all evidence must be directly observable and conditionally verifiable without external assumptions or
 - plan review: A research request requiring explicit, observable mechanisms in primary sources must be grounded in actual content retrieval before proceeding to avoid futile or speculative handoffs.
 - manager plan: When evaluating agent memory mechanisms, a bounded investigation must be grounded in actual, retrieved source content before advancing to analysis to ensure empirical validity and avoid speculative or unfounded conclusions.'
+- researcher: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, and al
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
