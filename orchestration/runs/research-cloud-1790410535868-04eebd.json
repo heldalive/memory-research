@@ -2,7 +2,7 @@
   "id": "research-cloud-1790410535868-04eebd",
   "branch": "manager/research-cloud-1790410535868-04eebd",
   "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any description of semantic or temporal continuity in dialogue that persists across repeated queries without feature vectors or external validation; if present, define one observable, non-feature-based indicator of contextual alignment that persists across iterations",
-  "stage": "manager_final",
+  "stage": "researcher",
   "planReviews": 1,
   "deliverableReviews": 1,
   "instances": [
@@ -44,6 +44,11 @@
     {
       "id": "research-cloud-1790410535868-04eebd-7-deliverable-review",
       "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790410535868-04eebd-8-manager-final",
+      "role": "manager_final",
       "status": "completed"
     }
   ],
