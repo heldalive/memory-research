@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to advancement
 - deliverable review: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to advancement of the research inquiry.'
 - manager final: All claims about agent memory superiority must be anchored in explicit, verifiable, and conditionally defined source mechanisms; absence of such data requires a bounded, minimal operational definition to establish evidence standards prior to any comparative assertion of superiority or performance claims.
 - orchestrator: Memory superiority claims must be anchored in explicit, verifiable mechanisms rather than temporal or perturbation-based assumptions; content-based clustering offers a viable alternative path for investigation when temporal dynamics are absent or unsupported.
@@ -40,5 +39,6 @@
 - deliverable review: Claims about memory coherence under temporal perturbations must be strictly bounded by explicit, verifiable mechanisms in primary sources; absence of such mechanisms requires revision to focus on observable, definable thresholds of state recovery without inference
 - manager final: All claims about memory mechanisms under perturbation must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such descriptions necessitates a shift to observable, definable thresholds as a minimal operational proxy for resilience
 - researcher: All claims about memory coherence under temporal perturbations must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires refinement to focus on observable, definable thresholds without inference beyond the text's scope.'
+- deliverable review: All claims about memory coherence under temporal perturbations must be strictly bounded by explicit, verifiable mechanisms in primary sources; absence of such mechanisms requires revision to focus on observable, definable thresholds as a proxy for contextual resilience
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
