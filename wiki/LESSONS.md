@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - deliverable review: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of evidence for sustained state persistence without decay under stable conditions invalidates superiority assertions and necessitates a shift to evaluating implicit or contextual indicators of memory continuity instead of
 - manager final: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - orchestrator: Memory mechanisms without feature vectors must be explicitly documented in empirical text to be considered valid; absence of evidence in primary sources does not imply absence of possibility, but must be grounded in directly cited content for research validity and reproducibility in future inquiries.
@@ -40,5 +39,6 @@
 - deliverable review: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - manager final: In research-only investigations, all claims about agent memory mechanisms must be strictly bounded to directly observed, explicitly cited behaviors in the source text to avoid speculative or inferential conclusions and maintain scientific rigor and reproducibility.'
 - orchestrator: Memory superiority claims without empirical, non-feature-based evidence in controlled conditions must be treated as speculative until directly substantiated in primary sources and independently verifiable metrics are established in the literature or experiments.
+- manager setup: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
