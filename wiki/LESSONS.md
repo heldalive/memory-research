@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: In research-only investigations, when no textual evidence supports a claimed capability, revise the research question to require only direct citation from a specific source to ensure feasibility and evidence-based rigor without speculative generalization about intrinsic mechanisms beyond the text's scope and data boundaries.'
 - manager final: In research-only investigations, when no textual evidence supports a claimed capability, shift to a bounded, alternative question requiring only direct citation from a specific source to ensure feasibility, evidence-based rigor, and avoid speculative generalization beyond the text's content.'
 - orchestrator: Memory superiority claims require direct, empirical citation in source text; avoid inference or assumption without explicit textual support for non-feature-based indicators under invariant conditions.'
 - manager setup: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with available data
@@ -40,5 +39,6 @@
 - manager plan: In research-only investigations, when no direct evidence exists, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
 - researcher: In research-only investigations, require only a single, explicit, and unambiguous textual citation to ensure feasibility, data alignment, and avoidance of hallucinated or inferential outcomes.'
 - deliverable review: In research-only investigations, when no direct evidence exists in the source, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
+- manager final: In research-only investigations, when no direct evidence exists, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
