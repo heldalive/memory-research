@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager setup: In research-only investigations, a bounded inquiry into specific, observable phenomena must be confined to direct evidence in the source text; absence of evidence for a claimed capability must be formally documented and the inquiry redirected to a testable, narrowly defined alternative without speculative extension or assumption.'
 - planner: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption, preserving scientific rigor and integrity of the source material analysis.'
 - plan review: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption, preserving scientific rigor and integrity of the source material and preventing false claims of autonomous memory systems in agents without empirical support.
 - manager plan: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension to preserve scientific integrity and prevent false claims of agent memory superiority.
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with available content without unsupported inference or assumption beyond the text's explicit claims.'
 - deliverable review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility and empirical grounding without inference
 - manager final: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with empirical content without extrapolation or inference beyond the text's explicit claims.'
+- researcher: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source content.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
