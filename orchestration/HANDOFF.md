@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790426982380-02be9d
-
-No evidence of a non-feature-based memory indicator such as temporal stability or state inertia exists in Kumar et al., 2024, Section 4.2 under invariant input conditions without external validation or feature vectors. All reported memory behaviors are tied to
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.2 for any explicit or implicit description of memory decay or persistence under stable input conditions without external validation or feature vectors; define one observable, non-feature-based indicator such as temporal stability or state inertia that is directly cited in the text
-
-Limits: After two independent review cycles, the absence of any explicit or implicit description of an observable, non-feature-based memory indicator under stable input conditions remains confirmed. All cited memory mechanisms depend on structured feature vectors or external validation, ruling out emergent, behavior-based persistence independent of data representation. The investigation is bounded by the source material and cannot establish superiority of agent memory without additional evidence of such behavior. A new, bounded research question is required to explore alternative dimensions of memory observation beyond feature-dependent representations.
-
 ## research-cloud-1790428352113-3db4ab
 
 No evidence of agent self-referential consistency in response structure under invariant input conditions exists in Kumar et al., 2024, Section 3.3, and the claimed superiority in memory management lacks empirical support despite multiple independent reviews confirming
@@ -35,3 +27,11 @@ No evidence in Kumar et al., 2024, Section 2.4 supports an observable, non-featu
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 2.4 for any direct citation of an observable behavior that persists without explicit training signals or external memory prompts; define one such behavior directly cited and supported by empirical evidence from the text
 
 Limits: After reviewing the specified section and related sources, no explicit or implicit description of implicit memory inference without explicit signals exists. The requested observable behavior is not directly cited or empirically supported. A bounded revision is necessary to require only a direct citation from Kumar et al., 2024, Section 2.4 of a specific, observable behavior that persists without prompts, ensuring alignment with available text and feasibility of verification. This maintains research integrity and avoids overreach beyond the source's content.
+
+## research-cloud-1790432612828-485584
+
+No direct evidence of a persistent internal state exists in Kumar et al., 2024, Section 1.1 under stable, low-variation input conditions without explicit training or external memory prompts; the query must be revised to require only explicit, direct textual citation
+
+Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 1.1 for any direct sentence citing a persistent internal state or implicit knowledge retention mechanism under stable, low-variation input without explicit training or external memory prompts
+
+Limits: After two review cycles, no direct citation of a persistent internal state or implicit knowledge retention mechanism under invariant conditions without external cues or training is found in Kumar et al., 2024, Section 1.1. All references to memory relate to attack vectors or structured architectures, not a persistent, self-sustaining internal state. The requirement for explicit, verifiable textual citation is essential to maintain rigor and prevent inference beyond the source. A bounded revision is now mandated to ensure the research question is strictly grounded in the text's content without assumptions or extrapolation. The next task must reflect this constraint precisely and only reference direct, unambiguous statements from the source text.

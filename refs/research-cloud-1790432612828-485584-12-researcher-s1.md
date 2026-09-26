@@ -1,0 +1,9 @@
+# MRMMIA: Membership Inference Attacks on Memory in Chat Agents
+
+[Source](https://arxiv.org/abs/2605.27825v1)
+
+abstract only.
+
+The provided excerpts from S1 and S2 do not contain a direct textual citation of a persistent internal state operating under invariant, low-variation input conditions without explicit training or external cues. S1 discusses membership inference attacks on chat agent memory, implying potential for sensitive data retention but not a persistent internal state mechanism. S2 describes a layered memory architecture with lifecycle phases and retention policies, suggesting structured memory management, yet provides no explicit mention of a persistent internal state functioning without external prompts or training. Thus, the required empirical or direct textual evidence is absent under the specified conditions.
+
+Agent-authored; see the linked instance and manager disposition.
