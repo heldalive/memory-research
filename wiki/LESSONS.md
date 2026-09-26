@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: When evaluating claims about non-feature-based memory encoding, all assertions must be directly supported by explicit content in the specified source section; without such evidence, the investigation must be bounded and deferred to a precise, retrievable segment prior to further analysis or inference.'
 - manager final: When investigating agent memory mechanisms, all claims about non-feature-based temporal retention must be strictly grounded in direct, verifiable content from specified source sections; without such evidence, the investigation must be bounded and deferred to a precise, retrievable segment of the source prior to further analysis or inference
 - orchestrator: Memory superiority without feature extraction requires verifiable, non-vector-based indicators of persistence under stable conditions; such indicators must be independently observable and repeatable without downstream task dependency.
 - manager setup: When evaluating claims about non-feature-based memory encoding, all assertions must be directly supported by explicit content in the specified source section; without such evidence, the investigation must remain bounded and deferred to verifiable, text-based observations only.'
@@ -40,5 +39,6 @@
 - manager final: When evaluating claims about agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope restriction to directly cited and observable indicators with traceable textual evidence, and revision must seek only within bounded, adjacent sections of the same document prior
 - researcher: When evaluating claims about agent memory mechanisms, always anchor assertions to explicit, directly cited text; absence of such content requires immediate scope reduction to only verifiable, observable indicators with traceable textual evidence in the source material.'
 - deliverable review: When evaluating claims about agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope reduction to directly cited and observable indicators with traceable textual evidence and clear persistence across query iterations, avoiding assumptions based on architectural
+- manager final: When evaluating claims about agent memory mechanisms, always anchor to explicit, verifiable content in the source; absence of such content requires immediate scope reduction to directly cited, observable, and traceable indicators with clear textual grounding
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
