@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introduction of speculative or inferred mechanisms.'
 - manager final: All claims about emergent memory mechanisms must be strictly bounded by explicit, verifiable descriptions in primary sources; absence of such data requires a minimal operational framework to establish evidence standards without introducing assumptions or inference
 - orchestrator: Memory superiority claims require verifiable mechanisms under perturbed conditions; absence of evidence for coherence under change necessitates defining minimal thresholds for detectable resilience before comparative evaluation can proceed effectively and fairly.
 - manager setup: All claims regarding memory mechanisms under perturbation must be strictly anchored in explicit, verifiable descriptions within primary sources; absence of such descriptions necessitates a minimal operational framework for defining evidence standards without extrapolation or assumption of emergent behavior beyond textual support.'
@@ -40,5 +39,6 @@
 - planner: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable, non-feature-based, and observable indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation without inference
 - plan review: When evaluating memory mechanisms in agent systems, a bounded, source-restricted inquiry must prioritize direct, non-feature-based, and explicitly stated evidence; absence of such requires immediate revision to avoid unfounded inferences or overreach in the absence of verifiable data points in primary sources.
 - manager plan: When evaluating memory mechanisms in agent systems, a bounded inquiry must prioritize direct, non-feature-based, and explicitly stated evidence; absence of such requires immediate revision to maintain source fidelity and avoid unfounded inferences without external assumptions or inference chains.'
+- planner: All claims about memory continuity in agent systems must be strictly anchored to explicit, verifiable, non-feature-based, and observable indicators in primary sources; absence of such necessitates a shift to bounded, threshold-based validation grounded solely in direct textual evidence without inference or external assumptions.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
