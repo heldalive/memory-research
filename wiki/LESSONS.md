@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: In research-only investigations, require only a single, explicit, and unambiguous textual citation to ensure feasibility, data alignment, and avoidance of hallucinated or inferential outcomes.'
 - deliverable review: In research-only investigations, when no direct evidence exists, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
 - manager final: In research-only investigations, when no direct evidence exists, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
 - orchestrator: Direct textual citation is required for evidence of persistent behavior; interpretive or inferential claims must be bounded by explicit, verbatim support in source material to prevent false attribution and maintain research integrity in memory research contexts with limited empirical grounding.
@@ -40,5 +39,6 @@
 - deliverable review: In research-only investigations, claims of persistent or implicit behavior require a single explicit, verbatim citation from source text; absence of such evidence mandates revision of conclusions and strict avoidance of inference
 - manager final: In research-only investigations, claims of persistent or implicit behavior must be anchored to a single explicit, verbatim citation from source text; absence of such evidence mandates a bounded revision to restrict scope and avoid inference
 - orchestrator: Memory claims without verbatim support in literature must be constrained to specific, observable phenomena with defined conditions to avoid unfounded generalizations or overreach in research design and reporting.
+- manager setup: In research-only investigations, claims about memory or persistent behavior must be strictly bounded to a single, verbatim citation from the source text; absence of such evidence requires a narrow, conditionally defined inquiry to prevent inference and overgeneralization.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
