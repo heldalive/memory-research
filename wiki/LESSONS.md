@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- deliverable review: In research-only investigations, avoid speculative interpretations of memory behavior; all claims must be strictly grounded in directly cited, observable behaviors within the source text to maintain scientific rigor and prevent false inferences from absent evidence or indirect references.'
 - manager final: In research-only investigations, when no evidence exists for a proposed memory property, the absence must be formally documented and the inquiry must shift to a bounded, testable alternative without speculative extension or assumption
 - orchestrator: Memory coherence without external validation requires explicit, observable indicators in empirical literature; absence of such evidence limits claims of autonomous memory systems in current research frameworks.
 - manager setup: In research-only investigations, a bounded inquiry into specific, observable phenomena must be confined to direct evidence in the source text; absence of evidence for a claimed capability must be formally documented and the inquiry redirected to a testable, narrowly defined alternative without speculative extension or assumption.'
@@ -40,5 +39,6 @@
 - planner: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material alone.
 - plan review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility and empirical grounding without inference
 - manager plan: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the available data
+- researcher: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with available content without unsupported inference or assumption beyond the text's explicit claims.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
