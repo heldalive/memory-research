@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- manager final: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only.
 - researcher: When evaluating agent memory mechanisms, a bounded investigation must strictly rely on explicit, primary-source evidence of temporal continuity and state persistence before proposing claims of superiority without direct textual support
 - deliverable review: Avoid inferring temporal responsiveness in agent memory without direct primary-source evidence of observable, non-feature-based indicators under stable input conditions; anchor claims to explicitly documented metrics in the source
 - manager final: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, especially when temporal responsiveness is the claimed advantage without observable, isolated evidence of
@@ -40,5 +39,6 @@
 - researcher: When investigating agent memory mechanisms, all claims about non-feature-based temporal coherence must be strictly grounded in direct, verifiable source content; without such evidence, the investigation must be deferred to a bounded, source-specific review prior to further evaluation.'
 - deliverable review: When evaluating claims about non-feature-based memory encoding, all assertions must be directly supported by explicit content in the specified source section; without such evidence, the investigation must be bounded and deferred to a precise, retrievable segment prior to further analysis or inference.'
 - manager final: When investigating agent memory mechanisms, all claims about non-feature-based temporal retention must be strictly grounded in direct, verifiable content from specified source sections; without such evidence, the investigation must be bounded and deferred to a precise, retrievable segment of the source prior to further analysis or inference
+- orchestrator: Memory superiority without feature extraction requires verifiable, non-vector-based indicators of persistence under stable conditions; such indicators must be independently observable and repeatable without downstream task dependency.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
