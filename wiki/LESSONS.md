@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity and rigor.'
 - deliverable review: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor
 - manager final: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific integrity
 - orchestrator: Memory superiority without external validation must be anchored in a specific, observable, and internally consistent mechanism rather than speculative continuity claims or absence of decay signals.
@@ -40,5 +39,6 @@
 - manager plan: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension to preserve scientific integrity and prevent false claims of agent memory superiority.
 - researcher: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption, preserving scientific rigor and integrity of the source material
 - deliverable review: In research-only investigations, the absence of evidence for a claimed capability must be formally documented and the inquiry must cease without speculative extension or assumption to preserve scientific rigor and integrity of the source
+- manager final: In research-only investigations, absence of evidence for a claimed capability must be formally documented and the inquiry must shift to a bounded, alternative question to preserve scientific integrity without speculative extension
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
