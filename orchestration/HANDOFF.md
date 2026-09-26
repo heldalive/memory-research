@@ -4,14 +4,6 @@ Discover how to manage an agent's memory better than a pile of skills and Markdo
 
 Read [current loops](CURRENT.md) and [shared lessons](../wiki/LESSONS.md).
 
-## research-cloud-1790423681674-4edf14
-
-No direct or implicit evidence of internal state coherence in agent memory without external cues exists in Kumar et al., 2024, Section 2.4, and no observable, non-feature-based indicator is cited in the text.
-
-Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 2.4 for any explicitly observed behavioral continuity across query iterations in the absence of external memory cues or feature vectors; if present, define one observable, non-feature-based indicator such as consistent query rephrasing or repeated thematic anchoring that is directly cited in the text
-
-Limits: After two review cycles, the source material contains no explicit or implicit description of internal state coherence across query iterations in the absence of external memory cues. The requested indicator such as metacognitive consistency or self-referential repetition is not present in the cited section. The inquiry must be revised to focus exclusively on directly observed, explicitly cited behavioral continuities without inference or extrapolation. This confirms the need for a bounded, text-anchored revision to preserve research integrity and avoid speculative claims.
-
 ## research-cloud-1790425238063-06abe9
 
 No evidence of metacognitive awareness in memory management is present in Kumar et al., 2024, Section 6.1, and all observed behaviors remain tied to external validation or structured memory mechanisms; a bounded revision is requested to explore internal consistency
@@ -35,3 +27,11 @@ No evidence of agent self-referential consistency in response structure under in
 Next candidate: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit or implicit description of memory coherence in response structure under invariant input conditions without external or feature vectors
 
 Limits: After two independent review cycles, no explicit or implicit indicators of self-referential consistency in response structure across iterations under invariant conditions were found in Kumar et al., 2024, Section 3.3. The sources discuss memory lifecycle and privacy risks but do not demonstrate iterative coherence without external vectors. A bounded revision is required to explore alternative memory behaviors before advancing claims. This finding underscores the necessity of shifting focus to a scientifically grounded, testable alternative question without overreach or speculation.
+
+## research-cloud-1790429931402-ce030c
+
+No direct evidence exists in Kumar et al., 2024, Section 5.2 for an observable, non-feature-based indicator of response pattern alignment across iterations without external memory cues.
+
+Next candidate: analyst to retrieve and inspect Kumar et al., 2024, Section 5.2 for any explicit or implicit description of syntactic or thematic continuity in multi-turn responses in the absence of external memory cues or feature vectors; if present, define one observable, non-feature-based indicator directly cited in the text
+
+Limits: After two independent reviews and exhaustive inspection of the specified source section, no explicit or implicit description of response pattern alignment in the absence of external memory cues is found. Neither syntactic structure nor thematic continuity is cited as an observable indicator in multi-turn responses. The inquiry remains unanswerable under current evidence constraints, confirming the need to reframe the research question with tighter alignment to directly cited textual content. A bounded revision is requested to ensure the next iteration stays within verifiable, source-based boundaries without speculative extrapolation. The absence of such indicators in the literature does not imply their nonexistence but underscores the current lack of empirical documentation in the provided text. This reinforces the necessity of a different, more testable research direction grounded in direct textual evidence. The current evidence is insufficient to support any claim of internal memory alignment beyond task state retention or privacy-related mechanisms.

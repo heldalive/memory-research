@@ -1,0 +1,51 @@
+{
+  "id": "research-cloud-1790429931402-ce030c",
+  "branch": "manager/research-cloud-1790429931402-ce030c",
+  "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 5.2 for any explicit or implicit description of response pattern alignment across iterations in the absence of external memory cues or feature vectors; if present, define one observable, non-feature-based indicator such as consistent syntactic structure or thematic continuity that is directly cited in the text",
+  "stage": "complete",
+  "planReviews": 1,
+  "deliverableReviews": 1,
+  "instances": [
+    {
+      "id": "research-cloud-1790429931402-ce030c-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790429931402-ce030c-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790429931402-ce030c-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790429931402-ce030c-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790429931402-ce030c-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790429931402-ce030c-6-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790429931402-ce030c-7-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790429931402-ce030c-8-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}
