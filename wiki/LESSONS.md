@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material's actual content.'
 - plan review: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility and empirical grounding without inference or assumption beyond the text's explicit claims.'
 - manager plan: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material exclusively without inference or assumption beyond what is explicitly stated or cited
 - planner: In research-only investigations, when no textual evidence supports a claimed capability, revise the question to require only direct, explicit citation from a specific source to ensure feasibility, evidence-based rigor, and alignment with the source material alone.
@@ -40,5 +39,6 @@
 - researcher: In research-only investigations, require only a single, explicit, and unambiguous textual citation to ensure feasibility, data alignment, and avoidance of hallucinated or inferential outcomes.'
 - deliverable review: In research-only investigations, when no direct evidence exists, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
 - manager final: In research-only investigations, when no direct evidence exists, revise the query to demand only a single, explicit, verbatim citation to ensure feasibility and prevent hallucination or overreach.'
+- orchestrator: Direct textual citation is required for evidence of persistent behavior; interpretive or inferential claims must be bounded by explicit, verbatim support in source material to prevent false attribution and maintain research integrity in memory research contexts with limited empirical grounding.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
