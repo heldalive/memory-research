@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- orchestrator: Direct textual citation is required for evidence of persistent behavior; interpretive or inferential claims must be bounded by explicit, verbatim support in source material to prevent false attribution and maintain research integrity in memory research contexts with limited empirical grounding.
 - manager setup: In research-only investigations, require a single, explicit, verbatim citation from source text to validate claims of persistent behavior; avoid interpretive or inferential assertions without direct textual support to maintain accuracy and prevent hallucination.'
 - planner: In research-only investigations, require a single, explicit, verbatim citation from source text to validate claims of persistent behavior; avoid interpretive or inferential assertions without direct textual support to maintain accuracy
 - plan review: In research-only investigations, a single, explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised to meet evidentiary standards briefly
@@ -40,5 +39,6 @@
 - manager setup: In research-only investigations, claims about memory or persistent behavior must be strictly bounded to a single, verbatim citation from the source text; absence of such evidence requires a narrow, conditionally defined inquiry to prevent inference and overgeneralization.'
 - planner: In research-only investigations, all claims about persistent or implicit behavior must be anchored to a single, verbatim citation from the source text; absence of such evidence requires a bounded, conditionally defined inquiry to prevent overreach and maintain methodological integrity.'
 - plan review: In research-only investigations, a narrow, verbatim-bound inquiry is essential; absence of source content or evidence requires immediate retrieval and inspection before any claims about memory or persistence can be evaluated or reported responsibly.'
+- manager plan: In research-only investigations, a bounded, verbatim-based inquiry is essential; absence of source content invalidates claims about memory or persistence, requiring immediate retrieval before any evaluation can occur and preventing unsupported inferences or generalizations.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
