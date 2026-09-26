@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: In research-only investigations, absence of verbatim source evidence for a claimed memory mechanism precludes any assertion of its existence, regardless of theoretical plausibility
 - manager plan: In research-only investigations, absence of verbatim source evidence for a claimed memory mechanism precludes any assertion of its existence, regardless of theoretical plausibility; all such inquiries must be bounded to direct, explicit textual support from the specified section prior to evaluation or advancement.
 - researcher: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed
 - deliverable review: In research-only investigations, claims about implicit memory updating must be strictly bounded to verbatim source evidence; absence of such evidence necessitates immediate, focused retrieval before any evaluation can proceed and no assertions should be made beyond direct textual support in the specified section or document segment.
@@ -40,5 +39,6 @@
 - manager setup: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a concrete, bounded, and structurally constrained input pattern to enable verifiable source inspection
 - planner: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to a concrete, bounded, and structurally constrained input pattern to enable verifiable source inspection
 - plan review: When no source content is available for inspection, immediately revise the query to include a verifiable data retrieval step before proceeding with analysis or inference based on absent evidence.
+- manager plan: In research-only investigations, when no explicit verbatim evidence exists for a proposed mechanism, immediately revise the query to include a verifiable data retrieval step before proceeding with analysis or inference based on absent evidence.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
