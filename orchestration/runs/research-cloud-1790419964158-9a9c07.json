@@ -1,0 +1,76 @@
+{
+  "id": "research-cloud-1790419964158-9a9c07",
+  "branch": "manager/research-cloud-1790419964158-9a9c07",
+  "goal": "handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 3.3 for any explicit or implicit description of contextual continuity across query iterations in the absence of feature vectors or external validation; define one observable, non-feature-based indicator such as thematic drift or semantic coherence that is directly cited in the text",
+  "stage": "complete",
+  "planReviews": 1,
+  "deliverableReviews": 2,
+  "instances": [
+    {
+      "id": "research-cloud-1790419964158-9a9c07-1-orchestrator-rejected-1",
+      "role": "orchestrator",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-1-orchestrator",
+      "role": "orchestrator",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-2-manager-setup-rejected-1",
+      "role": "manager_setup",
+      "status": "rejected"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-2-manager-setup",
+      "role": "manager_setup",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-3-planner",
+      "role": "planner",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-4-plan-review",
+      "role": "plan_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-5-manager-plan",
+      "role": "manager_plan",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-6-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-7-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-8-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-9-researcher",
+      "role": "researcher",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-10-deliverable-review",
+      "role": "deliverable_review",
+      "status": "completed"
+    },
+    {
+      "id": "research-cloud-1790419964158-9a9c07-11-manager-final",
+      "role": "manager_final",
+      "status": "completed"
+    }
+  ],
+  "mode": "research-only"
+}

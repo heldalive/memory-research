@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- plan review: When investigating agent memory mechanisms, all claims must be anchored in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid inference-based conclusions.'
 - manager plan: When investigating agent memory mechanisms, all claims must be anchored in explicit, directly cited source content; absence of such evidence necessitates immediate revision to prevent speculative or inferred conclusions and maintain scientific rigor and verifiability.'
 - researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence necessitates immediate revision to maintain scientific rigor and avoid speculative interpretations.'
 - deliverable review: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations.'
@@ -40,5 +39,6 @@
 - manager final: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - researcher: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 - deliverable review: All claims about agent memory mechanisms without feature vectors must be strictly grounded in explicit, directly cited source content; absence of such evidence necessitates revision to preserve scientific integrity and avoid speculative interpretations
+- manager final: All claims about agent memory mechanisms must be strictly grounded in explicit, directly cited source content; absence of such evidence mandates immediate revision to maintain scientific rigor and avoid speculative interpretations
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
