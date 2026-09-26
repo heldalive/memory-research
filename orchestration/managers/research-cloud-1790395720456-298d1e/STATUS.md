@@ -2,6 +2,7 @@
 
 Goal: handoff to analyst to retrieve and inspect Kumar et al., 2024, Section 4.1 for explicit descriptions of memory persistence duration and any reported absence of state decay under stable, low-variation input conditions without predefined feature vectors; if present, define the minimal set of observable, non-feature-based indicators that could proxy for sustained state continuity without decay
 
-Stage: manager_setup. Plan reviews 0/2; evidence reviews 0/2.
+Stage: planner. Plan reviews 0/2; evidence reviews 0/2.
 
 - research-cloud-1790395720456-298d1e-1-orchestrator: orchestrator — completed
+- research-cloud-1790395720456-298d1e-2-manager-setup: manager_setup — completed
