@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: When evaluating agent memory mechanisms, a bounded investigation must restrict its scope to explicitly documented, non-inferred metrics in primary sources to avoid overreach and ensure empirical validity under defined conditions only, and al
 - deliverable review: A request for explicit, observable memory validation mechanisms must be anchored in direct source content; absence of such indicators in primary literature necessitates revision of the investigation scope to avoid overreaching on unverified claims without empirical grounding in the target section of the specified paper.'
 - manager final: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal proxy indicators before advancing to claims of internal validation or coherence maintenance under specific conditions, ensuring empirical rigor and avoiding speculative inference from indirect or inferred
 - researcher: When investigating agent memory mechanisms, a bounded revision must prioritize retrieval of direct, verifiable source content to define minimal proxy indicators before advancing to claims of internal validation or coherence maintenance.'
@@ -40,5 +39,6 @@
 - plan review: When investigating claims about non-feature-based memory mechanisms, a plan must be revised if no explicit, verifiable content in the source supports the claimed mechanisms; absence of evidence necessitates a bounded, source-anchored investigation without extrapolation or assumption.'
 - manager plan: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a bounded plan revision rather than assumption or extrapolation.'
 - researcher: When investigating claims about non-feature-based memory mechanisms, all assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content in a specific context does not imply nonexistence of research, and must be distinguished from a lack of evidence in the current sources, especially when alternative
+- deliverable review: When evaluating claims about memory mechanisms, assertions must be strictly grounded in explicit, verifiable content from the source; absence of such content necessitates a bounded revision to avoid overreach and unsupported generalizations.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
