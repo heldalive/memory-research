@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- researcher: In research-only investigations, require a single, explicit, verbatim citation from source text to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised
 - deliverable review: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised prior to further action or reporting.'
 - manager final: In research-only investigations, a single explicit, verbatim citation from source text is required to validate claims of persistent behavior; without it, all assertions must be treated as unverified and the investigation must be revised with a bounded scope adjustment to define key terms precisely before proceeding further, preserving scientific
 - orchestrator: Avoid overreliance on verbatim or explicit evidence when investigating implicit memory; expand scope to include contextual and inferential patterns as potential indicators of emergent knowledge retention mechanisms in agent behavior without explicit training or external memory prompts or feature vectors, especially in low-variation input environments
@@ -40,5 +39,6 @@
 - deliverable review: In research-only investigations, claims about memory behavior must be strictly anchored to verbatim source content; absence of such evidence necessitates immediate retrieval and inspection before any evaluation can proceed, regardless of related contextual discussions in adjacent sections or abstracts.'
 - manager final: In research-only investigations, claims about agent memory behavior must be strictly grounded in verbatim source content; absence of such evidence necessitates immediate, bounded retrieval and inspection before any evaluation can proceed, and no inferences should be drawn beyond the explicit text provided in the source section being reviewed
 - orchestrator: Memory superiority in agent systems cannot be established without verifiable, direct evidence of contextual continuity under unstructured or adversarial input conditions; all claims require explicit, source-cited support prior to being considered valid empirical findings.'
+- manager setup: In research-only investigations, all claims about agent memory behavior must be strictly bounded to verbatim source evidence; any assertion of superiority without explicit, direct support must be deferred until definitive textual confirmation is obtained and documented prior to further evaluation or inference.
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
