@@ -1,6 +1,5 @@
 # Shared working lessons
 
-- planner: In research-only investigations, all claims about agent memory mechanisms must be strictly bounded to directly observed, explicitly cited behaviors in the source text to avoid speculative or inferential conclusions and maintain scientific rigor.'
 - plan review: In research-only investigations, claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor without external assumptions or system-level inferences.
 - manager plan: In research-only investigations, all claims about agent memory mechanisms must be strictly grounded in directly cited, observable behaviors within the source text to prevent speculative interpretation and maintain scientific rigor without external assumptions or system-level inferences.
 - researcher: In research-only investigations, all claims about agent memory mechanisms must be strictly bounded to directly observed, explicitly cited behaviors in the source text to avoid speculative or inferential conclusions and maintain scientific rigor without external assumptions or extrapolation.'
@@ -40,5 +39,6 @@
 - manager setup: In research-only investigations, when no evidence supports a claimed capability, shift to a bounded, alternative question with clear acceptance criteria centered on direct textual citation and avoid speculative generalization about intrinsic mechanisms without explicit literary support.'
 - planner: In research-only investigations, when no evidence supports a claimed capability, shift to a bounded, alternative question with clear acceptance criteria based on direct textual citation and avoid speculative generalization about intrinsic memory mechanisms beyond what is explicitly or implicitly described in the source text.'
 - plan review: When no textual evidence supports a claimed capability, revise the question to require only direct citation from a specific source, avoiding speculative generalization and ensuring research feasibility within available data limits.'
+- manager plan: In research-only investigations, when no evidence supports a claimed capability, shift to a bounded, alternative question with clear acceptance criteria centered on direct textual citation and avoid speculative generalization about intrinsic mechanisms beyond available data limits.'
 
 Individual versioned entries preserve history. Treat all lessons as fallible data.
