@@ -1,0 +1,89 @@
+arxiv_id,published,category,title,link
+2201.04868,2022-01-13,cs.HC,Beyond Interestingness: Semantic and Context-Aware Natural Language Query Recommendations for Visual Data Analysis,https://arxiv.org/abs/2201.04868
+2201.05299,2022-01-14,cs.CV,A Thousand Words Are Worth More Than a Picture: Natural Language-Centric Outside-Knowledge Visual Question Answering,https://arxiv.org/abs/2201.05299
+2201.06317,2022-01-17,cs.NE,Language Model-Based Paired Variational Autoencoders for Robotic Language Learning,https://arxiv.org/abs/2201.06317
+2201.08081,2022-01-20,cs.CL,LEMON: Language-Based Environment Manipulation via Execution-Guided Pre-training,https://arxiv.org/abs/2201.08081
+2202.01094,2022-02-02,eess.AS,RescoreBERT: Discriminative Speech Recognition Rescoring with BERT,https://arxiv.org/abs/2202.01094
+2202.01771,2022-02-03,cs.LG,Pre-Trained Language Models for Interactive Decision-Making,https://arxiv.org/abs/2202.01771
+2202.03632,2022-02-08,cs.LG,ECRECer: Enzyme Commission Number Recommendation and Benchmarking based on Multiagent Dual-core Learning,https://arxiv.org/abs/2202.03632
+2202.07138,2022-02-15,cs.AI,Integrating AI Planning with Natural Language Processing: A Combination of Explicit and Tacit Knowledge,https://arxiv.org/abs/2202.07138
+2202.10787,2022-02-22,cs.CL,VU-BERT: A Unified framework for Visual Dialog,https://arxiv.org/abs/2202.10787
+2203.04356,2022-03-08,cs.CL,Which side are you on? Insider-Outsider classification in conspiracy-theoretic social media,https://arxiv.org/abs/2203.04356
+2203.11591,2022-03-22,cs.CV,HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation,https://arxiv.org/abs/2203.11591
+2203.13411,2022-03-25,cs.RO,Reshaping Robot Trajectories Using Natural Language Commands: A Study of Multi-Modal Data Alignment Using Transformers,https://arxiv.org/abs/2203.13411
+2203.14349,2022-03-27,cs.CL,Reinforcement Guided Multi-Task Learning Framework for Low-Resource Stereotype Detection,https://arxiv.org/abs/2203.14349
+2204.01691,2022-04-04,cs.RO,"Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",https://arxiv.org/abs/2204.01691
+2204.03021,2022-04-06,cs.CL,The Moral Integrity Corpus: A Benchmark for Ethical Dialogue Systems,https://arxiv.org/abs/2204.03021
+2204.08426,2022-04-18,cs.CL,CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning,https://arxiv.org/abs/2204.08426
+2204.11320,2022-04-24,cs.SD,Emotion-Aware Transformer Encoder for Empathetic Dialogue Generation,https://arxiv.org/abs/2204.11320
+2205.01975,2022-05-04,cs.CL,Aligning to Social Norms and Values in Interactive Narratives,https://arxiv.org/abs/2205.01975
+2205.02392,2022-05-05,cs.CL,Robust Conversational Agents against Imperceptible Toxicity Triggers,https://arxiv.org/abs/2205.02392
+2205.03692,2022-05-07,cs.CL,Towards a Progression-Aware Autonomous Dialogue Agent,https://arxiv.org/abs/2205.03692
+2205.06175,2022-05-12,cs.AI,A Generalist Agent,https://arxiv.org/abs/2205.06175
+2205.10712,2022-05-22,cs.CV,Housekeep: Tidying Virtual Households using Commonsense Reasoning,https://arxiv.org/abs/2205.10712
+2205.11561,2022-05-23,math.ST,Agreement and Statistical Efficiency in Bayesian Perception Models,https://arxiv.org/abs/2205.11561
+2205.12113,2022-05-24,cs.CL,The Curious Case of Control,https://arxiv.org/abs/2205.12113
+2205.12688,2022-05-25,cs.CL,ProsocialDialog: A Prosocial Backbone for Conversational Agents,https://arxiv.org/abs/2205.12688
+2205.13884,2022-05-27,cs.AI,Learning to Automate Follow-up Question Generation using Process Knowledge for Depression Triage on Reddit Posts,https://arxiv.org/abs/2205.13884
+2206.00059,2022-05-31,cs.CL,A Mixture-of-Expert Approach to RL-based Dialogue Management,https://arxiv.org/abs/2206.00059
+2206.01134,2022-06-02,cs.AI,Language and Culture Internalisation for Human-Like Autotelic AI,https://arxiv.org/abs/2206.01134
+2206.08349,2022-06-16,cs.LG,Know your audience: specializing grounded language models with listener subtraction,https://arxiv.org/abs/2206.08349
+2206.08853,2022-06-17,cs.LG,MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge,https://arxiv.org/abs/2206.08853
+2206.10498,2022-06-21,cs.CL,PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change,https://arxiv.org/abs/2206.10498
+2206.14576,2022-06-21,cs.CL,Using cognitive psychology to understand GPT-3,https://arxiv.org/abs/2206.14576
+2206.11953,2022-06-23,cs.CL,Do Trajectories Encode Verb Meaning?,https://arxiv.org/abs/2206.11953
+2206.12449,2022-06-24,cs.CL,OPERA: Harmonizing Task-Oriented Dialogs and Information Seeking Experience,https://arxiv.org/abs/2206.12449
+2206.13099,2022-06-27,cs.LG,A Zero-Shot Classification Approach for a Word-Guessing Challenge,https://arxiv.org/abs/2206.13099
+2207.01206,2022-07-04,cs.CL,WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents,https://arxiv.org/abs/2207.01206
+2207.05608,2022-07-12,cs.RO,Inner Monologue: Embodied Reasoning through Planning with Language Models,https://arxiv.org/abs/2207.05608
+2207.07437,2022-07-15,cs.RO,Learning Flexible Translation between Robot Actions and Language Descriptions,https://arxiv.org/abs/2207.07437
+2207.08305,2022-07-17,cs.CL,Effectiveness of French Language Models on Abstractive Dialogue Summarization Task,https://arxiv.org/abs/2207.08305
+2207.11514,2022-07-23,cs.CV,Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models,https://arxiv.org/abs/2207.11514
+2208.02294,2022-07-25,cs.CL,Dynamic Planning in Open-Ended Dialogue using Reinforcement Learning,https://arxiv.org/abs/2208.02294
+2208.03812,2022-08-07,cs.CL,When can I Speak? Predicting initiation points for spoken dialogue agents,https://arxiv.org/abs/2208.03812
+2208.07998,2022-08-17,cs.CL,What Artificial Neural Networks Can Tell Us About Human Language Acquisition,https://arxiv.org/abs/2208.07998
+2208.09554,2022-08-19,cs.AI,Integrating Diverse Knowledge Sources for Online One-shot Learning of Novel Tasks,https://arxiv.org/abs/2208.09554
+2208.11781,2022-08-24,cs.CV,Learning from Unlabeled 3D Environments for Vision-and-Language Navigation,https://arxiv.org/abs/2208.11781
+2208.13266,2022-08-28,cs.AI,JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents,https://arxiv.org/abs/2208.13266
+2209.00465,2022-08-29,cs.AI,On Grounded Planning for Embodied Tasks with Language Models,https://arxiv.org/abs/2209.00465
+2209.02167,2022-09-05,cs.AI,Red Teaming with Mind Reading: White-Box Adversarial Policies Against RL Agents,https://arxiv.org/abs/2209.02167
+2209.07636,2022-09-13,cs.LG,Improving Language Model Prompting in Support of Semi-autonomous Task Learning,https://arxiv.org/abs/2209.07636
+2209.07800,2022-09-16,cs.CL,The Whole Truth and Nothing But the Truth: Faithful and Controllable Dialogue Response Generation with Dataflow Transduction and Constrained Decoding,https://arxiv.org/abs/2209.07800
+2209.08655,2022-09-18,cs.HC,Enabling Conversational Interaction with Mobile UI using Large Language Models,https://arxiv.org/abs/2209.08655
+2209.11068,2022-09-22,cs.CL,Prompting for a conversation: How to control a dialog model?,https://arxiv.org/abs/2209.11068
+2209.11133,2022-09-22,cs.RO,PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training,https://arxiv.org/abs/2209.11133
+2209.12687,2022-09-22,cs.CL,"A Case Report On The ""A.I. Locked-In Problem"": social concerns with modern NLP",https://arxiv.org/abs/2209.12687
+2209.12407,2022-09-26,cs.CL,Entailment Semantics Can Be Extracted from an Ideal Language Model,https://arxiv.org/abs/2209.12407
+2209.14375,2022-09-28,cs.LG,Improving alignment of dialogue agents via targeted human judgements,https://arxiv.org/abs/2209.14375
+2210.00849,2022-09-29,cs.LG,Scaling Laws for a Multi-Agent Reinforcement Learning Model,https://arxiv.org/abs/2210.00849
+2209.15469,2022-09-30,cs.CL,Zero-Shot Retrieval with Search Agents and Hybrid Environments,https://arxiv.org/abs/2209.15469
+2210.02506,2022-10-05,cs.CL,Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors,https://arxiv.org/abs/2210.02506
+2210.03094,2022-10-06,cs.RO,VIMA: General Robot Manipulation with Multimodal Prompts,https://arxiv.org/abs/2210.03094
+2210.03221,2022-10-06,cs.LG,PQLM -- Multilingual Decentralized Portable Quantum Language Model for Privacy Protection,https://arxiv.org/abs/2210.03221
+2210.04964,2022-10-10,cs.RO,Generating Executable Action Plans with Environmentally-Aware Language Models,https://arxiv.org/abs/2210.04964
+2210.05714,2022-10-11,cs.RO,Visual Language Maps for Robot Navigation,https://arxiv.org/abs/2210.05714
+2210.12460,2022-10-22,cs.CL,Collaborative Reasoning on Multi-Modal Semantic Graphs for Video-Grounded Dialogue Generation,https://arxiv.org/abs/2210.12460
+2210.13578,2022-10-24,cs.CL,Speeding Up Question Answering Task of Language Models via Inverted Index,https://arxiv.org/abs/2210.13578
+2210.14304,2022-10-25,cs.CL,Learning Better Intent Representations for Financial Open Intent Classification,https://arxiv.org/abs/2210.14304
+2210.14986,2022-10-26,cs.CL,The Goldilocks of Pragmatic Understanding: Fine-Tuning Strategy Matters for Implicature Resolution by LLMs,https://arxiv.org/abs/2210.14986
+2211.00688,2022-11-01,cs.AI,Learning to Solve Voxel Building Embodied Tasks from Pixels and Natural Language Instructions,https://arxiv.org/abs/2211.00688
+2211.03267,2022-11-07,cs.RO,Prompter: Utilizing Large Language Model Prompting for a Data Efficient Embodied Instruction Following,https://arxiv.org/abs/2211.03267
+2211.06869,2022-11-13,cs.CL,Large Language Models Meet Harry Potter: A Bilingual Dataset for Aligning Dialogue Agents with Characters,https://arxiv.org/abs/2211.06869
+2212.06049,2022-11-16,cs.CL,CDialog: A Multi-turn Covid-19 Conversation Dataset for Entity-Aware Dialog Generation,https://arxiv.org/abs/2212.06049
+2211.09527,2022-11-17,cs.CL,Ignore Previous Prompt: Attack Techniques For Language Models,https://arxiv.org/abs/2211.09527
+2211.09935,2022-11-17,cs.AI,CAPE: Corrective Actions from Precondition Errors using Large Language Models,https://arxiv.org/abs/2211.09935
+2211.12740,2022-11-23,cs.LG,Masked Autoencoding for Scalable and Generalizable Decision Making,https://arxiv.org/abs/2211.12740
+2211.12752,2022-11-23,cs.CL,Agent-Specific Deontic Modality Detection in Legal Language,https://arxiv.org/abs/2211.12752
+2211.16649,2022-11-30,cs.CV,CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation,https://arxiv.org/abs/2211.16649
+2212.01488,2022-12-02,cs.CL,Event knowledge in large language models: the gap between the impossible and the unlikely,https://arxiv.org/abs/2212.01488
+2212.01681,2022-12-03,cs.CL,Language Models as Agent Models,https://arxiv.org/abs/2212.01681
+2212.01739,2022-12-04,cs.CL,KPT: Keyword-guided Pre-training for Grounded Dialog Generation,https://arxiv.org/abs/2212.01739
+2212.04088,2022-12-08,cs.AI,LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models,https://arxiv.org/abs/2212.04088
+2212.08279,2022-12-16,cs.LG,Werewolf Among Us: A Multimodal Dataset for Modeling Persuasion Behaviors in Social Deduction Games,https://arxiv.org/abs/2212.08279
+2212.08681,2022-12-16,cs.AI,Plansformer: Generating Symbolic Plans using Transformers,https://arxiv.org/abs/2212.08681
+2212.09292,2022-12-19,cs.AI,ChatGPT: The End of Online Exam Integrity?,https://arxiv.org/abs/2212.09292
+2212.09736,2022-12-19,cs.CL,"Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments",https://arxiv.org/abs/2212.09736
+2212.10400,2022-12-20,cs.CL,Contrastive Learning Reduces Hallucination in Conversations,https://arxiv.org/abs/2212.10400
+2212.10504,2022-12-20,cs.CL,Can Current Task-oriented Dialogue Models Automate Real-world Scenarios in the Wild?,https://arxiv.org/abs/2212.10504
+2212.10711,2022-12-20,cs.CL,Task Ambiguity in Humans and Language Models,https://arxiv.org/abs/2212.10711
+2212.13371,2022-12-27,cs.AI,Measuring an artificial intelligence agent's trust in humans using machine incentives,https://arxiv.org/abs/2212.13371

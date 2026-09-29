@@ -1,0 +1,34 @@
+arxiv_id,published,category,title,link
+2101.07714,2021-01-19,cs.CL,Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach,https://arxiv.org/abs/2101.07714
+2101.12015,2021-01-28,cs.CL,BERTaú: Itaú BERT for digital customer service,https://arxiv.org/abs/2101.12015
+2103.04353,2021-03-07,cs.CL,Empathetic BERT2BERT Conversational Model: Learning Arabic Language Generation with Little Data,https://arxiv.org/abs/2103.04353
+2103.06057,2021-03-10,cs.CL,Team Phoenix at WASSA 2021: Emotion Analysis on News Stories with Pre-Trained Language Models,https://arxiv.org/abs/2103.06057
+2103.09656,2021-03-17,cs.LG,Set-to-Sequence Methods in Machine Learning: a Review,https://arxiv.org/abs/2103.09656
+2104.00783,2021-04-01,cs.CL,Action-Based Conversations Dataset: A Corpus for Building More In-Depth Task-Oriented Dialogue Systems,https://arxiv.org/abs/2104.00783
+2104.06737,2021-04-14,cs.CL,Natural-Language Multi-Agent Simulations of Argumentative Opinion Dynamics,https://arxiv.org/abs/2104.06737
+2104.07972,2021-04-16,cs.CL,Language Models are Few-Shot Butlers,https://arxiv.org/abs/2104.07972
+2104.10810,2021-04-22,cs.CL,A Short Survey of Pre-trained Language Models for Conversational AI-A NewAge in NLP,https://arxiv.org/abs/2104.10810
+2104.13484,2021-04-27,cs.LG,Improved and Efficient Text Adversarial Attacks using Target Information,https://arxiv.org/abs/2104.13484
+2106.00969,2021-06-02,cs.CL,COM2SENSE: A Commonsense Reasoning Benchmark with Complementary Sentences,https://arxiv.org/abs/2106.00969
+2106.04905,2021-06-09,cs.CL,DGA-Net Dynamic Gaussian Attention Network for Sentence Semantic Matching,https://arxiv.org/abs/2106.04905
+2106.08417,2021-06-15,cs.CV,Scene Transformer: A unified architecture for predicting multiple agent trajectories,https://arxiv.org/abs/2106.08417
+2106.13528,2021-06-25,cs.IR,Interactive query expansion for professional search applications,https://arxiv.org/abs/2106.13528
+2107.07566,2021-07-15,cs.AI,Internet-Augmented Dialogue Generation,https://arxiv.org/abs/2107.07566
+2107.08408,2021-07-18,cs.CL,Pre-trained Language Models as Prior Knowledge for Playing Text-based Games,https://arxiv.org/abs/2107.08408
+2108.02915,2021-08-06,cs.CL,LadRa-Net: Locally-Aware Dynamic Re-read Attention Net for Sentence Semantic Matching,https://arxiv.org/abs/2108.02915
+2109.00527,2021-09-01,cs.CL,Boosting Search Engines with Interactive Agents,https://arxiv.org/abs/2109.00527
+2109.08270,2021-09-17,cs.AI,Language Models as a Knowledge Source for Cognitive Agents,https://arxiv.org/abs/2109.08270
+2109.09371,2021-09-20,cs.AI,Learning Natural Language Generation from Scratch,https://arxiv.org/abs/2109.09371
+2109.14728,2021-09-29,cs.HC,Collaborative Storytelling with Human Actors and AI Narrators,https://arxiv.org/abs/2109.14728
+2110.00601,2021-10-01,cs.DL,"Album: executable building blocks for scientific imaging routines, from sharing to LLM-assisted orchestration",https://arxiv.org/abs/2110.00601
+2110.00949,2021-10-03,cs.IR,Unsupervised paradigm for information extraction from transcripts using BERT,https://arxiv.org/abs/2110.00949
+2110.03165,2021-10-07,cs.LG,Offline RL With Resource Constrained Online Deployment,https://arxiv.org/abs/2110.03165
+2111.00310,2021-10-30,cs.CL,EmpBot: A T5-based Empathetic Chatbot focusing on Sentiments,https://arxiv.org/abs/2111.00310
+2111.01398,2021-11-02,cs.CL,Integrating Pretrained Language Model for Dialogue Policy Learning,https://arxiv.org/abs/2111.01398
+2111.05204,2021-11-09,cs.CL,"Reason first, then respond: Modular Generation for Knowledge-infused Dialogue",https://arxiv.org/abs/2111.05204
+2111.12028,2021-11-23,cs.CL,Romanian Speech Recognition Experiments from the ROBIN Project,https://arxiv.org/abs/2111.12028
+2111.14282,2021-11-29,cs.CL,Customer Sentiment Analysis using Weak Supervision for Customer-Agent Chat,https://arxiv.org/abs/2111.14282
+2112.02246,2021-12-04,cs.CL,Controllable Response Generation for Assistive Use-cases,https://arxiv.org/abs/2112.02246
+2112.04359,2021-12-08,cs.CL,Ethical and social risks of harm from Language Models,https://arxiv.org/abs/2112.04359
+2112.08619,2021-12-16,cs.CL,Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge,https://arxiv.org/abs/2112.08619
+2112.09600,2021-12-17,cs.CL,Transcribing Natural Languages for The Deaf via Neural Editing Programs,https://arxiv.org/abs/2112.09600

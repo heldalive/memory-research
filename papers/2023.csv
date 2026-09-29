@@ -1,0 +1,680 @@
+arxiv_id,published,category,title,link
+2301.02330,2023-01-05,cs.AI,Evidence of behavior consistent with self-interest and altruism in an artificially intelligent agent,https://arxiv.org/abs/2301.02330
+2301.02401,2023-01-06,cs.CL,You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona,https://arxiv.org/abs/2301.02401
+2301.03771,2023-01-10,cs.CR,Chatbots in a Honeypot World,https://arxiv.org/abs/2301.03771
+2301.05327,2023-01-12,cs.CL,Blind Judgement: Agent-Based Supreme Court Modelling With GPT,https://arxiv.org/abs/2301.05327
+2301.10095,2023-01-24,cs.CL,Large Language Models as Fiduciaries: A Case Study Toward Robustly Communicating With Artificial Intelligence Through Legal Standards,https://arxiv.org/abs/2301.10095
+2301.12050,2023-01-28,cs.LG,Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling,https://arxiv.org/abs/2301.12050
+2301.12507,2023-01-29,cs.AI,Distilling Internet-Scale Vision-Language Models into Embodied Agents,https://arxiv.org/abs/2301.12507
+2301.12842,2023-01-30,cs.LG,Direct Preference-based Policy Optimization without Reward Modeling,https://arxiv.org/abs/2301.12842
+2301.13166,2023-01-30,cs.AI,ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation,https://arxiv.org/abs/2301.13166
+2301.13268,2023-01-30,cs.CL,Contextual Dynamic Prompting for Response Generation in Task-oriented Dialog Systems,https://arxiv.org/abs/2301.13268
+2302.00763,2023-02-01,cs.LG,Collaborating with language models for embodied reasoning,https://arxiv.org/abs/2302.00763
+2302.01560,2023-02-03,cs.AI,"Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents",https://arxiv.org/abs/2302.01560
+2302.02662,2023-02-06,cs.LG,Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning,https://arxiv.org/abs/2302.02662
+2302.03287,2023-02-07,cs.SE,ChatGPT and Software Testing Education: Promises & Perils,https://arxiv.org/abs/2302.03287
+2302.05507,2023-02-10,cs.CL,Language Decision Transformers with Exponential Tilt for Interactive Text Environments,https://arxiv.org/abs/2302.05507
+2302.06692,2023-02-13,cs.LG,Guiding Pretraining in Reinforcement Learning with Large Language Models,https://arxiv.org/abs/2302.06692
+2302.06706,2023-02-13,cs.AI,On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark),https://arxiv.org/abs/2302.06706
+2302.08590,2023-02-16,cs.CL,What A Situated Language-Using Agent Must be Able to Do: A Top-Down Analysis,https://arxiv.org/abs/2302.08590
+2302.08817,2023-02-17,cs.CL,Natural Response Generation for Chinese Reading Comprehension,https://arxiv.org/abs/2302.08817
+2302.09051,2023-02-17,cs.CL,"Complex QA and language models hybrid architectures, Survey",https://arxiv.org/abs/2302.09051
+2302.10646,2023-02-21,cs.AI,Playing the Werewolf game with artificial intelligence for language understanding,https://arxiv.org/abs/2302.10646
+2302.10850,2023-02-21,cs.LG,Offline Reinforcement Learning for Mixture-of-Expert Dialogue Management,https://arxiv.org/abs/2302.10850
+2302.12090,2023-02-23,cs.LO,(Arbitrary) Partial Communication,https://arxiv.org/abs/2302.12090
+2302.12239,2023-02-23,cs.CL,What makes a language easy to deep-learn? Deep neural networks and humans similarly benefit from compositional structure,https://arxiv.org/abs/2302.12239
+2303.00001,2023-02-27,cs.LG,Reward Design with Language Models,https://arxiv.org/abs/2303.00001
+2303.00855,2023-03-01,cs.RO,Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents,https://arxiv.org/abs/2303.00855
+2303.01502,2023-03-02,cs.CL,Computational Language Acquisition with Theory of Mind,https://arxiv.org/abs/2303.01502
+2303.03196,2023-03-02,cs.GT,Population-based Evaluation in Repeated Rock-Paper-Scissors as a Benchmark for Multiagent Reinforcement Learning,https://arxiv.org/abs/2303.03196
+2303.03480,2023-03-06,cs.RO,"Can an Embodied Agent Find Your ""Cat-shaped Mug""? LLM-Guided Exploration for Zero-Shot Object Navigation",https://arxiv.org/abs/2303.03480
+2303.04129,2023-03-07,cs.AI,"Foundation Models for Decision Making: Problems, Methods, and Opportunities",https://arxiv.org/abs/2303.04129
+2303.05383,2023-03-07,cs.CL,Making a Computational Attorney,https://arxiv.org/abs/2303.05383
+2303.05038,2023-03-09,cs.AI,Exploiting Contextual Structure to Generate Useful Auxiliary Tasks,https://arxiv.org/abs/2303.05038
+2304.12202,2023-03-09,cs.CL,"ChatGPT may Pass the Bar Exam soon, but has a Long Way to Go for the LexGLUE benchmark",https://arxiv.org/abs/2304.12202
+2303.07280,2023-03-13,cs.CV,Vision-Language Models as Success Detectors,https://arxiv.org/abs/2303.07280
+2303.08268,2023-03-14,cs.RO,Chat with the Environment: Interactive Multimodal Perception Using Large Language Models,https://arxiv.org/abs/2303.08268
+2303.08941,2023-03-15,cs.AI,Automated Interactive Domain-Specific Conversational Agents that Understand Human Dialogs,https://arxiv.org/abs/2303.08941
+2303.09031,2023-03-16,cs.CL,A Picture is Worth a Thousand Words: Language Models Plan from Pixels,https://arxiv.org/abs/2303.09031
+2303.13360,2023-03-16,cs.CL,Towards the Scalable Evaluation of Cooperativeness in Language Models,https://arxiv.org/abs/2303.13360
+2303.09905,2023-03-17,cs.CL,More Robust Schema-Guided Dialogue State Tracking via Tree-Based Paraphrase Ranking,https://arxiv.org/abs/2303.09905
+2303.10571,2023-03-19,cs.LG,Reinforcement Learning Friendly Vision-Language Model for Minecraft,https://arxiv.org/abs/2303.10571
+2303.11327,2023-03-20,cs.CV,3D Concept Learning and Reasoning from Multi-View Images,https://arxiv.org/abs/2303.11327
+2303.11366,2023-03-20,cs.AI,Reflexion: Language Agents with Verbal Reinforcement Learning,https://arxiv.org/abs/2303.11366
+2303.16563,2023-03-29,cs.LG,Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks,https://arxiv.org/abs/2303.16563
+2303.16975,2023-03-29,cs.CV,EgoTV: Egocentric Task Verification from Natural Language Task Descriptions,https://arxiv.org/abs/2303.16975
+2303.17071,2023-03-30,cs.CL,DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents,https://arxiv.org/abs/2303.17071
+2303.17322,2023-03-30,cs.DL,Yes but.. Can ChatGPT Identify Entities in Historical Documents?,https://arxiv.org/abs/2303.17322
+2303.17491,2023-03-30,cs.CL,Language Models can Solve Computer Tasks,https://arxiv.org/abs/2303.17491
+2303.17580,2023-03-30,cs.CL,HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face,https://arxiv.org/abs/2303.17580
+2303.17760,2023-03-31,cs.AI,"CAMEL: Communicative Agents for ""Mind"" Exploration of Large Language Model Society",https://arxiv.org/abs/2303.17760
+2304.00116,2023-03-31,cs.CL,Enhancing Large Language Models with Climate Resources,https://arxiv.org/abs/2304.00116
+2304.00416,2023-04-02,cs.AI,Towards Healthy AI: Large Language Models Need Therapists Too,https://arxiv.org/abs/2304.00416
+2304.03279,2023-04-06,cs.LG,Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark,https://arxiv.org/abs/2304.03279
+2304.03442,2023-04-07,cs.HC,Generative Agents: Interactive Simulacra of Human Behavior,https://arxiv.org/abs/2304.03442
+2304.04370,2023-04-10,cs.AI,OpenAGI: When LLM Meets Domain Experts,https://arxiv.org/abs/2304.04370
+2304.05332,2023-04-11,physics.chem-ph,Emergent autonomous scientific research capabilities of large language models,https://arxiv.org/abs/2304.05332
+2304.05376,2023-04-11,physics.chem-ph,ChemCrow: Augmenting large-language models with chemistry tools,https://arxiv.org/abs/2304.05376
+2304.07297,2023-04-13,cs.AI,Language Instructed Reinforcement Learning for Human-AI Coordination,https://arxiv.org/abs/2304.07297
+2304.07590,2023-04-15,cs.SE,Self-collaboration Code Generation via ChatGPT,https://arxiv.org/abs/2304.07590
+2304.08216,2023-04-17,cs.CL,Context-Dependent Embedding Utterance Representations for Emotion Recognition in Conversations,https://arxiv.org/abs/2304.08216
+2304.09399,2023-04-19,cs.HC,Designing a realistic peer-like embodied conversational agent for supporting children's storytelling,https://arxiv.org/abs/2304.09399
+2304.09448,2023-04-19,cs.LG,EC^2: Emergent Communication for Embodied Control,https://arxiv.org/abs/2304.09448
+2304.11490,2023-04-22,cs.AI,Boosting Theory-of-Mind Performance in Large Language Models via Prompting,https://arxiv.org/abs/2304.11490
+2304.12958,2023-04-25,cs.LG,A Closer Look at Reward Decomposition for High-Level Robotic Explanations,https://arxiv.org/abs/2304.12958
+2304.13343,2023-04-26,cs.CL,SCM: Enhancing Large Language Model with Self-Controlled Memory Framework,https://arxiv.org/abs/2304.13343
+2304.13676,2023-04-26,cs.RO,Multimodal Grounding for Embodied AI via Augmented Reality Headsets for Natural Language Driven Task Planning,https://arxiv.org/abs/2304.13676
+2304.14721,2023-04-28,cs.RO,Towards autonomous system: flexible modular production system enhanced with large language model agents,https://arxiv.org/abs/2304.14721
+2305.00660,2023-05-01,cs.LG,An Iterative Algorithm for Rescaled Hyperbolic Functions Regression,https://arxiv.org/abs/2305.00660
+2305.01795,2023-05-02,cs.CL,Multimodal Procedural Planning via Dual Text-Image Prompting,https://arxiv.org/abs/2305.01795
+2305.02364,2023-05-03,cs.CL,PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives,https://arxiv.org/abs/2305.02364
+2305.02412,2023-05-03,cs.CL,"Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents",https://arxiv.org/abs/2305.02412
+2305.02483,2023-05-04,cs.CL,Personalized Abstractive Summarization by Tri-agent Generation Pipeline,https://arxiv.org/abs/2305.02483
+2305.02547,2023-05-04,cs.CL,PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits,https://arxiv.org/abs/2305.02547
+2305.03047,2023-05-04,cs.LG,Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision,https://arxiv.org/abs/2305.03047
+2305.03495,2023-05-04,cs.CL,"Automatic Prompt Optimization with ""Gradient Descent"" and Beam Search",https://arxiv.org/abs/2305.03495
+2305.04082,2023-05-06,cs.LG,A Minimal Approach for Natural Language Action Space in Text-based Games,https://arxiv.org/abs/2305.04082
+2305.04147,2023-05-06,cs.CL,Controllable Mixed-Initiative Dialogue Generation through Prompting,https://arxiv.org/abs/2305.04147
+2305.04400,2023-05-08,cs.AI,Do Large Language Models Show Decision Heuristics Similar to Humans? A Case Study Using GPT-3.5,https://arxiv.org/abs/2305.04400
+2305.04411,2023-05-08,cs.HC,SmartState: An Automated Research Protocol Adherence System,https://arxiv.org/abs/2305.04411
+2305.04533,2023-05-08,cs.CL,Prompted LLMs as Chatbot Modules for Long Open-domain Conversation,https://arxiv.org/abs/2305.04533
+2305.04812,2023-05-08,cs.CL,Influence of External Information on Large Language Models Mirrors Social Cognitive Patterns,https://arxiv.org/abs/2305.04812
+2305.05091,2023-05-08,cs.CL,Knowledge-enhanced Agents for Interactive Text Games,https://arxiv.org/abs/2305.05091
+2305.06358,2023-05-08,cs.AI,Accessible Instruction-Following Agent,https://arxiv.org/abs/2305.06358
+2305.07666,2023-05-08,cs.AI,Imitation versus Innovation: What children can do that large language and language-and-vision models cannot (yet)?,https://arxiv.org/abs/2305.07666
+2305.08144,2023-05-14,cs.AI,Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction,https://arxiv.org/abs/2305.08144
+2305.08291,2023-05-15,cs.AI,Large Language Model Guided Tree-of-Thought,https://arxiv.org/abs/2305.08291
+2305.08844,2023-05-15,cs.CL,RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs,https://arxiv.org/abs/2305.08844
+2305.10142,2023-05-17,cs.CL,Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback,https://arxiv.org/abs/2305.10142
+2305.10361,2023-05-17,cs.LG,Human Choice Prediction in Language-based Persuasion Games: Simulation-based Off-Policy Evaluation,https://arxiv.org/abs/2305.10361
+2305.10626,2023-05-18,cs.CL,Language Models Meet World Models: Embodied Experiences Enhance Language Models,https://arxiv.org/abs/2305.10626
+2305.10865,2023-05-18,cs.LG,Semantically Aligned Task Decomposition in Multi-Agent Reinforcement Learning,https://arxiv.org/abs/2305.10865
+2305.11262,2023-05-18,cs.CL,CHBias: Bias Evaluation and Mitigation of Chinese Conversational Language Models,https://arxiv.org/abs/2305.11262
+2305.11455,2023-05-19,cs.CL,Shattering the Agent-Environment Interface for Fine-Tuning Inclusive Language Models,https://arxiv.org/abs/2305.11455
+2305.11598,2023-05-19,cs.AI,Introspective Tips: Large Language Model for In-Context Decision Making,https://arxiv.org/abs/2305.11598
+2305.11854,2023-05-19,cs.LG,Multimodal Web Navigation with Instruction-Finetuned Foundation Models,https://arxiv.org/abs/2305.11854
+2305.12363,2023-05-21,cs.RO,Instance-Level Semantic Maps for Vision Language Navigation,https://arxiv.org/abs/2305.12363
+2305.12412,2023-05-21,cs.CL,EM Pre-training for Multi-party Dialogue Response Generation,https://arxiv.org/abs/2305.12412
+2305.12487,2023-05-21,cs.AI,Augmenting Autotelic Agents with Large Language Models,https://arxiv.org/abs/2305.12487
+2305.12777,2023-05-22,cs.CL,Evaluating Pragmatic Abilities of Image Captioners on A3DS,https://arxiv.org/abs/2305.12777
+2305.12815,2023-05-22,cs.CL,Investigating Agency of LLMs in Human-AI Collaboration Tasks,https://arxiv.org/abs/2305.12815
+2305.13168,2023-05-22,cs.CL,LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities,https://arxiv.org/abs/2305.13168
+2305.13246,2023-05-22,cs.CL,Interactive Natural Language Processing,https://arxiv.org/abs/2305.13246
+2305.13455,2023-05-22,cs.CL,Clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents,https://arxiv.org/abs/2305.13455
+2305.13626,2023-05-23,cs.CL,"Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration",https://arxiv.org/abs/2305.13626
+2305.13657,2023-05-23,cs.CL,ChatGPT as your Personal Data Scientist,https://arxiv.org/abs/2305.13657
+2305.13668,2023-05-23,cs.CL,Grounding and Distinguishing Conceptual Vocabulary Through Similarity Learning in Embodied Simulations,https://arxiv.org/abs/2305.13668
+2305.13712,2023-05-23,cs.CL,Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models,https://arxiv.org/abs/2305.13712
+2305.13829,2023-05-23,cs.CL,Learning from Mistakes via Cooperative Study Assistant for Large Language Models,https://arxiv.org/abs/2305.13829
+2305.14260,2023-05-23,cs.CL,R2H: Building Multimodal Navigation Helpers that Respond to Help Requests,https://arxiv.org/abs/2305.14260
+2305.14688,2023-05-24,cs.CL,ExpertPrompting: Instructing Large Language Models to be Distinguished Experts,https://arxiv.org/abs/2305.14688
+2305.14938,2023-05-24,cs.CL,Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark,https://arxiv.org/abs/2305.14938
+2305.14992,2023-05-24,cs.CL,Reasoning with Language Model is Planning with World Model,https://arxiv.org/abs/2305.14992
+2305.15021,2023-05-24,cs.RO,EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought,https://arxiv.org/abs/2305.15021
+2305.15064,2023-05-24,cs.CL,AutoPlan: Automatic Planning of Interactive Decision-Making Tasks With Large Language Models,https://arxiv.org/abs/2305.15064
+2305.15486,2023-05-24,cs.AI,SPRING: Studying the Paper and Reasoning to Play Games,https://arxiv.org/abs/2305.15486
+2305.16338,2023-05-24,cs.LG,Think Before You Act: Decision Transformers with Working Memory,https://arxiv.org/abs/2305.16338
+2305.15695,2023-05-25,cs.AI,Asking Before Acting: Gather Information in Embodied Decision Making with Language Models,https://arxiv.org/abs/2305.15695
+2305.16183,2023-05-25,cs.LG,Passive learning of active causal strategies in agents and language models,https://arxiv.org/abs/2305.16183
+2305.16291,2023-05-25,cs.AI,Voyager: An Open-Ended Embodied Agent with Large Language Models,https://arxiv.org/abs/2305.16291
+2305.16367,2023-05-25,cs.CL,Role-Play with Large Language Models,https://arxiv.org/abs/2305.16367
+2305.16470,2023-05-25,cs.CL,Measuring the Effect of Influential Messages on Varying Personas,https://arxiv.org/abs/2305.16470
+2305.17144,2023-05-25,cs.AI,Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory,https://arxiv.org/abs/2305.17144
+2305.16554,2023-05-26,cs.LG,Emergent Agentic Transformer from Chain of Hindsight Experience,https://arxiv.org/abs/2305.16554
+2305.16653,2023-05-26,cs.CL,AdaPlanner: Adaptive Planning from Feedback with Language Models,https://arxiv.org/abs/2305.16653
+2305.16867,2023-05-26,cs.CL,Playing repeated games with Large Language Models,https://arxiv.org/abs/2305.16867
+2305.16986,2023-05-26,cs.CV,NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models,https://arxiv.org/abs/2305.16986
+2305.17066,2023-05-26,cs.AI,Mindstorms in Natural Language-Based Societies of Mind,https://arxiv.org/abs/2305.17066
+2305.17262,2023-05-26,cs.CV,Im-Promptu: In-Context Composition from Image Prompts,https://arxiv.org/abs/2305.17262
+2305.17390,2023-05-27,cs.CL,SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks,https://arxiv.org/abs/2305.17390
+2305.17619,2023-05-28,cs.CL,AI Coach Assist: An Automated Approach for Call Recommendation in Contact Centers for Agent Coaching,https://arxiv.org/abs/2305.17619
+2305.18185,2023-05-29,cs.CL,"Syntax and Semantics Meet in the ""Middle"": Probing the Syntax-Semantics Interface of LMs Through Agentivity",https://arxiv.org/abs/2305.18185
+2305.18449,2023-05-29,cs.AI,Taming AI Bots: Controllability of Neural States in Large Language Models,https://arxiv.org/abs/2305.18449
+2305.18505,2023-05-29,cs.LG,Provable Reward-Agnostic Preference-Based Reinforcement Learning,https://arxiv.org/abs/2305.18505
+2305.18598,2023-05-29,cs.CL,A Method for Studying Semantic Construal in Grammatical Constructions with Interpretable Contextual Embedding Spaces,https://arxiv.org/abs/2305.18598
+2305.19118,2023-05-30,cs.CL,Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate,https://arxiv.org/abs/2305.19118
+2305.19165,2023-05-30,cs.AI,Strategic Reasoning with Language Models,https://arxiv.org/abs/2305.19165
+2305.19195,2023-05-30,cs.CV,PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation,https://arxiv.org/abs/2305.19195
+2305.19308,2023-05-30,cs.SE,SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models,https://arxiv.org/abs/2305.19308
+2305.19783,2023-05-31,cs.CL,IDAS: Intent Discovery with Abstractive Summarization,https://arxiv.org/abs/2305.19783
+2305.19933,2023-05-31,cs.CL,Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind,https://arxiv.org/abs/2305.19933
+2305.20076,2023-05-31,cs.CL,Decision-Oriented Dialogue for Human-AI Collaboration,https://arxiv.org/abs/2305.20076
+2306.00227,2023-05-31,cs.CY,From human-centered to social-centered artificial intelligence: Assessing ChatGPT's impact through disruptive events,https://arxiv.org/abs/2306.00227
+2306.01295,2023-06-02,cs.AI,Egocentric Planning for Scalable Embodied Task Achievement,https://arxiv.org/abs/2306.01295
+2306.01337,2023-06-02,cs.CL,MathChat: Converse to Tackle Challenging Math Problems with LLM Agents,https://arxiv.org/abs/2306.01337
+2306.01729,2023-06-02,cs.CL,Improving Generalization in Task-oriented Dialogues with Workflows and Action Plans,https://arxiv.org/abs/2306.01729
+2306.02224,2023-06-04,cs.AI,Auto-GPT for Online Decision Making: Benchmarks and Additional Opinions,https://arxiv.org/abs/2306.02224
+2306.02552,2023-06-05,cs.IR,User Behavior Simulation with Large Language Model based Agents,https://arxiv.org/abs/2306.02552
+2306.02781,2023-06-05,cs.LG,"An Automated Survey of Generative Artificial Intelligence: Large Language Models, Architectures, Protocols, and Applications",https://arxiv.org/abs/2306.02781
+2306.03314,2023-06-05,cs.AI,Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents,https://arxiv.org/abs/2306.03314
+2306.03553,2023-06-06,cs.AI,An Approach to Solving the Abstraction and Reasoning Corpus (ARC) Challenge,https://arxiv.org/abs/2306.03553
+2306.03604,2023-06-06,cs.AI,Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach,https://arxiv.org/abs/2306.03604
+2306.03809,2023-06-06,cs.CY,Can large language models democratize access to dual-use biotechnology?,https://arxiv.org/abs/2306.03809
+2306.03959,2023-06-06,cs.CL,Leveraging Explicit Procedural Instructions for Data-Efficient Action Prediction,https://arxiv.org/abs/2306.03959
+2306.04308,2023-06-07,cs.AI,"Personality testing of Large Language Models: Limited temporal stability, but highlighted prosociality",https://arxiv.org/abs/2306.04308
+2306.04441,2023-06-07,cs.CL,STEPS: A Benchmark for Order Reasoning in Sequential Tasks,https://arxiv.org/abs/2306.04441
+2306.04563,2023-06-07,cs.AI,"ChatGPT is fun, but it is not funny! Humor is still challenging Large Language Models",https://arxiv.org/abs/2306.04563
+2306.04757,2023-06-07,cs.CL,INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models,https://arxiv.org/abs/2306.04757
+2306.05032,2023-06-08,cs.SE,Log-based Anomaly Detection based on EVT Theory with feedback,https://arxiv.org/abs/2306.05032
+2306.05152,2023-06-08,cs.SE,Towards Autonomous Testing Agents via Conversational Large Language Models,https://arxiv.org/abs/2306.05152
+2306.05301,2023-06-08,cs.CL,ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases,https://arxiv.org/abs/2306.05301
+2306.05424,2023-06-08,cs.CV,Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models,https://arxiv.org/abs/2306.05424
+2306.07402,2023-06-08,cs.CL,The economic trade-offs of large language models: A case study,https://arxiv.org/abs/2306.07402
+2306.06070,2023-06-09,cs.CL,Mind2Web: Towards a Generalist Agent for the Web,https://arxiv.org/abs/2306.06070
+2306.06085,2023-06-09,cs.CL,Trapping LLM Hallucinations Using Tagged Context Prompts,https://arxiv.org/abs/2306.06085
+2306.07929,2023-06-09,cs.CL,Large Language Models Are Semi-Parametric Reinforcement Learning Agents,https://arxiv.org/abs/2306.07929
+2306.07933,2023-06-09,cs.CL,Understanding Telecom Language Through Large Language Models,https://arxiv.org/abs/2306.07933
+2306.06687,2023-06-11,cs.CV,"LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark",https://arxiv.org/abs/2306.06687
+2306.06770,2023-06-11,cs.AI,Improving Knowledge Extraction from LLMs for Task Learning through Agent Analysis,https://arxiv.org/abs/2306.06770
+2306.07209,2023-06-12,cs.CL,Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow,https://arxiv.org/abs/2306.07209
+2306.07863,2023-06-13,cs.AI,Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control,https://arxiv.org/abs/2306.07863
+2306.08094,2023-06-13,cs.AI,Can ChatGPT Enable ITS? The Case of Mixed Traffic Control via Reinforcement Learning,https://arxiv.org/abs/2306.08094
+2306.08126,2023-06-13,cs.CL,PersonaPKT: Building Personalized Dialogue Agents via Parameter-efficient Knowledge Transfer,https://arxiv.org/abs/2306.08126
+2306.08641,2023-06-14,cs.CV,Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models,https://arxiv.org/abs/2306.08641
+2306.08817,2023-06-15,cs.CL,Description-Enhanced Label Embedding Contrastive Learning for Text Classification,https://arxiv.org/abs/2306.08817
+2306.09030,2023-06-15,cs.CL,DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning,https://arxiv.org/abs/2306.09030
+2306.09200,2023-06-15,cs.LG,ChessGPT: Bridging Policy Learning and Language Modeling,https://arxiv.org/abs/2306.09200
+2306.09299,2023-06-15,cs.CL,Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Personalization,https://arxiv.org/abs/2306.09299
+2306.09312,2023-06-15,cs.LG,Semantic HELM: A Human-Readable Memory for Reinforcement Learning,https://arxiv.org/abs/2306.09312
+2306.09922,2023-06-16,cs.RO,Learning to Summarize and Answer Questions about a Virtual Robot's Past Actions,https://arxiv.org/abs/2306.09922
+2306.10322,2023-06-17,cs.CV,CorNav: Autonomous Agent with Self-Corrected Planning for Zero-Shot Vision-and-Language Navigation,https://arxiv.org/abs/2306.10322
+2306.10376,2023-06-17,cs.RO,CLARA: Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents,https://arxiv.org/abs/2306.10376
+2306.11980,2023-06-21,cs.HC,LLM-based Smart Reply (LSR): Enhancing Collaborative Performance with ChatGPT-mediated Smart Reply System,https://arxiv.org/abs/2306.11980
+2306.13952,2023-06-24,cs.CY,Artificial intelligence and biological misuse: Differentiating risks of language models and biological design tools,https://arxiv.org/abs/2306.13952
+2306.14325,2023-06-25,cs.AI,The Neuro-Symbolic Inverse Planning Engine (NIPE): Modeling Probabilistic Social Inferences from Linguistic Inputs,https://arxiv.org/abs/2306.14325
+2306.14838,2023-06-26,quant-ph,Observing Schrödinger's Cat with Artificial Intelligence: Emergent Classicality from Information Bottleneck,https://arxiv.org/abs/2306.14838
+2306.14899,2023-06-26,cs.CV,FunQA: Towards Surprising Video Comprehension,https://arxiv.org/abs/2306.14899
+2306.16092,2023-06-28,cs.CL,Chatlaw: A Multi-Agent Legal Assistant based on a Role-Aligned Mixture-of-Experts Architecture,https://arxiv.org/abs/2306.16092
+2307.00184,2023-07-01,cs.CL,Personality Traits in Large Language Models,https://arxiv.org/abs/2307.00184
+2307.00470,2023-07-02,cs.CL,PatternGPT :A Pattern-Driven Framework for Large Language Model Text Generation,https://arxiv.org/abs/2307.00470
+2307.00787,2023-07-03,cs.CL,Evaluating Shutdown Avoidance of Language Models in Textual Scenarios,https://arxiv.org/abs/2307.00787
+2307.01644,2023-07-04,cs.HC,Insert-expansions for Tool-enabled Conversational Agents,https://arxiv.org/abs/2307.01644
+2307.01848,2023-07-04,cs.CV,Embodied Task Planning with Large Language Models,https://arxiv.org/abs/2307.01848
+2307.02502,2023-07-04,q-bio.OT,"Math Agents: Computational Infrastructure, Mathematical Embedding, and Genomics",https://arxiv.org/abs/2307.02502
+2307.02485,2023-07-05,cs.AI,Building Cooperative Embodied Agents Modularly with Large Language Models,https://arxiv.org/abs/2307.02485
+2308.01404,2023-07-05,cs.CL,Hoodwinked: Deception and Cooperation in a Text-Based Game for Language Models,https://arxiv.org/abs/2308.01404
+2307.02757,2023-07-06,cs.MA,Wireless Multi-Agent Generative AI: From Connected Intelligence to Collective Intelligence,https://arxiv.org/abs/2307.02757
+2307.02910,2023-07-06,cs.CL,Agentività e telicità in GilBERTo: implicazioni cognitive,https://arxiv.org/abs/2307.02910
+2307.03109,2023-07-06,cs.CL,A Survey on Evaluation of Large Language Models,https://arxiv.org/abs/2307.03109
+2307.03762,2023-07-07,cs.CL,Brain in a Vat: On Missing Pieces Towards Artificial General Intelligence in Large Language Models,https://arxiv.org/abs/2307.03762
+2307.03906,2023-07-08,cs.CL,ScriptWorld: Text Based Environment For Learning Procedural Knowledge,https://arxiv.org/abs/2307.03906
+2307.04738,2023-07-10,cs.RO,RoCo: Dialectic Multi-Robot Collaboration with Large Language Models,https://arxiv.org/abs/2307.04738
+2307.04964,2023-07-11,cs.CL,Secrets of RLHF in Large Language Models Part I: PPO,https://arxiv.org/abs/2307.04964
+2307.04986,2023-07-11,cs.AI,Epidemic Modeling with Generative Agents,https://arxiv.org/abs/2307.04986
+2307.05300,2023-07-11,cs.AI,Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration,https://arxiv.org/abs/2307.05300
+2307.05973,2023-07-12,cs.RO,VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models,https://arxiv.org/abs/2307.05973
+2307.06082,2023-07-12,cs.AI,VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View,https://arxiv.org/abs/2307.06082
+2307.06135,2023-07-12,cs.RO,SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning,https://arxiv.org/abs/2307.06135
+2307.06187,2023-07-12,cs.MA,Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems,https://arxiv.org/abs/2307.06187
+2307.07191,2023-07-14,cs.LG,Bridging AI and Energy Forecasting: An Autonomous Workflow with Customized Toolkit,https://arxiv.org/abs/2307.07191
+2307.07697,2023-07-15,cs.CL,Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph,https://arxiv.org/abs/2307.07697
+2307.07871,2023-07-15,cs.AI,The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents,https://arxiv.org/abs/2307.07871
+2307.07924,2023-07-16,cs.SE,ChatDev: Communicative Agents for Software Development,https://arxiv.org/abs/2307.07924
+2307.08260,2023-07-17,cs.SE,Extending the Frontier of ChatGPT: Code Generation and Debugging,https://arxiv.org/abs/2307.08260
+2307.09021,2023-07-18,cs.CL,Towards a Neural Era in Dialogue Management for Collaboration: A Literature Survey,https://arxiv.org/abs/2307.09021
+2307.09423,2023-07-18,cs.LG,Scaling Laws for Imitation Learning in Single-Agent Games,https://arxiv.org/abs/2307.09423
+2307.09668,2023-07-18,cs.RO,Towards A Unified Agent with Foundation Models,https://arxiv.org/abs/2307.09668
+2307.09909,2023-07-19,cs.AI,Chit-Chat or Deep Talk: Prompt Engineering for Process Mining,https://arxiv.org/abs/2307.09909
+2307.10631,2023-07-20,cs.SE,Pluvio: Assembly Clone Search for Out-of-domain Architectures and Libraries through Transfer Learning and Conditional Variational Information Bottleneck,https://arxiv.org/abs/2307.10631
+2307.10690,2023-07-20,cs.RO,Bridging Intelligence and Instinct: A New Control Paradigm for Autonomous Robots,https://arxiv.org/abs/2307.10690
+2307.10936,2023-07-20,cs.AI,PASTA: Pretrained Action-State Transformer Agents,https://arxiv.org/abs/2307.10936
+2307.11137,2023-07-20,cs.AI,Of Models and Tin Men: A Behavioural Economics Study of Principal-Agent Problems in AI Alignment using Large-Language Models,https://arxiv.org/abs/2307.11137
+2307.11288,2023-07-21,cs.LG,Kernelized Offline Contextual Dueling Bandits,https://arxiv.org/abs/2307.11288
+2307.12573,2023-07-24,cs.CL,Tachikuma: Understading Complex Interactions with Multi-Character and Novel Objects by Large Language Models,https://arxiv.org/abs/2307.12573
+2307.12856,2023-07-24,cs.LG,"A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",https://arxiv.org/abs/2307.12856
+2307.13854,2023-07-25,cs.AI,WebArena: A Realistic Web Environment for Building Autonomous Agents,https://arxiv.org/abs/2307.13854
+2307.14984,2023-07-27,cs.SI,S$^3$: Social-network Simulation System with Large Language Model-Empowered Agents,https://arxiv.org/abs/2307.14984
+2307.15810,2023-07-28,cs.HC,Understanding the Benefits and Challenges of Using Large Language Model-based Conversational Agents for Mental Well-being Support,https://arxiv.org/abs/2307.15810
+2307.15833,2023-07-28,cs.CL,Dialogue Shaping: Empowering Agents through NPC Interaction,https://arxiv.org/abs/2307.15833
+2307.16184,2023-07-30,cs.CV,"UnIVAL: Unified Model for Image, Video, Audio and Language Tasks",https://arxiv.org/abs/2307.16184
+2307.16457,2023-07-31,cs.CL,A Benchmark for Understanding Dialogue Safety in Mental Health Support,https://arxiv.org/abs/2307.16457
+2307.16513,2023-07-31,cs.CL,Deception Abilities Emerged in Large Language Models,https://arxiv.org/abs/2307.16513
+2308.04889,2023-07-31,cs.CY,NLLG Quarterly arXiv Report 06/23: What are the most influential current AI Papers?,https://arxiv.org/abs/2308.04889
+2308.00352,2023-08-01,cs.AI,MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework,https://arxiv.org/abs/2308.00352
+2308.01423,2023-08-01,cs.CL,ChatMOF: An Autonomous AI System for Predicting and Generating Metal-Organic Frameworks,https://arxiv.org/abs/2308.01423
+2308.02541,2023-08-01,cs.CL,Towards More Human-like AI Communication: A Review of Emergent Communication Research,https://arxiv.org/abs/2308.02541
+2308.01542,2023-08-03,cs.HC,Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents,https://arxiv.org/abs/2308.01542
+2308.01552,2023-08-03,cs.AI,InterAct: Exploring the Potentials of ChatGPT as a Cooperative Agent,https://arxiv.org/abs/2308.01552
+2308.01734,2023-08-03,cs.CL,Ambient Adventures: Teaching ChatGPT on Developing Complex Stories,https://arxiv.org/abs/2308.01734
+2308.02151,2023-08-04,cs.CL,Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization,https://arxiv.org/abs/2308.02151
+2308.03022,2023-08-06,cs.HC,SAPIEN: Affective Virtual Agents Powered by Large Language Models,https://arxiv.org/abs/2308.03022
+2308.03313,2023-08-07,cs.SI,Quantifying the Impact of Large Language Models on Collective Opinion Dynamics,https://arxiv.org/abs/2308.03313
+2308.03427,2023-08-07,cs.AI,TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage,https://arxiv.org/abs/2308.03427
+2308.03688,2023-08-07,cs.AI,AgentBench: Evaluating LLMs as Agents,https://arxiv.org/abs/2308.03688
+2308.04026,2023-08-08,cs.AI,AgentSims: An Open-Source Sandbox for Large Language Model Evaluation,https://arxiv.org/abs/2308.04026
+2308.04030,2023-08-08,cs.AI,Gentopia: A Collaborative Platform for Tool-Augmented LLMs,https://arxiv.org/abs/2308.04030
+2308.04624,2023-08-08,cs.CL,Benchmarking LLM powered Chatbots: Methods and Metrics,https://arxiv.org/abs/2308.04624
+2308.05221,2023-08-09,cs.HC,"Alexa, play with robot: Introducing the First Alexa Prize SimBot Challenge on Embodied AI",https://arxiv.org/abs/2308.05221
+2308.05391,2023-08-10,cs.AI,Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges,https://arxiv.org/abs/2308.05391
+2308.05637,2023-08-10,cs.DB,The Fast and the Private: Task-based Dataset Search,https://arxiv.org/abs/2308.05637
+2308.05822,2023-08-10,cs.CV,Encode-Store-Retrieve: Augmenting Human Memory through Language-Encoded Egocentric Perception,https://arxiv.org/abs/2308.05822
+2308.05960,2023-08-11,cs.AI,BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents,https://arxiv.org/abs/2308.05960
+2308.06391,2023-08-11,cs.CL,Dynamic Planning with a LLM,https://arxiv.org/abs/2308.06391
+2308.07107,2023-08-14,cs.CL,Large Language Models for Information Retrieval: A Survey,https://arxiv.org/abs/2308.07107
+2308.07201,2023-08-14,cs.CL,ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate,https://arxiv.org/abs/2308.07201
+2308.07411,2023-08-14,cs.AI,Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering,https://arxiv.org/abs/2308.07411
+2308.07997,2023-08-15,cs.CV,$A^2$Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models,https://arxiv.org/abs/2308.07997
+2308.08043,2023-08-15,cs.CL,DiagGPT: An LLM-based and Multi-agent Dialogue System with Automatic Topic Management for Flexible Task-Oriented Dialogue,https://arxiv.org/abs/2308.08043
+2308.08102,2023-08-16,cs.HC,ChatLogo: A Large Language Model-Driven Hybrid Natural-Programming Language Interface for Agent-based Modeling and Programming,https://arxiv.org/abs/2308.08102
+2308.08155,2023-08-16,cs.AI,AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation,https://arxiv.org/abs/2308.08155
+2308.09830,2023-08-18,cs.AI,Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis,https://arxiv.org/abs/2308.09830
+2308.09853,2023-08-18,cs.CL,How susceptible are LLMs to Logical Fallacies?,https://arxiv.org/abs/2308.09853
+2308.09904,2023-08-19,cs.IR,RAH! RecSys-Assistant-Human: A Human-Centered Recommendation Framework with LLM Agents,https://arxiv.org/abs/2308.09904
+2308.09975,2023-08-19,cs.CL,FinEval: A Chinese Financial Domain Knowledge Evaluation Benchmark for Large Language Models,https://arxiv.org/abs/2308.09975
+2308.10141,2023-08-20,cs.CV,March in Chat: Interactive Prompting for Remote Embodied Referring Expression,https://arxiv.org/abs/2308.10141
+2308.10144,2023-08-20,cs.LG,ExpeL: LLM Agents Are Experiential Learners,https://arxiv.org/abs/2308.10144
+2308.10204,2023-08-20,cs.AR,ChatEDA: A Large Language Model Powered Autonomous Agent for EDA,https://arxiv.org/abs/2308.10204
+2308.10435,2023-08-21,cs.MA,GPT-in-the-Loop: Adaptive Decision-Making for Multiagent Systems,https://arxiv.org/abs/2308.10435
+2308.10848,2023-08-21,cs.CL,AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors,https://arxiv.org/abs/2308.10848
+2308.13542,2023-08-21,cs.AI,LaGR-SEQ: Language-Guided Reinforcement Learning with Sample-Efficient Querying,https://arxiv.org/abs/2308.13542
+2308.11136,2023-08-22,cs.CY,Is There Any Social Principle for LLM-Based Agents?,https://arxiv.org/abs/2308.11136
+2308.11339,2023-08-22,cs.AI,ProAgent: Building Proactive Cooperative Agents with Large Language Models,https://arxiv.org/abs/2308.11339
+2308.11432,2023-08-22,cs.AI,A Survey on Large Language Model based Autonomous Agents,https://arxiv.org/abs/2308.11432
+2308.11561,2023-08-22,cs.CV,Target-Grounded Graph-Aware Transformer for Aerial Vision-and-Dialog Navigation,https://arxiv.org/abs/2308.11561
+2308.11730,2023-08-22,cs.CL,Knowledge Graph Prompting for Multi-Document Question Answering,https://arxiv.org/abs/2308.11730
+2308.11807,2023-08-22,cs.CL,Towards an On-device Agent for Text Rewriting,https://arxiv.org/abs/2308.11807
+2308.13548,2023-08-22,cs.AI,Towards a Holodeck-style Simulation Game,https://arxiv.org/abs/2308.13548
+2308.12086,2023-08-23,cs.CR,Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments,https://arxiv.org/abs/2308.12086
+2308.12270,2023-08-23,cs.LG,Language Reward Modulation for Pretraining Reinforcement Learning,https://arxiv.org/abs/2308.12270
+2308.12503,2023-08-24,cs.AI,CGMI: Configurable General Multi-Agent Interaction Framework,https://arxiv.org/abs/2308.12503
+2308.12519,2023-08-24,cs.CL,Rational Decision-Making Agent with Internalized Utility Judgment,https://arxiv.org/abs/2308.12519
+2308.13278,2023-08-25,cs.LG,Integrating LLMs and Decision Transformers for Language Grounded Generative Quality-Diversity,https://arxiv.org/abs/2308.13278
+2308.14284,2023-08-28,cs.AI,Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning,https://arxiv.org/abs/2308.14284
+2308.14296,2023-08-28,cs.IR,RecMind: Large Language Model Powered Agent For Recommendation,https://arxiv.org/abs/2308.14296
+2308.14641,2023-08-28,cs.CL,Challenges of GPT-3-based Conversational Agents for Healthcare,https://arxiv.org/abs/2308.14641
+2308.15214,2023-08-29,cs.CL,"FurChat: An Embodied Conversational Agent using LLMs, Combining Open and Closed-Domain Dialogue with Facial Expressions",https://arxiv.org/abs/2308.15214
+2309.03220,2023-08-31,cs.HC,"Conversational Swarm Intelligence, a Pilot Study",https://arxiv.org/abs/2309.03220
+2309.00904,2023-09-02,cs.RO,Developmental Scaffolding with Large Language Models,https://arxiv.org/abs/2309.00904
+2309.00986,2023-09-02,cs.CL,ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models,https://arxiv.org/abs/2309.00986
+2309.01664,2023-09-04,cs.CL,Fine-grained Affective Processing Capabilities Emerging from Large Language Models,https://arxiv.org/abs/2309.01664
+2309.02144,2023-09-05,cs.CL,Making Large Language Models Better Reasoners with Alignment,https://arxiv.org/abs/2309.02144
+2309.02240,2023-09-05,cs.CL,Dialog Action-Aware Transformer for Dialog Policy Learning,https://arxiv.org/abs/2309.02240
+2309.02427,2023-09-05,cs.AI,Cognitive Architectures for Language Agents,https://arxiv.org/abs/2309.02427
+2310.06846,2023-09-05,cs.AI,Exploiting Language Models as a Source of Knowledge for Cognitive Agents,https://arxiv.org/abs/2310.06846
+2309.03242,2023-09-06,q-bio.GN,Automated Bioinformatics Analysis via AutoBA,https://arxiv.org/abs/2309.03242
+2309.03651,2023-09-07,cs.AI,Learning of Generalizable and Interpretable Knowledge in Grid-Based Reinforcement Learning Environments,https://arxiv.org/abs/2309.03651
+2309.03661,2023-09-07,cs.CV,Prompt-based Context- and Domain-aware Pretraining for Vision and Language Navigation,https://arxiv.org/abs/2309.03661
+2309.03736,2023-09-07,q-fin.PM,TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters for Enhanced Financial Trading Performance,https://arxiv.org/abs/2309.03736
+2309.03748,2023-09-07,cs.CL,Enhancing Pipeline-Based Conversational Agents with Large Language Models,https://arxiv.org/abs/2309.03748
+2309.03886,2023-09-07,cs.CL,FIND: A Function Description Benchmark for Evaluating Interpretability Methods,https://arxiv.org/abs/2309.03886
+2309.04077,2023-09-08,cs.RO,SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments,https://arxiv.org/abs/2309.04077
+2309.04565,2023-09-08,cs.LG,A Versatile Graph Learning Approach through LLM-based Agent,https://arxiv.org/abs/2309.04565
+2309.05076,2023-09-10,cs.AI,An Appraisal-Based Chain-Of-Emotion Architecture for Affective Language Model Game Agents,https://arxiv.org/abs/2309.05076
+2309.05519,2023-09-11,cs.AI,NExT-GPT: Any-to-Any Multimodal LLM,https://arxiv.org/abs/2309.05519
+2309.06126,2023-09-12,astro-ph.IM,AstroLLaMA: Towards Specialized Foundation Models in Astronomy,https://arxiv.org/abs/2309.06126
+2309.07409,2023-09-14,cs.CV,Masked Diffusion with Task-awareness for Procedure Planning in Instructional Videos,https://arxiv.org/abs/2309.07409
+2309.07864,2023-09-14,cs.AI,The Rise and Potential of Large Language Model Based Agents: A Survey,https://arxiv.org/abs/2309.07864
+2309.07870,2023-09-14,cs.CL,Agents: An Open-source Framework for Autonomous Language Agents,https://arxiv.org/abs/2309.07870
+2309.07974,2023-09-14,cs.LG,A Data Source for Reasoning Embodied Agents,https://arxiv.org/abs/2309.07974
+2309.08138,2023-09-15,cs.RO,Find What You Want: Learning Demand-conditioned Object Attribute Space for Demand-driven Navigation,https://arxiv.org/abs/2309.08138
+2309.08172,2023-09-15,cs.CL,LASER: LLM Agent with State-Space Exploration for Web Navigation,https://arxiv.org/abs/2309.08172
+2309.08827,2023-09-16,cs.CL,S3-DST: Structured Open-Domain Dialogue Segmentation and State Tracking in the Era of LLMs,https://arxiv.org/abs/2309.08827
+2309.09919,2023-09-18,cs.RO,Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents,https://arxiv.org/abs/2309.09919
+2309.09971,2023-09-18,cs.AI,MindAgent: Emergent Gaming Interaction,https://arxiv.org/abs/2309.09971
+2309.10062,2023-09-18,cs.RO,SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models,https://arxiv.org/abs/2309.10062
+2309.10103,2023-09-18,cs.RO,Reasoning about the Unseen for Efficient Outdoor Object Navigation,https://arxiv.org/abs/2309.10103
+2309.10346,2023-09-19,cs.LG,Explaining Agent Behavior with Large Language Models,https://arxiv.org/abs/2309.10346
+2309.10375,2023-09-19,cs.CV,Pointing out Human Answer Mistakes in a Goal-Oriented Visual Dialogue,https://arxiv.org/abs/2309.10375
+2309.10895,2023-09-19,cs.HC,Large Language Models as Agents in the Clinic,https://arxiv.org/abs/2309.10895
+2309.11359,2023-09-20,cs.RO,"Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning",https://arxiv.org/abs/2309.11359
+2309.11382,2023-09-20,cs.RO,Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions,https://arxiv.org/abs/2309.11382
+2309.11436,2023-09-20,cs.CL,You Only Look at Screens: Multimodal Chain-of-Action Agents,https://arxiv.org/abs/2309.11436
+2309.11456,2023-09-20,cs.AI,Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence,https://arxiv.org/abs/2309.11456
+2309.11653,2023-09-20,cs.HC,"""It's a Fair Game"", or Is It? Examining How Users Navigate Disclosure Risks and Benefits When Using LLM-Based Conversational Agents",https://arxiv.org/abs/2309.11653
+2309.12555,2023-09-22,cs.HC,PlanFitting: Personalized Exercise Planning with Large Language Model-driven Conversational Agent,https://arxiv.org/abs/2309.12555
+2309.12616,2023-09-22,cs.CL,Unlocking Model Insights: A Dataset for Automated Model Card Generation,https://arxiv.org/abs/2309.12616
+2309.13007,2023-09-22,cs.CL,ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs,https://arxiv.org/abs/2309.13007
+2309.13193,2023-09-22,cs.HC,SurrealDriver: Designing LLM-powered Generative Driver Agent Framework based on Human Drivers' Driving-thinking Data,https://arxiv.org/abs/2309.13193
+2309.14365,2023-09-23,cs.CL,An In-depth Survey of Large Language Model-based Artificial Intelligence Agents,https://arxiv.org/abs/2309.14365
+2309.15074,2023-09-24,cs.CL,Natural Language based Context Modeling and Reasoning for Ubiquitous Computing with Large Language Models: A Tutorial,https://arxiv.org/abs/2309.15074
+2309.14404,2023-09-25,q-bio.QM,pLMFPPred: a novel approach for accurate prediction of functional peptides integrating embedding from pre-trained protein language model and imbalanced learning,https://arxiv.org/abs/2309.14404
+2309.14534,2023-09-25,cs.HC,Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Education,https://arxiv.org/abs/2309.14534
+2309.15817,2023-09-25,cs.AI,Identifying the Risks of LM Agents with an LM-Emulated Sandbox,https://arxiv.org/abs/2309.15817
+2309.14779,2023-09-26,cs.CL,Towards Data-efficient Customer Intent Recognition with Prompt-based Learning Paradigm,https://arxiv.org/abs/2309.14779
+2309.15289,2023-09-26,cs.CV,SEPT: Towards Efficient Scene Representation Learning for Motion Prediction,https://arxiv.org/abs/2309.15289
+2310.01420,2023-09-26,cs.CL,Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems,https://arxiv.org/abs/2310.01420
+2309.15432,2023-09-27,cs.PL,ComPile: A Large IR Dataset from Production Sources,https://arxiv.org/abs/2309.15432
+2309.15785,2023-09-27,cs.CV,BT-Adapter: Video Conversation is Feasible Without Video Instruction Tuning,https://arxiv.org/abs/2309.15785
+2309.15943,2023-09-27,cs.RO,Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?,https://arxiv.org/abs/2309.15943
+2309.16021,2023-09-27,cs.CR,HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs),https://arxiv.org/abs/2309.16021
+2309.16146,2023-09-28,cs.AI,T-COL: Generating Counterfactual Explanations for General User Preferences on Variable Machine Learning Systems,https://arxiv.org/abs/2309.16146
+2309.16292,2023-09-28,cs.RO,DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models,https://arxiv.org/abs/2309.16292
+2309.16534,2023-09-28,cs.CV,MotionLM: Multi-Agent Motion Forecasting as Language Modeling,https://arxiv.org/abs/2309.16534
+2309.16609,2023-09-28,cs.CL,Qwen Technical Report,https://arxiv.org/abs/2309.16609
+2309.17176,2023-09-29,cs.AI,AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback,https://arxiv.org/abs/2309.17176
+2309.17234,2023-09-29,cs.CL,"Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation",https://arxiv.org/abs/2309.17234
+2309.17277,2023-09-29,cs.AI,Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4,https://arxiv.org/abs/2309.17277
+2309.17288,2023-09-29,cs.AI,AutoAgents: A Framework for Automatic Agent Generation,https://arxiv.org/abs/2309.17288
+2309.17382,2023-09-29,cs.AI,"Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency",https://arxiv.org/abs/2309.17382
+2309.17452,2023-09-29,cs.CL,ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving,https://arxiv.org/abs/2309.17452
+2310.00092,2023-09-29,cs.CL,Voice2Action: Language Models as Agent for Efficient Real-Time Interaction in Virtual Reality,https://arxiv.org/abs/2310.00092
+2310.00166,2023-09-29,cs.AI,Motif: Intrinsic Motivation from Artificial Intelligence Feedback,https://arxiv.org/abs/2310.00166
+2310.00194,2023-09-30,cs.AI,Improving Planning with Large Language Models: A Modular Agentic Architecture,https://arxiv.org/abs/2310.00194
+2310.00280,2023-09-30,cs.AI,Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration,https://arxiv.org/abs/2310.00280
+2310.00481,2023-09-30,cs.RO,LANCAR: Leveraging Language for Context-Aware Robot Locomotion in Unstructured Environments,https://arxiv.org/abs/2310.00481
+2310.00647,2023-10-01,cs.CV,Beyond Task Performance: Evaluating and Reducing the Flaws of Large Multimodal Models with In-Context Learning,https://arxiv.org/abs/2310.00647
+2310.01444,2023-10-01,cs.CL,Adapting LLM Agents with Universal Feedback in Communication,https://arxiv.org/abs/2310.01444
+2310.01088,2023-10-02,cs.CL,Towards human-like spoken dialogue generation between AI agents from written dialogue,https://arxiv.org/abs/2310.01088
+2310.01218,2023-10-02,cs.CV,Making LLaMA SEE and Draw with SEED Tokenizer,https://arxiv.org/abs/2310.01218
+2310.01320,2023-10-02,cs.AI,Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation,https://arxiv.org/abs/2310.01320
+2310.01331,2023-10-02,cs.HC,ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions,https://arxiv.org/abs/2310.01331
+2310.01386,2023-10-02,cs.CL,Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench,https://arxiv.org/abs/2310.01386
+2310.01468,2023-10-02,cs.CL,Probing the Multi-turn Planning Capabilities of LLMs via 20 Question Games,https://arxiv.org/abs/2310.01468
+2310.01557,2023-10-02,cs.LG,SmartPlay: A Benchmark for LLMs as Intelligent Agents,https://arxiv.org/abs/2310.01557
+2310.02003,2023-10-02,cs.SE,L2MAC: Large Language Model Automatic Computer for Extensive Code Generation,https://arxiv.org/abs/2310.02003
+2310.01957,2023-10-03,cs.RO,Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving,https://arxiv.org/abs/2310.01957
+2310.02031,2023-10-03,cs.CL,OceanGPT: A Large Language Model for Ocean Science Tasks,https://arxiv.org/abs/2310.02031
+2310.02071,2023-10-03,cs.AI,Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond,https://arxiv.org/abs/2310.02071
+2310.02124,2023-10-03,cs.CL,Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View,https://arxiv.org/abs/2310.02124
+2310.02170,2023-10-03,cs.CL,A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration,https://arxiv.org/abs/2310.02170
+2310.02172,2023-10-03,cs.HC,Lyfe Agents: Generative agents for low-cost real-time social interactions,https://arxiv.org/abs/2310.02172
+2310.02255,2023-10-03,cs.CV,MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts,https://arxiv.org/abs/2310.02255
+2310.02374,2023-10-03,cs.CL,Conversational Health Agents: A Personalized LLM-Powered Agent Framework,https://arxiv.org/abs/2310.02374
+2310.05976,2023-10-03,physics.soc-ph,An evolutionary model of personality traits related to cooperative behavior using a large language model,https://arxiv.org/abs/2310.05976
+2310.06775,2023-10-03,cs.HC,Conceptual Framework for Autonomous Cognitive Entities,https://arxiv.org/abs/2310.06775
+2310.03128,2023-10-04,cs.SE,MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use,https://arxiv.org/abs/2310.03128
+2310.03173,2023-10-04,cs.CL,$\mathcal{B}$-Coder: Value-Based Deep Reinforcement Learning for Program Synthesis,https://arxiv.org/abs/2310.03173
+2310.03210,2023-10-04,cs.CL,Can Language Models Employ the Socratic Method? Experiments with Code Debugging,https://arxiv.org/abs/2310.03210
+2310.03302,2023-10-05,cs.LG,MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation,https://arxiv.org/abs/2310.03302
+2310.03659,2023-10-05,cs.AI,Balancing Autonomy and Alignment: A Multi-Dimensional Taxonomy for Autonomous LLM-powered Multi-Agent Architectures,https://arxiv.org/abs/2310.03659
+2310.03710,2023-10-05,cs.CL,Agent Instructs Large Language Models to be General Zero-Shot Reasoners,https://arxiv.org/abs/2310.03710
+2310.03714,2023-10-05,cs.CL,DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines,https://arxiv.org/abs/2310.03714
+2310.03903,2023-10-05,cs.CL,LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models,https://arxiv.org/abs/2310.03903
+2310.05984,2023-10-05,cs.SI,Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms,https://arxiv.org/abs/2310.05984
+2310.03965,2023-10-06,cs.AI,Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models,https://arxiv.org/abs/2310.03965
+2310.04230,2023-10-06,cs.IR,Lending Interaction Wings to Recommender Systems with Conversational Agents,https://arxiv.org/abs/2310.04230
+2310.04276,2023-10-06,cs.AI,From task structures to world models: What do LLMs know?,https://arxiv.org/abs/2310.04276
+2310.04304,2023-10-06,cs.SE,Coding by Design: GPT-4 empowers Agile Model Driven Development,https://arxiv.org/abs/2310.04304
+2310.04353,2023-10-06,cs.LG,An In-Context Learning Agent for Formal Theorem-Proving,https://arxiv.org/abs/2310.04353
+2310.04373,2023-10-06,cs.LG,Confronting Reward Model Overoptimization with Constrained RLHF,https://arxiv.org/abs/2310.04373
+2310.04406,2023-10-06,cs.AI,Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models,https://arxiv.org/abs/2310.04406
+2310.04579,2023-10-06,cs.LG,Self-Confirming Transformer for Belief-Conditioned Adaptation in Offline Multi-Agent Reinforcement Learning,https://arxiv.org/abs/2310.04579
+2310.04698,2023-10-07,cs.CV,Tree-GPT: Modular Large Language Model Expert System for Forest Remote Sensing Image Understanding and Interactive Analysis,https://arxiv.org/abs/2310.04698
+2310.05029,2023-10-08,cs.CL,Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading,https://arxiv.org/abs/2310.05029
+2310.05036,2023-10-08,cs.AI,AvalonBench: Evaluating LLMs Playing the Game of Avalon,https://arxiv.org/abs/2310.05036
+2310.05146,2023-10-08,cs.AI,Large Language Model (LLM) as a System of Multiple Expert Agents: An Approach to solve the Abstraction and Reasoning Corpus (ARC) Challenge,https://arxiv.org/abs/2310.05146
+2310.05280,2023-10-08,cs.CL,Are Personalized Stochastic Parrots More Dangerous? Evaluating Persona Biases in Dialogue Systems,https://arxiv.org/abs/2310.05280
+2310.05292,2023-10-08,cs.HC,How to Teach Programming in the AI Era? Using LLMs as a Teachable Agent for Debugging,https://arxiv.org/abs/2310.05292
+2310.05746,2023-10-09,cs.CL,Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena,https://arxiv.org/abs/2310.05746
+2310.05910,2023-10-09,cs.CL,SALMON: Self-Alignment with Instructable Reward Models,https://arxiv.org/abs/2310.05910
+2310.05915,2023-10-09,cs.CL,FireAct: Toward Language Agent Fine-tuning,https://arxiv.org/abs/2310.05915
+2310.06116,2023-10-09,cs.AI,OptiMUS: Optimization Modeling Using MIP Solvers and large language models,https://arxiv.org/abs/2310.06116
+2310.06155,2023-10-09,cs.HC,CoQuest: Exploring Research Question Co-Creation with an LLM-based Agent,https://arxiv.org/abs/2310.06155
+2310.06245,2023-10-10,cs.AI,We are what we repeatedly do: Inducing and deploying habitual schemas in persona-based responses,https://arxiv.org/abs/2310.06245
+2310.06272,2023-10-10,cs.CL,Let Models Speak Ciphers: Multiagent Debate through Embeddings,https://arxiv.org/abs/2310.06272
+2310.06303,2023-10-10,cs.RO,Dobby: A Conversational Service Robot Driven by GPT-4,https://arxiv.org/abs/2310.06303
+2310.06500,2023-10-10,cs.AI,MetaAgents: Large Language Model Based Agents for Decision-Making on Teaming,https://arxiv.org/abs/2310.06500
+2310.06830,2023-10-10,cs.CL,Lemur: Harmonizing Natural Language and Code for Language Agents,https://arxiv.org/abs/2310.06830
+2310.06983,2023-10-10,cs.CL,Violation of Expectation via Metacognitive Prompting Reduces Theory of Mind Prediction Error in Large Language Models,https://arxiv.org/abs/2310.06983
+2310.07099,2023-10-11,cs.CY,ClausewitzGPT Framework: A New Frontier in Theoretical Large Language Model Enhanced Information Operations,https://arxiv.org/abs/2310.07099
+2310.07889,2023-10-11,cs.CV,LangNav: Language as a Perceptual Representation for Navigation,https://arxiv.org/abs/2310.07889
+2310.07899,2023-10-11,cs.AI,RoboCLIP: One Demonstration is Enough to Learn Robot Policies,https://arxiv.org/abs/2310.07899
+2310.07968,2023-10-12,cs.RO,"Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation",https://arxiv.org/abs/2310.07968
+2310.08067,2023-10-12,cs.AI,GameGPT: Multi-agent Collaborative Framework for Game Development,https://arxiv.org/abs/2310.08067
+2310.08101,2023-10-12,cs.CL,Promptor: A Conversational and Autonomous Prompt Generation Agent for Intelligent Text Entry Techniques,https://arxiv.org/abs/2310.08101
+2310.08446,2023-10-12,cs.LG,Towards Robust Multi-Modal Reasoning via Model Selection,https://arxiv.org/abs/2310.08446
+2310.08535,2023-10-12,cs.AI,Formally Specifying the High-Level Behavior of LLM-Based Agents,https://arxiv.org/abs/2310.08535
+2310.08560,2023-10-12,cs.AI,MemGPT: Towards LLMs as Operating Systems,https://arxiv.org/abs/2310.08560
+2310.08588,2023-10-12,cs.CV,Octopus: Embodied Vision-Language Programmer from Environmental Feedback,https://arxiv.org/abs/2310.08588
+2310.08669,2023-10-12,cs.CV,Multimodal Large Language Model for Visual Navigation,https://arxiv.org/abs/2310.08669
+2310.08740,2023-10-12,cs.CL,A Zero-Shot Language Agent for Computer Control with Structured Reflection,https://arxiv.org/abs/2310.08740
+2310.08837,2023-10-13,cs.SE,"Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis Agents",https://arxiv.org/abs/2310.08837
+2310.08901,2023-10-13,cs.MA,Welfare Diplomacy: Benchmarking Language Model Cooperation,https://arxiv.org/abs/2310.08901
+2310.09233,2023-10-13,cs.IR,AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems,https://arxiv.org/abs/2310.09233
+2310.09343,2023-10-13,cs.CL,Dialogue Chain-of-Thought Distillation for Commonsense-aware Conversational Agents,https://arxiv.org/abs/2310.09343
+2310.09454,2023-10-14,cs.AI,LgTS: Dynamic Task Sampling using LLM-generated sub-goals for Reinforcement Learning Agents,https://arxiv.org/abs/2310.09454
+2310.09506,2023-10-14,cs.IT,Towards Semantic Communication Protocols for 6G: From Protocol Learning to Language-Oriented Approaches,https://arxiv.org/abs/2310.09506
+2310.09773,2023-10-15,cs.CL,RSVP: Customer Intent Detection via Agent Response Contrastive and Generative Pre-Training,https://arxiv.org/abs/2310.09773
+2310.09974,2023-10-15,cs.GT,Algorithmic Contract Design for Crowdsourced Ranking,https://arxiv.org/abs/2310.09974
+2310.10021,2023-10-16,cs.RO,Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance,https://arxiv.org/abs/2310.10021
+2310.10108,2023-10-16,cs.IR,On Generative Agents in Recommendation,https://arxiv.org/abs/2310.10108
+2310.10158,2023-10-16,cs.CL,Character-LLM: A Trainable Agent for Role-Playing,https://arxiv.org/abs/2310.10158
+2310.10207,2023-10-16,cs.LG,Bongard-OpenWorld: Few-Shot Reasoning for Free-form Visual Concepts in the Real World,https://arxiv.org/abs/2310.10207
+2310.10380,2023-10-16,cs.CL,Contextual Data Augmentation for Task-Oriented Dialog Systems,https://arxiv.org/abs/2310.10380
+2310.10436,2023-10-16,cs.AI,EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities,https://arxiv.org/abs/2310.10436
+2310.10445,2023-10-16,cs.CL,"MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities",https://arxiv.org/abs/2310.10445
+2310.10467,2023-10-16,cs.CL,Stance Detection with Collaborative Role-Infused LLM-Based Agents,https://arxiv.org/abs/2310.10467
+2310.10586,2023-10-16,cs.CV,VidCoM: Fast Video Comprehension through Large Language Models with Multimodal Tools,https://arxiv.org/abs/2310.10586
+2310.10634,2023-10-16,cs.CL,OpenAgents: An Open Platform for Language Agents in the Wild,https://arxiv.org/abs/2310.10634
+2310.10701,2023-10-16,cs.CL,Theory of Mind for Multi-Agent Collaboration via Large Language Models,https://arxiv.org/abs/2310.10701
+2310.10826,2023-10-16,cs.GT,Mechanism Design for Large Language Models,https://arxiv.org/abs/2310.10826
+2310.10844,2023-10-16,cs.CL,Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks,https://arxiv.org/abs/2310.10844
+2310.11667,2023-10-18,cs.AI,SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents,https://arxiv.org/abs/2310.11667
+2310.11848,2023-10-18,cs.HC,The Value-Sensitive Conversational Agent Co-Design Framework,https://arxiv.org/abs/2310.11848
+2310.12020,2023-10-18,cs.RO,LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation,https://arxiv.org/abs/2310.12020
+2310.12821,2023-10-19,cs.CL,GestureGPT: Toward Zero-Shot Free-Form Hand Gesture Understanding with Large Language Model Agents,https://arxiv.org/abs/2310.12821
+2310.12823,2023-10-19,cs.CL,AgentTuning: Enabling Generalized Agent Abilities for LLMs,https://arxiv.org/abs/2310.12823
+2310.12921,2023-10-19,cs.LG,Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning,https://arxiv.org/abs/2310.12921
+2310.12945,2023-10-19,cs.CV,3D-GPT: Procedural 3D Modeling with Large Language Models,https://arxiv.org/abs/2310.12945
+2310.13132,2023-10-19,cs.CL,Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries,https://arxiv.org/abs/2310.13132
+2310.13227,2023-10-20,cs.CL,ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search,https://arxiv.org/abs/2310.13227
+2310.13255,2023-10-20,cs.CV,Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds,https://arxiv.org/abs/2310.13255
+2310.13289,2023-10-20,cs.SD,SALMONN: Towards Generic Hearing Abilities for Large Language Models,https://arxiv.org/abs/2310.13289
+2310.13549,2023-10-20,cs.CL,The Perils & Promises of Fact-checking with Large Language Models,https://arxiv.org/abs/2310.13549
+2310.18331,2023-10-20,cs.CL,AllTogether: Investigating the Efficacy of Spliced Prompt for Web Navigation using Large Language Models,https://arxiv.org/abs/2310.18331
+2310.13961,2023-10-21,cs.CL,Ensemble-Instruct: Generating Instruction-Tuning Data with a Heterogeneous Mixture of LMs,https://arxiv.org/abs/2310.13961
+2310.14201,2023-10-22,cs.LG,Prompt Engineering Through the Lens of Optimal Control,https://arxiv.org/abs/2310.14201
+2310.14303,2023-10-22,cs.CL,Language Model Unalignment: Parametric Red-Teaming to Expose Hidden Harms and Biases,https://arxiv.org/abs/2310.14303
+2310.14403,2023-10-22,cs.AI,O3D: Offline Data-driven Discovery and Distillation for Sequential Decision-Making with Large Language Models,https://arxiv.org/abs/2310.14403
+2310.14985,2023-10-23,cs.CL,LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay,https://arxiv.org/abs/2310.14985
+2310.15065,2023-10-23,cs.HC,Synergizing Human-AI Agency: A Guide of 23 Heuristics for Service Co-Creation with LLM-Based Agents,https://arxiv.org/abs/2310.15065
+2310.15066,2023-10-23,cs.CV,Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge,https://arxiv.org/abs/2310.15066
+2310.15127,2023-10-23,cs.AI,Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models,https://arxiv.org/abs/2310.15127
+2310.15959,2023-10-24,cs.CL,NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes,https://arxiv.org/abs/2310.15959
+2310.15991,2023-10-24,cs.SE,WhiteFox: White-Box Compiler Fuzzing Empowered by Large Language Models,https://arxiv.org/abs/2310.15991
+2310.16048,2023-10-24,cs.AI,AI Alignment and Social Choice: Fundamental Limitations and Policy Implications,https://arxiv.org/abs/2310.16048
+2310.16135,2023-10-24,cs.CL,Can You Follow Me? Testing Situational Understanding in ChatGPT,https://arxiv.org/abs/2310.16135
+2310.18363,2023-10-24,cs.CL,A Contextualized Real-Time Multimodal Emotion Recognition for Conversational Agents using Graph Convolutional Networks in Reinforcement Learning,https://arxiv.org/abs/2310.18363
+2310.16301,2023-10-25,cs.CL,Is ChatGPT a Good Multi-Party Conversation Solver?,https://arxiv.org/abs/2310.16301
+2310.16340,2023-10-25,cs.SE,RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models,https://arxiv.org/abs/2310.16340
+2310.16421,2023-10-25,cs.AI,Graph Agent: Explicit Reasoning Agent for Graphs,https://arxiv.org/abs/2310.16421
+2310.16427,2023-10-25,cs.CL,PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization,https://arxiv.org/abs/2310.16427
+2310.17017,2023-10-25,cs.CL,An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives,https://arxiv.org/abs/2310.17017
+2310.18233,2023-10-25,cs.AI,Will releasing the weights of future large language models grant widespread access to pandemic agents?,https://arxiv.org/abs/2310.18233
+2310.17512,2023-10-26,cs.AI,CompeteAI: Understanding the Competition Dynamics in Large Language Model-based Agents,https://arxiv.org/abs/2310.17512
+2310.17567,2023-10-26,cs.CL,Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models,https://arxiv.org/abs/2310.17567
+2310.17749,2023-10-26,cs.CL,Salespeople vs SalesBot: Exploring the Role of Educational Value in Conversational Recommender Systems,https://arxiv.org/abs/2310.17749
+2310.17888,2023-10-27,cs.CY,Large Language Models as Subpopulation Representative Models: A Review,https://arxiv.org/abs/2310.17888
+2310.17976,2023-10-27,cs.CL,InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews,https://arxiv.org/abs/2310.17976
+2310.18075,2023-10-27,cs.CL,DUMA: a Dual-Mind Conversational Agent with Fast and Slow Thinking,https://arxiv.org/abs/2310.18075
+2310.18168,2023-10-27,cs.CL,Personas as a Way to Model Truthfulness in Language Models,https://arxiv.org/abs/2310.18168
+2310.18207,2023-10-27,cs.CL,INA: An Integrative Approach for Enhancing Negotiation Strategies with Reward-Based Dialogue System,https://arxiv.org/abs/2310.18207
+2310.18940,2023-10-29,cs.AI,Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game,https://arxiv.org/abs/2310.18940
+2310.19181,2023-10-29,cs.CR,"From Chatbots to PhishBots? -- Preventing Phishing scams created using ChatGPT, Google Bard and Claude",https://arxiv.org/abs/2310.19181
+2310.19462,2023-10-30,cs.CL,Constituency Parsing using LLMs,https://arxiv.org/abs/2310.19462
+2310.19619,2023-10-30,cs.CL,Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models,https://arxiv.org/abs/2310.19619
+2310.19998,2023-10-30,cs.CL,Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design,https://arxiv.org/abs/2310.19998
+2310.20151,2023-10-31,cs.CL,Multi-Agent Consensus Seeking via Large Language Models,https://arxiv.org/abs/2310.20151
+2310.20352,2023-10-31,cs.CL,AMERICANO: Argument Generation with Discourse-driven Decomposition and Agent Interaction,https://arxiv.org/abs/2310.20352
+2310.20499,2023-10-31,cs.CL,Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models,https://arxiv.org/abs/2310.20499
+2311.00153,2023-10-31,cs.RO,Towards A Natural Language Interface for Flexible Multi-Agent Task Assignment,https://arxiv.org/abs/2311.00153
+2311.00172,2023-10-31,cs.CL,Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield,https://arxiv.org/abs/2311.00172
+2311.00262,2023-11-01,cs.CL,Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents,https://arxiv.org/abs/2311.00262
+2311.00416,2023-11-01,cs.LG,Efficient Human-AI Coordination via Preparatory Language-based Convention,https://arxiv.org/abs/2311.00416
+2311.00772,2023-11-01,cs.AI,SAGE: Smart home Agent with Grounded Execution,https://arxiv.org/abs/2311.00772
+2311.01007,2023-11-02,cs.LG,Effective Human-AI Teams via Learned Natural Language Rules and Onboarding,https://arxiv.org/abs/2311.01007
+2311.01017,2023-11-02,cs.CV,Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion,https://arxiv.org/abs/2311.01017
+2311.10751,2023-11-02,cs.RO,ProAgent: From Robotic Process Automation to Agentic Process Automation,https://arxiv.org/abs/2311.10751
+2311.01767,2023-11-03,cs.CL,PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion,https://arxiv.org/abs/2311.01767
+2311.01918,2023-11-03,cs.CL,Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review,https://arxiv.org/abs/2311.01918
+2311.01990,2023-11-03,cs.LG,Conditions on Preference Relations that Guarantee the Existence of Optimal Policies,https://arxiv.org/abs/2311.01990
+2311.02171,2023-11-03,cs.LG,Emergence of Abstract State Representations in Embodied Sequence Modeling,https://arxiv.org/abs/2311.02171
+2311.16137,2023-11-03,cs.RO,A Graph-to-Text Approach to Knowledge-Grounded Response Generation in Human-Robot Interaction,https://arxiv.org/abs/2311.16137
+2311.02294,2023-11-04,cs.CL,LLMs grasp morality in concept,https://arxiv.org/abs/2311.02294
+2311.02379,2023-11-04,cs.RO,Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models,https://arxiv.org/abs/2311.02379
+2311.02692,2023-11-05,cs.CV,ChEF: A Comprehensive Evaluation Framework for Standardized Assessment of Multimodal Large Language Models,https://arxiv.org/abs/2311.02692
+2311.03220,2023-11-06,cs.CL,ALYMPICS: LLM Agents Meet Game Theory -- Exploring Strategic Decision-Making with AI Agents,https://arxiv.org/abs/2311.03220
+2311.03783,2023-11-07,cs.AI,Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI,https://arxiv.org/abs/2311.03783
+2311.05772,2023-11-08,cs.AI,ADaPT: As-Needed Decomposition and Planning with Language Models,https://arxiv.org/abs/2311.05772
+2311.07587,2023-11-08,cs.CL,"Frontier Language Models are not Robust to Adversarial Arithmetic, or ""What do I need to say so you agree 2+2=5?",https://arxiv.org/abs/2311.07587
+2311.05195,2023-11-09,cs.CL,PRODIGy: a PROfile-based DIalogue Generation dataset,https://arxiv.org/abs/2311.05195
+2311.05450,2023-11-09,cs.CL,Cognitively Inspired Components for Social Conversational Agents,https://arxiv.org/abs/2311.05450
+2311.05584,2023-11-09,cs.LG,Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations,https://arxiv.org/abs/2311.05584
+2311.05596,2023-11-09,cs.LG,LLM Augmented Hierarchical Agents,https://arxiv.org/abs/2311.05596
+2311.05657,2023-11-09,cs.AI,Agent Lumos: Unified and Modular Training for Open-Source Language Agents,https://arxiv.org/abs/2311.05657
+2311.07590,2023-11-09,cs.CL,Large Language Models can Strategically Deceive their Users when Put Under Pressure,https://arxiv.org/abs/2311.07590
+2311.05965,2023-11-10,cs.CL,Large Language Models are Zero Shot Hypothesis Proposers,https://arxiv.org/abs/2311.05965
+2311.05997,2023-11-10,cs.AI,JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models,https://arxiv.org/abs/2311.05997
+2311.06330,2023-11-10,cs.AI,Smart Agent-Based Modeling: On the Use of Large Language Models in Computer Simulations,https://arxiv.org/abs/2311.06330
+2311.06622,2023-11-11,cs.AI,TrainerAgent: Customizable and Efficient Model Training through LLM-Powered Multi-Agent System,https://arxiv.org/abs/2311.06622
+2311.06957,2023-11-12,cs.CY,Simulating Public Administration Crisis: A Novel Generative Agent-Based Simulation System to Lower Technology Barriers in Social Science Research,https://arxiv.org/abs/2311.06957
+2311.14706,2023-11-12,cs.CY,Social AI Improves Well-Being Among Female Young Adults,https://arxiv.org/abs/2311.14706
+2311.07076,2023-11-13,cs.CL,On the Discussion of Large Language Models: Symmetry of Agents and Interplay with Prompts,https://arxiv.org/abs/2311.07076
+2311.07850,2023-11-14,cs.CL,Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA,https://arxiv.org/abs/2311.07850
+2311.08107,2023-11-14,cs.CL,SAIE Framework: Support Alone Isn't Enough -- Advancing LLM Training with Adversarial Remarks,https://arxiv.org/abs/2311.08107
+2311.08152,2023-11-14,cs.CL,Towards Reasoning in Large Language Models via Multi-Agent Peer Review Collaboration,https://arxiv.org/abs/2311.08152
+2311.08166,2023-11-14,cs.AI,"MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge",https://arxiv.org/abs/2311.08166
+2311.08244,2023-11-14,cs.RO,Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework,https://arxiv.org/abs/2311.08244
+2311.08547,2023-11-14,cs.AI,DeepThought: An Architecture for Autonomous Self-motivated Systems,https://arxiv.org/abs/2311.08547
+2311.08562,2023-11-14,cs.CL,"MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration",https://arxiv.org/abs/2311.08562
+2311.08649,2023-11-15,cs.SE,Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing,https://arxiv.org/abs/2311.08649
+2311.08719,2023-11-15,cs.CL,Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory,https://arxiv.org/abs/2311.08719
+2311.08803,2023-11-15,cs.CL,"StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving",https://arxiv.org/abs/2311.08803
+2311.08832,2023-11-15,cs.HC,Exploring Links between Conversational Agent Design Challenges and Interdisciplinary Collaboration,https://arxiv.org/abs/2311.08832
+2311.08957,2023-11-15,cs.RO,I Was Blind but Now I See: Implementing Vision-Enabled Dialogue in Social Robots,https://arxiv.org/abs/2311.08957
+2311.09510,2023-11-16,cs.CL,Tailoring with Targeted Precision: Edit-Based Agents for Open-Domain Procedure Customization,https://arxiv.org/abs/2311.09510
+2311.09618,2023-11-16,physics.soc-ph,Simulating Opinion Dynamics with Networks of LLM-based Agents,https://arxiv.org/abs/2311.09618
+2311.09665,2023-11-16,cs.CL,The Wisdom of Partisan Crowds: Comparing Collective Intelligence in Humans and LLM-based Agents,https://arxiv.org/abs/2311.09665
+2311.09682,2023-11-16,cs.CL,MacGyver: Are Large Language Models Creative Problem Solvers?,https://arxiv.org/abs/2311.09682
+2311.09721,2023-11-16,cs.CL,On Evaluating the Integration of Reasoning and Action in LLM Agents with Database Question Answering,https://arxiv.org/abs/2311.09721
+2311.09818,2023-11-16,cs.CL,SUQL: Conversational Search over Structured and Unstructured Data with Large Language Models,https://arxiv.org/abs/2311.09818
+2311.09835,2023-11-16,cs.CL,ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code,https://arxiv.org/abs/2311.09835
+2311.10537,2023-11-16,cs.CL,MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning,https://arxiv.org/abs/2311.10537
+2311.10776,2023-11-16,cs.IR,Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis,https://arxiv.org/abs/2311.10776
+2311.14712,2023-11-16,cs.SI,Multiagent Simulators for Social Networks,https://arxiv.org/abs/2311.14712
+2311.10538,2023-11-17,cs.AI,Testing Language Model Agents Safely in the Wild,https://arxiv.org/abs/2311.10538
+2311.10813,2023-11-17,cs.CV,A Language Agent for Autonomous Driving,https://arxiv.org/abs/2311.10813
+2311.10945,2023-11-18,cs.CL,An Empirical Bayes Framework for Open-Domain Dialogue Generation,https://arxiv.org/abs/2311.10945
+2311.11094,2023-11-18,cs.NI,Reinforcement Learning With LLMs Interaction For Distributed Diffusion Model Services,https://arxiv.org/abs/2311.11094
+2311.12871,2023-11-18,cs.CV,An Embodied Generalist Agent in 3D World,https://arxiv.org/abs/2311.12871
+2311.11315,2023-11-19,cs.AI,TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems,https://arxiv.org/abs/2311.11315
+2311.11462,2023-11-19,cs.CL,LLM aided semi-supervision for Extractive Dialog Summarization,https://arxiv.org/abs/2311.11462
+2311.12065,2023-11-19,cs.CV,Few-Shot Classification & Segmentation Using Large Language Models Agent,https://arxiv.org/abs/2311.12065
+2311.11482,2023-11-20,cs.AI,Meta Prompting for AI Systems,https://arxiv.org/abs/2311.11482
+2311.11797,2023-11-20,cs.CL,Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents,https://arxiv.org/abs/2311.11797
+2311.11855,2023-11-20,cs.CL,Evil Geniuses: Delving into the Safety of LLM-based Agents,https://arxiv.org/abs/2311.11855
+2311.11904,2023-11-20,cs.CV,LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions,https://arxiv.org/abs/2311.11904
+2311.11955,2023-11-20,cs.RO,Multi-Agent Strategy Explanations for Human-Robot Collaboration,https://arxiv.org/abs/2311.11955
+2311.12351,2023-11-21,cs.CL,Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey,https://arxiv.org/abs/2311.12351
+2311.12707,2023-11-21,cs.HC,Keeping Users Engaged During Repeated Administration of the Same Questionnaire: Using Large Language Models to Reliably Diversify Questions,https://arxiv.org/abs/2311.12707
+2311.13148,2023-11-22,cs.AI,Towards Responsible Generative AI: A Reference Architecture for Designing Foundation Model based Agents,https://arxiv.org/abs/2311.13148
+2311.13373,2023-11-22,cs.AI,Large Language Model as a Policy Teacher for Training Reinforcement Learning Agents,https://arxiv.org/abs/2311.13373
+2311.13565,2023-11-22,cs.CL,Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering,https://arxiv.org/abs/2311.13565
+2311.13577,2023-11-22,cs.AI,Physical Reasoning and Object Planning for Household Embodied Agents,https://arxiv.org/abs/2311.13577
+2311.16173,2023-11-22,cs.AI,Conditions for Length Generalization in Learning Reasoning Skills,https://arxiv.org/abs/2311.16173
+2311.13743,2023-11-23,q-fin.CP,FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design,https://arxiv.org/abs/2311.13743
+2311.13884,2023-11-23,cs.AI,Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach,https://arxiv.org/abs/2311.13884
+2311.14061,2023-11-23,cs.AI,Towards Explainable Strategy Templates using NLP Transformers,https://arxiv.org/abs/2311.14061
+2311.15209,2023-11-26,cs.AI,See and Think: Embodied Agent in Virtual Environment,https://arxiv.org/abs/2311.15209
+2311.15596,2023-11-27,cs.CV,EgoThink: Evaluating First-Person Perspective Thinking Capability of Vision-Language Models,https://arxiv.org/abs/2311.15596
+2311.15649,2023-11-27,cs.RO,RoboGPT: an intelligent agent of making embodied long-term decisions for daily instruction tasks,https://arxiv.org/abs/2311.15649
+2311.15936,2023-11-27,cs.CY,Towards Responsible Governance of Biological Design Tools,https://arxiv.org/abs/2311.15936
+2311.16081,2023-11-27,cs.CV,ViT-Lens: Towards Omni-modal Representations,https://arxiv.org/abs/2311.16081
+2311.16542,2023-11-28,cs.CV,Agents meet OKR: An Object and Key Results Driven Agent System with Hierarchical Self-Collaboration and Self-Evaluation,https://arxiv.org/abs/2311.16542
+2311.16543,2023-11-28,cs.AR,RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models,https://arxiv.org/abs/2311.16543
+2311.16714,2023-11-28,cs.CV,Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld,https://arxiv.org/abs/2311.16714
+2311.17227,2023-11-28,cs.AI,War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars,https://arxiv.org/abs/2311.17227
+2311.17331,2023-11-29,cs.CV,Towards Top-Down Reasoning: An Explainable Multi-Agent Approach for Visual Question Answering,https://arxiv.org/abs/2311.17331
+2311.17371,2023-11-29,cs.CL,Should we be going MAD? A Look at Multi-Agent Debate Strategies for LLMs,https://arxiv.org/abs/2311.17371
+2311.17465,2023-11-29,cs.CV,"AgentAvatar: Disentangling Planning, Driving and Rendering for Photorealistic Avatar Agents",https://arxiv.org/abs/2311.17465
+2311.17541,2023-11-29,cs.AI,TaskWeaver: A Code-First Agent Framework,https://arxiv.org/abs/2311.17541
+2311.17812,2023-11-29,cs.CV,DAP: Domain-aware Prompt Learning for Vision-and-Language Navigation,https://arxiv.org/abs/2311.17812
+2311.18062,2023-11-29,cs.LG,Understanding Your Agent: Leveraging Large Language Models for Behavior Explanation,https://arxiv.org/abs/2311.18062
+2401.16426,2023-11-29,cs.LG,Informal Safety Guarantees for Simulated Optimizers Through Extrapolation from Partial Simulations,https://arxiv.org/abs/2401.16426
+2311.18232,2023-11-30,cs.CL,LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models,https://arxiv.org/abs/2311.18232
+2311.18440,2023-11-30,cs.SE,Autonomous Agents in Software Development: A Vision Paper,https://arxiv.org/abs/2311.18440
+2311.18751,2023-11-30,cs.LG,Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web,https://arxiv.org/abs/2311.18751
+2311.18760,2023-11-30,cs.CL,TaskBench: Benchmarking Large Language Models for Task Automation,https://arxiv.org/abs/2311.18760
+2312.00326,2023-12-01,cs.AI,Agent-OM: Leveraging LLM Agents for Ontology Matching,https://arxiv.org/abs/2312.00326
+2312.00374,2023-12-01,cs.CR,The Philosopher's Stone: Trojaning Plugins of Large Language Models,https://arxiv.org/abs/2312.00374
+2312.00401,2023-12-01,cs.CV,VIoTGPT: Learning to Schedule Vision Tools in LLMs towards Intelligent Video Internet of Things,https://arxiv.org/abs/2312.00401
+2312.00746,2023-12-01,cs.AI,Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games,https://arxiv.org/abs/2312.00746
+2312.00774,2023-12-01,cs.CL,Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent,https://arxiv.org/abs/2312.00774
+2312.01090,2023-12-02,cs.AI,Self Generated Wargame AI: Double Layer Agent Task Planning Based on Large Language Model,https://arxiv.org/abs/2312.01090
+2312.01350,2023-12-03,cs.AI,Honesty Is the Best Policy: Defining and Mitigating AI Deception,https://arxiv.org/abs/2312.01350
+2312.01797,2023-12-04,cs.RO,LLM A*: Human in the Loop Large Language Models Enabled A* Search for Robotics,https://arxiv.org/abs/2312.01797
+2312.01818,2023-12-04,cs.AI,Hybrid Approaches for Moral Value Alignment in AI Agents: a Manifesto,https://arxiv.org/abs/2312.01818
+2312.02010,2023-12-04,cs.CV,Towards Learning a Generalist Model for Embodied Navigation,https://arxiv.org/abs/2312.02010
+2312.02519,2023-12-05,cs.AI,Creative Agents: Empowering Agents with Imagination for Creative Tasks,https://arxiv.org/abs/2312.02519
+2312.02706,2023-12-05,cs.AI,Large Knowledge Model: Perspectives and Challenges,https://arxiv.org/abs/2312.02706
+2312.03121,2023-12-05,cs.AI,Evaluating Agents using Social Choice Theory,https://arxiv.org/abs/2312.03121
+2312.03664,2023-12-06,cs.AI,"Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia",https://arxiv.org/abs/2312.03664
+2312.03815,2023-12-06,cs.OS,"LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem",https://arxiv.org/abs/2312.03815
+2312.03881,2023-12-06,cs.LG,FoMo Rewards: Can we cast foundation models as reward functions?,https://arxiv.org/abs/2312.03881
+2312.04316,2023-12-07,cs.RO,Towards Knowledge-driven Autonomous Driving,https://arxiv.org/abs/2312.04316
+2312.04494,2023-12-07,cs.HC,AVA: Towards Autonomous Visualization Agents through Visual Perception-Driven Decision-Making,https://arxiv.org/abs/2312.04494
+2312.05269,2023-12-07,cs.CV,LifelongMemory: Leveraging LLMs for Answering Queries in Long-form Egocentric Videos,https://arxiv.org/abs/2312.05269
+2312.04854,2023-12-08,cs.CL,Learning to Break: Knowledge-Enhanced Reasoning in Multi-Agent Debate System,https://arxiv.org/abs/2312.04854
+2312.04889,2023-12-08,cs.AI,KwaiAgents: Generalized Information-seeking Agent System with Large Language Models,https://arxiv.org/abs/2312.04889
+2312.05019,2023-12-08,cs.RO,Vision-based Learning for Drones: A Survey,https://arxiv.org/abs/2312.05019
+2312.05230,2023-12-08,cs.AI,"Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning",https://arxiv.org/abs/2312.05230
+2312.07559,2023-12-08,cs.CL,PaperQA: Retrieval-Augmented Generative Agent for Scientific Research,https://arxiv.org/abs/2312.07559
+2312.06024,2023-12-10,cs.HC,Thinking Assistants: LLM-Based Conversational Assistants that Help Users Think By Asking rather than Answering,https://arxiv.org/abs/2312.06024
+2312.06619,2023-12-11,physics.soc-ph,Emergence of Scale-Free Networks in Social Interactions among Large Language Models,https://arxiv.org/abs/2312.06619
+2312.06632,2023-12-11,cs.AI,Controlling risks of AI in chemical science with agents,https://arxiv.org/abs/2312.06632
+2312.06853,2023-12-11,cs.AI,LLF-Bench: Benchmark for Interactive Learning from Language Feedback,https://arxiv.org/abs/2312.06853
+2312.06876,2023-12-11,cs.RO,Interactive Planning Using Large Language Models for Partially Observable Robotics Tasks,https://arxiv.org/abs/2312.06876
+2312.07062,2023-12-12,cs.CV,ThinkBot: Embodied Instruction Following with Thought Chain Reasoning,https://arxiv.org/abs/2312.07062
+2312.07104,2023-12-12,cs.AI,SGLang: Efficient Execution of Structured Language Model Programs,https://arxiv.org/abs/2312.07104
+2312.07130,2023-12-12,cs.AI,Harnessing LLM to Attack LLM-Guarded Text-to-Image Models,https://arxiv.org/abs/2312.07130
+2312.07214,2023-12-12,cs.HC,Exploring Large Language Models to Facilitate Variable Autonomy for Human-Robot Teaming,https://arxiv.org/abs/2312.07214
+2312.07368,2023-12-12,cs.AI,Sequential Planning in Large Partially Observable Environments guided by LLMs,https://arxiv.org/abs/2312.07368
+2312.07540,2023-12-12,cs.AI,diff History for Neural Language Agents,https://arxiv.org/abs/2312.07540
+2401.00006,2023-12-12,cs.AI,Building Open-Ended Embodied Agent via Language-Policy Bidirectional Adaptation,https://arxiv.org/abs/2401.00006
+2312.07850,2023-12-13,cs.AI,Large Language Model Enhanced Multi-Agent Systems for 6G Communications,https://arxiv.org/abs/2312.07850
+2312.08926,2023-12-14,cs.AI,Modeling Complex Mathematical Reasoning via Large Language Model based MathAgent,https://arxiv.org/abs/2312.08926
+2312.08958,2023-12-14,cs.LG,LiFT: Unsupervised Reinforcement Learning with Foundation Models as Teachers,https://arxiv.org/abs/2312.08958
+2312.09007,2023-12-14,cs.IT,LLMind: Orchestrating AI and IoT with LLM for Complex Task Execution,https://arxiv.org/abs/2312.09007
+2312.09067,2023-12-14,cs.CV,Holodeck: Language Guided Generation of 3D Embodied AI Environments,https://arxiv.org/abs/2312.09067
+2312.09187,2023-12-14,cs.LG,Vision-Language Models as a Source of Rewards,https://arxiv.org/abs/2312.09187
+2312.09238,2023-12-14,cs.AI,Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft,https://arxiv.org/abs/2312.09238
+2312.09245,2023-12-14,cs.CV,DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving,https://arxiv.org/abs/2312.09245
+2312.09348,2023-12-14,cs.RO,LLM-MARS: Large Language Model for Behavior Tree Generation and NLP-enhanced Dialogue in Multi-Agent Robot Systems,https://arxiv.org/abs/2312.09348
+2312.09402,2023-12-14,cs.CY,CERN for AI: A Theoretical Framework for Autonomous Simulation-Based Artificial Intelligence Testing and Alignment,https://arxiv.org/abs/2312.09402
+2312.10003,2023-12-15,cs.CL,ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent,https://arxiv.org/abs/2312.10003
+2312.10763,2023-12-17,cs.CV,M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts,https://arxiv.org/abs/2312.10763
+2312.11562,2023-12-17,cs.AI,A Survey of Reasoning with Foundation Models,https://arxiv.org/abs/2312.11562
+2312.11242,2023-12-18,cs.CL,MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL,https://arxiv.org/abs/2312.11242
+2312.11282,2023-12-18,cs.CL,Evaluating and Enhancing Large Language Models for Conversational Reasoning on Knowledge Graphs,https://arxiv.org/abs/2312.11282
+2312.11364,2023-12-18,cs.AI,Counting Reward Automata: Sample Efficient Reinforcement Learning Through the Exploitation of Reward Function Structure,https://arxiv.org/abs/2312.11364
+2312.11671,2023-12-18,cs.CL,Evaluating Language-Model Agents on Realistic Autonomous Tasks,https://arxiv.org/abs/2312.11671
+2312.11690,2023-12-18,cs.AI,Agent-based Learning of Materials Datasets from Scientific Literature,https://arxiv.org/abs/2312.11690
+2312.11813,2023-12-19,cs.AI,Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment,https://arxiv.org/abs/2312.11813
+2312.11865,2023-12-19,cs.AI,Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach,https://arxiv.org/abs/2312.11865
+2312.11970,2023-12-19,cs.AI,Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives,https://arxiv.org/abs/2312.11970
+2312.13303,2023-12-19,cs.LG,RealGen: Retrieval Augmented Generation for Controllable Traffic Scenarios,https://arxiv.org/abs/2312.13303
+2312.13010,2023-12-20,cs.CL,AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation,https://arxiv.org/abs/2312.13010
+2312.13108,2023-12-20,cs.CV,ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation,https://arxiv.org/abs/2312.13108
+2312.13126,2023-12-20,cs.CY,Generative agents in the streets: Exploring the use of Large Language Models (LLMs) in collecting urban perceptions,https://arxiv.org/abs/2312.13126
+2312.13264,2023-12-20,cs.CL,dIR -- Discrete Information Retrieval: Conversational Search over Unstructured (and Structured) Data with Large Language Models,https://arxiv.org/abs/2312.13264
+2312.13771,2023-12-21,cs.CV,AppAgent: Multimodal Agents as Smartphone Users,https://arxiv.org/abs/2312.13771
+2312.13876,2023-12-21,cs.LG,Capture the Flag: Uncovering Data Insights with Large Language Models,https://arxiv.org/abs/2312.13876
+2312.13925,2023-12-21,cs.HC,AsyncMLD: Asynchronous Multi-LLM Framework for Dialogue Recommendation System,https://arxiv.org/abs/2312.13925
+2312.14106,2023-12-21,cs.AI,Learning Human-like Representations to Enable Learning Human Values,https://arxiv.org/abs/2312.14106
+2312.14150,2023-12-21,cs.CV,DriveLM: Driving with Graph Visual Question Answering,https://arxiv.org/abs/2312.14150
+2312.14424,2023-12-22,cs.CY,Lost in the Logistical Funhouse: Speculative Design as Synthetic Media Enterprise,https://arxiv.org/abs/2312.14424
+2312.14877,2023-12-22,cs.CL,Robust Knowledge Extraction from Large Language Models using Social Choice Theory,https://arxiv.org/abs/2312.14877
+2312.14878,2023-12-22,cs.AI,Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning,https://arxiv.org/abs/2312.14878
+2312.14925,2023-12-22,cs.LG,A Survey of Reinforcement Learning from Human Feedback,https://arxiv.org/abs/2312.14925
+2312.17259,2023-12-22,cs.CL,Empowering Working Memory for Large Language Model Agents,https://arxiv.org/abs/2312.17259
+2312.15198,2023-12-23,cs.AI,Do LLM Agents Exhibit Social Behavior?,https://arxiv.org/abs/2312.15198
+2312.15224,2023-12-23,cs.AI,LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination,https://arxiv.org/abs/2312.15224
+2312.15450,2023-12-24,cs.IR,Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM,https://arxiv.org/abs/2312.15450
+2312.15523,2023-12-24,cs.CY,The Persuasive Power of Large Language Models,https://arxiv.org/abs/2312.15523
+2312.17653,2023-12-24,cs.AI,LARP: Language-Agent Role Play for Open-World Games,https://arxiv.org/abs/2312.17653
+2401.06164,2023-12-24,q-fin.GN,Multimodal Gen-AI for Fundamental Investment Research,https://arxiv.org/abs/2401.06164
+2312.16233,2023-12-25,cs.CL,Chatbot is Not All You Need: Information-rich Prompting for More Realistic Responses,https://arxiv.org/abs/2312.16233
+2312.17264,2023-12-25,cs.CL,ESGReveal: An LLM-based approach for extracting structured data from ESG reports,https://arxiv.org/abs/2312.17264
+2312.16044,2023-12-26,cs.AI,LLMLight: Large Language Models as Traffic Signal Control Agents,https://arxiv.org/abs/2312.16044
+2312.16066,2023-12-26,cs.SE,A Prompt Learning Framework for Source Code Summarization,https://arxiv.org/abs/2312.16066
+2312.16127,2023-12-26,cs.AI,LLM-SAP: Large Language Models Situational Awareness Based Planning,https://arxiv.org/abs/2312.16127
+2312.16378,2023-12-27,cs.CL,Automating Knowledge Acquisition for Content-Centric Cognitive Agents Using LLMs,https://arxiv.org/abs/2312.16378
+2312.16534,2023-12-27,cs.HC,The Use of Multiple Conversational Agent Interlocutors in Learning,https://arxiv.org/abs/2312.16534
+2312.17025,2023-12-28,cs.CL,Experiential Co-Learning of Software-Developing Agents,https://arxiv.org/abs/2312.17025
+2312.17294,2023-12-28,cs.SE,Enhancing Open-Domain Task-Solving Capability of LLMs via Autonomous Tool Integration from GitHub,https://arxiv.org/abs/2312.17294
+2312.17445,2023-12-29,cs.AI,State Machine of Thoughts: Leveraging Past Reasoning Trajectories for Enhancing Problem Solving,https://arxiv.org/abs/2312.17445
+2312.17449,2023-12-29,cs.DB,DB-GPT: Empowering Database Interactions with Private Large Language Models,https://arxiv.org/abs/2312.17449
+2312.17515,2023-12-29,cs.CL,Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in the Avalon Game,https://arxiv.org/abs/2312.17515
+2312.17601,2023-12-29,cs.SE,The Tyranny of Possibilities in the Design of Task-Oriented LLM Systems: A Scoping Survey,https://arxiv.org/abs/2312.17601
+2312.17748,2023-12-29,cs.IR,K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries,https://arxiv.org/abs/2312.17748
+2401.00211,2023-12-30,cs.AI,Open-TI: Open Traffic Intelligence with Augmented Language Model,https://arxiv.org/abs/2401.00211
