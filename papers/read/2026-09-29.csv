@@ -1,0 +1,22 @@
+arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreement
+2609.34438,Remember by Asking: Retrieval-Induced Memory Evolution for LLM Agents,https://arxiv.org/abs/2609.34438,9.5,yes,retrieval,method,assistants,2,agreed
+2609.34545,Remember Before You're Asked: MemDream for Self-Probing Memory Evolution,https://arxiv.org/abs/2609.34545,9.5,yes,graph,method,assistants,2,agreed
+2609.34633,GenMem: Generative Symbolic Memory for Self-Evolving Harness,https://arxiv.org/abs/2609.34633,9,yes,skills,method,general,2,agreed
+2609.35432,Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence,https://arxiv.org/abs/2609.35432,9,yes,parametric,method,robotics,3,settled
+2609.35576,Share-Borne AI Virus: Memory-Hopping Attacks Across LLM Agents,https://arxiv.org/abs/2609.35576,9,yes,retrieval,study,multi-agent,2,agreed
+2609.34565,FlowState: Execution State as Memory for Long-Horizon LLM Agents,https://arxiv.org/abs/2609.34565,8.5,yes,graph,method,assistants,2,agreed
+2609.35233,EP-Mem: Elastic Privacy Memory for Social Relationship-Aware LLM Agents,https://arxiv.org/abs/2609.35233,8.5,yes,tiered,method,assistants,2,agreed
+2609.35497,Sprout: Building Dynamic Memory While Reasoning for Agentic Video Understanding,https://arxiv.org/abs/2609.35497,8.5,yes,graph,method,general,2,agreed
+2609.35540,Continuous Context Management,https://arxiv.org/abs/2609.35540,8.5,yes,summaries,method,general,2,agreed
+2609.35568,From Experience to Expertise: Adoption-Aware Memory Learning for Data-Scarce NPU Kernel Synthesis,https://arxiv.org/abs/2609.35568,8.5,yes,retrieval,method,coding,2,agreed
+2609.34790,CoSec: Benchmarking Agent Security in Communities,https://arxiv.org/abs/2609.34790,8,yes,retrieval,benchmark,multi-agent,2,agreed
+2609.34930,PDEU-Bench: Benchmarking the Personalized Planning Lifecycle of Tool-Calling LLM Agents,https://arxiv.org/abs/2609.34930,8,yes,retrieval,benchmark,assistants,3,settled
+2609.34969,NavJev: Efficient Vision-Language Navigation via Action-Centric Visual Compression and Discriminative Action-Semantic Memory,https://arxiv.org/abs/2609.34969,8,yes,compression,method,robotics,2,agreed
+2609.35336,TMCS: Tool-Grounded Multi-Agent Reasoning for Compositional Chemical Problem Solving,https://arxiv.org/abs/2609.35336,8,yes,summaries,method,science,2,agreed
+2609.35427,LLMs are General Asynchronous Agents,https://arxiv.org/abs/2609.35427,8,yes,tiered,method,robotics,3,settled
+2609.35596,SEABench: Benchmarking Endogenous Misalignment In Self-Evolving Agents,https://arxiv.org/abs/2609.35596,8,yes,retrieval,benchmark,assistants,2,agreed
+2609.35750,KV-streams for Efficient Compaction in Agentic Reinforcement Learning,https://arxiv.org/abs/2609.35750,8,yes,compression,method,general,2,agreed
+2609.35508,"Argus: Agentic, Reference-Calibrated, Tree-Guided, System-Software-Level Bottleneck Localization",https://arxiv.org/abs/2609.35508,7.5,yes,retrieval,tool,coding,2,agreed
+2609.34821,CEO Arena: Evaluating Long-Horizon Multi-Agent Decision-Making in Competitive Markets,https://arxiv.org/abs/2609.34821,7,yes,summaries,benchmark,multi-agent,2,agreed
+2609.34683,AgentPerfBench: A Benchmarking and Evaluation Suite for Inference Performance of Agentic LLMs,https://arxiv.org/abs/2609.34683,4,unsure,none,benchmark,coding,2,agreed
+2609.35673,FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching,https://arxiv.org/abs/2609.35673,3,no,none,unsure,general,2,agreed
