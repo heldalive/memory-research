@@ -2,6 +2,7 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2609.33517,TRACE: Governing Memory Validity in Evolving Multi-Agent Systems,https://arxiv.org/abs/2609.33517,10,yes,tiered,method,multi-agent,3,settled
 2609.34438,Remember by Asking: Retrieval-Induced Memory Evolution for LLM Agents,https://arxiv.org/abs/2609.34438,9.5,yes,retrieval,method,assistants,2,agreed
 2609.34545,Remember Before You're Asked: MemDream for Self-Probing Memory Evolution,https://arxiv.org/abs/2609.34545,9.5,yes,graph,method,assistants,2,agreed
+2609.32049,EngramRAG: Dynamic Usage-Weighted Topology and Synaptic Consolidation for Multi-Hop Agentic Memory,https://arxiv.org/abs/2609.32049,9.5,yes,graph,method,assistants,2,agreed
 2609.34132,From Attack Success to Attack Severity: Counterfactual Memory Attacks on LLM Agents,https://arxiv.org/abs/2609.34132,9,yes,retrieval,method,assistants,3,settled
 2609.34422,Coding Agent Memory Post-training: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via Reinforcement Learning,https://arxiv.org/abs/2609.34422,9,yes,retrieval,method,coding,2,agreed
 2609.34633,GenMem: Generative Symbolic Memory for Self-Evolving Harness,https://arxiv.org/abs/2609.34633,9,yes,skills,method,general,2,agreed
@@ -11,7 +12,9 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2609.33268,LSTMem: Hierarchical Long Short-Term Online Memory for Large Language Models,https://arxiv.org/abs/2609.33268,9,yes,parametric,method,assistants,3,settled
 2609.33379,NLPG: Natural-Language Policy Gradients for Self-Evolving Language Agents,https://arxiv.org/abs/2609.33379,9,yes,retrieval,method,assistants,3,settled
 2609.33717,Self-Designed Evaluators and Warm Memory for Long-Horizon Agents,https://arxiv.org/abs/2609.33717,9,yes,unsure,method,general,3,settled
+2609.32186,BMA: Backchain Memory Attacks Create Unauthorized Control Paths in LLM Agents,https://arxiv.org/abs/2609.32186,9,yes,retrieval,unsure,unsure,2,agreed
 2609.32658,"Contract Memory Compiler: Resolve, Then Traverse",https://arxiv.org/abs/2609.32658,9,yes,retrieval,method,general,3,settled
+2609.25956,"Governed AI-Agent Coordination for Dementia Care: Architecture, Safety Contracts, and Evidence-Derived Workflow Verification",https://arxiv.org/abs/2609.25956,9,yes,tiered,method,multi-agent,3,settled
 2609.34134,StateGuard: Analytical-State Management with Validity-Aware Intervention for Long-Horizon Data Agents,https://arxiv.org/abs/2609.34134,8.5,yes,graph,method,general,2,agreed
 2609.34177,ReplayLens: Auditing Agents' Use of Outcomes,https://arxiv.org/abs/2609.34177,8.5,yes,retrieval,tool,coding,2,agreed
 2609.34565,FlowState: Execution State as Memory for Long-Horizon LLM Agents,https://arxiv.org/abs/2609.34565,8.5,yes,graph,method,assistants,2,agreed
@@ -23,6 +26,7 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2609.33244,ActiveMem: Dynamic Latent Memory Trees for Long-Horizon Agents,https://arxiv.org/abs/2609.33244,8.5,yes,graph,method,general,2,agreed
 2609.33623,Characterizing Memory Misalignment in Human-LLM Interaction From User Perspectives,https://arxiv.org/abs/2609.33623,8.5,yes,retrieval,study,assistants,2,agreed
 2609.33822,"Vestrum: Improving Agent Harnesses by Adapting Their Verification, Structure and Memory",https://arxiv.org/abs/2609.33822,8.5,yes,retrieval,method,unsure,2,agreed
+2609.32256,LAM: Efficient Lossy Agent Memory Framework With A Retrieval-Score Error Bound,https://arxiv.org/abs/2609.32256,8.5,yes,summaries,method,general,2,agreed
 2609.32269,Before Answering: Evidence Sufficiency under Size-Matched Memory Construction,https://arxiv.org/abs/2609.32269,8.5,yes,retrieval,unsure,assistants,2,agreed
 2609.32313,MemTransfer: Benchmarking Memory Beyond Matched Experience in Embodied Decision-Making,https://arxiv.org/abs/2609.32313,8.5,yes,retrieval,benchmark,robotics,2,agreed
 2609.32339,Enabling Timely Guidance before Skill Retrieval: Retaining Helpful Warm Tips in Agent Context,https://arxiv.org/abs/2609.32339,8.5,yes,skills,method,coding,2,agreed
@@ -34,6 +38,17 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2609.32852,ARSM: Auto-Regressive State Machine for Agentic Reasoning Compression,https://arxiv.org/abs/2609.32852,8.5,yes,compression,method,general,2,agreed
 2609.32999,Tessera: Demand-Driven KV Cache Management for Retrieval-Augmented LLM Serving,https://arxiv.org/abs/2609.32999,8.5,yes,retrieval,method,assistants,2,agreed
 2609.33013,"The Epistemics of Agent Memory: Measuring, and Governing, the Consolidation Decision in Long-Horizon LLM Agents",https://arxiv.org/abs/2609.33013,8.5,yes,skills,unsure,assistants,2,agreed
+2609.30939,MACBT: A Multi-Agent Cognitive Behavioral Therapy Decision Support System with Longitudinal Memory,https://arxiv.org/abs/2609.30939,8.5,yes,tiered,method,multi-agent,2,agreed
+2609.31395,ActKV: Efficient LLM Agents through Action-Guided KV Cache Management,https://arxiv.org/abs/2609.31395,8.5,yes,compression,method,general,2,agreed
+2609.31874,COUNTERMEM: World-Model Verified Counter-Factual Memory for Language Agents,https://arxiv.org/abs/2609.31874,8.5,yes,retrieval,method,general,2,agreed
+2609.31939,BioDyad: Synchronize Biomedical Discovery and Machine Learning Engineering,https://arxiv.org/abs/2609.31939,8.5,yes,graph,method,science,2,agreed
+2609.29144,Scope Before You Persist: Preventing Cross-Family Interference in Agent Memory,https://arxiv.org/abs/2609.29144,8.5,yes,retrieval,study,coding,2,agreed
+2609.29892,Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents,https://arxiv.org/abs/2609.29892,8.5,yes,tiered,method,multi-agent,2,agreed
+2609.27286,Memory Control Signals Emerge Before Action in Long Horizon Agents,https://arxiv.org/abs/2609.27286,8.5,yes,parametric,method,assistants,2,agreed
+2609.28003,Learning from Failures: Heterogeneous Graph Memory for Small Language Model Tool-Using Agents,https://arxiv.org/abs/2609.28003,8.5,yes,graph,method,unsure,2,agreed
+2609.28771,Agent Memory with Episodic Retrieval for Financial Decision-Making,https://arxiv.org/abs/2609.28771,8.5,yes,retrieval,method,multi-agent,2,agreed
+2609.25782,Hot-Cold Tiering of HBM and High Bandwidth Flash for Agentic LLM Serving,https://arxiv.org/abs/2609.25782,8.5,yes,tiered,method,coding,2,agreed
+2609.27067,ChipMEM: Verification-Grounded Memory for EDA Agents,https://arxiv.org/abs/2609.27067,8.5,yes,skills,method,coding,2,agreed
 2609.34268,SAGE: Symbolic Action-Gating and Editing for LLM Task Planners,https://arxiv.org/abs/2609.34268,8,yes,retrieval,method,robotics,2,agreed
 2609.34392,Org-Agent: Beyond Personal Assistants Towards Organizational Agents,https://arxiv.org/abs/2609.34392,8,yes,retrieval,method,multi-agent,3,settled
 2609.34790,CoSec: Benchmarking Agent Security in Communities,https://arxiv.org/abs/2609.34790,8,yes,retrieval,benchmark,multi-agent,2,agreed
@@ -49,11 +64,24 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2609.32569,OmniSmartHome: A Multimodal Reasoning Benchmark for Smart-Home Agents,https://arxiv.org/abs/2609.32569,8,yes,skills,benchmark,assistants,3,settled
 2609.32746,Self-Evolving Multi-Agent Symbolic Discovery for Financial Fundamental Analysis,https://arxiv.org/abs/2609.32746,8,yes,summaries,method,multi-agent,2,agreed
 2609.32803,Nutri-ATLAS: Embodied Agent for Tabulated Lookup and Assistance for Smarter nutrition,https://arxiv.org/abs/2609.32803,8,yes,graph,method,robotics,3,settled
+2609.30909,"Machine Unlearning for Large Language Models: Foundations, Advances, and Agentic Extensions",https://arxiv.org/abs/2609.30909,8,yes,retrieval,survey,general,2,agreed
+2609.31507,SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery,https://arxiv.org/abs/2609.31507,8,yes,tiered,benchmark,robotics,3,settled
+2609.31989,Communication between Frozen Large Language Models via Prompt Optimization in a Referential Game,https://arxiv.org/abs/2609.31989,8,yes,context,study,games,2,agreed
+2609.32000,SenseAgent: An LLM Agent for Adaptive Cross-Domain IMU Sensing,https://arxiv.org/abs/2609.32000,8,yes,retrieval,method,robotics,2,agreed
+2609.28870,When Fancy Eviction Fails: Rethinking Cache Replacement For LLM Prefix Reuse,https://arxiv.org/abs/2609.28870,8,yes,context,study,assistants,3,settled
+2609.29837,PUBG Ally: A Conversational Embodied Agent as an AI Teammate,https://arxiv.org/abs/2609.29837,8,yes,context,tool,games,2,agreed
+2609.30541,AutoResearch at Production Scale: Failure Modes and a Multi-Agent Framework,https://arxiv.org/abs/2609.30541,8,yes,retrieval,unsure,multi-agent,2,agreed
+2609.27725,GA-Agent: Large Language Models as Hyperparameter Optimizers for Evolutionary Controller Synthesis,https://arxiv.org/abs/2609.27725,8,yes,retrieval,tool,robotics,3,settled
+2609.27746,The KV Cache Working Set: Online Capacity Planning for LLM Inference Systems,https://arxiv.org/abs/2609.27746,8,yes,compression,tool,assistants,2,agreed
+2609.26891,Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity,https://arxiv.org/abs/2609.26891,8,yes,retrieval,tool,unsure,2,agreed
+2609.25432,Tipping Points in LLM-Based Multi-Agent Systems: Stance on Climate Change Action,https://arxiv.org/abs/2609.25432,8,yes,notes,study,multi-agent,2,agreed
 2609.35508,"Argus: Agentic, Reference-Calibrated, Tree-Guided, System-Software-Level Bottleneck Localization",https://arxiv.org/abs/2609.35508,7.5,yes,retrieval,tool,coding,2,agreed
 2609.34821,CEO Arena: Evaluating Long-Horizon Multi-Agent Decision-Making in Competitive Markets,https://arxiv.org/abs/2609.34821,7,yes,summaries,benchmark,multi-agent,2,agreed
 2609.33061,LLM sequential decision making under uncertainty in biochemical domains,https://arxiv.org/abs/2609.33061,7,yes,context,study,science,2,agreed
 2609.33323,Agentic Multi-Turn Reasoning: A Fairness Approach,https://arxiv.org/abs/2609.33323,7,yes,unsure,method,general,3,settled
 2609.33102,ORBIT: A Framework for Multi-Agent Safety and Security Evaluations,https://arxiv.org/abs/2609.33102,5,yes,none,tool,multi-agent,3,settled
 2609.33371,API Secrets Should Never Become Tokens in the LLM's Vocabulary: A Threat Analysis of API Credential Handling in LLM Agent Systems and an Empirical Evaluation of a Vault-Mediated Execution Boundary,https://arxiv.org/abs/2609.33371,5,yes,none,study,coding,3,settled
+2609.31937,"Verification as an Architectural Layer for LLM Agents: A V-Model Design, and a Pilot Study of Its Deterministic Core",https://arxiv.org/abs/2609.31937,5,yes,unsure,study,general,3,settled
 2609.34683,AgentPerfBench: A Benchmarking and Evaluation Suite for Inference Performance of Agentic LLMs,https://arxiv.org/abs/2609.34683,4,unsure,none,benchmark,coding,2,agreed
 2609.35673,FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching,https://arxiv.org/abs/2609.35673,3,no,none,unsure,general,2,agreed
+2609.26763,SARA: SLO-Aware Resource Allocation for Disaggregated Agentic LLM Services,https://arxiv.org/abs/2609.26763,2,no,none,method,unsure,2,agreed
