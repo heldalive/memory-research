@@ -11578,3 +11578,109 @@ arxiv_id,published,category,title,link
 2609.35750,2026-09-28,cs.LG,KV-streams for Efficient Compaction in Agentic Reinforcement Learning,https://arxiv.org/abs/2609.35750
 2609.35759,2026-09-28,cs.CL,Scaling Long-Form Story Generation via Narrative State Tracking,https://arxiv.org/abs/2609.35759
 2609.35760,2026-09-28,cs.LG,TokenCast: Forecasting Token Consumption During LLM Agent Execution,https://arxiv.org/abs/2609.35760
+2609.35909,2026-09-28,cs.CR,"Cheap to Hypothesize, Costly to Verify: The Defense Surface of Agentic Vulnerability Discovery",https://arxiv.org/abs/2609.35909
+2609.35911,2026-09-28,cs.LG,"Learn Now, Use Next, Trust Later: Prequential Test-Time Learning for LLM Agents",https://arxiv.org/abs/2609.35911
+2609.35916,2026-09-28,cs.MA,VehicleArena: A Realistic Urban Environment for Multi-Agent Driving,https://arxiv.org/abs/2609.35916
+2609.35918,2026-09-28,cs.SE,Evaluating Name-Only Directory Routing for One-Shot Code Search,https://arxiv.org/abs/2609.35918
+2609.35928,2026-09-28,cs.MA,Prompted Identity Degrades Cooperation in Multi-Agent LLM Systems,https://arxiv.org/abs/2609.35928
+2609.35932,2026-09-28,cs.CR,"Same Bytes, Different Authority: Reserved-Token Representations in Chat-Template Prompt Injection",https://arxiv.org/abs/2609.35932
+2609.35937,2026-09-28,cs.CR,PrivacySkills: How Privacy Guidance Shapes Source Selection in LLM Agents,https://arxiv.org/abs/2609.35937
+2609.35954,2026-09-28,cs.LG,ROSS: Relearning from Self-Generated Rollouts through Selective Supervision,https://arxiv.org/abs/2609.35954
+2609.35958,2026-09-28,hep-th,Solver Agent: an Agentic AI Framework for Theoretical Physics Computations Applied to F-theory Uplifts of O3-planes and S-folds,https://arxiv.org/abs/2609.35958
+2609.35965,2026-09-28,cs.CV,"Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method",https://arxiv.org/abs/2609.35965
+2609.36043,2026-09-28,cs.AI,SAGE: A Statistical Acceptance Gate for Self-Evolving Agents,https://arxiv.org/abs/2609.36043
+2609.36059,2026-09-28,cs.CL,"Mnemon: Raw Records, Fast Judgments, Slow Thoughts",https://arxiv.org/abs/2609.36059
+2609.36066,2026-09-28,cs.CV,AerialDojo-200K: A Large-Scale Benchmark Suite for Open-World Aerial Object-Goal Search,https://arxiv.org/abs/2609.36066
+2609.36086,2026-09-28,cs.CL,PADMÉ: Preference Alignment Data Synthesis for Meta-Evaluation of LM Agent Evaluators,https://arxiv.org/abs/2609.36086
+2609.36104,2026-09-28,cs.AI,An Exact Generate - Transform Decomposition of Small-LLM Team Scaling Across Orchestration Architectures,https://arxiv.org/abs/2609.36104
+2609.36116,2026-09-28,cs.LG,Dyad: Extending Large Language Models with Native Typed Decision-Making,https://arxiv.org/abs/2609.36116
+2609.36129,2026-09-28,cs.HC,"Accessible, but Not Adopted: Increasing LLM Adoption among First-generation, Low-income (FGLI) College Students beyond Expanding Access",https://arxiv.org/abs/2609.36129
+2609.36130,2026-09-28,cs.AI,Memory Is a Derivation: The Distributed-Evidence Paradox in Long-Term Agents,https://arxiv.org/abs/2609.36130
+2609.36138,2026-09-28,cs.CL,When Does Correction Become Repair? Mechanistic Auditing of Internal Interventions in Tool-Using LLMs,https://arxiv.org/abs/2609.36138
+2609.36159,2026-09-28,cs.AI,Principled Thoughts for Latent Recursive LLM Systems,https://arxiv.org/abs/2609.36159
+2609.36178,2026-09-28,cs.CL,Targeting Pivotal Decisions for Credit Assignment in Agentic Reinforcement Learning,https://arxiv.org/abs/2609.36178
+2609.36201,2026-09-28,cs.CL,SCOUT: Synergizing Reasoning and Tool-Use for Computer-Use Safety,https://arxiv.org/abs/2609.36201
+2609.36246,2026-09-28,cs.CL,Learning from Teacher Continuations at Student States,https://arxiv.org/abs/2609.36246
+2609.36278,2026-09-28,cs.AI,Illusory Truth or Mere Exposure? Model-Dependent Repetition Effects in LLM-Based Social Media Simulations,https://arxiv.org/abs/2609.36278
+2609.36316,2026-09-28,cs.CL,Training LLMs to Verbalize Evaluation Awareness,https://arxiv.org/abs/2609.36316
+2609.36319,2026-09-28,cs.AI,StateTape: Action-Conditioned Evidence Lifecycle Modeling for Long-Horizon Coding Agents,https://arxiv.org/abs/2609.36319
+2609.36362,2026-09-28,cs.SE,Strategies for Deploying AI Agents in Production at Scientific User Facilities,https://arxiv.org/abs/2609.36362
+2609.36365,2026-09-28,cs.AI,Engineering Simplicity: Simple Mechanism Interfaces Steer LLM Agents,https://arxiv.org/abs/2609.36365
+2609.36371,2026-09-28,cs.SE,LatentSift: Policy-State Filtering for Token-Efficient Verification of Software Engineering Agents,https://arxiv.org/abs/2609.36371
+2609.36392,2026-09-28,cs.AI,ARCagent: An Adaptive Retrieval Calibration Agent for Clinical Question Answering,https://arxiv.org/abs/2609.36392
+2609.36393,2026-09-28,cs.LG,Reward-rate Policy Gradient for Efficient Machine Learning Engineering Agents,https://arxiv.org/abs/2609.36393
+2609.36406,2026-09-29,cs.AI,From Retrieval to Reasoning: Agentic Mechanism Prediction from Cell Painting Profiles,https://arxiv.org/abs/2609.36406
+2609.36469,2026-09-29,cond-mat.mtrl-sci,From Automated Simulation to Autonomous Discovery: A Hierarchical Framework for Agentic Computational Materials Science,https://arxiv.org/abs/2609.36469
+2609.36488,2026-09-29,cs.LG,AdaptArena: Evaluating Test-Time Personalization of Web Agents,https://arxiv.org/abs/2609.36488
+2609.36490,2026-09-29,cs.LG,LLMs Learn to Evade Latent Monitors from Prior Feedback Alone,https://arxiv.org/abs/2609.36490
+2609.36505,2026-09-29,cs.AI,BRIDGE: Bilevel Retrieval-Credit-Aware Agentic Reinforcement Learning,https://arxiv.org/abs/2609.36505
+2609.36556,2026-09-29,cs.AI,MAADBench: The Refreshable Paradigm for Anomaly Detection in Multi-Agent Systems,https://arxiv.org/abs/2609.36556
+2609.36570,2026-09-29,cs.CR,CounterSteer: Suppressing Indirect Prompt Injection with Activation Steering,https://arxiv.org/abs/2609.36570
+2609.36573,2026-09-29,cs.CR,CyberPersistBench: Evaluating LLM-Based Cyber Attackers on Installation and Persistence,https://arxiv.org/abs/2609.36573
+2609.36576,2026-09-29,cs.AI,Divide and Inject: Can Agents Reconstruct an Indirect Prompt Injection from Fragments?,https://arxiv.org/abs/2609.36576
+2609.36580,2026-09-29,cs.AI,SafeCoEvo: Co-Evolving Safety Harnesses and Guards for LLM Agents at Test-Time,https://arxiv.org/abs/2609.36580
+2609.36603,2026-09-29,cs.CR,Self-Evolving Defense: Continual Security Policy Learning for LLM Agents,https://arxiv.org/abs/2609.36603
+2609.36626,2026-09-29,cs.AI,Semantic Projection for Continual Self-Evolution of Language Agents,https://arxiv.org/abs/2609.36626
+2609.36641,2026-09-29,cs.LG,Inducing Process Supervision from Outcome-Only Reinforcement Learning,https://arxiv.org/abs/2609.36641
+2609.36642,2026-09-29,cs.LG,PR-OPD: Privileged Representation On-policy Self-Distillation for Agentic Reinforcement Learning,https://arxiv.org/abs/2609.36642
+2609.36691,2026-09-29,cs.CL,Video2Skill: From Streaming Experience to Reusable Embodied Skills,https://arxiv.org/abs/2609.36691
+2609.36722,2026-09-29,cs.CL,ATTUNER: Recomputation-Free KV Cache Reuse via Query-Side Adaptation,https://arxiv.org/abs/2609.36722
+2609.36732,2026-09-29,cs.CR,Deep Learning Latency Attacks and Defenses: A Cross-Domain Survey of Availability Threats,https://arxiv.org/abs/2609.36732
+2609.36739,2026-09-29,cs.CE,"Frontier Autolab: Organizational Memory, Adversarial Dissent and Temporal Leakage in Multi-Agent LLM Firms Across Fifty Years of Technological Change",https://arxiv.org/abs/2609.36739
+2609.36789,2026-09-29,cs.MA,GitHarness: Git Init Your Harness Working Memory for Perpetual User Requirements,https://arxiv.org/abs/2609.36789
+2609.36800,2026-09-29,cs.AI,AI as a Compiler: Compiling Triton kernels without the Triton compiler,https://arxiv.org/abs/2609.36800
+2609.36805,2026-09-29,cs.AI,UpliftMem: Learning Set-Level Uplift for Agent Memory Retrieval,https://arxiv.org/abs/2609.36805
+2609.36807,2026-09-29,cs.SE,XRepoSkill: Learning Transferable Skills for Software Engineering Agents,https://arxiv.org/abs/2609.36807
+2609.36817,2026-09-29,cs.CR,pikit: A Composable Toolkit for Indirect Prompt Injection Research and Evaluation,https://arxiv.org/abs/2609.36817
+2609.36820,2026-09-29,cs.LG,CorrGRPO: Correlation-Normalized GRPO for Multi-Reward Learning,https://arxiv.org/abs/2609.36820
+2609.36855,2026-09-29,cs.AI,When Upstream Messages Override Correct Answers: A Controlled Study of Multi-Agent LLM Collaboration,https://arxiv.org/abs/2609.36855
+2609.36879,2026-09-29,cs.CR,SKILLLITE: Evidence-Guided Malicious Skill Auditing with Compact LLMs,https://arxiv.org/abs/2609.36879
+2609.36892,2026-09-29,cs.AI,"Harness Evolution as Learning: Approximation, Generalization, and Optimization Limits of Self-Improving Personal Agents",https://arxiv.org/abs/2609.36892
+2609.36934,2026-09-29,cs.AI,VLALight: A Vision-Language-Action Model for Traffic Signal Control,https://arxiv.org/abs/2609.36934
+2609.36938,2026-09-29,cs.DC,Efficient Agentic LLM Serving over SSD-based Sparse KV Storage,https://arxiv.org/abs/2609.36938
+2609.36941,2026-09-29,cs.CR,Practical Secrets Extraction against Black-box LLMs,https://arxiv.org/abs/2609.36941
+2609.37009,2026-09-29,physics.soc-ph,An LLM-powered Agent Framework for Heterogeneous Evacuation Behavior Modeling under a Moving Threat in a Public Plaza,https://arxiv.org/abs/2609.37009
+2609.37017,2026-09-29,cs.CL,LatCom: Cross-Agent Latent Compression for Efficient Multi-Agent Collaboration,https://arxiv.org/abs/2609.37017
+2609.37025,2026-09-29,cs.AI,AnyAct: Universal Action for Self-Evolving Agents,https://arxiv.org/abs/2609.37025
+2609.37046,2026-09-29,cs.CV,Speed in the Blind Spot: An Interpretability Analysis of Dynamic Perception in VLMs for Autonomous Driving,https://arxiv.org/abs/2609.37046
+2609.37053,2026-09-29,cs.AI,MatToolBench: Benchmarking Multimodal Agents in Real-World Materials Science Workflows,https://arxiv.org/abs/2609.37053
+2609.37094,2026-09-29,cs.MA,LLM-Based Multi-Agent Systems over Wireless Networks: A Joint Agent--Network Design Perspective,https://arxiv.org/abs/2609.37094
+2609.37105,2026-09-29,cs.LG,VACE: Validation-Gated Alternating Co-Evolution of Agent Models and Harnesses,https://arxiv.org/abs/2609.37105
+2609.37111,2026-09-29,cs.AI,Learning from Viable Failure Prefixes: Milestone Viability Potential Policy Optimization for Long-Horizon LLM Agents,https://arxiv.org/abs/2609.37111
+2609.37128,2026-09-29,cs.AI,SkillCome: Group Contrast Skill Optimization with Dual Memory,https://arxiv.org/abs/2609.37128
+2609.37151,2026-09-29,cs.MA,FlowMAS: Learning Multi-Agent Workflow Topology via Information-guided Generative Flow Network,https://arxiv.org/abs/2609.37151
+2609.37172,2026-09-29,cs.AI,SimpleEvol: An Agent-Loop Framework for LLM-Driven Automated Heuristic Design with Minimal Human Priors,https://arxiv.org/abs/2609.37172
+2609.37196,2026-09-29,cs.CR,ToolFence: Fine-Grained Authorization for Secure Tool-Using LLM Agents,https://arxiv.org/abs/2609.37196
+2609.37203,2026-09-29,cs.AI,"Learning to Prove, Not Just to Answer: Reinforcement Learning from Formal Verification for Natural-Language Logical Reasoning",https://arxiv.org/abs/2609.37203
+2609.37216,2026-09-29,cs.SE,CRJudgeBench: Can AI Detect Plausible but Invalid Code Reviews?,https://arxiv.org/abs/2609.37216
+2609.37226,2026-09-29,cs.CL,Follow the Entities: A Corpus Map for Agentic Search,https://arxiv.org/abs/2609.37226
+2609.37233,2026-09-29,cs.PL,DatalogBench: Evaluating Large Language Models on Text-to-Datalog Synthesis,https://arxiv.org/abs/2609.37233
+2609.37238,2026-09-29,hep-ph,Analytic next-to-leading-order helicity cross sections for vector-boson production at finite transverse momentum,https://arxiv.org/abs/2609.37238
+2609.37267,2026-09-29,cs.AI,"Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym",https://arxiv.org/abs/2609.37267
+2609.37310,2026-09-29,cs.CR,AutoMark: Enabling Autoresearch to Discover Better LLM Watermarks,https://arxiv.org/abs/2609.37310
+2609.37359,2026-09-29,cs.RO,Encore: Few-Shot Agentic Discovery of Manipulation Strategies,https://arxiv.org/abs/2609.37359
+2609.37369,2026-09-29,cs.HC,Shaping Opinion: Quantifying the Psychological Impact of Autonomous Multi-Agent LLM Interactions,https://arxiv.org/abs/2609.37369
+2609.37426,2026-09-29,cs.CV,LazySloth: Bounded LLM-based Lazy Tree Search for Fast Long Video Comprehension,https://arxiv.org/abs/2609.37426
+2609.37432,2026-09-29,cs.LG,Looped Actor: Depth-Recurrent Reasoning Models for Reinforcement Learning,https://arxiv.org/abs/2609.37432
+2609.37539,2026-09-29,cs.AI,SkillGym: Training Skill-Use Agents with Automatic Verifiable Environment Generation,https://arxiv.org/abs/2609.37539
+2609.37567,2026-09-29,cs.CR,Concealing LLM-Based Multi-Agent Topology via Phantom Structure Injection,https://arxiv.org/abs/2609.37567
+2609.37583,2026-09-29,cs.RO,RoboHarn-Evo: Evolving Hierarchical Physical Knowledge for Self-Improving Robotic Manipulation,https://arxiv.org/abs/2609.37583
+2609.37590,2026-09-29,cs.AI,FOCUS: Training-Free Decision-Preserving Context Compression for LLM Agents,https://arxiv.org/abs/2609.37590
+2609.37626,2026-09-29,cs.DC,SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving,https://arxiv.org/abs/2609.37626
+2609.37655,2026-09-29,cs.CV,Exemplar2VQA: A Scalable Exemplar-Driven Visual Question Answering Generation Framework via Multi-Agent Coding,https://arxiv.org/abs/2609.37655
+2609.37658,2026-09-29,cs.AI,EnterpriseBench: Benchmarking LLM Agents on Enterprise-Level Strategic Reasoning and Decision-Making,https://arxiv.org/abs/2609.37658
+2609.37673,2026-09-29,cs.AI,KUPAS MASTER: Distilling the Tacit Expertise of Master Practitioners into Agent-Ready Experience Corpora,https://arxiv.org/abs/2609.37673
+2609.37725,2026-09-29,cs.AI,Context Language Models,https://arxiv.org/abs/2609.37725
+2609.37743,2026-09-29,cs.AI,ContextRender: From Execution Dependencies to Agent Context,https://arxiv.org/abs/2609.37743
+2609.37819,2026-09-29,cs.CR,Making Duplicate Reimbursement Unrepresentable: A Verified Ethereum E-Invoice System for Humans and AI Agents,https://arxiv.org/abs/2609.37819
+2609.37849,2026-09-29,cs.SE,Is manual software optimization a thing of the past?,https://arxiv.org/abs/2609.37849
+2609.37853,2026-09-29,cs.CL,AnthroDial: Benchmarking LLM Anthropomorphism in Autonomous Social Interaction,https://arxiv.org/abs/2609.37853
+2609.37864,2026-09-29,cs.SE,AgentBug-Smith: Automatically Reproducing Real-World Harness Bugs in Agentic Systems,https://arxiv.org/abs/2609.37864
+2609.37950,2026-09-29,cs.AI,Video-RSI: Recursive Self-Improvement of Video Understanding Agents via Harness Evolution,https://arxiv.org/abs/2609.37950
+2609.37968,2026-09-29,cs.AI,SelfSearch: Reward-Free Search for Self-Improving Agents,https://arxiv.org/abs/2609.37968
+2609.37985,2026-09-29,cs.SE,"Merged, Not Measured: An Empirical Study of Performance Issues Fixed by Coding Agents",https://arxiv.org/abs/2609.37985
+2609.37989,2026-09-29,cs.LG,TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models,https://arxiv.org/abs/2609.37989
+2609.38021,2026-09-29,cs.CL,Auditable Long-Term Memory: A Deterministic Retrieval Chain Measured at 479/475 of 500 on LongMemEval-S,https://arxiv.org/abs/2609.38021
+2609.38043,2026-09-29,cs.AI,UserProxyBench: Evaluating LLM User Simulators for Agent Benchmarks and Training,https://arxiv.org/abs/2609.38043
+2609.38078,2026-09-29,cs.RO,MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation,https://arxiv.org/abs/2609.38078
+2609.38108,2026-09-29,cs.AI,Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution,https://arxiv.org/abs/2609.38108
