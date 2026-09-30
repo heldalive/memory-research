@@ -2,7 +2,7 @@
 
 The reading list for the literature review: every arXiv paper whose abstract mentions agents together with language models, 21,786 papers so far. The list is broad on purpose. Work on agent memory often calls it context management, reflection, experience or state rather than memory, so the list starts wide and the reading narrows it.
 
-**Read so far: 394 of 21,786.** 234 score 8.5 or more for relevance to agent memory, and 233 of those have notes. The most relevant are in [memory.md](memory.md); all of them, with notes, in [memory.csv](memory.csv).
+**Read so far: 422 of 21,786.** 248 score 8.5 or more for relevance to agent memory, and 247 of those have notes. The most relevant are in [memory.md](memory.md); all of them, with notes, in [memory.csv](memory.csv).
 
 ## How each paper is read
 
