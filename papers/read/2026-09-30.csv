@@ -1,0 +1,9 @@
+arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreement
+2608.18637,PILOT Technical Report,https://arxiv.org/abs/2608.18637,9,yes,retrieval,method,general,3,settled
+2608.18704,MemFuse: Multi-Source Memory Fusion from Fragmented Observations,https://arxiv.org/abs/2608.18704,9,yes,graph,method,assistants,2,agreed
+2608.17665,GraphWake: Group Polarization via Memory-Mediated Polarization Cascade in LLM-Agent Communities,https://arxiv.org/abs/2608.17665,9,yes,graph,method,multi-agent,2,agreed
+2608.17756,D$^2$ACCI: A Dual-Loop Diagnostic Protocol for Evidence-Preserving Agent Memory,https://arxiv.org/abs/2608.17756,9,yes,retrieval,method,assistants,2,agreed
+2608.17911,CABLE: Extending the Reach of Memory Retrieval via Complementary Antecedent-Based Linking and Expansion,https://arxiv.org/abs/2608.17911,9,yes,retrieval,method,assistants,3,settled
+2608.18423,FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents,https://arxiv.org/abs/2608.18423,8,yes,summaries,benchmark,unsure,2,agreed
+2608.18677,Sanyu Studio: A Multi-Agent System for Art-Historical Narrative Construction,https://arxiv.org/abs/2608.18677,8,yes,retrieval,tool,multi-agent,3,settled
+2608.20421,Six misconceptions about large language models: A minimal model and diagnostic taxonomy,https://arxiv.org/abs/2608.20421,7,yes,unsure,position,general,3,settled
