@@ -9,6 +9,7 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2606.29778,Mandol: An Agglomerative Agent Memory System for Long-Term Conversations,https://arxiv.org/abs/2606.29778,10,yes,graph,method,assistants,3,settled
 2606.15405,"T-Mem: Memory That Anticipates, Not Archives",https://arxiv.org/abs/2606.15405,10,yes,retrieval,method,assistants,3,settled
 2606.04555,Temporal Order Matters for Agentic Memory: Segment Trees for Long-Horizon Agents,https://arxiv.org/abs/2606.04555,10,yes,tiered,method,assistants,3,settled
+2606.03083,DELTAMEM: Incremental Experience Memory for LLM Agents via Residual Trees,https://arxiv.org/abs/2606.03083,10,yes,graph,method,general,3,settled
 2609.36059,"Mnemon: Raw Records, Fast Judgments, Slow Thoughts",https://arxiv.org/abs/2609.36059,9.5,yes,retrieval,method,assistants,2,agreed
 2608.04746,Caching for the Future: Scrub Jay Episodic Memory Principles for Agent Memory Systems,https://arxiv.org/abs/2608.04746,9.5,yes,retrieval,method,assistants,2,agreed
 2608.03137,Verifiable Memory: Learning Unified Memory Management with Local and Global Verifiers for Large Language Model Agents,https://arxiv.org/abs/2608.03137,9.5,yes,tiered,method,assistants,2,agreed
@@ -141,8 +142,13 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2606.04425,What If Prompt Injection Never Left? Rethinking Agent Security through Cross-Session Stored Prompt Injection,https://arxiv.org/abs/2606.04425,9,yes,retrieval,study,general,2,agreed
 2606.05050,Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin,https://arxiv.org/abs/2606.05050,9,yes,skills,method,science,3,settled
 2606.05513,EpiEvolve: Self-Evolving Agents for Streaming Pandemic Forecasting under Regime Shifts,https://arxiv.org/abs/2606.05513,9,yes,retrieval,method,science,3,settled
+2606.03329,InfoMem: Training Long-Context Memory Agents with Answer-Conditioned Information Gain,https://arxiv.org/abs/2606.03329,9,yes,compression,method,general,3,settled
+2606.03374,eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents,https://arxiv.org/abs/2606.03374,9,yes,tiered,tool,robotics,2,agreed
+2606.03463,DMF: A Deterministic Memory Framework for Conversational AI Agents,https://arxiv.org/abs/2606.03463,9,yes,retrieval,method,assistants,2,agreed
 2606.03895,Agent libOS: A Runtime Substrate for Capability-Controlled Self-Evolving LLM Agents,https://arxiv.org/abs/2606.03895,9,yes,retrieval,tool,general,3,settled
 2606.04120,SaliMory: Orchestrating Cognitive Memory for Conversational Agents,https://arxiv.org/abs/2606.04120,9,yes,tiered,method,assistants,2,agreed
+2606.20638,RIZZ: Routing Interactions to Near Zero-Interference Zones for Continual Adaptation of Black-Box Agents,https://arxiv.org/abs/2606.20638,9,yes,retrieval,method,assistants,3,settled
+2606.02304,Unified Context Evolution for LLM Agents,https://arxiv.org/abs/2606.02304,9,yes,skills,method,robotics,3,settled
 2609.36505,BRIDGE: Bilevel Retrieval-Credit-Aware Agentic Reinforcement Learning,https://arxiv.org/abs/2609.36505,8.5,yes,retrieval,method,assistants,2,agreed
 2609.36805,UpliftMem: Learning Set-Level Uplift for Agent Memory Retrieval,https://arxiv.org/abs/2609.36805,8.5,yes,retrieval,method,general,2,agreed
 2609.37009,An LLM-powered Agent Framework for Heterogeneous Evacuation Behavior Modeling under a Moving Threat in a Public Plaza,https://arxiv.org/abs/2609.37009,8.5,yes,graph,method,multi-agent,2,agreed
@@ -326,6 +332,11 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2606.04780,PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents,https://arxiv.org/abs/2606.04780,8.5,yes,graph,method,assistants,2,agreed
 2606.04990,From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents,https://arxiv.org/abs/2606.04990,8.5,yes,retrieval,survey,general,2,agreed
 2606.05250,Towards Persistent Case-Based Memory for Autonomous Data Science: A CBR-Augmented R&D-Agent with a Locally Deployable Small Language Model,https://arxiv.org/abs/2606.05250,8.5,yes,retrieval,method,coding,2,agreed
+2606.03099,PhotoCraft: Agentic Reasoning with Hierarchical Self-Evolving Memory for Deep Image Search,https://arxiv.org/abs/2606.03099,8.5,yes,tiered,method,assistants,2,agreed
+2606.03197,MemTrain: Self-Supervised Context Memory Training,https://arxiv.org/abs/2606.03197,8.5,yes,parametric,method,assistants,2,agreed
+2606.03221,VirtualMLE: A Virtual ML Engineer that Optimizes Sequential Recommenders,https://arxiv.org/abs/2606.03221,8.5,yes,tiered,method,general,2,agreed
+2606.02215,Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes,https://arxiv.org/abs/2606.02215,8.5,yes,retrieval,method,assistants,2,agreed
+2606.02812,Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection,https://arxiv.org/abs/2606.02812,8.5,yes,retrieval,method,multi-agent,2,agreed
 2609.36406,From Retrieval to Reasoning: Agentic Mechanism Prediction from Cell Painting Profiles,https://arxiv.org/abs/2609.36406,8,yes,retrieval,method,science,2,agreed
 2609.36800,AI as a Compiler: Compiling Triton kernels without the Triton compiler,https://arxiv.org/abs/2609.36800,8,yes,retrieval,study,coding,3,settled
 2609.36892,"Harness Evolution as Learning: Approximation, Generalization, and Optimization Limits of Self-Improving Personal Agents",https://arxiv.org/abs/2609.36892,8,yes,retrieval,study,assistants,3,settled
@@ -477,8 +488,16 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2606.04628,RAMPART: Registry-based Agentic Memory with Priority-Aware Runtime Transformation,https://arxiv.org/abs/2606.04628,8,yes,context,method,assistants,2,agreed
 2606.04823,R-APS: Compositional Reasoning and In-Context Meta-Learning for Constrained Design via Reflective Adversarial Pareto Search,https://arxiv.org/abs/2606.04823,8,yes,skills,method,robotics,3,settled
 2606.05404,Harnessing Generalist Agents for Contextualized Time Series,https://arxiv.org/abs/2606.05404,8,yes,retrieval,method,unsure,2,agreed
+2606.03137,Think-Before-Speak: From Internal Evaluation to Public Expression in Multi-Agent Social Simulation,https://arxiv.org/abs/2606.03137,8,yes,summaries,method,multi-agent,2,agreed
+2606.03239,ARBOR: Online Process Rewards via a Reusable Rubric Buffer for Search Agents,https://arxiv.org/abs/2606.03239,8,yes,retrieval,method,assistants,2,agreed
+2606.03678,EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents,https://arxiv.org/abs/2606.03678,8,yes,tiered,method,robotics,3,settled
 2606.04197,"Exploring the Topology and Memory of Consensus: How LLM Agents Agree, Fragment, or Settle When Forming Conventions",https://arxiv.org/abs/2606.04197,8,yes,tiered,study,multi-agent,3,settled
 2606.04202,SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models,https://arxiv.org/abs/2606.04202,8,yes,summaries,benchmark,multi-agent,2,agreed
+2607.01248,"A Practice Auditing Framework for Large Language Model Use: Collective Empiricism, Pseudo-Rational Cognition, and Governance of AI-Generated Content",https://arxiv.org/abs/2607.01248,8,yes,retrieval,position,assistants,2,agreed
+2606.02355,SIRI: Self-Internalizing Reinforcement Learning with Intrinsic Skills for LLM Agent Training,https://arxiv.org/abs/2606.02355,8,yes,skills,method,unsure,2,agreed
+2606.02459,Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models,https://arxiv.org/abs/2606.02459,8,yes,parametric,method,unsure,2,agreed
+2606.02497,Bridging the Last Mile of Time Series Forecasting with LLM Agents,https://arxiv.org/abs/2606.02497,8,yes,retrieval,method,assistants,2,agreed
+2606.02963,KForge: LLM-Driven Cross-Platform Kernel Generation for AI Accelerators,https://arxiv.org/abs/2606.02963,8,yes,retrieval,tool,multi-agent,3,settled
 2608.09119,Motif 3: Technical Report,https://arxiv.org/abs/2608.09119,7.5,yes,parametric,method,general,2,agreed
 2608.08340,OpRAG: A Resource-Deterministic Runtime for GPU-Backed Multi-Stage RAG Workflows,https://arxiv.org/abs/2608.08340,7.5,yes,retrieval,tool,unsure,2,agreed
 2608.07627,From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems,https://arxiv.org/abs/2608.07627,7.5,yes,retrieval,tool,multi-agent,2,agreed
@@ -497,6 +516,7 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2606.28791,From Determinism to Delegation: AI-Native Software Engineering and the Evolution of the Agentic Engineer,https://arxiv.org/abs/2606.28791,7.5,yes,summaries,unsure,coding,2,agreed
 2606.18203,RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agents across Health Memory and Medical Skills,https://arxiv.org/abs/2606.18203,7.5,yes,context,tool,assistants,2,agreed
 2606.16135,SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing,https://arxiv.org/abs/2606.16135,7.5,yes,compression,unsure,assistants,2,agreed
+2606.02302,SeClaw: Spec-Driven Security Task Synthesis for Evaluating Autonomous Agents,https://arxiv.org/abs/2606.02302,7.5,yes,retrieval,benchmark,general,2,agreed
 2609.36362,Strategies for Deploying AI Agents in Production at Scientific User Facilities,https://arxiv.org/abs/2609.36362,7,yes,retrieval,position,science,2,agreed
 2608.20421,Six misconceptions about large language models: A minimal model and diagnostic taxonomy,https://arxiv.org/abs/2608.20421,7,yes,unsure,position,general,3,settled
 2608.17310,Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements,https://arxiv.org/abs/2608.17310,7,yes,parametric,method,unsure,2,agreed
@@ -549,6 +569,8 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2606.14831,Is Your Agent Playing Dead? Deployed LLM Agents Exhibit Constraint-Evasive Fabrication and Thanatosis,https://arxiv.org/abs/2606.14831,5,yes,none,study,assistants,2,agreed
 2606.12402,DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?,https://arxiv.org/abs/2606.12402,5,yes,unsure,method,robotics,3,settled
 2606.08531,ForesightSafety-SAGE:A Fully Automated Scenario Generation and Safety Evaluation Framework for LLM Agents,https://arxiv.org/abs/2606.08531,5,yes,none,study,general,3,settled
+2606.02862,Toward a Modular Architecture for Embedded AI Agent Systems at the Edge,https://arxiv.org/abs/2606.02862,5,yes,none,position,general,3,settled
+2606.02951,SCOPE: Real-Time Natural Language Camera Agent at the Edge,https://arxiv.org/abs/2606.02951,5,yes,context,tool,robotics,3,settled
 2608.04458,Architectural Implications of Agentic AI Workflows,https://arxiv.org/abs/2608.04458,4,unsure,none,study,general,2,agreed
 2608.02698,"Steganalysis of Adaptive Covert Collusion in Tool-Using Agent Populations: A Black-Box, Cross-Principal Approach",https://arxiv.org/abs/2608.02698,4,unsure,none,study,multi-agent,2,agreed
 2608.00718,Adversarial Attacks in Multi-Agent LLM Pipelines: Unveiling Structural Vulnerabilities in Agentic AI Architectures,https://arxiv.org/abs/2608.00718,4,unsure,none,study,multi-agent,2,agreed
@@ -571,9 +593,12 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2606.22296,SCENIC: Semantic-Conditioned Edge-Aware Neural Framework for Structured IoT Command Generation,https://arxiv.org/abs/2606.22296,3,no,none,method,assistants,2,agreed
 2606.15899,SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills,https://arxiv.org/abs/2606.15899,3,no,none,benchmark,multi-agent,2,agreed
 2606.12950,Maestro: Workload-Aware Cross-Cluster Scheduling for LLM-Based Multi-Agent Systems,https://arxiv.org/abs/2606.12950,3,no,none,tool,multi-agent,2,agreed
+2606.03739,Entropy Gate: Entropy Quenching for Near-Lossless Token Compression in LLM Pipelines,https://arxiv.org/abs/2606.03739,3,no,none,unsure,assistants,2,agreed
+2606.02964,Multi-Segment Attention: Enabling Efficient KV-Cache Management for Faster Large Language Model Serving,https://arxiv.org/abs/2606.02964,3,no,none,method,general,2,agreed
 2609.37626,SPLASH: Switching Parallel Layouts of Attention with Seamless Handoff for LLM Serving,https://arxiv.org/abs/2609.37626,2.5,no,none,tool,general,2,agreed
 2608.14498,Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training,https://arxiv.org/abs/2608.14498,2.5,no,none,unsure,unsure,2,agreed
 2607.19430,ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems,https://arxiv.org/abs/2607.19430,2.5,no,none,tool,multi-agent,2,agreed
 2607.11126,"ToolAtlas: Learning Once, Reusing Everywhere with Tool-Side Memory",https://arxiv.org/abs/2607.11126,2.5,no,none,tool,general,2,agreed
+2606.03077,Libra: Efficient Resource Management for Agentic RL Post-Training,https://arxiv.org/abs/2606.03077,2.5,no,none,unsure,general,2,agreed
 2609.13161,PDD: Unleashing Economical and Flexible Heterogeneous LLM Inference via Cross-Datacenter Prefill-Decode Disaggregation,https://arxiv.org/abs/2609.13161,2,no,none,method,general,2,agreed
 2607.09385,STEEL: Sparsity-Aware Fused Attention for Energy-Efficient Long-Sequence Inference on AMD's XDNA NPU,https://arxiv.org/abs/2607.09385,2,no,none,tool,general,2,agreed
