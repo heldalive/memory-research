@@ -11609,6 +11609,7 @@ arxiv_id,published,category,title,link
 2609.36371,2026-09-28,cs.SE,LatentSift: Policy-State Filtering for Token-Efficient Verification of Software Engineering Agents,https://arxiv.org/abs/2609.36371
 2609.36392,2026-09-28,cs.AI,ARCagent: An Adaptive Retrieval Calibration Agent for Clinical Question Answering,https://arxiv.org/abs/2609.36392
 2609.36393,2026-09-28,cs.LG,Reward-rate Policy Gradient for Efficient Machine Learning Engineering Agents,https://arxiv.org/abs/2609.36393
+2609.38232,2026-09-28,cs.SD,When Does a Spoken Agent Have Enough Evidence to Act? The PACT-SLM Contract Test,https://arxiv.org/abs/2609.38232
 2609.36406,2026-09-29,cs.AI,From Retrieval to Reasoning: Agentic Mechanism Prediction from Cell Painting Profiles,https://arxiv.org/abs/2609.36406
 2609.36469,2026-09-29,cond-mat.mtrl-sci,From Automated Simulation to Autonomous Discovery: A Hierarchical Framework for Agentic Computational Materials Science,https://arxiv.org/abs/2609.36469
 2609.36488,2026-09-29,cs.LG,AdaptArena: Evaluating Test-Time Personalization of Web Agents,https://arxiv.org/abs/2609.36488
@@ -11684,3 +11685,72 @@ arxiv_id,published,category,title,link
 2609.38043,2026-09-29,cs.AI,UserProxyBench: Evaluating LLM User Simulators for Agent Benchmarks and Training,https://arxiv.org/abs/2609.38043
 2609.38078,2026-09-29,cs.RO,MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation,https://arxiv.org/abs/2609.38078
 2609.38108,2026-09-29,cs.AI,Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution,https://arxiv.org/abs/2609.38108
+2609.38245,2026-09-29,cs.CR,Agent-Warden: eBPF-Based Kernel-Native Process-File Provenance Tracking for LLM Agents,https://arxiv.org/abs/2609.38245
+2609.38248,2026-09-29,cs.CR,ContractWarden: Kernel-Enforced Damage Boundaries for AI Agents via Human-Authorized Contracts,https://arxiv.org/abs/2609.38248
+2609.38266,2026-09-29,cs.CR,Janus: Evidence-Before-Effect Sagas and Offline-Verifiable Provenance for Agentic LLMs,https://arxiv.org/abs/2609.38266
+2609.38269,2026-09-29,cs.SE,Zero2Repo: Can Coding Agents Build Repositories from Scratch?,https://arxiv.org/abs/2609.38269
+2609.38270,2026-09-29,cs.CR,VirusCascade: Hijacking Collaborative Reflection in LLM-Powered Recommender Agents,https://arxiv.org/abs/2609.38270
+2609.38275,2026-09-29,cs.DC,When Correct Memory Goes Wrong: Fuzzing Persistent Memory Use in LLM Agents,https://arxiv.org/abs/2609.38275
+2609.38288,2026-09-29,cs.AI,AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks,https://arxiv.org/abs/2609.38288
+2609.38291,2026-09-29,cs.CR,HARDE: Optimizing Agent Harnesses for Runtime Risk Detection and Execution Control,https://arxiv.org/abs/2609.38291
+2609.38296,2026-09-29,cs.AI,AI Agents are Vulnerable to Radicalization,https://arxiv.org/abs/2609.38296
+2609.38309,2026-09-29,hep-ph,Searching for BSM Experimental Signatures with Large Lagrangian Models,https://arxiv.org/abs/2609.38309
+2609.38324,2026-09-29,physics.soc-ph,Multi-agent discussion gains less when dissent is withheld,https://arxiv.org/abs/2609.38324
+2609.38327,2026-09-29,cs.MA,Absorbing State Phase Transitions in Multi-Agent Search,https://arxiv.org/abs/2609.38327
+2609.38334,2026-09-29,cs.CL,EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-Making,https://arxiv.org/abs/2609.38334
+2609.38335,2026-09-29,cs.SE,E2E-SWE: Benchmarking LLMs on Building Working Codebases from Scratch,https://arxiv.org/abs/2609.38335
+2609.38353,2026-09-29,cs.IR,TAGGRAPH: Tag-Augmented Graphs for Graph Retrieval of Agent Persistent Histories,https://arxiv.org/abs/2609.38353
+2609.38372,2026-09-29,cs.AI,Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer,https://arxiv.org/abs/2609.38372
+2609.38413,2026-09-29,cs.CV,VidHarness: Evolving Agent Harnesses for Cost-Efficient Long Video Understanding,https://arxiv.org/abs/2609.38413
+2609.38414,2026-09-29,cs.LG,"Synthesis Without Training: An Inference-Only Pipeline for Tabular, Temporal, and Relational Synthetic Data",https://arxiv.org/abs/2609.38414
+2609.38445,2026-09-29,cs.AI,AIM: Agentic Idea Management for Automated Research,https://arxiv.org/abs/2609.38445
+2609.38455,2026-09-29,cs.IR,AdaM-Rec: Adaptive Modality Routing for Multimodal Recommendation,https://arxiv.org/abs/2609.38455
+2609.38458,2026-09-29,cs.AI,PrivMeSA: Privacy-Aware Self-Evolving Multi-Agent System for Medicine via Local-Remote LLM Collaboration,https://arxiv.org/abs/2609.38458
+2609.38473,2026-09-29,cs.IR,Re-ranking and Late Interaction Drive Retrieval Quality: A Controlled Comparison of RAG Strategies for Scientific Question Answering,https://arxiv.org/abs/2609.38473
+2609.38480,2026-09-29,cs.CL,KlinikeBench: Evaluating Language Models Beyond Diagnostic Accuracy,https://arxiv.org/abs/2609.38480
+2609.38482,2026-09-29,cs.MA,"PANDA: A Decentralized Architecture with Flexible Orchestration for Scalable, Fault-Tolerant Multi-Agent Systems",https://arxiv.org/abs/2609.38482
+2609.38490,2026-09-29,cs.CL,Personalized State-Transition-Aware Memory for Clinical Agents,https://arxiv.org/abs/2609.38490
+2609.38501,2026-09-29,eess.AS,Voices as Handles: Reasoning about Speaker Identity with Frozen Text LLMs,https://arxiv.org/abs/2609.38501
+2609.38512,2026-09-29,cs.AI,"VAmoS Part Deux: Harder, More Realistic Voice-Agent Simulation",https://arxiv.org/abs/2609.38512
+2609.38516,2026-09-29,cs.MA,From Solo to Social Learning: Characterizing Recursive Social Improvement in LLMs,https://arxiv.org/abs/2609.38516
+2609.38536,2026-09-29,cs.LG,Does This Action Still Explain the Task? Reverse Scoring for Diffusion Language Model Agents,https://arxiv.org/abs/2609.38536
+2609.38601,2026-09-29,cs.AR,Structure-augmented LLMs for High-Level Synthesis Pragma Optimization,https://arxiv.org/abs/2609.38601
+2609.38604,2026-09-29,cs.CL,Beyond Oracle Communication: Benchmarking Interactive Intent Alignment Under Miscommunication and Evolving User Intent,https://arxiv.org/abs/2609.38604
+2609.38652,2026-09-29,cs.AI,AgBench: Agentic AI Benchmarks for Personal AI Devices,https://arxiv.org/abs/2609.38652
+2609.38660,2026-09-29,cs.CL,Breaking Babel: A Self-Evolving Multi-Agent System for Long-Form Subtitle Translation,https://arxiv.org/abs/2609.38660
+2609.38661,2026-09-29,cs.AI,EvoSteer: Online Self-Evolving Graph Orchestration via Reference-Anchored Credit Assignment,https://arxiv.org/abs/2609.38661
+2609.38662,2026-09-29,cs.MA,CollabFlow: Recursive Self-Improvement of Agent Collaboration,https://arxiv.org/abs/2609.38662
+2609.38718,2026-09-30,cs.CL,"MetaSteer: Context-Conditioned, nonlinear Steering via Attention-Projection Adaptation",https://arxiv.org/abs/2609.38718
+2609.38743,2026-09-30,cs.AI,Learning to Route in Visual Space via Multi-Step Embedding Retrieval,https://arxiv.org/abs/2609.38743
+2609.38757,2026-09-30,cs.AI,Self-Evolving Algorithm-Design Agents: Escaping In-Context Evolutionary Stagnation via Population-Curated Policy Optimization,https://arxiv.org/abs/2609.38757
+2609.38761,2026-09-30,cs.MA,Where Do Multi-Agent Systems Fail? Evidence-Grounded Diagnosis of Collective Mechanisms,https://arxiv.org/abs/2609.38761
+2609.38782,2026-09-30,cs.AI,Persona and Persuasive Framing in AI Voice Agents: A $2\times2$ Field Experiment with Children,https://arxiv.org/abs/2609.38782
+2609.38798,2026-09-30,cs.AI,GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics,https://arxiv.org/abs/2609.38798
+2609.38805,2026-09-30,cs.LG,Explicit Trajectory Diversity for RL-Based Post-Training of LLM Agents,https://arxiv.org/abs/2609.38805
+2609.38807,2026-09-30,cs.IR,PatchHolmes: Agentic Patch Retrieval via Listwise Selection,https://arxiv.org/abs/2609.38807
+2609.38816,2026-09-30,cs.CL,You're Hired: Strategic Model Selection for LLM Collaboration,https://arxiv.org/abs/2609.38816
+2609.38822,2026-09-30,cs.IR,SkillSeek: Revisiting Agent Skill Retrieval at Marketplace Scale,https://arxiv.org/abs/2609.38822
+2609.38866,2026-09-30,cs.AI,When Context Changes: Understanding Update Failures in LLMs,https://arxiv.org/abs/2609.38866
+2609.38867,2026-09-30,cs.AI,Talk2Agent: Benchmarking Voice Interfaces for Text Agents,https://arxiv.org/abs/2609.38867
+2609.38881,2026-09-30,cs.AI,STRATA: Self-Learning Through Role-Aligned Tiered Agents for Real-Time Strategy Games,https://arxiv.org/abs/2609.38881
+2609.38884,2026-09-30,cs.LG,"Right Answers, Costly Models: The Efficiency Gap in LLM-based Optimization Modeling",https://arxiv.org/abs/2609.38884
+2609.38912,2026-09-30,cs.AI,Composing Task-specific Agent Harnesses at Test Time with Reusable Primitives,https://arxiv.org/abs/2609.38912
+2609.38954,2026-09-30,cs.CR,APTInvestBench: Evaluating Autonomous APT Investigation under Varying Telemetry,https://arxiv.org/abs/2609.38954
+2609.38964,2026-09-30,cs.AI,When Order Matters: First-Speaker Bias and Mitigation through Personality in Sequential Multi-Agent Debate,https://arxiv.org/abs/2609.38964
+2609.38982,2026-09-30,cs.RO,SimEX: Simulation-Integrated Robotics AutoResearch,https://arxiv.org/abs/2609.38982
+2609.39001,2026-09-30,cs.CL,"The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",https://arxiv.org/abs/2609.39001
+2609.39045,2026-09-30,cs.CL,RSIGame: Autonomous Agentic Game Development with Recursive Self-improvement,https://arxiv.org/abs/2609.39045
+2609.39065,2026-09-30,cs.CR,Can Agents Trust Their Skills? Uncovering Unsafe Chains of Trust in Skill-Based LLM Agents,https://arxiv.org/abs/2609.39065
+2609.39066,2026-09-30,cs.CV,Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection,https://arxiv.org/abs/2609.39066
+2609.39068,2026-09-30,cs.LG,SparseEngine: Sparse-First Inference Engine,https://arxiv.org/abs/2609.39068
+2609.39081,2026-09-30,cs.IT,Coding Agents for Coding Theory,https://arxiv.org/abs/2609.39081
+2609.39086,2026-09-30,cs.SE,Trustworthy Runtime Error Healing in Real-World Repositories: A Benchmark and Guardrail,https://arxiv.org/abs/2609.39086
+2609.39107,2026-09-30,cs.AI,MASCRDM: Multi-Agent System for Compliance Risk Detection and Mitigation in Training Process of Large Language Models,https://arxiv.org/abs/2609.39107
+2609.39112,2026-09-30,cs.CV,CamAgent: An LLM-Agent Framework for Multi-Species Camera-Trap Workflows,https://arxiv.org/abs/2609.39112
+2609.39131,2026-09-30,cs.LG,Characterizing High Bandwidth Flash for LLM Serving,https://arxiv.org/abs/2609.39131
+2609.39140,2026-09-30,cs.AI,Schema: Discovering Unknown Environments via Agentic Program Induction,https://arxiv.org/abs/2609.39140
+2609.39146,2026-09-30,cs.AI,MADBench: Benchmarking the Security of Multi-Agent Debate,https://arxiv.org/abs/2609.39146
+2609.39148,2026-09-30,cs.AI,Do Self-Evolving Skills Generalize to Held-Out Tasks?,https://arxiv.org/abs/2609.39148
+2609.39149,2026-09-30,cs.AI,Rep2Skill: Representation-Guided Skill Self-Evolution for LLM Agents,https://arxiv.org/abs/2609.39149
+2609.39195,2026-09-30,cs.CV,Uruqi: Learning Spatial Cognition from Visual Experience,https://arxiv.org/abs/2609.39195
+2609.39211,2026-09-30,cs.MA,Consensus and Factual Dynamics in Large Populations of Interacting Language Models,https://arxiv.org/abs/2609.39211
