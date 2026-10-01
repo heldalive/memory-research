@@ -1,0 +1,10 @@
+arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreement
+2606.01139,SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision,https://arxiv.org/abs/2606.01139,9,yes,skills,method,general,3,settled
+2606.00669,"NeuroLog: Reasoning You Can Audit -- Neuro-Symbolic Vulnerability Discovery via LLM Facts, Datalog, and SMT",https://arxiv.org/abs/2606.00669,9,yes,retrieval,tool,coding,3,settled
+2606.00825,SuperMemory-VQA: An Egocentric Visual Question-Answering Benchmark for Long-Horizon Memory,https://arxiv.org/abs/2606.00825,9,yes,retrieval,benchmark,assistants,2,agreed
+2606.01199,Can LLM Agents Sustain Long-Horizon Organizational Dynamics?,https://arxiv.org/abs/2606.01199,8.5,yes,tiered,method,multi-agent,2,agreed
+2606.00610,MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation,https://arxiv.org/abs/2606.00610,8.5,yes,graph,method,multi-agent,2,agreed
+2606.00708,MOSAIC: Modular Orchestration for Structured Agentic Intelligence and Composition,https://arxiv.org/abs/2606.00708,8.5,yes,retrieval,method,coding,2,agreed
+2606.00756,CoMIC: Collaborative Memory and Insights Circulation for Long-Horizon LLM Agents in Cloud-Edge Systems,https://arxiv.org/abs/2606.00756,8.5,yes,retrieval,method,unsure,2,agreed
+2607.20482,PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails,https://arxiv.org/abs/2607.20482,8.5,yes,retrieval,benchmark,web,2,agreed
+2606.00866,Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI,https://arxiv.org/abs/2606.00866,8,yes,unsure,method,coding,3,settled
