@@ -1,6 +1,6 @@
 # Agent memory: the most relevant papers so far
 
-The 150 highest-scoring of the 1,033 papers read so far that score 8.5 or more for relevance to agent memory. Every one of them is in [memory.csv](memory.csv), with its notes. Scores and labels are the model's readings of the title and abstract; quoted lines are copied from the abstract and checked.
+The 150 highest-scoring of the 1,054 papers read so far that score 8.5 or more for relevance to agent memory. Every one of them is in [memory.csv](memory.csv), with its notes. Scores and labels are the model's readings of the title and abstract; quoted lines are copied from the abstract and checked.
 
 1. **[TRACE: Governing Memory Validity in Evolving Multi-Agent Systems](https://arxiv.org/abs/2609.33517)** · 2026-09 · relevance 10 · tiered memory · method · multi-agent
    TRACE enables multi-agent systems to validate memory validity over time by deciding what memory to act on upon return.
