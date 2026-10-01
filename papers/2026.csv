@@ -11754,3 +11754,49 @@ arxiv_id,published,category,title,link
 2609.39149,2026-09-30,cs.AI,Rep2Skill: Representation-Guided Skill Self-Evolution for LLM Agents,https://arxiv.org/abs/2609.39149
 2609.39195,2026-09-30,cs.CV,Uruqi: Learning Spatial Cognition from Visual Experience,https://arxiv.org/abs/2609.39195
 2609.39211,2026-09-30,cs.MA,Consensus and Factual Dynamics in Large Populations of Interacting Language Models,https://arxiv.org/abs/2609.39211
+2609.39228,2026-09-30,cs.AI,Fyan: A Human--AI Harness with Semantic Auditing for Document-Level Formalization,https://arxiv.org/abs/2609.39228
+2609.39284,2026-09-30,cs.SE,EngramBench: A Capability-Grounded Benchmark for Skill-Evolution Harnesses,https://arxiv.org/abs/2609.39284
+2609.39297,2026-09-30,cs.AI,MiniRep: Robust Reputation-Based Aggregation for Multi-Agent Debate,https://arxiv.org/abs/2609.39297
+2609.39302,2026-09-30,quant-ph,SQD-Agent: LLM-driven agentic framework for Quantum Chemistry workflows,https://arxiv.org/abs/2609.39302
+2609.39306,2026-09-30,cs.LG,ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation,https://arxiv.org/abs/2609.39306
+2609.39325,2026-09-30,cs.AI,WorkGenesis: Building the Worlds That Teach Agents to Work,https://arxiv.org/abs/2609.39325
+2609.39352,2026-09-30,cs.CR,Hiding in Plain Sight: Decoupling Pretext from Actuation for Skill Poisoning in LLM Agents,https://arxiv.org/abs/2609.39352
+2609.39371,2026-09-30,cs.AI,EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning,https://arxiv.org/abs/2609.39371
+2609.39382,2026-09-30,cs.AI,SkillFM: Generating Skills for LLM Agents via Latent Flow Matching,https://arxiv.org/abs/2609.39382
+2609.39420,2026-09-30,cs.CL,QuantCode Model: Specializing Language Models for Executable Algorithmic Trading Code,https://arxiv.org/abs/2609.39420
+2609.39433,2026-09-30,astro-ph.IM,"The AI crisis for teaching: ""Train your own neural network!""",https://arxiv.org/abs/2609.39433
+2609.39436,2026-09-30,cs.LG,From Imitation to Reward Discovery: On-Policy Warmup for Agentic RL,https://arxiv.org/abs/2609.39436
+2609.39450,2026-09-30,cs.CR,ActionGuard: Tool Call Authorization under Poisoned Skills,https://arxiv.org/abs/2609.39450
+2609.39477,2026-09-30,cs.NI,Resource-Efficient Semantic Communication for Heterogeneous Agentic Teams,https://arxiv.org/abs/2609.39477
+2609.39547,2026-09-30,cs.LG,Learning Reliable GUI Agents under Imperfect Priors,https://arxiv.org/abs/2609.39547
+2609.39549,2026-09-30,cs.CR,Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks,https://arxiv.org/abs/2609.39549
+2609.39551,2026-09-30,cs.AI,RankEvolve: A Reliable Multi-Agent Auto-Research Harness for Evolving Ranking Models,https://arxiv.org/abs/2609.39551
+2609.39566,2026-09-30,cs.CV,From Given to Gathered Evidence: Agentic Learning for Longitudinal Medical Reasoning,https://arxiv.org/abs/2609.39566
+2609.39578,2026-09-30,cs.CL,Thinking Outside the Box: Can Language Models Rely on External Guidance Selectively?,https://arxiv.org/abs/2609.39578
+2609.39607,2026-09-30,cs.CR,Pretext: Defeating Malicious Skill Detection Frameworks for AI Agents,https://arxiv.org/abs/2609.39607
+2609.39645,2026-09-30,cs.CL,SEPAL: Separated Expert Pairs with Answer-Level Fusion for Reliable LLM Collaboration,https://arxiv.org/abs/2609.39645
+2609.39665,2026-09-30,cs.AI,ChronoGraph: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning,https://arxiv.org/abs/2609.39665
+2609.39717,2026-09-30,cs.AI,Trust Is Not a Score: Runtime Assurance Contracts for High-Risk AI Agents,https://arxiv.org/abs/2609.39717
+2609.39727,2026-09-30,cs.AI,OverForge: Reasoning Through Strategies and Tactics Helps Cooperative Lifelong Adaptation,https://arxiv.org/abs/2609.39727
+2609.39777,2026-09-30,cs.LG,GraphMAS: A Systematic Benchmark of Multi-Agent Coordination for Graph Learning,https://arxiv.org/abs/2609.39777
+2609.39819,2026-09-30,cs.OS,Capture the lifecycle: KV Cache management in ReAct Agents with KVTether,https://arxiv.org/abs/2609.39819
+2609.39847,2026-09-30,cs.SD,SEAR: Spoofing Evidence-Grounded Audio Reasoning Benchmark for Audio Language Models,https://arxiv.org/abs/2609.39847
+2609.39903,2026-09-30,cs.AI,OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software,https://arxiv.org/abs/2609.39903
+2609.39933,2026-09-30,cs.AI,ConflictGuide: AutoResearch Improves When Competing Behaviors Are Made Visible,https://arxiv.org/abs/2609.39933
+2609.39958,2026-09-30,cs.AI,Better Deck or Different Judge? Evaluating Agentic Harness Gains in Corporate and Investment Banking,https://arxiv.org/abs/2609.39958
+2609.39989,2026-09-30,cs.AI,What Can Component-Replacement Evidence Establish? A Critical Scoping Review of Local Decisions in LLM Agents,https://arxiv.org/abs/2609.39989
+2609.40069,2026-09-30,cs.HC,Conversational Capture: A Trajectory-Level Framework for Evaluating Generative Engine Optimization in Multi-turn Human-Agent Interaction,https://arxiv.org/abs/2609.40069
+2609.40070,2026-09-30,cs.LG,Inference Auctions,https://arxiv.org/abs/2609.40070
+2609.40079,2026-09-30,cs.CV,LongEmo: Towards Emotion Understanding and Reasoning in Long Videos,https://arxiv.org/abs/2609.40079
+2609.40097,2026-09-30,cs.CL,AutoDataBench: A Data-centric Testbed for Accelerating Auto Research,https://arxiv.org/abs/2609.40097
+2609.40103,2026-09-30,cs.CL,JuryFlow: Disagreement-Guided Human-in-the-Loop Multi-Agent Evaluation,https://arxiv.org/abs/2609.40103
+2609.40111,2026-09-30,cs.AI,"Agent Error Dataset: Scaling 50,000 Error--Diagnosis Pairs for Failure Analysis and Error-Aware Post-Training",https://arxiv.org/abs/2609.40111
+2609.40118,2026-09-30,cs.CL,Persistent Context Graphs for Efficient Memory Compaction in LLM Agents,https://arxiv.org/abs/2609.40118
+2609.40146,2026-09-30,quant-ph,QuLoC: Photonic Quantum-Assisted Low-Rank LLM Compression,https://arxiv.org/abs/2609.40146
+2609.40169,2026-09-30,cs.AI,Learning from Research: Toward Lifelong Agent Harness Evolution,https://arxiv.org/abs/2609.40169
+2609.40221,2026-09-30,cs.LG,PhantomEnvironments: Training LLM Agents in Fictional Worlds,https://arxiv.org/abs/2609.40221
+2609.40245,2026-09-30,cs.RO,STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction,https://arxiv.org/abs/2609.40245
+2609.40247,2026-09-30,cs.OS,Herschel: Continuous Optimization of Production LLM Inference through On-Demand Profiling,https://arxiv.org/abs/2609.40247
+2609.40303,2026-09-30,cs.AI,How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?,https://arxiv.org/abs/2609.40303
+2609.40324,2026-09-30,cs.AI,Cogentic: Multi-Agent Orchestration for Automated Proof Discovery,https://arxiv.org/abs/2609.40324
+2609.40325,2026-09-30,cs.AI,WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents,https://arxiv.org/abs/2609.40325

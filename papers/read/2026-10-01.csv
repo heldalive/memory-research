@@ -1,9 +1,12 @@
 arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreement
 2605.30690,ElasticMem: Latent Memory as a Learnable Resource for LLM Agents,https://arxiv.org/abs/2605.30690,10,yes,parametric,method,general,3,settled
+2605.14421,MemLineage: Lineage-Guided Enforcement for LLM Agent Memory,https://arxiv.org/abs/2605.14421,10,yes,graph,method,general,3,settled
 2605.30771,Eywa: Provenance-Grounded Long-Term Memory for AI Agents,https://arxiv.org/abs/2605.30771,9.5,yes,retrieval,method,assistants,2,agreed
 2605.28773,Rethinking Memory as Continuously Evolving Connectivity,https://arxiv.org/abs/2605.28773,9.5,yes,graph,method,unsure,2,agreed
 2605.25002,MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems,https://arxiv.org/abs/2605.25002,9.5,yes,parametric,method,general,2,agreed
 2605.16045,RecMem: Recurrence-based Memory Consolidation for Efficient and Effective Long-Running LLM Agents,https://arxiv.org/abs/2605.16045,9.5,yes,retrieval,method,assistants,2,agreed
+2605.15338,Hidden in Memory: Sleeper Memory Poisoning in LLM Agents,https://arxiv.org/abs/2605.15338,9.5,yes,retrieval,study,assistants,2,agreed
+2605.13941,EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents,https://arxiv.org/abs/2605.13941,9.5,yes,retrieval,method,assistants,2,agreed
 2609.38866,When Context Changes: Understanding Update Failures in LLMs,https://arxiv.org/abs/2609.38866,9,yes,parametric,study,general,3,settled
 2609.38275,When Correct Memory Goes Wrong: Fuzzing Persistent Memory Use in LLM Agents,https://arxiv.org/abs/2609.38275,9,yes,retrieval,method,assistants,2,agreed
 2609.38490,Personalized State-Transition-Aware Memory for Clinical Agents,https://arxiv.org/abs/2609.38490,9,yes,retrieval,method,assistants,3,settled
@@ -42,6 +45,13 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2605.15759,DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory,https://arxiv.org/abs/2605.15759,9,yes,retrieval,method,assistants,2,agreed
 2607.16211,Accurate and Efficient Long-Term Memory for LLM Agents,https://arxiv.org/abs/2607.16211,9,yes,graph,method,assistants,2,agreed
 2607.21604,AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems,https://arxiv.org/abs/2607.21604,9,yes,retrieval,method,assistants,2,agreed
+2605.14401,Agentic Recommender System with Hierarchical Belief-State Memory,https://arxiv.org/abs/2605.14401,9,yes,tiered,method,assistants,2,agreed
+2605.14498,GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations,https://arxiv.org/abs/2605.14498,9,yes,graph,benchmark,multi-agent,2,agreed
+2609.39284,EngramBench: A Capability-Grounded Benchmark for Skill-Evolution Harnesses,https://arxiv.org/abs/2609.39284,8.5,yes,skills,benchmark,coding,2,agreed
+2609.39727,OverForge: Reasoning Through Strategies and Tactics Helps Cooperative Lifelong Adaptation,https://arxiv.org/abs/2609.39727,8.5,yes,tiered,method,games,2,agreed
+2609.40079,LongEmo: Towards Emotion Understanding and Reasoning in Long Videos,https://arxiv.org/abs/2609.40079,8.5,yes,graph,method,general,2,agreed
+2609.40118,Persistent Context Graphs for Efficient Memory Compaction in LLM Agents,https://arxiv.org/abs/2609.40118,8.5,yes,graph,method,coding,2,agreed
+2609.40169,Learning from Research: Toward Lifelong Agent Harness Evolution,https://arxiv.org/abs/2609.40169,8.5,yes,retrieval,method,assistants,2,agreed
 2609.38353,TAGGRAPH: Tag-Augmented Graphs for Graph Retrieval of Agent Persistent Histories,https://arxiv.org/abs/2609.38353,8.5,yes,graph,method,assistants,2,agreed
 2609.38458,PrivMeSA: Privacy-Aware Self-Evolving Multi-Agent System for Medicine via Local-Remote LLM Collaboration,https://arxiv.org/abs/2609.38458,8.5,yes,retrieval,method,multi-agent,2,agreed
 2609.38660,Breaking Babel: A Self-Evolving Multi-Agent System for Long-Form Subtitle Translation,https://arxiv.org/abs/2609.38660,8.5,yes,retrieval,method,multi-agent,2,agreed
@@ -107,6 +117,14 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2605.23986,MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing,https://arxiv.org/abs/2605.23986,8.5,yes,tiered,method,assistants,2,agreed
 2605.16233,FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast,https://arxiv.org/abs/2605.16233,8.5,yes,retrieval,method,games,2,agreed
 2605.16714,GRID: Graph Representation of Intelligence Data for Security Text Knowledge Graph Construction,https://arxiv.org/abs/2605.16714,8.5,yes,graph,method,assistants,2,agreed
+2607.20458,CAMeR: Keyword-Gated Hybrid Activation for Adaptive Memory Retention in LLM Agents,https://arxiv.org/abs/2607.20458,8.5,yes,retrieval,method,assistants,2,agreed
+2605.14634,Documentation-Guided Agentic Codebase Migration from C to Rust,https://arxiv.org/abs/2605.14634,8.5,yes,retrieval,method,coding,2,agreed
+2605.14906,MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models,https://arxiv.org/abs/2605.14906,8.5,yes,retrieval,benchmark,assistants,2,agreed
+2605.15343,Belief Engine: Configurable and Inspectable Stance Dynamics in Multi-Agent LLM Deliberation,https://arxiv.org/abs/2605.15343,8.5,yes,retrieval,unsure,multi-agent,2,agreed
+2605.15461,DrugSAGE:Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery,https://arxiv.org/abs/2605.15461,8.5,yes,skills,method,science,2,agreed
+2605.13725,ScioMind: Cognitively Grounded Multi-Agent Social Simulation with Anchoring-Based Belief Dynamics and Dynamic Profiles,https://arxiv.org/abs/2605.13725,8.5,yes,tiered,method,multi-agent,2,agreed
+2605.13762,EconAI: Dynamic Persona Evolution and Memory-Aware Agents in Evolving Economic Environments,https://arxiv.org/abs/2605.13762,8.5,yes,tiered,method,multi-agent,2,agreed
+2605.13839,Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights,https://arxiv.org/abs/2605.13839,8.5,yes,parametric,method,multi-agent,2,agreed
 2609.39068,SparseEngine: Sparse-First Inference Engine,https://arxiv.org/abs/2609.39068,8,yes,compression,tool,general,2,agreed
 2609.38270,VirusCascade: Hijacking Collaborative Reflection in LLM-Powered Recommender Agents,https://arxiv.org/abs/2609.38270,8,yes,notes,tool,multi-agent,2,agreed
 2606.00866,Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI,https://arxiv.org/abs/2606.00866,8,yes,unsure,method,coding,3,settled
@@ -144,11 +162,15 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2605.17170,TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks,https://arxiv.org/abs/2605.17170,8,yes,compression,method,assistants,2,agreed
 2605.15556,TopoClaw: A Human-Centric and Topology-Aware Agent Operating System,https://arxiv.org/abs/2605.15556,8,yes,unsure,tool,assistants,3,settled
 2605.15611,TopoEvo: A Topology-Aware Self-Evolving Multi-Agent Framework for Root Cause Analysis in Microservices,https://arxiv.org/abs/2605.15611,8,yes,graph,method,multi-agent,2,agreed
+2605.14558,Resolving Action Bottleneck: Agentic Reinforcement Learning Informed by Token-Level Energy,https://arxiv.org/abs/2605.14558,8,yes,parametric,method,unsure,2,agreed
+2605.13542,RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation,https://arxiv.org/abs/2605.13542,8,yes,tiered,benchmark,assistants,3,settled
+2605.14037,Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility,https://arxiv.org/abs/2605.14037,8,yes,compression,method,general,3,settled
 2609.39131,Characterizing High Bandwidth Flash for LLM Serving,https://arxiv.org/abs/2609.39131,7.5,yes,compression,study,assistants,2,agreed
 2605.30621,Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents,https://arxiv.org/abs/2605.30621,7.5,yes,retrieval,study,assistants,2,agreed
 2605.27489,HARP: Measuring Harm Amplification in Multi-Agent LLM Systems,https://arxiv.org/abs/2605.27489,7.5,yes,retrieval,study,multi-agent,2,agreed
 2605.19219,SimGym: A Framework for A/B Test Simulation in E-Commerce with Traffic-Grounded VLM Agents,https://arxiv.org/abs/2605.19219,7.5,yes,context,tool,web,2,agreed
 2605.18890,Stop Drawing Scientific Claims from LLM Social Simulations Without Robustness Audits,https://arxiv.org/abs/2605.18890,7.5,yes,summaries,study,unsure,2,agreed
+2609.39578,Thinking Outside the Box: Can Language Models Rely on External Guidance Selectively?,https://arxiv.org/abs/2609.39578,7,yes,summaries,study,assistants,2,agreed
 2609.38601,Structure-augmented LLMs for High-Level Synthesis Pragma Optimization,https://arxiv.org/abs/2609.38601,7,yes,context,tool,coding,2,agreed
 2606.00288,Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture,https://arxiv.org/abs/2606.00288,7,yes,retrieval,survey,general,3,settled
 2605.29511,DynaGraph: Lightweight Multi-Model Interaction Framework via Dynamic Topological Reconfiguration,https://arxiv.org/abs/2605.29511,7,yes,unsure,method,general,3,settled
@@ -168,6 +190,7 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2605.30571,Memory-Bound but Not Bandwidth-Limited: The Physical AI Inference Gap in Batch-1 LLM Decode,https://arxiv.org/abs/2605.30571,3,no,none,study,robotics,2,agreed
 2605.22205,Skill Weaving: Efficient LLM Improvement via Modular Skillpacks,https://arxiv.org/abs/2605.22205,3,no,none,method,general,2,agreed
 2605.21312,Frontier: Towards Comprehensive and Accurate LLM Inference Simulation,https://arxiv.org/abs/2605.21312,3,unsure,none,tool,general,2,agreed
+2605.15508,STS: Efficient Sparse Attention with Speculative Token Sparsity,https://arxiv.org/abs/2605.15508,3,no,none,method,unsure,2,agreed
 2605.30169,Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms,https://arxiv.org/abs/2605.30169,2.5,no,none,position,general,2,agreed
 2605.28302,How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving,https://arxiv.org/abs/2605.28302,2.5,no,none,study,assistants,2,agreed
 2605.16637,HexAGenT: Efficient Agentic LLM Serving via Workflow- and Heterogeneity-Aware Scheduling,https://arxiv.org/abs/2605.16637,2.5,no,none,tool,unsure,2,agreed
