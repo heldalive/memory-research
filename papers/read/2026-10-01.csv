@@ -47,6 +47,8 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2607.21604,AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems,https://arxiv.org/abs/2607.21604,9,yes,retrieval,method,assistants,2,agreed
 2605.14401,Agentic Recommender System with Hierarchical Belief-State Memory,https://arxiv.org/abs/2605.14401,9,yes,tiered,method,assistants,2,agreed
 2605.14498,GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations,https://arxiv.org/abs/2605.14498,9,yes,graph,benchmark,multi-agent,2,agreed
+2605.10488,DeepRefine: Agentic Knowledge Refinement via Reinforcement Learning,https://arxiv.org/abs/2605.10488,9,yes,retrieval,method,assistants,3,settled
+2605.10813,"NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation",https://arxiv.org/abs/2605.10813,9,yes,tiered,method,science,2,agreed
 2609.39284,EngramBench: A Capability-Grounded Benchmark for Skill-Evolution Harnesses,https://arxiv.org/abs/2609.39284,8.5,yes,skills,benchmark,coding,2,agreed
 2609.39727,OverForge: Reasoning Through Strategies and Tactics Helps Cooperative Lifelong Adaptation,https://arxiv.org/abs/2609.39727,8.5,yes,tiered,method,games,2,agreed
 2609.40079,LongEmo: Towards Emotion Understanding and Reasoning in Long Videos,https://arxiv.org/abs/2609.40079,8.5,yes,graph,method,general,2,agreed
@@ -122,9 +124,22 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2605.14906,MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models,https://arxiv.org/abs/2605.14906,8.5,yes,retrieval,benchmark,assistants,2,agreed
 2605.15343,Belief Engine: Configurable and Inspectable Stance Dynamics in Multi-Agent LLM Deliberation,https://arxiv.org/abs/2605.15343,8.5,yes,retrieval,unsure,multi-agent,2,agreed
 2605.15461,DrugSAGE:Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery,https://arxiv.org/abs/2605.15461,8.5,yes,skills,method,science,2,agreed
+2605.12978,Useful Memories Become Faulty When Continuously Updated by LLMs,https://arxiv.org/abs/2605.12978,8.5,yes,summaries,study,general,2,agreed
+2605.13486,R^2-Mem: Reflective Experience for Memory Search,https://arxiv.org/abs/2605.13486,8.5,yes,retrieval,method,assistants,2,agreed
 2605.13725,ScioMind: Cognitively Grounded Multi-Agent Social Simulation with Anchoring-Based Belief Dynamics and Dynamic Profiles,https://arxiv.org/abs/2605.13725,8.5,yes,tiered,method,multi-agent,2,agreed
 2605.13762,EconAI: Dynamic Persona Evolution and Memory-Aware Agents in Evolving Economic Environments,https://arxiv.org/abs/2605.13762,8.5,yes,tiered,method,multi-agent,2,agreed
 2605.13839,Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights,https://arxiv.org/abs/2605.13839,8.5,yes,parametric,method,multi-agent,2,agreed
+2605.18854,Evaluating Memory Condensation Strategies for Coding Agents in Data-Driven Scientific Discovery,https://arxiv.org/abs/2605.18854,8.5,yes,summaries,study,science,2,agreed
+2605.11616,Grounding by Remembering: Cross-Scene and In-Scene Memory for 3D Functional Affordances,https://arxiv.org/abs/2605.11616,8.5,yes,retrieval,method,robotics,2,agreed
+2605.12039,SkillGraph: Skill-Augmented Reinforcement Learning for Agents via Evolving Skill Graphs,https://arxiv.org/abs/2605.12039,8.5,yes,skills,method,unsure,2,agreed
+2605.12213,Goal-Oriented Reasoning for RAG-based Memory in Conversational Agentic LLM Systems,https://arxiv.org/abs/2605.12213,8.5,yes,retrieval,method,assistants,2,agreed
+2605.12239,Harness Engineering as Categorical Architecture,https://arxiv.org/abs/2605.12239,8.5,yes,graph,method,general,2,agreed
+2605.12260,PRISM: Pareto-Efficient Retrieval over Intent-Aware Structured Memory for Long-Horizon Agents,https://arxiv.org/abs/2605.12260,8.5,yes,retrieval,method,assistants,2,agreed
+2605.12294,Executable Agentic Memory for GUI Agent,https://arxiv.org/abs/2605.12294,8.5,yes,graph,method,general,2,agreed
+2605.12357,$δ$-mem: Efficient Online Memory for Large Language Models,https://arxiv.org/abs/2605.12357,8.5,yes,parametric,method,assistants,2,agreed
+2605.12477,MEME: Multi-entity & Evolving Memory Evaluation,https://arxiv.org/abs/2605.12477,8.5,yes,retrieval,benchmark,general,2,agreed
+2605.09942,HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution,https://arxiv.org/abs/2605.09942,8.5,yes,graph,method,general,2,agreed
+2605.10064,MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs,https://arxiv.org/abs/2605.10064,8.5,yes,graph,method,multi-agent,2,agreed
 2609.39068,SparseEngine: Sparse-First Inference Engine,https://arxiv.org/abs/2609.39068,8,yes,compression,tool,general,2,agreed
 2609.38270,VirusCascade: Hijacking Collaborative Reflection in LLM-Powered Recommender Agents,https://arxiv.org/abs/2609.38270,8,yes,notes,tool,multi-agent,2,agreed
 2606.00866,Idleness is Relative: Exploiting Tool-Call Idle Windows for Offloading in Agentic Systems with MORI,https://arxiv.org/abs/2606.00866,8,yes,unsure,method,coding,3,settled
@@ -163,8 +178,17 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2605.15556,TopoClaw: A Human-Centric and Topology-Aware Agent Operating System,https://arxiv.org/abs/2605.15556,8,yes,unsure,tool,assistants,3,settled
 2605.15611,TopoEvo: A Topology-Aware Self-Evolving Multi-Agent Framework for Root Cause Analysis in Microservices,https://arxiv.org/abs/2605.15611,8,yes,graph,method,multi-agent,2,agreed
 2605.14558,Resolving Action Bottleneck: Agentic Reinforcement Learning Informed by Token-Level Energy,https://arxiv.org/abs/2605.14558,8,yes,parametric,method,unsure,2,agreed
+2605.13497,Task-Aware Automated User Profile Generation for Recommendation Simulation Using Large Language Models,https://arxiv.org/abs/2605.13497,8,yes,retrieval,method,assistants,3,settled
 2605.13542,RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation,https://arxiv.org/abs/2605.13542,8,yes,tiered,benchmark,assistants,3,settled
 2605.14037,Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility,https://arxiv.org/abs/2605.14037,8,yes,compression,method,general,3,settled
+2605.11522,State Twins: An Off-Chain Substrate for Agentic Reasoning over Decentralized Finance Protocols,https://arxiv.org/abs/2605.11522,8,yes,retrieval,tool,coding,3,settled
+2605.11534,PRISM: : Planning and Reasoning with Intent in Simulated Embodied Environments,https://arxiv.org/abs/2605.11534,8,yes,tiered,benchmark,robotics,3,settled
+2605.09932,FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning,https://arxiv.org/abs/2605.09932,8,yes,parametric,method,assistants,2,agreed
+2605.10093,RFAmpDesigner: A Self-Evolving Multi-Agent LLM Framework for Automated Radio Frequency Amplifier Design,https://arxiv.org/abs/2605.10093,8,yes,retrieval,method,science,2,agreed
+2605.10344,TMAS: Scaling Test-Time Compute via Multi-Agent Synergy,https://arxiv.org/abs/2605.10344,8,yes,tiered,method,multi-agent,2,agreed
+2605.10481,"Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems",https://arxiv.org/abs/2605.10481,8,yes,tiered,position,multi-agent,3,settled
+2605.10754,The Agent Use of Agent Beings: Agent Cybernetics Is the Missing Science of Foundation Agents,https://arxiv.org/abs/2605.10754,8,yes,retrieval,method,assistants,3,settled
+2605.10923,Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning,https://arxiv.org/abs/2605.10923,8,yes,skills,method,unsure,2,agreed
 2609.39131,Characterizing High Bandwidth Flash for LLM Serving,https://arxiv.org/abs/2609.39131,7.5,yes,compression,study,assistants,2,agreed
 2605.30621,Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents,https://arxiv.org/abs/2605.30621,7.5,yes,retrieval,study,assistants,2,agreed
 2605.27489,HARP: Measuring Harm Amplification in Multi-Agent LLM Systems,https://arxiv.org/abs/2605.27489,7.5,yes,retrieval,study,multi-agent,2,agreed
@@ -181,10 +205,12 @@ arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreem
 2605.16821,"Multi-Paradigm Agent Interaction in Practice:A Systematic Analysis of Generator-Evaluator, ReAct Loop,and Adversarial Evaluation in the buddyMe Framework",https://arxiv.org/abs/2605.16821,7,yes,summaries,study,multi-agent,2,agreed
 2605.16872,Some[Body] Must Receive That Pain for Agent Accountability,https://arxiv.org/abs/2605.16872,7,yes,retrieval,position,general,3,settled
 2605.28850,Representation Signatures and Risk-Feedback Alignment in LLM Trading Agents,https://arxiv.org/abs/2605.28850,7,yes,summaries,study,games,2,agreed
+2605.11047,Red-Teaming Agent Execution Contexts: Open-World Security Evaluation on OpenClaw,https://arxiv.org/abs/2605.11047,7,yes,context,tool,general,2,agreed
 2605.24168,Inference Time Context Sparsity: Illusion or Opportunity?,https://arxiv.org/abs/2605.24168,5,unsure,none,unsure,general,2,agreed
 2605.20315,"Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs",https://arxiv.org/abs/2605.20315,5,yes,context,method,assistants,2,agreed
 2605.23989,"Towards trustworthy agentic AI: a comprehensive survey of safety, robustness, privacy, and system security",https://arxiv.org/abs/2605.23989,5,yes,none,survey,general,3,settled
 2605.15665,PRISM: Prompt Reliability via Iterative Simulation and Monitoring for Enterprise Conversational AI,https://arxiv.org/abs/2605.15665,5,yes,none,method,assistants,3,settled
+2605.12015,SkillSafetyBench: Evaluating Agent Safety under Skill-Facing Attack Surfaces,https://arxiv.org/abs/2605.12015,5,yes,none,benchmark,general,3,settled
 2609.38884,"Right Answers, Costly Models: The Efficiency Gap in LLM-based Optimization Modeling",https://arxiv.org/abs/2609.38884,4,unsure,none,benchmark,coding,2,agreed
 2605.29705,BitTP: The Lightweight Trajectory Prediction Model with BitLLM for Edge-Devices,https://arxiv.org/abs/2605.29705,3,no,none,tool,robotics,2,agreed
 2605.30571,Memory-Bound but Not Bandwidth-Limited: The Physical AI Inference Gap in Batch-1 LLM Decode,https://arxiv.org/abs/2605.30571,3,no,none,study,robotics,2,agreed
