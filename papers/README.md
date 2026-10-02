@@ -1,8 +1,8 @@
 # Papers
 
-The reading list for the literature review: every arXiv paper whose abstract mentions agents together with language models, 22,008 papers so far. The list is broad on purpose. Work on agent memory often calls it context management, reflection, experience or state rather than memory, so the list starts wide and the reading narrows it.
+The reading list for the literature review: every arXiv paper whose abstract mentions agents together with language models, 22,091 papers so far. The list is broad on purpose. Work on agent memory often calls it context management, reflection, experience or state rather than memory, so the list starts wide and the reading narrows it.
 
-**Read so far: 1,566 of 22,008.** 906 score 8.5 or more for relevance to agent memory, and 904 of those have notes. The most relevant are in [memory.md](memory.md); all of them, with notes, in [memory.csv](memory.csv).
+**Read so far: 1,599 of 22,091.** 920 score 8.5 or more for relevance to agent memory, and 918 of those have notes. The most relevant are in [memory.md](memory.md); all of them, with notes, in [memory.csv](memory.csv).
 
 ## How each paper is read
 
@@ -26,6 +26,6 @@ Before the reading began, 100 papers drawn from the list were given relevance la
 
 - [memory.md](memory.md), [memory.csv](memory.csv): the papers most relevant to agent memory.
 - [read/](read/): one file per day, every paper whose reading finished that day, with its score and labels. Latest: [2026-10-02](read/2026-10-02.csv).
-- One file per year of the list: [2026](2026.csv) (11,801), [2025](2025.csv) (6,905), [2024](2024.csv) (2,444), [2023](2023.csv) (679), [2022](2022.csv) (88), [2021](2021.csv) (33), [2020](2020.csv) (35), [2019](2019.csv) (14), [2018](2018.csv) (4), [2017](2017.csv) (2), [2016](2016.csv) (1), [2015](2015.csv) (1), [2013](2013.csv) (1).
+- One file per year of the list: [2026](2026.csv) (11,884), [2025](2025.csv) (6,905), [2024](2024.csv) (2,444), [2023](2023.csv) (679), [2022](2022.csv) (88), [2021](2021.csv) (33), [2020](2020.csv) (35), [2019](2019.csv) (14), [2018](2018.csv) (4), [2017](2017.csv) (2), [2016](2016.csv) (1), [2015](2015.csv) (1), [2013](2013.csv) (1).
 
 The list comes from arXiv's search for abstracts containing "agent", "agents" or "agentic" together with "LLM", "LLMs", "language model" or "language models", and new papers are added as they appear. A score is a reading of an abstract, not a review of the paper, and a paper on the list is a pointer, not an endorsement.

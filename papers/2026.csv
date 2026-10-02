@@ -11800,3 +11800,86 @@ arxiv_id,published,category,title,link
 2609.40303,2026-09-30,cs.AI,How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?,https://arxiv.org/abs/2609.40303
 2609.40324,2026-09-30,cs.AI,Cogentic: Multi-Agent Orchestration for Automated Proof Discovery,https://arxiv.org/abs/2609.40324
 2609.40325,2026-09-30,cs.AI,WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents,https://arxiv.org/abs/2609.40325
+2610.00354,2026-09-30,cs.CR,Proof-Gated Signing: Solver-Checked Transaction Guards that Hold Under State Drift for Onchain AI Agents,https://arxiv.org/abs/2610.00354
+2610.00372,2026-09-30,cs.AI,When Harnesses Lose the Signal: Causal Evaluation of Recovery in LLM Agents,https://arxiv.org/abs/2610.00372
+2610.00388,2026-09-30,cs.LG,T2SPO: Trajectory-to-Step Policy Optimization for Agentic Reinforcement Learning,https://arxiv.org/abs/2610.00388
+2610.00392,2026-09-30,cs.CR,From A2A Attacks to Envelope-Layer Defense: Red-Teaming Evaluation of LLM Agents and a Three-Layer Isomorphic Attack-Defense Model,https://arxiv.org/abs/2610.00392
+2610.00425,2026-09-30,cs.SE,"Code That Works, Environments That Don't: Measuring Environment Reproducibility in AI-Generated Software",https://arxiv.org/abs/2610.00425
+2610.00430,2026-09-30,cs.SI,Memetic Trojans: Social Contagions as Carriers of Adversarial Payloads in Agent Networks,https://arxiv.org/abs/2610.00430
+2610.00435,2026-09-30,hep-th,How AI Agents Discover Scientific Equations: From Hydrotope Rediscovery to New Water-Wave Amplitudes,https://arxiv.org/abs/2610.00435
+2610.00437,2026-09-30,cs.AI,JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces,https://arxiv.org/abs/2610.00437
+2610.00511,2026-09-30,cs.AI,Before Agents Decide: Epistemic Action in LLM-Based Systems,https://arxiv.org/abs/2610.00511
+2610.00557,2026-09-30,cs.CR,No One Architecture Fits All: A Cross-Environment Evaluation of Hierarchical Red Team Agents,https://arxiv.org/abs/2610.00557
+2610.00590,2026-09-30,cs.CR,Towards Hierarchical Cyber Defense with Large Language Models: From Planning to Execution,https://arxiv.org/abs/2610.00590
+2610.00609,2026-09-30,cs.AI,Legal Research Bench: Measuring End-to-End Reliability in Long-Horizon Legal Research Agents,https://arxiv.org/abs/2610.00609
+2610.00613,2026-09-30,cs.AI,"Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents",https://arxiv.org/abs/2610.00613
+2610.00622,2026-09-30,cs.SE,Understanding and Mitigating Library-Related Issues in LLM-Generated Code,https://arxiv.org/abs/2610.00622
+2610.00629,2026-09-30,cs.SE,ASAD: Adaptive Software Agents for Debugging,https://arxiv.org/abs/2610.00629
+2610.00636,2026-09-30,cs.AI,CompMat-Bench: Benchmarking AI Agents for Computational Materials Science,https://arxiv.org/abs/2610.00636
+2610.00650,2026-09-30,cs.CL,Self-Evolving Coding Rules for AI Coding Agents,https://arxiv.org/abs/2610.00650
+2610.00651,2026-09-30,cs.AI,Agent Evaluation Reliability: More Tasks Won't (Always) Fix An Agent Leaderboard,https://arxiv.org/abs/2610.00651
+2610.00675,2026-09-30,cs.LG,LabBook: Harnessing Experimental History for Efficient LLM-Driven Discovery,https://arxiv.org/abs/2610.00675
+2610.00704,2026-09-30,cs.LG,SkillSpec: Consensus-Gated Agent Skill Evolution via Representation Specialization,https://arxiv.org/abs/2610.00704
+2610.00710,2026-09-30,cs.AI,ReLiveGym: Evaluating Long-Lived Agents over Weeks of Replayed Reality,https://arxiv.org/abs/2610.00710
+2610.00787,2026-09-30,cs.CR,"Identity-Bound Governance Under Execution Uncertainty: An Accountability Proof Block for LLM Agent Persistent Halts, with Cryptographic Implementation and Cross-Model Calibration",https://arxiv.org/abs/2610.00787
+2610.00838,2026-09-30,cs.LG,SHARPO: Segment-Level Credit Assignment for Agentic Reinforcement Learning,https://arxiv.org/abs/2610.00838
+2610.00854,2026-10-01,cs.RO,Are Frontier VLM Agents Ready to Be Robot Generalists? An Empirical Study with the Embodied Agent Arena,https://arxiv.org/abs/2610.00854
+2610.00870,2026-10-01,cs.AI,An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design,https://arxiv.org/abs/2610.00870
+2610.00872,2026-10-01,cs.AI,MemFit: Efficient Long-Term Agentic Memory,https://arxiv.org/abs/2610.00872
+2610.00889,2026-10-01,cs.DB,HakiCC: LLM-Driven Multi-Agent Design and Optimization of Concurrency Control Protocols,https://arxiv.org/abs/2610.00889
+2610.00905,2026-10-01,cs.SE,"Understanding Issues, Causes and Solutions in Open-Source LLM-based Multi-Agent Systems",https://arxiv.org/abs/2610.00905
+2610.00906,2026-10-01,cs.AI,ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization,https://arxiv.org/abs/2610.00906
+2610.00917,2026-10-01,cs.AI,Finding the Right Fit: Model-Harness Interactions across Agent Tasks,https://arxiv.org/abs/2610.00917
+2610.00943,2026-10-01,physics.comp-ph,Automated Many-Body Simulations of Strongly Correlated Systems Using a Correlation-Aware Agentic Framework,https://arxiv.org/abs/2610.00943
+2610.00954,2026-10-01,cs.CL,Beyond Leaderboards: Tokenomics of Agentic Small Language Model Ensembles,https://arxiv.org/abs/2610.00954
+2610.00971,2026-10-01,cs.DC,The Other Half of Workflow Portability: Evidence-Backed HPC Site Profiles with Agentic Discovery,https://arxiv.org/abs/2610.00971
+2610.00972,2026-10-01,cs.AI,VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks,https://arxiv.org/abs/2610.00972
+2610.00977,2026-10-01,cs.CR,ABSENTIA: Detecting Broken Access Control Vulnerabilities in Web Applications,https://arxiv.org/abs/2610.00977
+2610.00979,2026-10-01,cs.AI,RISED: RubrIcs for agentic multi-environment Selection and sElf-Distillation,https://arxiv.org/abs/2610.00979
+2610.01017,2026-10-01,cs.AI,"Pay for the Fault, Not the Flow: Label-Free In-Flow Multi-Agent Workflow Optimization",https://arxiv.org/abs/2610.01017
+2610.01026,2026-10-01,cs.CL,It Takes Workflows to Evolve Better Workflows,https://arxiv.org/abs/2610.01026
+2610.01027,2026-10-01,cs.CL,LawCompass: Navigating from Legal QA to Multi-Agent Deep Research with Grounded Evidence,https://arxiv.org/abs/2610.01027
+2610.01073,2026-10-01,cs.SE,Safety Must Survive Self-Improvement: Why Failures Persist and How Agents Recover,https://arxiv.org/abs/2610.01073
+2610.01093,2026-10-01,cs.RO,OrbitTAMP: Grounding Language Models for Task and Motion Planning in Spacecraft Rendezvous,https://arxiv.org/abs/2610.01093
+2610.01110,2026-10-01,cs.LG,How Much Can Language Models Gain from Test-Time Computation?,https://arxiv.org/abs/2610.01110
+2610.01119,2026-10-01,cs.AI,AbsorbEvo: An Agentic Framework for Autonomous Inverse Design of Microwave Absorbers,https://arxiv.org/abs/2610.01119
+2610.01138,2026-10-01,cs.AI,"Auditing Action Settlement in LLM Agent Environments: Order, Progress, and Replay",https://arxiv.org/abs/2610.01138
+2610.01160,2026-10-01,cs.DC,Serving a Revisable World: Versioned Execution for Interruptible Agents,https://arxiv.org/abs/2610.01160
+2610.01161,2026-10-01,cs.CL,My FAULT: Self-Diagnosis as Credit Assignment in Self-Evolving Agentic Reinforcement Learning,https://arxiv.org/abs/2610.01161
+2610.01195,2026-10-01,cs.AI,Federated Agent Optimization,https://arxiv.org/abs/2610.01195
+2610.01207,2026-10-01,cs.AI,Dependency-Aware Reward Shaping for Agentic Reinforcement Learning,https://arxiv.org/abs/2610.01207
+2610.01256,2026-10-01,cs.AI,DeFA: Dependency-Guided Failure Attribution for LLM Agents,https://arxiv.org/abs/2610.01256
+2610.01257,2026-10-01,cs.CL,Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems,https://arxiv.org/abs/2610.01257
+2610.01345,2026-10-01,cs.CL,ARCCS: An Automated Regulatory Compliance Checking System,https://arxiv.org/abs/2610.01345
+2610.01349,2026-10-01,cs.CR,PACE: Provenance-Aware Capability Enforcement for Tool-Using LLM Agents,https://arxiv.org/abs/2610.01349
+2610.01364,2026-10-01,cs.MA,LLM-Driven Multi-Agent Control for Skill-Based Smart Manufacturing,https://arxiv.org/abs/2610.01364
+2610.01415,2026-10-01,cs.AI,Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States,https://arxiv.org/abs/2610.01415
+2610.01451,2026-10-01,cs.AI,A Multi-Agent LLM Framework for Personalized Health Checkup Interpretation and Guidance,https://arxiv.org/abs/2610.01451
+2610.01478,2026-10-01,math.OC,"On the Multi-Index, Multi-Rate, and Multi-Phase Dynamics of Decoder-Only Language Models: A Unified Hybrid Framework for Generative and Agentic Systems",https://arxiv.org/abs/2610.01478
+2610.01490,2026-10-01,cs.CL,"The Persona Is Still There, but Who Is Speaking? Latent Identity Reversion in Persistent AI Agents",https://arxiv.org/abs/2610.01490
+2610.01491,2026-10-01,cs.CL,Auditing Web Agent Evaluation on WebArena-Lite: Human Review of Outcomes and Trajectories,https://arxiv.org/abs/2610.01491
+2610.01506,2026-10-01,cs.AI,MCRI: A Four-Dimensional Framework for Analyzing and Evaluating Agent Skills,https://arxiv.org/abs/2610.01506
+2610.01508,2026-10-01,cs.CR,OverAct: Measuring and Mitigating Proactive Over-Authorization in LLM Tool-Calling Agents,https://arxiv.org/abs/2610.01508
+2610.01509,2026-10-01,cs.AI,Sharpening Tax in Post-Training,https://arxiv.org/abs/2610.01509
+2610.01514,2026-10-01,cs.CL,How the Audit Rule Shapes Faithful Factor Explanations in LLMs,https://arxiv.org/abs/2610.01514
+2610.01564,2026-10-01,cs.CR,Chaining Skills to Hijack LLM Agents,https://arxiv.org/abs/2610.01564
+2610.01569,2026-10-01,cs.MA,Managing Context and Communication in Distributed Agentic UAV Swarms,https://arxiv.org/abs/2610.01569
+2610.01705,2026-10-01,cs.IR,AgentWebRec: Compact Evidence Fusion over the Agent Web for Personalized Recommendation,https://arxiv.org/abs/2610.01705
+2610.01766,2026-10-01,cs.AI,VideoEvolve: Evolving Agent Harnesses for Video Temporal Grounding,https://arxiv.org/abs/2610.01766
+2610.01768,2026-10-01,cs.CR,The Innocent Courier: Covert Exfiltration Through Legitimate LLM Web Fetching,https://arxiv.org/abs/2610.01768
+2610.01769,2026-10-01,cs.SE,CONTRA: Discovering and Qualifying Behavior-Changing Questions for Selective Clarification in LLM Code Generation,https://arxiv.org/abs/2610.01769
+2610.01799,2026-10-01,cs.LG,SkillEvoLean: Mutation-enhanced skill evolution for Lean provers,https://arxiv.org/abs/2610.01799
+2610.01833,2026-10-01,cs.AI,Continuous Process-Level Evaluation for Evolving Enterprise AI Agent Skills,https://arxiv.org/abs/2610.01833
+2610.01887,2026-10-01,cs.NE,TRACE: Tackling Real-World Resource Assignment Problems via Agentic Heuristic Design,https://arxiv.org/abs/2610.01887
+2610.01939,2026-10-01,cs.CV,"Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",https://arxiv.org/abs/2610.01939
+2610.01955,2026-10-01,cs.LG,Do Your Own Research: Learning to Forecast by Learning to Search,https://arxiv.org/abs/2610.01955
+2610.01999,2026-10-01,cs.CV,From Reasoning Failures to Composable Video Spatial Intelligence,https://arxiv.org/abs/2610.01999
+2610.02002,2026-10-01,cs.CL,Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents,https://arxiv.org/abs/2610.02002
+2610.02005,2026-10-01,cs.AI,"Counting Moves, Weighing Voices: Bayesian Dialectical Argumentation for Calibrated Multi-LLM Councils under Persistent Adversaries",https://arxiv.org/abs/2610.02005
+2610.02038,2026-10-01,cs.AI,Mimir: Physics-Grounded LLM Agents for Long-Horizon Irrigation Control,https://arxiv.org/abs/2610.02038
+2610.02045,2026-10-01,cs.CV,Form and Void: Entangled Composition through an Autonomous AI Agent,https://arxiv.org/abs/2610.02045
+2610.02150,2026-10-01,cs.CL,From Knowledge Access to Source Learning: Developing Source-Specific Competence,https://arxiv.org/abs/2610.02150
+2610.02161,2026-10-01,cs.RO,DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication,https://arxiv.org/abs/2610.02161
+2610.02181,2026-10-01,cs.CV,OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning,https://arxiv.org/abs/2610.02181
+2610.02196,2026-10-01,cs.RO,InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation,https://arxiv.org/abs/2610.02196
+2610.02206,2026-10-01,cs.CL,KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards,https://arxiv.org/abs/2610.02206
