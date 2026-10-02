@@ -1,0 +1,16 @@
+arxiv_id,title,link,relevance,memory_in_abstract,memory,kind,domain,reads,agreement
+2603.12631,Joint Optimization of Multi-agent Memory System,https://arxiv.org/abs/2603.12631,9,yes,tiered,method,unsure,2,agreed
+2603.13017,Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation,https://arxiv.org/abs/2603.13017,9,yes,retrieval,method,coding,2,agreed
+2603.11768,"Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework",https://arxiv.org/abs/2603.11768,9,yes,retrieval,method,unsure,2,agreed
+2603.11721,When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows,https://arxiv.org/abs/2603.11721,8.5,yes,retrieval,method,assistants,2,agreed
+2604.16331,BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning,https://arxiv.org/abs/2604.16331,8.5,yes,graph,method,robotics,2,agreed
+2603.10600,Trajectory-Informed Memory Generation for Self-Improving Agent Systems,https://arxiv.org/abs/2603.10600,8.5,yes,retrieval,method,general,2,agreed
+2603.10846,Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis,https://arxiv.org/abs/2603.10846,8.5,yes,retrieval,method,coding,2,agreed
+2603.12823,Adaptive Vision-Language Model Routing for Computer Use Agents,https://arxiv.org/abs/2603.12823,8,yes,retrieval,method,web,3,settled
+2603.13110,AgentRM: An OS-Inspired Resource Manager for LLM Agent Systems,https://arxiv.org/abs/2603.13110,8,yes,context,tool,general,3,settled
+2603.10682,OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency,https://arxiv.org/abs/2603.10682,8,yes,compression,method,robotics,2,agreed
+2603.11619,Taming OpenClaw: Security Analysis and Mitigation of Autonomous LLM Agent Threats,https://arxiv.org/abs/2603.11619,7.5,yes,retrieval,study,general,2,agreed
+2603.12933,Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization,https://arxiv.org/abs/2603.12933,7,yes,unsure,method,multi-agent,3,settled
+2603.13517,CTI-REALM: Benchmark to Evaluate Agent Performance on Security Detection Rule Generation Capabilities,https://arxiv.org/abs/2603.13517,7,yes,unsure,benchmark,assistants,3,settled
+2603.11228,Markovian Generation Chains in Large Language Models,https://arxiv.org/abs/2603.11228,3,no,none,study,unsure,2,agreed
+2603.12564,Sell Me This Stock: Unsafe Recommendation Drift in LLM Agents,https://arxiv.org/abs/2603.12564,2,no,none,study,assistants,2,agreed
