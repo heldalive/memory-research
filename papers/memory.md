@@ -1,6 +1,6 @@
 # Agent memory: the most relevant papers so far
 
-The 150 highest-scoring of the 1,599 papers read so far that score 8.5 or more for relevance to agent memory. Every one of them is in [memory.csv](memory.csv), with its notes. Scores and labels are the model's readings of the title and abstract; quoted lines are copied from the abstract and checked.
+The 150 highest-scoring of the 1,627 papers read so far that score 8.5 or more for relevance to agent memory. Every one of them is in [memory.csv](memory.csv), with its notes. Scores and labels are the model's readings of the title and abstract; quoted lines are copied from the abstract and checked.
 
 1. **[TRACE: Governing Memory Validity in Evolving Multi-Agent Systems](https://arxiv.org/abs/2609.33517)** · 2026-09 · relevance 10 · tiered memory · method · multi-agent
    TRACE enables multi-agent systems to validate memory validity over time by deciding what memory to act on upon return.
@@ -326,350 +326,350 @@ The 150 highest-scoring of the 1,599 papers read so far that score 8.5 or more f
    MSA enables end-to-end trainable, efficient memory scaling to 100M tokens with linear complexity and 9% degradation.
    > MSA achieves linear complexity in both training and inference while maintaining exceptional stability, exhibiting less than 9% degradation when scaling from 16K to 100M tokens.
 
-72. **[MemFit: Efficient Long-Term Agentic Memory](https://arxiv.org/abs/2610.00872)** · 2026-10 · relevance 9 · retrieval memory · method · assistants
+72. **[AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations](https://arxiv.org/abs/2603.01966)** · 2026-03 · relevance 9.5 · tiered memory · benchmark · assistants
+   AMemGym introduces an interactive environment for on-policy evaluation and optimization of memory in long-horizon conversations.
+   > Extensive experiments reveal performance gaps in existing memory systems (e.g., RAG, long-context LLMs, and agentic memory) and corresponding reasons.
+
+73. **[AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications](https://arxiv.org/abs/2602.22769)** · 2026-02 · relevance 9.5 · graph memory · benchmark · general
+   AMA-Bench evaluates long-horizon memory in realistic agentic settings using real and synthetic agent trajectories.
+   > AMA-Agent achieves 57.22% accuracy on AMA-Bench, outperforming the strongest baseline by 11.16%.$…
+   Benchmarks: AMA-Bench
+
+74. **[MemFit: Efficient Long-Term Agentic Memory](https://arxiv.org/abs/2610.00872)** · 2026-10 · relevance 9 · retrieval memory · method · assistants
    MemFit enables efficient, LLM-free long-term memory with fast insertion and retrieval for conversational agents.
    > Empirical results on three widely used benchmarks, LoCoMo, MemGallery, and LongMemEval-S, show that MemFit achieves state-of-the-art performance while reducing memory construction time and cost several-fold, providing a scalable and efficient solution for persistent agentic memory.
    Benchmarks: LoCoMo, MemGallery, LongMemEval-S
 
-73. **[Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents](https://arxiv.org/abs/2610.02002)** · 2026-10 · relevance 9 · retrieval memory · method · assistants
+75. **[Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents](https://arxiv.org/abs/2610.02002)** · 2026-10 · relevance 9 · retrieval memory · method · assistants
    Mem++ enables long-term memory for LLM agents by storing full documents instead of distilling them at write time.
    > Evaluations on the organizational benchmark OrgMemBench demonstrate that Mem++ surpasses the strongest memory system baseline by 8.0 to 13.1 points across two answering models. With gpt-4.1-mini, it also achieves the best overall score, 2.6 points above RAG. In addition, Mem++ achieves the best average LLM-judge score on LoCoMo and ranks second on LongMemEval-S, behind only its entity-graph variant. Code for benchmark evaluation is available at https://github.com…
    Benchmarks: OrgMemBench, LoCoMo, LongMemEval-S
 
-74. **[When Context Changes: Understanding Update Failures in LLMs](https://arxiv.org/abs/2609.38866)** · 2026-09 · relevance 9 · parametric memory · study · general
+76. **[From Knowledge Access to Source Learning: Developing Source-Specific Competence](https://arxiv.org/abs/2610.02150)** · 2026-10 · relevance 9 · parametric memory · method · general
+   The paper proposes SourceLearn to develop reusable, source-specific competence by progressively improving understanding of persistent external sources.
+   > Across five benchmarks and three LLM backends, SourceLearn achieves the best performance in 13 of 15 settings, with gains of up to 22.6 points over Hybrid RAG and substantial overall improvements over static source representations and experience-based memory baselines.
+   Benchmarks: three LLM backends
+
+77. **[When Context Changes: Understanding Update Failures in LLMs](https://arxiv.org/abs/2609.38866)** · 2026-09 · relevance 9 · parametric memory · study · general
    The paper identifies and addresses stale binding in LLMs, where models fail to use updated information due to attention drift.
    > We find that in open-source models probes can still recover the updated value when the model answers with an old one, pointing to a failure to select information that remains available.
    Benchmarks: CICM
 
-75. **[When Correct Memory Goes Wrong: Fuzzing Persistent Memory Use in LLM Agents](https://arxiv.org/abs/2609.38275)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+78. **[When Correct Memory Goes Wrong: Fuzzing Persistent Memory Use in LLM Agents](https://arxiv.org/abs/2609.38275)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    The paper proposes U-Fuzz to systematically discover memory-use failures in LLM agents by fuzzing queries and memory states.
    > U-Fuzz consistently uncovers more confirmed memory-use failures, showing that its search remains effective across different memory architectures and even when only final responses are observable.
 
-76. **[Personalized State-Transition-Aware Memory for Clinical Agents](https://arxiv.org/abs/2609.38490)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+79. **[Personalized State-Transition-Aware Memory for Clinical Agents](https://arxiv.org/abs/2609.38490)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    STAM introduces a memory framework that tracks clinical state changes and maintains relevant history for LLM agents in healthcare settings.
    > Across four longitudinal clinical benchmarks, we evaluate STAM with downstream question answering, direct state-maintenance diagnostics, and comparisons at approximately matched context lengths.
 
-77. **[ATTUNER: Recomputation-Free KV Cache Reuse via Query-Side Adaptation](https://arxiv.org/abs/2609.36722)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+80. **[ATTUNER: Recomputation-Free KV Cache Reuse via Query-Side Adaptation](https://arxiv.org/abs/2609.36722)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    Attuner improves LLM memory reuse by adapting query projections without recomputation or full-context prefill.
    > Replacing PIC's attention scores with full-prefill scores recovers performance with the cached KV unchanged, localizing the failure to the attention rather than KV recomputation.
    Benchmarks: Qwen3-4B
 
-78. **[Frontier Autolab: Organizational Memory, Adversarial Dissent and Temporal Leakage in Multi-Agent LLM Firms Across Fifty Years of Technological Change](https://arxiv.org/abs/2609.36739)** · 2026-09 · relevance 9 · summaries memory · study · multi-agent
+81. **[Frontier Autolab: Organizational Memory, Adversarial Dissent and Temporal Leakage in Multi-Agent LLM Firms Across Fifty Years of Technological Change](https://arxiv.org/abs/2609.36739)** · 2026-09 · relevance 9 · summaries memory · study · multi-agent
    A multi-agent LLM firm simulates organizational memory and decision-making across 50 years of tech change, revealing a persistent gap between foresight and action.
    > Across four trajectories (36 era decisions, 180 subscores) we find a consistent foresight-commitment gap: in all 24 historically scored eras the judge rated the firm's recognition of the coming shift above its choice of where to build.
 
-79. **[GitHarness: Git Init Your Harness Working Memory for Perpetual User Requirements](https://arxiv.org/abs/2609.36789)** · 2026-09 · relevance 9 · tiered memory · method · coding
+82. **[GitHarness: Git Init Your Harness Working Memory for Perpetual User Requirements](https://arxiv.org/abs/2609.36789)** · 2026-09 · relevance 9 · tiered memory · method · coding
    GitHarness uses a Git-style framework to track and update requirements dynamically in agentic workflows.
    > Experiments demonstrate strong task performance alongside effective requirement tracking, preservation of valid work, and efficient execution.
    Benchmarks: MTAgentBench
 
-80. **[SkillCome: Group Contrast Skill Optimization with Dual Memory](https://arxiv.org/abs/2609.37128)** · 2026-09 · relevance 9 · unsure memory · method · general
+83. **[SkillCome: Group Contrast Skill Optimization with Dual Memory](https://arxiv.org/abs/2609.37128)** · 2026-09 · relevance 9 · unsure memory · method · general
    SkillCome uses group contrast and dual memory to improve LLM skills by analyzing multiple trajectories for reliable optimization signals.
    > SkillCome consistently outperforms baselines across five models of varying families and scales, with gains up to +5.69 points.
 
-81. **[Share-Borne AI Virus: Memory-Hopping Attacks Across LLM Agents](https://arxiv.org/abs/2609.35576)** · 2026-09 · relevance 9 · retrieval memory · study · multi-agent
+84. **[Share-Borne AI Virus: Memory-Hopping Attacks Across LLM Agents](https://arxiv.org/abs/2609.35576)** · 2026-09 · relevance 9 · retrieval memory · study · multi-agent
    The paper studies how adversarial content can spread across LLM agents via shared persistent artifacts.
    > In larger simulated environments, even GPT-5.6 Luna exhibits substantial spread, reaching 60-80% of agents with propagation chains extending to eight hops.
 
-82. **[Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432)** · 2026-09 · relevance 9 · parametric memory · method · robotics
+85. **[Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432)** · 2026-09 · relevance 9 · parametric memory · method · robotics
    The paper proposes Physical Coding to enable robots to learn from physical experience through executable code traces that evolve over time.
    > On RoboCasa365, HexaAnything improves Composite-Unseen and overall success over XR-1 VLA, and its Harness-trained HexaModel beats the base on every split, indicating code traces internalize physical execution.
    Benchmarks: RoboCasa365, PhyBench, dual-arm AgileX robot
 
-83. **[GenMem: Generative Symbolic Memory for Self-Evolving Harness](https://arxiv.org/abs/2609.34633)** · 2026-09 · relevance 9 · skills memory · method · general
+86. **[GenMem: Generative Symbolic Memory for Self-Evolving Harness](https://arxiv.org/abs/2609.34633)** · 2026-09 · relevance 9 · skills memory · method · general
    GenMem enables LLM agents to evolve long-term memory via generative symbolic addressing for stable, efficient retrieval and revision.
    > Under offline memory evolution, experiments spanning ALFWorld, WebShop, multi-hop QA, medical reasoning, and deep research evaluate GenMem against strong memory-augmented baselines...
    Benchmarks: ALFWorld, WebShop, multi-hop QA
 
-84. **[Coding Agent Memory Post-training: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via Reinforcement Learning](https://arxiv.org/abs/2609.34422)** · 2026-09 · relevance 9 · retrieval memory · method · coding
+87. **[Coding Agent Memory Post-training: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via Reinforcement Learning](https://arxiv.org/abs/2609.34422)** · 2026-09 · relevance 9 · retrieval memory · method · coding
    The paper trains language model agents to use file-based memory for long-horizon tasks via reinforcement learning in diverse agentic environments.
    > On SWE-bench Verified and MLE-bench Lite, CAMG-RL-4B and CAMG-RL-9B are competitive with Qwen3.5-35B-A3B and Qwen3.5-122B-A10B, respectively.
    Benchmarks: SWE-bench Verified, MLE-bench Lite
 
-85. **[From Attack Success to Attack Severity: Counterfactual Memory Attacks on LLM Agents](https://arxiv.org/abs/2609.34132)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+88. **[From Attack Success to Attack Severity: Counterfactual Memory Attacks on LLM Agents](https://arxiv.org/abs/2609.34132)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    The paper introduces counterfactual memory regret to measure the severity of memory attacks on LLM agents beyond simple success rates.
    > CMR-guided selection produces substantially larger downstream loss while retaining most of the success-rate gain.
 
-86. **[Self-Designed Evaluators and Warm Memory for Long-Horizon Agents](https://arxiv.org/abs/2609.33717)** · 2026-09 · relevance 9 · unsure memory · method · general
+89. **[Self-Designed Evaluators and Warm Memory for Long-Horizon Agents](https://arxiv.org/abs/2609.33717)** · 2026-09 · relevance 9 · unsure memory · method · general
    A language-model agent designs its own evaluators and uses warm memory to improve performance in long-horizon tasks without external rewards.
    > On matched five-repeat benchmarks over tau2-bench and AppWorld, SelfSuite scores above the plain agent without any labels, matches methods given ten expert labels on tau2-bench, and trails Agentic Context Engineering (ACE) on AppWorld, where code execution gives a direct success signal. In an ablation campaign run on the same tasks, it is above label-free ACE in every repeat, and the gated second attempt is the only component whose removal hurts in every repeat. We also simulate a subject-matter expert who grades ten…
    Benchmarks: tau2-bench, AppWorld
 
-87. **[NLPG: Natural-Language Policy Gradients for Self-Evolving Language Agents](https://arxiv.org/abs/2609.33379)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+90. **[NLPG: Natural-Language Policy Gradients for Self-Evolving Language Agents](https://arxiv.org/abs/2609.33379)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    NLPG improves fixed language agents via natural-language policy updates without changing model parameters or program structure.
    > Across six benchmarks covering memory, reasoning, instruction following, and evidence verification, NLPG also outperforms the strongest listed baseline for each benchmark by 8.71 percentage points on average.
 
-88. **[LSTMem: Hierarchical Long Short-Term Online Memory for Large Language Models](https://arxiv.org/abs/2609.33268)** · 2026-09 · relevance 9 · parametric memory · method · assistants
+91. **[LSTMem: Hierarchical Long Short-Term Online Memory for Large Language Models](https://arxiv.org/abs/2609.33268)** · 2026-09 · relevance 9 · parametric memory · method · assistants
    LSTMem introduces a hierarchical, LSTM-inspired memory system that separates memory accumulation from expression in large language models.
    > Across memory benchmarks on Qwen3-4B-Instruct, LSTMem consistently improves MemoryAgentBench, LoCoMo, and HotpotQA over the plain backbone.
    Benchmarks: MemoryAgentBench, LoCoMo, HotpotQA
 
-89. **[ECG-Scroll: A Long-Horizon, Streaming Benchmark and Agent Environment for Interpretation of Ambulatory Electrocardiograms](https://arxiv.org/abs/2609.33117)** · 2026-09 · relevance 9 · unsure memory · benchmark · science
+92. **[ECG-Scroll: A Long-Horizon, Streaming Benchmark and Agent Environment for Interpretation of Ambulatory Electrocardiograms](https://arxiv.org/abs/2609.33117)** · 2026-09 · relevance 9 · unsure memory · benchmark · science
    The paper introduces ECG-Scroll, a streaming benchmark and agent environment for long-horizon, online interpretation of ambulatory ECGs.
    > We release 390 whole-recording instances spanning 2,536 hours of two-lead ambulatory ECG and evaluate a signal-threshold rule agent alongside off-the-shelf LLM agents online, characterizing how they use memory, tools, and planning and where the benchmark's head-room lies.
    Benchmarks: ECG-Scroll
 
-90. **[Contract Memory Compiler: Resolve, Then Traverse](https://arxiv.org/abs/2609.32658)** · 2026-09 · relevance 9 · retrieval memory · method · general
+93. **[Contract Memory Compiler: Resolve, Then Traverse](https://arxiv.org/abs/2609.32658)** · 2026-09 · relevance 9 · retrieval memory · method · general
    The paper introduces a compiler that selects evidence before resolving updates to improve multi-hop question answering with external memory.
    > CMC achieves state-of-the-art multi-hop accuracy on FactConsolidation, reaching 78.25% overall and 61.0% at 262K.
    Benchmarks: FactConsolidation
 
-91. **[BMA: Backchain Memory Attacks Create Unauthorized Control Paths in LLM Agents](https://arxiv.org/abs/2609.32186)** · 2026-09 · relevance 9 · retrieval memory · unsure · unsure
+94. **[BMA: Backchain Memory Attacks Create Unauthorized Control Paths in LLM Agents](https://arxiv.org/abs/2609.32186)** · 2026-09 · relevance 9 · retrieval memory · unsure · unsure
    BMA creates unauthorized control paths in LLM agents by manipulating memory to trigger protected actions without altering tasks or writing memory directly.
    > BMA achieves 18.8% Macro Path-CASR, compared with 13.4% for the strongest access-matched baseline. Of BMA's behavioral hits, 60.3% pass all registered pathway and intervention checks versus 36.7% for the baseline. Frozen BMA edits retain 78.0% of their certified effect on average across four held-out consolidation policies. Representative memory-side controls leave 11.0% Path-CASR, whereas provenance-bound authorization reduces it to…
 
-92. **[Governed AI-Agent Coordination for Dementia Care: Architecture, Safety Contracts, and Evidence-Derived Workflow Verification](https://arxiv.org/abs/2609.25956)** · 2026-09 · relevance 9 · tiered memory · method · multi-agent
+95. **[Governed AI-Agent Coordination for Dementia Care: Architecture, Safety Contracts, and Evidence-Derived Workflow Verification](https://arxiv.org/abs/2609.25956)** · 2026-09 · relevance 9 · tiered memory · method · multi-agent
    The paper proposes GCAC, an architecture for safe, evidence-driven AI-agent coordination in dementia care with governance and workflow verification.
    > GCAC satisfies all 18 contract oracles with zero policy-violating tool calls and correctly preserves obligations, rejects stale state, creates human hand-offs, and records workflow closure.
 
-93. **[MemCalib: Benchmarking and Optimizing Memory Use in LLM Agents](https://arxiv.org/abs/2609.24259)** · 2026-09 · relevance 9 · parametric memory · benchmark · unsure
+96. **[MemCalib: Benchmarking and Optimizing Memory Use in LLM Agents](https://arxiv.org/abs/2609.24259)** · 2026-09 · relevance 9 · parametric memory · benchmark · unsure
    MemCalib introduces a benchmark and optimization method to improve how LLM agents use memory in context.
    > Results across model families and scales (Qwen3-8B, Ministral-3-8B-Instruct, and Qwen3.5-35B-A3B) show that MemCalib-RL achieves the best overall performance while better balancing over-use and under-use, with gains generalizing beyond MemCalib in external benchmark evaluation.
    Benchmarks: MemCalib
 
-94. **[Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents](https://arxiv.org/abs/2609.23986)** · 2026-09 · relevance 9 · retrieval memory · method · general
+97. **[Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents](https://arxiv.org/abs/2609.23986)** · 2026-09 · relevance 9 · retrieval memory · method · general
    Jev-Mem introduces a System-One/Two-inspired memory system for faster, more efficient AI agent memory operations.
    Benchmarks: LoCoMo
 
-95. **[PSD: Pseudo Self-Distillation of Memory Representation Capabilities for LLM Agents](https://arxiv.org/abs/2609.23449)** · 2026-09 · relevance 9 · parametric memory · method · unsure
+98. **[PSD: Pseudo Self-Distillation of Memory Representation Capabilities for LLM Agents](https://arxiv.org/abs/2609.23449)** · 2026-09 · relevance 9 · parametric memory · method · unsure
    PSD enables small models to learn memory representations by distilling from a large oracle via prompts, reducing cost and improving efficiency for LLM agents.
    > On LoCoMo, PSD-trained Qwen3-0.6B, 1.7B, and 4B match or exceed GPT-4.1-mini on downstream retrieval at a fraction of the deployment cost, with off-policy PSD achieving the strongest results across most conditions.
    Benchmarks: LoCoMo, LongMemEval
 
-96. **[AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory](https://arxiv.org/abs/2609.21940)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+99. **[AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory](https://arxiv.org/abs/2609.21940)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    AutoViewMem creates self-configuring, low-overlap semantic views for conversational long-term memory to improve retrieval accuracy and personalization.
    > Experiments on the LoCoMo and PersonaMem benchmarks, under both Qwen3-8B and Qwen3-14B backbones, show that AutoViewMem improves long-horizon question answering and personalization over strong memory baselines while preserving a simple inference pipeline.
    Benchmarks: LoCoMo, PersonaMem
 
-97. **[Self-Emergence Agent Architecture:Behavior-Inertia HMM, Reflexive Metacognition,and Social-Contrastive Self-Modeling](https://arxiv.org/abs/2609.17331)** · 2026-09 · relevance 9 · tiered memory · method · multi-agent
+100. **[Self-Emergence Agent Architecture:Behavior-Inertia HMM, Reflexive Metacognition,and Social-Contrastive Self-Modeling](https://arxiv.org/abs/2609.17331)** · 2026-09 · relevance 9 · tiered memory · method · multi-agent
    SEAA introduces a self-emerging agent architecture with behavioral inertia, metacognition, and social contrastive modeling.
    > A language-model-free prototype shows the loop spontaneously breaks symmetry: initially identical agents consolidate distinct, stable personalities whereas matched controls do not.
 
-98. **[Interactive Memory Learning for Long-Term Conversations](https://arxiv.org/abs/2609.17088)** · 2026-09 · relevance 9 · parametric memory · method · assistants
+101. **[Interactive Memory Learning for Long-Term Conversations](https://arxiv.org/abs/2609.17088)** · 2026-09 · relevance 9 · parametric memory · method · assistants
    ICML proposes an interactive memory framework that enables agents to learn and evolve memory policies through reinforcement learning for long-term conversations.
    > Experimental results demonstrate that ICML significantly outperforms strong baselines, exhibiting the unique capability to continuously improve response quality as interactions accumulate.
 
-99. **[AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation](https://arxiv.org/abs/2609.15457)** · 2026-09 · relevance 9 · tiered memory · method · web
+102. **[AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation](https://arxiv.org/abs/2609.15457)** · 2026-09 · relevance 9 · tiered memory · method · web
    AnchorGUI uses asymmetric memory to improve GUI navigation through dual-scale learning with visual and textual evidence.
    Benchmarks: AndroidWorld
 
-100. **[EMR: Self-Evolving Medical Multi-Agent System via Experience Mining and Reuse](https://arxiv.org/abs/2609.15161)** · 2026-09 · relevance 9 · retrieval memory · method · multi-agent
+103. **[EMR: Self-Evolving Medical Multi-Agent System via Experience Mining and Reuse](https://arxiv.org/abs/2609.15161)** · 2026-09 · relevance 9 · retrieval memory · method · multi-agent
    EMR presents a self-evolving medical multi-agent system that learns from and reuses clinical experience for improved diagnosis.
    > Experiments on medical reasoning benchmarks demonstrate that EMR consistently outperforms state-of-the-art medical multi-agent baselines.
 
-101. **[CoMem: Collective-Individual Memory Synergy for Evolutionary Multi-Agent Systems](https://arxiv.org/abs/2609.15009)** · 2026-09 · relevance 9 · retrieval memory · method · multi-agent
+104. **[CoMem: Collective-Individual Memory Synergy for Evolutionary Multi-Agent Systems](https://arxiv.org/abs/2609.15009)** · 2026-09 · relevance 9 · retrieval memory · method · multi-agent
    CoMem introduces a collective-individual memory synergy framework for multi-agent systems to improve learning and avoid memory pollution.
    > Experiments on ALFWorld and PDDL benchmarks show that CoMem achieves strong overall performance and robustly avoids memory pollution.
    Benchmarks: ALFWorld, PDDL
 
-102. **[MemRiskBench: Trace-Aware Risk-Preserving Evaluation for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.14976)** · 2026-09 · relevance 9 · tiered memory · benchmark · unsure
+105. **[MemRiskBench: Trace-Aware Risk-Preserving Evaluation for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.14976)** · 2026-09 · relevance 9 · tiered memory · benchmark · unsure
    MemRiskBench evaluates LLM agents with trace-aware, risk-preserving benchmarks that detect rare but severe memory risks.
    > Second, a risk-preserving subset selector: a coverage-constrained greedy selector on deterministic trace-derived features that retains full ranking (Spearman rho = 0.975, deterministic; CI collapses to a point estimate with zero bootstrap variance), risk coverage (1.0), and high-risk model detection (1.0) at a 20% subset size, reducing compute 5x.
    Benchmarks: MemRiskBench
 
-103. **[LifeMem: Enabling Lifelong Experience Reuse for LLM Agents](https://arxiv.org/abs/2609.12655)** · 2026-09 · relevance 9 · retrieval memory · method · general
+106. **[LifeMem: Enabling Lifelong Experience Reuse for LLM Agents](https://arxiv.org/abs/2609.12655)** · 2026-09 · relevance 9 · retrieval memory · method · general
    LifeMem enables LLM agents to reuse past experience across environments while reducing catastrophic forgetting.
    > Results show that LifeMem enables effective experience reuse in lifelong learning, achieving both reduced forgetting on learned tasks and superior cross-task transfer.
 
-104. **[CueMem: Cue-Guided Context Reconstruction for Long-Term Conversational Memory](https://arxiv.org/abs/2609.12354)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+107. **[CueMem: Cue-Guided Context Reconstruction for Long-Term Conversational Memory](https://arxiv.org/abs/2609.12354)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    CueMem uses cue-guided context reconstruction to improve long-term conversational memory by linking memory cues to source turns and reconstructing context from dialogue history efficiently and accurately.
    > Experiments on LoCoMo and LongMemEval show that CueMem consistently outperforms representative long-term memory baselines. Further analyses show that graph-based context reconstruction helps recover supporting dialogue evidence while reducing query-time input tokens and latency compared with the full-history LLM setting. These results highlight retrieval cues as an effective alternative to self-contained memory evidence for long-term conversational question answering.
    Benchmarks: LoCoMo, LongMemEval
 
-105. **[AIM: A Privacy-Aware Interoperable Memory Framework for Multi-Agent Multi-User LLM Systems](https://arxiv.org/abs/2609.12320)** · 2026-09 · relevance 9 · retrieval memory · method · multi-agent
+108. **[AIM: A Privacy-Aware Interoperable Memory Framework for Multi-Agent Multi-User LLM Systems](https://arxiv.org/abs/2609.12320)** · 2026-09 · relevance 9 · retrieval memory · method · multi-agent
    AIM enables multi-agent, multi-user LLM systems to manage private and shared memory with privacy-aware access controls.
    > Across three independent runs on MUMBench, AIM achieves 96.0% visibility classification accuracy, 58.8% strict operation accuracy, and 70.5% state-aware operation accuracy.
    Benchmarks: MUMBench
 
-106. **[But How Would AI Agents Run a Town's Economy?](https://arxiv.org/abs/2609.11108)** · 2026-09 · relevance 9 · retrieval memory · study · multi-agent
+109. **[But How Would AI Agents Run a Town's Economy?](https://arxiv.org/abs/2609.11108)** · 2026-09 · relevance 9 · retrieval memory · study · multi-agent
    AI agents manage a simulated town economy, showing money stops moving and wealth distribution stabilizes over time.
 
-107. **[Not All Memories Are Equal: Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents](https://arxiv.org/abs/2609.30289)** · 2026-09 · relevance 9 · tiered memory · method · multi-agent
+110. **[Not All Memories Are Equal: Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents](https://arxiv.org/abs/2609.30289)** · 2026-09 · relevance 9 · tiered memory · method · multi-agent
    HiCoMER proposes a framework for hierarchical collaborative memory management with validity-aware retrieval in LLM agents.
    > Experiments on both datasets show that HiCoMER consistently outperforms strong baselines by reducing outdated retrieval, preserving current team consensus, and improving downstream QA quality.
 
-108. **[What Should an Agent Forget? Separating What Is Stored from What Is Used](https://arxiv.org/abs/2609.10263)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+111. **[What Should an Agent Forget? Separating What Is Stored from What Is Used](https://arxiv.org/abs/2609.10263)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    The paper introduces RD-Forget, a framework that separates stored memory from used memory in language agents.
    > The results associate accurate answers with both query-relevant evidence construction and control over obsolete alternatives.
 
-109. **[Multi-Agent Agentic Graph Learning via Structural Signatures](https://arxiv.org/abs/2609.09565)** · 2026-09 · relevance 9 · graph memory · method · multi-agent
+112. **[Multi-Agent Agentic Graph Learning via Structural Signatures](https://arxiv.org/abs/2609.09565)** · 2026-09 · relevance 9 · graph memory · method · multi-agent
    MAAGL introduces a multi-agent framework that partitions graphs into communities and assigns agents to each for specialized, permutation-invariant reasoning over structural and semantic evidence.
    > Extensive experiments on four benchmark datasets show that MAAGL outperforms SOTA AGL methods.
 
-110. **[Graph-Based Personalized Memory for LLM Agents: Representation, Evolution, Retrieval, and Evaluation](https://arxiv.org/abs/2609.08599)** · 2026-09 · relevance 9 · graph memory · survey · assistants
+113. **[Graph-Based Personalized Memory for LLM Agents: Representation, Evolution, Retrieval, and Evaluation](https://arxiv.org/abs/2609.08599)** · 2026-09 · relevance 9 · graph memory · survey · assistants
    This survey organizes graph-based personalized memory for LLM agents across representation, evolution, retrieval, and evaluation.
    > This survey aims to clarify how graph-based memory can support adaptive, controllable, and user-centric LLM agents.
 
-111. **[BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents](https://arxiv.org/abs/2609.08566)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+114. **[BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents](https://arxiv.org/abs/2609.08566)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    Bio-MemArt adds biometric access control to shared KV cache memory in multi-user LLM agents.
    > Across face benchmarks, the average owner and non-owner biometric success rates are 95.71% and 0.86%; across palmprint benchmarks, they are 97.60% and 2.00%. In the efficiency study, average prefill tokens drop from 18,781.96 under full-context prompting to 28.57 with Bio-MemArt, showing that biometric gating preserves the low-token operating regime of KV-cache memory.
 
-112. **[CreaMem: A Scene-Aware Memory Architecture for Personalized Agents](https://arxiv.org/abs/2609.08550)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+115. **[CreaMem: A Scene-Aware Memory Architecture for Personalized Agents](https://arxiv.org/abs/2609.08550)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    CreaMem proposes a scene-aware memory architecture with dual-coded memories for better personalization and retrieval in agents.
    > Extensive experiments on two long-term memory benchmarks show that CreaMem improves QA accuracy across all evaluation metrics, with particularly large gains on multi-hop reasoning performance, validating scene-aware partitioning and cross-memory synergy.
 
-113. **[MEMO: Multimodal Evidence Memory Organization for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.07471)** · 2026-09 · relevance 9 · tiered memory · method · general
+116. **[MEMO: Multimodal Evidence Memory Organization for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.07471)** · 2026-09 · relevance 9 · tiered memory · method · general
    MEMO organizes memory using textual, visual, or dual modalities to improve efficiency and performance in LLM agents with limited context capacity.
    > The results show that MEMO presents memory more efficiently with fewer memory tokens, improves downstream task performance, and builds more effective working memory under constrained budgets.
    Benchmarks: HotpotQA, LoCoMo, ALFWorld
 
-114. **[KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU](https://arxiv.org/abs/2609.04852)** · 2026-09 · relevance 9 · retrieval memory · method · coding
+117. **[KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU](https://arxiv.org/abs/2609.04852)** · 2026-09 · relevance 9 · retrieval memory · method · coding
    KVMem virtualizes million-token agent workspaces using paged KV state across GPU and host memory.
    > In the DeepSWE long-context test with Qwen3.8-27B, KVMem improves task success from 43.8% with compaction-only context management to 48.4%.$…
    Benchmarks: LongMemEval, MemoryAgentBench, AgentLongBench, DeepSWE
 
-115. **[Bioinfoysis Technical Report](https://arxiv.org/abs/2609.03871)** · 2026-09 · relevance 9 · retrieval memory · tool · science
+118. **[Bioinfoysis Technical Report](https://arxiv.org/abs/2609.03871)** · 2026-09 · relevance 9 · retrieval memory · tool · science
    Bioinfoysis introduces a multi-agent system for bioinformatics with persistent, evidence-grounded planning and execution.
    Benchmarks: BixBench, SeqQA2, DbQA2
 
-116. **[EvalMem: An Operation-Level Diagnostic Framework for Long-Term Memory Systems](https://arxiv.org/abs/2609.22231)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+119. **[EvalMem: An Operation-Level Diagnostic Framework for Long-Term Memory Systems](https://arxiv.org/abs/2609.22231)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    EvalMem introduces an operation-level diagnostic framework to identify failure sources in long-term memory systems by examining encoding, retrieval, and generation steps.
    > Evaluations of seven memory systems on LoCoMo, LongMemEval-S, and dynamic DynaMem-Bench identify retrieval as the most frequently attributed failure layer; in default LoCoMo, retrieval defects reach 22.1%, compared with 7.7% for encoding and 6.5% for generation.
    Benchmarks: LoCoMo, LongMemEval-S, dynamic DynaMem-Bench
 
-117. **[Fresh Memory, Stale Plans: Derivation Currency for Distributed LLM-Agent Memory](https://arxiv.org/abs/2609.03340)** · 2026-09 · relevance 9 · retrieval memory · method · multi-agent
+120. **[Fresh Memory, Stale Plans: Derivation Currency for Distributed LLM-Agent Memory](https://arxiv.org/abs/2609.03340)** · 2026-09 · relevance 9 · retrieval memory · method · multi-agent
    The paper introduces Planfence to detect stale plans by checking input derivation currency in LLM agent systems.
    > In 30 live five-agent workflows with a revision inserted after planning, a freshness-only executor acts on the stale plan every time, whereas Planfence, like a centralized-lineage baseline that requires a shared store, completes all 30 correctly.
 
-118. **[MemoryLACE: Memory Lifecycle-Aware Consolidation and Evidence Retrieval](https://arxiv.org/abs/2609.03201)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
+121. **[MemoryLACE: Memory Lifecycle-Aware Consolidation and Evidence Retrieval](https://arxiv.org/abs/2609.03201)** · 2026-09 · relevance 9 · retrieval memory · method · assistants
    MemoryLACE models textual evidence lifecycle to improve long-term memory reasoning without global graphs or reflection.
    > Across BEAM and StructMemEval, using open-weight and proprietary LLM backbones, MemLACE achieves the highest overall performance in same-backbone comparisons while reducing end-to-end runtime on BEAM by 66.6% relative to Hindsight, the strongest reported reflective-memory baseline.
    Benchmarks: BEAM, StructMemEval
 
-119. **[Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://arxiv.org/abs/2609.02750)** · 2026-09 · relevance 9 · tiered memory · method · multi-agent
+122. **[Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://arxiv.org/abs/2609.02750)** · 2026-09 · relevance 9 · tiered memory · method · multi-agent
    The paper proposes a game-theoretic framework for multi-agent LLM systems with grounded memory improvement and provable convergence guarantees.
    > We further prove an information-theoretic impossibility result: no gate that observes only the generated transcript can improve uniformly over text-indistinguishable environments, whereas an environment-grounded gate can.
 
-120. **[Agent Memory Is a Surface for Endogenous Authorization Laundering](https://arxiv.org/abs/2609.01836)** · 2026-09 · relevance 9 · retrieval memory · unsure · assistants
+123. **[Agent Memory Is a Surface for Endogenous Authorization Laundering](https://arxiv.org/abs/2609.01836)** · 2026-09 · relevance 9 · retrieval memory · unsure · assistants
    The paper identifies and measures how LLM agent memory can falsely grant permissions, leading to unauthorized actions despite no prior authorization.
    > We find that under incremental memory updates, writers create false authority for up to 50.2% of unauthorized requests; once false authority is present, executors act on it in 98.6% of trials.
 
-121. **[Transferable End-to-End Optimization for Indirect Long-Term Memory Poisoning in LLM Agents](https://arxiv.org/abs/2609.00523)** · 2026-09 · relevance 9 · retrieval memory · unsure · assistants
+124. **[Transferable End-to-End Optimization for Indirect Long-Term Memory Poisoning in LLM Agents](https://arxiv.org/abs/2609.00523)** · 2026-09 · relevance 9 · retrieval memory · unsure · assistants
    The paper proposes PipePoison, an end-to-end method for attacking LLM agents via indirect long-term memory poisoning.
 
-122. **[Memory as Infrastructure: Reliability Engineering for Persistent Agent Memory in Months-Long LLM-Assisted Development](https://arxiv.org/abs/2609.05510)** · 2026-08 · relevance 9 · retrieval memory · tool · coding
+125. **[Memory as Infrastructure: Reliability Engineering for Persistent Agent Memory in Months-Long LLM-Assisted Development](https://arxiv.org/abs/2609.05510)** · 2026-08 · relevance 9 · retrieval memory · tool · coding
    The paper presents SIx Harness, an open-source memory infrastructure with reliability engineering for LLM agents in months-long development projects.
    > 78,933 hook invocations; 85 recorded failures, none silent: 84 in the subsystem's first three weeks, one since, none in the final 20 days; an injection layer whose ten-day precision instrument shows zero false fires against an intact denominator; and three production incidents traced from instrument reading to structural fix.
 
-123. **[Understanding Stage-Wise Utility-Risk Trade-offs in LLM Agent Memory](https://arxiv.org/abs/2608.30177)** · 2026-08 · relevance 9 · retrieval memory · method · assistants
+126. **[Understanding Stage-Wise Utility-Risk Trade-offs in LLM Agent Memory](https://arxiv.org/abs/2608.30177)** · 2026-08 · relevance 9 · retrieval memory · method · assistants
    The paper introduces MemGauge to evaluate stage-wise utility-risk trade-offs in LLM agent memory across different operations and systems.
    > controlled evaluations reveal three distinct profiles: a threshold-like risk transition during writing, policy-dependent local decoupling during management, and coupled growth of utility and risk during retrieval.
 
-124. **[AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing](https://arxiv.org/abs/2608.29622)** · 2026-08 · relevance 9 · tiered memory · method · assistants
+127. **[AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing](https://arxiv.org/abs/2608.29622)** · 2026-08 · relevance 9 · tiered memory · method · assistants
    AgenticRag-R1 uses fine-grained actions and memory stacks to enable long-horizon, multi-step reasoning in RAG systems.
    > Experiments across a diverse set of multi-hop, open-domain, and agentic reasoning benchmarks, spanning multiple backbone model sizes, demonstrate that AgenticRag-R1 consistently outperforms strong baselines. Moreover, AgenticRag-R1 learns more robust, interpretable, and memory-aware reasoning behaviors, highlighting the effect of fine-grained action modeling and information-aware optimization for long-horizon reasoning.
 
-125. **[Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit](https://arxiv.org/abs/2608.29605)** · 2026-08 · relevance 9 · retrieval memory · method · assistants
+128. **[Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit](https://arxiv.org/abs/2608.29605)** · 2026-08 · relevance 9 · retrieval memory · method · assistants
    Hindsight Memory-PRM trains and supervises LLM agent memory using audit trails without human labels or Monte-Carlo replay.
    > On held-out LoCoMo a local 8B policy reaches 77.5% under a fixed shared reader, surpassing its API teacher (65.1%) and all reproduced external systems, at one eighth the context of Mem0's official operating point; on LongMemEval, 79.0%.$…
    Benchmarks: LoCoMo, LongMemEval
 
-126. **[When Memory Takes Gradients: Collaborative Vector Memory for Agentic Recommender Systems](https://arxiv.org/abs/2608.26895)** · 2026-08 · relevance 9 · graph memory · method · assistants
+129. **[When Memory Takes Gradients: Collaborative Vector Memory for Agentic Recommender Systems](https://arxiv.org/abs/2608.26895)** · 2026-08 · relevance 9 · graph memory · method · assistants
    CoVeMem vectorizes collaborative memory for agentic recommenders, enabling gradient-based learning from full interaction histories without extra LLM calls.
    > Across four instruction-grounded recommendation benchmarks, CoVeMem matches or exceeds the strongest collaborative text-memory agent on 19 of 20 metric cells while requiring zero additional LLM calls for memory maintenance beyond the shared static profile, against per-interaction calls for text memory.
 
-127. **[LiveSim: Simulating Environment-Shaped Users in Multi-Agent Live-Stream Ecosystems](https://arxiv.org/abs/2608.26849)** · 2026-08 · relevance 9 · retrieval memory · method · multi-agent
+130. **[LiveSim: Simulating Environment-Shaped Users in Multi-Agent Live-Stream Ecosystems](https://arxiv.org/abs/2608.26849)** · 2026-08 · relevance 9 · retrieval memory · method · multi-agent
    LiveSim uses LLMs to simulate live-stream users with evolving behavioral hypotheses based on real-time interactions and environmental feedback.
    > Experiments on real-world live-stream risk-control data validate the effectiveness of LiveSim in improving user-level behavioral fidelity and enabling ecosystem-level analysis of risk evolution and platform intervention effects.
 
-128. **[PolyMemDB: A Polyglot Database System for AI Memory Management](https://arxiv.org/abs/2608.25577)** · 2026-08 · relevance 9 · retrieval memory · tool · assistants
+131. **[PolyMemDB: A Polyglot Database System for AI Memory Management](https://arxiv.org/abs/2608.25577)** · 2026-08 · relevance 9 · retrieval memory · tool · assistants
    PolyMemDB introduces a polyglot database system with probabilistic inference to manage diverse memory types and resolve factual conflicts in AI agents.
    > It features a probabilistic inference engine that integrates temporal decay with semiring aggregation, resolving long-term factual conflicts, providing detailed data provenance, and enabling users to trace reasoning chains transparently.
 
-129. **[When Stale Constraints Go Unchecked: Budgeted Verification Failures in Inherited Agent Memory](https://arxiv.org/abs/2608.25553)** · 2026-08 · relevance 9 · retrieval memory · study · general
+132. **[When Stale Constraints Go Unchecked: Budgeted Verification Failures in Inherited Agent Memory](https://arxiv.org/abs/2608.25553)** · 2026-08 · relevance 9 · retrieval memory · study · general
    The paper studies how agents fail to re-verify stale memory constraints and proposes remedies to improve decision accuracy under limited verification budgets.
    > Re-assigning one of the same two slots to the critical path removed most of them: +74.0, +72.7 and +61.3 points (positive in every model), +80.7 in a prospectively frozen interleaved replication with a repaired non-critical control, and +62.0 on a panel of 10 models from 9 organisations; a corrected re-run of the held-out scenario gave +73.3.
 
-130. **[CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval](https://arxiv.org/abs/2608.25500)** · 2026-08 · relevance 9 · retrieval memory · method · games
+133. **[CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval](https://arxiv.org/abs/2608.25500)** · 2026-08 · relevance 9 · retrieval memory · method · games
    CaSKG uses counterfactual-causal skill graphs to improve scalable and accurate skill retrieval in LLM agents.
    Benchmarks: ALFWorld ID-140, ScienceWorld U211
 
-131. **[InjecMEM: Memory Injection Attack on LLM Agent Memory Systems](https://arxiv.org/abs/2608.23471)** · 2026-08 · relevance 9 · retrieval memory · unsure · assistants
+134. **[InjecMEM: Memory Injection Attack on LLM Agent Memory Systems](https://arxiv.org/abs/2608.23471)** · 2026-08 · relevance 9 · retrieval memory · unsure · assistants
    The paper proposes InjecMEM, a memory injection attack that steers LLM agent responses via a single interaction without read/edit access to memory store.
    > Evaluated across multiple memory systems and backbone models, InjecMEM achieves reliable topic-conditioned retrieval and targeted generation, remains effective under memory drift, and leaves non-target queries unaffected.
 
-132. **[The Compaction Cliff in Long-Running AI Agent Memory](https://arxiv.org/abs/2608.22752)** · 2026-08 · relevance 9 · retrieval memory · method · coding
+135. **[The Compaction Cliff in Long-Running AI Agent Memory](https://arxiv.org/abs/2608.22752)** · 2026-08 · relevance 9 · retrieval memory · method · coding
    The paper introduces Knowledge Triage to preserve safety rules in AI agent memory during compaction.
 
-133. **[When Not to Imitate: Boundary-Aware Skill Memory for Reliable Tool-Use LLM Agents](https://arxiv.org/abs/2608.22339)** · 2026-08 · relevance 9 · skills memory · method · unsure
+136. **[When Not to Imitate: Boundary-Aware Skill Memory for Reliable Tool-Use LLM Agents](https://arxiv.org/abs/2608.22339)** · 2026-08 · relevance 9 · skills memory · method · unsure
    BASM adds boundary fields to skills to prevent incorrect tool use in LLM agents.
    > Across three agent benchmarks and four model scales, BASM consistently outperforms success-distilled skill-memory baselines: it improves task success rate by up to $23.8%$ on AppWorld, accuracy by up to $5.0%$ on BFCL, and reduces attack success rate by $4.6%$ on AgentDojo, while simultaneously reducing average AppWorld steps by up to $6.6%$ relative to the memory-free baseline.
    Benchmarks: AppWorld, BFCL, AgentDojo
 
-134. **[HERO: Human-profile Enhanced Retrieval Optimization Framework for Long-term Agent Memory](https://arxiv.org/abs/2608.22310)** · 2026-08 · relevance 9 · graph memory · method · assistants
+137. **[HERO: Human-profile Enhanced Retrieval Optimization Framework for Long-term Agent Memory](https://arxiv.org/abs/2608.22310)** · 2026-08 · relevance 9 · graph memory · method · assistants
    HERO preserves raw dialogue text and uses human profiles to improve long-term memory retrieval with better fidelity and personalization.
    > Experiments on two benchmark datasets show that HERO outperforms strong baselines on both factual and personalized reasoning, while providing more faithful access to raw dialogue evidence.
 
-135. **[Dual-Layer Agentic Memory with Fast Write Routing and Slow Consolidation](https://arxiv.org/abs/2608.22215)** · 2026-08 · relevance 9 · parametric memory · method · general
+138. **[Dual-Layer Agentic Memory with Fast Write Routing and Slow Consolidation](https://arxiv.org/abs/2608.22215)** · 2026-08 · relevance 9 · parametric memory · method · general
    The paper proposes a dual-layer memory system that selectively externalizes and consolidates knowledge to improve efficiency and retention in LLM agents.
    > a 1.7B/8B cascade prunes up to 68% of redundant external memory while escalating fewer than 50% of inputs, yet retains over 98% of the downstream QA Exact Match (EM) achieved by an exhaustive retention baseline.
 
-136. **[Context as an Environment: Programmatic Context Management for Long-Horizon Agents](https://arxiv.org/abs/2608.21690)** · 2026-08 · relevance 9 · tiered memory · tool · coding
+139. **[Context as an Environment: Programmatic Context Management for Long-Horizon Agents](https://arxiv.org/abs/2608.21690)** · 2026-08 · relevance 9 · tiered memory · tool · coding
    Scroll presents a programming-based context manager for long-horizon agents using an event log and persistent Python kernel.
    > With Qwen3.8-Max as the backbone, Scroll achieves 94.8% on LongMemEval\_S; 73.1% on BEAM\_10M, surpassing the best published memory system by 5.1 points; and 86.7% on LOCA\_256K, exceeding the best published long-horizon agent by 37.4 points.
    Benchmarks: LongMemEval\_S, BEAM\_10M, LOCA\_256K
 
-137. **[Can Agent Memory Systems Track Evolving State?](https://arxiv.org/abs/2608.19652)** · 2026-08 · relevance 9 · tiered memory · method · assistants
+140. **[Can Agent Memory Systems Track Evolving State?](https://arxiv.org/abs/2608.19652)** · 2026-08 · relevance 9 · tiered memory · method · assistants
    The paper introduces StateMemBench and StateMem to enable LLM agents to track evolving world states over time.
    Benchmarks: StateMemBench
 
-138. **[Success Leaves Detours: Learning Executable Walkthroughs for Long-Horizon Agents](https://arxiv.org/abs/2609.22120)** · 2026-08 · relevance 9 · skills memory · method · general
+141. **[Success Leaves Detours: Learning Executable Walkthroughs for Long-Horizon Agents](https://arxiv.org/abs/2609.22120)** · 2026-08 · relevance 9 · skills memory · method · general
    The paper extracts executable, state-conditioned procedures from sparse-reward trajectories for long-horizon agents.
    > Experiments on J-TTL, WebShop, and ScienceWorld with three open-source LLMs show that Trace consistently outperforms eight test-time learning and memory baselines. Compared with the strongest baseline, it improves average AUC and Final-$3$ by $30.0%$ and $40.5%$, respectively, while using fewer inference tokens.
    Benchmarks: J-TTL, WebShop, ScienceWorld
 
-139. **[rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation](https://arxiv.org/abs/2608.18952)** · 2026-08 · relevance 9 · tiered memory · method · assistants
+142. **[rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation](https://arxiv.org/abs/2608.18952)** · 2026-08 · relevance 9 · tiered memory · method · assistants
    rEDMRec distills LLM reasoning into editable memory channels for efficient, reusable recommendation inference.
    > Across ML-1M, Amazon Beauty, and Steam and ten student backbones, rEDMRec improves HR@1 over zero-shot, few-shot, and RAG on every backbone, and over GraphRAG on most backbones, with Impv up to 13.3% vs. the second-best baseline on ML-1M. Channel ablations show that short-term context is the only channel that helps consistently across capacity tiers, whereas long-term, item-perception, and counterfactual contributions are capacity-dependent (and can…
    Benchmarks: ML-1M, Amazon Beauty, Steam
 
-140. **[MemFuse: Multi-Source Memory Fusion from Fragmented Observations](https://arxiv.org/abs/2608.18704)** · 2026-08 · relevance 9 · graph memory · method · assistants
+143. **[MemFuse: Multi-Source Memory Fusion from Fragmented Observations](https://arxiv.org/abs/2608.18704)** · 2026-08 · relevance 9 · graph memory · method · assistants
    The paper introduces MemFuse, a memory system that fuses fragmented, multi-source observations into coherent episodic memories while preserving source provenance.
    > Experiments on MemFuseBench show that MemFuse achieves the best overall performance among the evaluated memory systems under all three LLM settings and consistently improves performance on questions requiring cross-source evidence fusion.
    Benchmarks: MemFuseBench
 
-141. **[PILOT Technical Report](https://arxiv.org/abs/2608.18637)** · 2026-08 · relevance 9 · retrieval memory · method · general
+144. **[PILOT Technical Report](https://arxiv.org/abs/2608.18637)** · 2026-08 · relevance 9 · retrieval memory · method · general
    PILOT uses an LLM-agent framework to proactively design experiments and personalize strategies for recommendation systems.
    > PILOT achieves up to +1.40% IPV, +1.60% Core IPV, +0.96% transaction count, and +1.50% transaction amount, improving over ROAM's best results (+1.00% IPV, +0.90% Core IPV, +0.60% transaction count, +1.13% transaction amount) while raising search efficiency from 53.3% to 93.3% (+40 pp), with no human intervention…
 
-142. **[CABLE: Extending the Reach of Memory Retrieval via Complementary Antecedent-Based Linking and Expansion](https://arxiv.org/abs/2608.17911)** · 2026-08 · relevance 9 · retrieval memory · method · assistants
+145. **[CABLE: Extending the Reach of Memory Retrieval via Complementary Antecedent-Based Linking and Expansion](https://arxiv.org/abs/2608.17911)** · 2026-08 · relevance 9 · retrieval memory · method · assistants
    CABLE extends memory retrieval by adding complementary, non-semantic links to surface hidden evidence across sessions and memories.
    > CABLE yields higher mean LLM-judge scores in every evaluated system-level setting, with the largest gains in categories where useful evidence is distributed across memories or sessions, including open-domain, multi-session, and preference-oriented questions.
    Benchmarks: LoCoMo, MA-LongMemEval
 
-143. **[D$^2$ACCI: A Dual-Loop Diagnostic Protocol for Evidence-Preserving Agent Memory](https://arxiv.org/abs/2608.17756)** · 2026-08 · relevance 9 · retrieval memory · method · assistants
+146. **[D$^2$ACCI: A Dual-Loop Diagnostic Protocol for Evidence-Preserving Agent Memory](https://arxiv.org/abs/2608.17756)** · 2026-08 · relevance 9 · retrieval memory · method · assistants
    D$^2$ACCI provides a diagnostic protocol for traceable, stage-level error localization in agent memory systems.
    > Five paired ablations show that supplement extraction, session-memory retrieval, and Forget Guard yield statistically significant gains (+1.9 to +3.7pp, all p $leq$ .003).
    Benchmarks: LoCoMo, LongMemEval, PersonaMem-V2
 
-144. **[GraphWake: Group Polarization via Memory-Mediated Polarization Cascade in LLM-Agent Communities](https://arxiv.org/abs/2608.17665)** · 2026-08 · relevance 9 · graph memory · method · multi-agent
+147. **[GraphWake: Group Polarization via Memory-Mediated Polarization Cascade in LLM-Agent Communities](https://arxiv.org/abs/2608.17665)** · 2026-08 · relevance 9 · graph memory · method · multi-agent
    The paper introduces GraphWake, a method that induces group polarization in LLM-agent communities via memory-mediated cascades.
    > Experiments across multiple discussions and memory systems show that GraphWake substantially increases group polarization.
 
-145. **[Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](https://arxiv.org/abs/2608.16889)** · 2026-08 · relevance 9 · retrieval memory · method · robotics
+148. **[Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](https://arxiv.org/abs/2608.16889)** · 2026-08 · relevance 9 · retrieval memory · method · robotics
    BATON enables long-horizon robot manipulation through agentic subtask exploration and transition-aware memory.
    > On the long-horizon benchmark RoboMemArena, BATON improves task success by 11.6% and cumulative success by 14.9% over the SoTA.
    Benchmarks: RoboMemArena
 
-146. **[What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents](https://arxiv.org/abs/2608.16551)** · 2026-08 · relevance 9 · retrieval memory · method · assistants
+149. **[What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents](https://arxiv.org/abs/2608.16551)** · 2026-08 · relevance 9 · retrieval memory · method · assistants
    The paper introduces SP-Mem, a privacy-aware memory architecture that separates sensitive data to reduce unnecessary privacy exposure in conversational agents.
    > Extensive experiments across multiple LLM-based agents show that SP-Mem achieves stronger personalization while reducing unnecessary privacy exposure.
 
-147. **[QUMem: Personalized Memory for Query-Conditioned User-State Inference in LLM Agents](https://arxiv.org/abs/2608.16168)** · 2026-08 · relevance 9 · tiered memory · method · assistants
+150. **[QUMem: Personalized Memory for Query-Conditioned User-State Inference in LLM Agents](https://arxiv.org/abs/2608.16168)** · 2026-08 · relevance 9 · tiered memory · method · assistants
    QUMem introduces a structured memory framework for query-conditioned user-state inference in LLM agents.
    > QUMem achieves state-of-the-art performance on both PersonaMem and KnowU-Bench…
    Benchmarks: PersonaMem, KnowU-Bench
-
-148. **[HyperSkill: Self-Evolving LLM Agents via Hypergraph-Structured Skill Memory](https://arxiv.org/abs/2608.16114)** · 2026-08 · relevance 9 · skills memory · method · general
-   HyperSkill uses a hypergraph structure to improve LLM agent memory by storing, retrieving, and evolving skills with relational awareness.
-   > Across xBench, GAIA, and WebWalkerQA with GPT-4o and Qwen3-30B-A3B, HyperSkill outperforms ten memory baselines, yielding gains of up to +11.51 on GAIA and +11.18 on WebWalkerQA.
-   Benchmarks: xBench, GAIA, WebWalkerQA
-
-149. **[MicroVerse: An Instrument for Measuring Self-Authored Identity Drift in Long-Horizon Multi-Agent Language-Model Simulations](https://arxiv.org/abs/2608.15844)** · 2026-08 · relevance 9 · tiered memory · study · multi-agent
-   MicroVerse measures identity drift in generative agents using a soul file and scarcity-driven simulations.
-   > (1) Anti-self-deception emerges unprompted as the single largest semantic category of identity modification (27 of 111 added boundaries, 24%). (2) The system is threshold-robust; lower gates accelerate and increase revision frequency but preserve drift direction.
-
-150. **[HyMem: Hierarchical Context Management for Long-Horizon Agents via Information Isolation](https://arxiv.org/abs/2608.15703)** · 2026-08 · relevance 9 · tiered memory · method · general
-   HyMem separates agent context into planning and execution layers to improve long-horizon reasoning by reducing context clutter.
-   > Experiments on GAIA and Browsecomp-plus show that, with DeepSeek-V4, HyMem achieves average Pass@1 scores of 66.7% and 61.3%, outperforming the strongest baseline by 6.1 and 4.7 percentage points, respectively.
-   Benchmarks: GAIA, Browsecomp-plus
